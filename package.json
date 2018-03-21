@@ -1,0 +1,8 @@
+{
+  "name": "syslinavinici.cz",
+  "private": true,
+  "dependencies": {
+    "netlify-cms": "^1.3.5",
+    "netlify-identity-widget": "^1.4.11"
+  }
+}
