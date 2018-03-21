@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: uploads
+
+collections:
+  - name: posts
+    label: Post
+    folder: _posts
+    sort: date:desc
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - name: layout
+        label: Layout
+        widget: hidden
+        default: post
+      - name: title
+        label: Title
+        widget: string
+        tagname: h1
+      - name: body
+        label: Body
+        widget: markdown
+      - name: categories
+        label: Categories
+        widget: string
+        required: false
+    meta:
+      - name: date
+        label: Publish Date
+        widget: datetime
+        format: YYYY-MM-DD hh:mm:ss ZZ

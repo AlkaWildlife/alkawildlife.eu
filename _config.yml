@@ -41,3 +41,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Prevent from clobbering.
+# Netlify CMS and Netlify Identity Widget assets are created before Jekyll
+# build via make utility.
+keep_files:
+  - assets/cms.js
+  - assets/cms.js.map
+  - assets/cms.css
+  - assets/netlify-identity-widget.js
+  - assets/netlify-identity-widget.js.map
