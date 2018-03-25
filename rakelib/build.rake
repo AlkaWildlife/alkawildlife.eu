@@ -47,6 +47,13 @@ namespace "build" do
     end
   end
 
+  desc "Copy Netlify CMS assets from node_modules to _site\n" +
+       "\n" +
+       "Netlify CMS and Netlify Identity Widget assets are copied from \n" +
+       "local Node.js modules path (i.e., node_modules directory) to \n" +
+       "assets directory under the Jekyll destination path (_site \n" +
+       "directory by default). Custom Jekyll config can be specified by \n" +
+       "JEKYLL_CONFIG environment variable."
   task cms: CMS_TARGETS
 
   task :jekyll do
