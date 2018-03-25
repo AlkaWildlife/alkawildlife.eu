@@ -37,6 +37,7 @@ exclude:
   - node_modules
   - Rakefile
   - rakelib
+  - bin
 
 # Prevent from clobbering.
 # Netlify CMS and Netlify Identity Widget assets are created before Jekyll
