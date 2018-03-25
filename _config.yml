@@ -35,7 +35,8 @@ exclude:
   - package.json
   - package-lock.json
   - node_modules
-  - Makefile
+  - Rakefile
+  - rakelib
 
 # Prevent from clobbering.
 # Netlify CMS and Netlify Identity Widget assets are created before Jekyll
