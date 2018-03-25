@@ -1,3 +1,4 @@
+require 'rake/clean'
 require 'jekyll'
 
 desc "Build this site\n" +
@@ -58,4 +59,6 @@ namespace "build" do
 
     Jekyll::Commands::Build.process opts
   end
+
+  CLOBBER << jekyll_config['destination']
 end
