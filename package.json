@@ -1,8 +1,8 @@
 {
-  "name": "syslinavinici.cz",
+  "name": "vydryonline.cz-cs",
   "private": true,
   "dependencies": {
-    "netlify-cms": "^1.3.5",
+    "netlify-cms": "^1.4.0",
     "netlify-identity-widget": "^1.4.11"
   }
 }
