@@ -1,5 +1,6 @@
 require 'rake/clean'
 require 'jekyll'
+require_relative 'util'
 
 desc "Build this site\n" +
      "\n" +
@@ -8,19 +9,6 @@ desc "Build this site\n" +
 task build: %w[build:cms build:jekyll]
 
 namespace "build" do
-  def jekyll_config
-    return @config if @config
-
-    opts = {}
-    opts['config'] = ENV['JEKYLL_CONFIG'] if ENV.key? 'JEKYLL_CONFIG'
-
-    Jekyll.logger.log_level = :warn
-    @config = Jekyll.configuration opts
-    Jekyll.logger.log_level = :info
-
-    @config
-  end
-
   CMS_SOURCES = FileList[
     "node_modules/netlify-cms/dist/cms.js",
     "node_modules/netlify-cms/dist/cms.js.map",
@@ -35,14 +23,17 @@ namespace "build" do
   end
 
   CMS_TARGET_DIR = "#{jekyll_config['destination']}/assets"
+
   CMS_TARGETS = CMS_SOURCES.map do |source|
-    "#{CMS_TARGET_DIR}/#{File.basename(source)}"
+    "#{CMS_TARGET_DIR}/#{asset_subdir source}/#{File.basename(source)}"
   end
 
-  directory CMS_TARGET_DIR
+  CMS_TARGETS.map {|target| File.dirname target }.uniq.each do |target_dir|
+    directory target_dir
+  end
 
   CMS_SOURCES.zip(CMS_TARGETS).each do |source, target|
-    file target => [CMS_TARGET_DIR, source] do |t|
+    file target => [File.dirname(target), source] do |t|
       sh "install -m 644 #{t.prerequisites.last} #{t.name}"
     end
   end

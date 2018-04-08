@@ -40,11 +40,11 @@ exclude:
   - bin
 
 # Prevent from clobbering.
-# Netlify CMS and Netlify Identity Widget assets are created before Jekyll
-# build via make utility.
+# Netlify CMS and Netlify Identity Widget assets are created before
+# Jekyll build via Rake build task.
 keep_files:
-  - assets/cms.js
-  - assets/cms.js.map
-  - assets/cms.css
-  - assets/netlify-identity-widget.js
-  - assets/netlify-identity-widget.js.map
+  - assets/javascripts/cms.js
+  - assets/javascripts/cms.js.map
+  - assets/stylesheets/cms.css
+  - assets/javascripts/netlify-identity-widget.js
+  - assets/javascripts/netlify-identity-widget.js.map
