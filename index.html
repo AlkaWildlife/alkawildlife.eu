@@ -12,16 +12,25 @@ layout: default
     <div class="container-fluid">
       <div class="row-fluid">
         <div class="moduletable efforts  span3">
-          {{ site.data.home.mission.body | markdownify }}
+          {{ site.data.home.mission.body | markdownify |
+               replace: "<h4", "<h3" | replace: "</h4", "</h3" |
+               replace: "<h5", "<h4" | replace: "</h5", "</h4" |
+               replace: "<h6", "<h5" | replace: "</h6", "</h5" }}
         </div>
         <div class="moduletable projects  span3">
           {% include home_photogallery.html %}
         </div>
         <div class="moduletable whyus  span3">
-          {{ site.data.home.appeal.body | markdownify }}
+          {{ site.data.home.appeal.body | markdownify |
+               replace: "<h4", "<h3" | replace: "</h4", "</h3" |
+               replace: "<h5", "<h4" | replace: "</h5", "</h4" |
+               replace: "<h6", "<h5" | replace: "</h6", "</h5" }}
         </div>
         <div class="moduletable whyus  span3">
-          {{ site.data.home.other.body | markdownify }}
+          {{ site.data.home.other.body | markdownify |
+               replace: "<h4", "<h3" | replace: "</h4", "</h3" |
+               replace: "<h5", "<h4" | replace: "</h5", "</h4" |
+               replace: "<h6", "<h5" | replace: "</h6", "</h5" }}
         </div>
       </div>
     </div>
