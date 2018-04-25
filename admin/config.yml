@@ -106,6 +106,9 @@ collections:
   label: News
   folder: _posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  filter:
+    field: category
+    value: news
   create: true
   fields:
   - name: title
@@ -169,6 +172,9 @@ collections:
     can be found in administration on Netlify.com.
   folder: _posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  filter:
+    field: category
+    value: user-answers
   create: true
   fields:
   - name: title
@@ -231,6 +237,9 @@ collections:
     photo gallery.
   folder: _posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  filter:
+    field: category
+    value: gallery
   create: true
   fields:
   - name: title
