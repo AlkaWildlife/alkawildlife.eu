@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <div id="component" class="span9">
+          <div class="page-item page-item__">
+            <article>
+              <div class="item_header">
+                <h3 class="item_title">{{ page.title }}</h3>
+              </div>
+              <div class="item_img img-full img-full__left item-image">
+                <img src="{{ page.image | relative_url }}">
+              </div>
+              <div class="item_fulltext">
+                {{ content }}
+              </div>
+            </article>
+
+            {% include content_gallery.html %}
+          </div>
+        </div>
+        <div id="aside-right" class="span3">
+          <aside>
+            <div class="moduletable links">
+              {% assign not_this_page = "post.url != " |
+                   append: "'" |
+                   append: page.url |
+                   append: "'" %}
+              {% assign news_posts = site.posts |
+                   where_exp: "post", not_this_page |
+                   where_exp: "post", "post.categories contains 'news'" %}
+              {% for news in news_posts limit: 5 %}
+                {% include home_news_bigitem.html news=news %}
+              {% endfor %}
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

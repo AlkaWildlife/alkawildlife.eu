@@ -1,35 +1,52 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: ALKA Wildlife
+description: >-
+  Posláním neziskové nestátní společnosti ALKA Wildlife, o.p.s. je
+  přispět objektivním výzkumem k efektivní, kvalitními odbornými
+  znalostmi podložené ochraně a péči o volně žijící druhy živočichů.
+baseurl: ""
+url: https://www.alkawildlife.eu
+author: alka-wildlife
+lang_alternatives:
+  - lang: en-GB
+    label: Switch to English
+    url: https://en.alkawildlife.eu
+    flag: /assets/images/flag_uk.png
+
+# Integrations and machine-readable metadata
+facebook:
+  app_id: 145375228868712
+  publisher: 269120446533000
+  admins: 1133305906
+logo: /uploads/vydry_online_green.png
+social:
+  name: ALKA Wildlife, o.p.s.
+  links:
+    - https://www.facebook.com/AlkaWildlife
+lang: cs-CZ
+
+# Collection settings
+collections:
+  md_pages:
+    output: true
+  galleries: {}
+  posts:
+    permalink: /:categories/:title
+  showcases: {}
+  filterable_tags: {}
 
 # Build settings
 markdown: kramdown
+kramdown:
+  smart_quotes: 0x0201A,0x02018,0x0201E,0x0201C
+  header_offset: 3
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
 # Exclude from processing.
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
   - package.json

@@ -1,11 +1,29 @@
-{% if page.url == '/' %}
-<script>(function () {
-  if (typeof netlifyIdentity === 'undefined') return
-  netlifyIdentity.on("init", function (user) {
-    if (user) return
-    netlifyIdentity.on("login", function () {
-      location = "/admin/"
-    })
-  })
-}())</script>
-{% endif %}
+<div id="push"></div>
+<div id="footer-wrapper">
+  <div class="footer-wrapper-inner p-top-1 p-bottom-1">
+    <div id="copyright-row">
+      <div class="row-container">
+        <div class="container-fluid">
+          <div class="flex space-between">
+            <div id="copyright">
+              <span class="siteName">ALKA Wildlife, o.p.s.</span>
+              <span class="copy">&copy;</span>
+              <span class=>{{ site.time | date: '%Y' }}</span>
+              <p class="f-10 m-top-2">
+                Podpořeno grantem z&nbsp;Islandu, Lichtenštejnska a&nbsp;Norska.<br>
+                <span lang="en">Supported by grant from Iceland, Liechtenstein and Norway.</span>
+              </p>
+            </div>
+            <div>
+              <img src="{{ "/assets/images/ehp-fondy-small.jpg" | relative_url }}">
+              <img src="{{ "/assets/images/opeu-logo-small.jpg" | relative_url }}">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="back-top">
+  <a href="#"><span></span></a>
+</div>

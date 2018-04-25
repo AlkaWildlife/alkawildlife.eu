@@ -6,10 +6,25 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Content Management</title>
-    <link rel="stylesheet" href="{{ "/assets/cms.css" | relative_url }}">
-    <script src="{{ "/assets/netlify-identity-widget.js" | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ "/assets/stylesheets/cms.css" | relative_url }}">
+    <script src="{{ "/assets/javascripts/netlify-identity-widget.js" | relative_url }}"></script>
   </head>
   <body>
-    <script src="{{ "/assets/cms.js" | relative_url }}"></script>
+    <script src="{{ "/assets/javascripts/cms.js" | relative_url }}"></script>
+    <script>CMS.registerEditorComponent({
+      id: "clearfix",
+      label: "Clearfix",
+      fields: [],
+      pattern: /^<div\s+class=(['"])clearfix\1\s+><\/div>$/,
+      fromBlock: function(_match) {
+        return {}
+      },
+      toBlock: function(_obj) {
+        return '<div class="clearfix"></div>'
+      },
+      toPreview: function(_obj) {
+        return '<div class="clearfix"></div>'
+      }
+    })</script>
   </body>
 </html>

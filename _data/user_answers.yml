@@ -1,0 +1,14 @@
+title:
+  one: Odpověď
+  many: Odpovědi
+more: více
+filter:
+  by_tag: Kategorie
+  by_date: Archiv
+form:
+  title: Poslat dotaz
+  fields:
+    name: Jméno
+    email: Email
+    message: Dotaz
+    submit: Odeslat

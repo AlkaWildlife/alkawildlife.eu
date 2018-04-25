@@ -1,0 +1,4 @@
+{%- capture slug__pretty_url -%}
+  {% include helpers/pretty_url.html page=include.page %}
+{%- endcapture -%}
+{{- slug__pretty_url | split: "/" | last -}}

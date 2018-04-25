@@ -1,0 +1,32 @@
+<div id="maintop-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      <div id="maintop" class="row-fluid">
+        <div class="moduletable animals span12">
+          <div class="mod-newsflash-adv mod-newsflash-adv__animals">
+            <div class="row-fluid flex">
+              {% for link in site.data.home.links %}
+                <div class="item item__module">
+                  <div class="item_img img-intro img-intro__none">
+                    <a href="{{ link.url | relative_url }}">
+                      <img src="{{ link.image | relative_url }}">
+                    </a>
+                  </div>
+                  <div class="item_content">
+                    <h4 class="item_title item_title__animals">
+                      <a href="{{ link.url | relative_url }}">
+                        {{ link.title }}
+                      </a>
+                    </h4>
+                  </div>
+                  <div class="clearfix"></div>
+                </div>
+              {% endfor %}
+            </div>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

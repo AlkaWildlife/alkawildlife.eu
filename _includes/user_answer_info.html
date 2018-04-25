@@ -1,0 +1,30 @@
+{% assign author = site.data.authors[include.user_answer.author] %}
+<div class="item_info m-bottom-1">
+  <dl class="item_info_dl">
+    <dd>
+      <div class="item_createdby">{{ author.name }}</div>
+    </dd>
+    |
+    <dd>
+      <div class="item_category-name">
+        {% for tag in include.user_answer.tags %}
+          {% assign filterable_tag = site.filterable_tags |
+               where: "name", tag |
+               first %}
+          {% unless filterable_tag %}{% continue %}{% endunless %}
+          {% capture tag_slug -%}
+            {% include helpers/slug.html page=filterable_tag %}
+          {%- endcapture %}
+          <a href="{{ "/user-answers" | relative_url }}#category={{ tag_slug }}" class="js-user-answer-category">
+            {{ filterable_tag.name }}
+          </a>
+          {%- unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </div>
+    </dd>
+    |
+    <dd>
+      <div class="item_published"><time datetime="{{ include.user_answer.date | date: "%Y-%m-%d" }}" class="js-user-answer-date">{{ include.user_answer.date | date: "%e. %-m. %Y" }}</time></div>
+    </dd>
+  </dl>
+</div>

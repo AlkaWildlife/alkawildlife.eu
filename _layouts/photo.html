@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <div id="component" class="span9">
+          <div class="page-item page-item__">
+            <article>
+              <div class="item_header">
+                {% assign author = site.data.authors[page.author] %}
+                <h3 class="item_title">{{ page.title }}{% if author %}<br><small>{{ author.name }}</small>{% endif %}</h3>
+              </div>
+              <div class="item_img img-full img-full__left item-image">
+                <img src="{{ page.image | relative_url }}">
+              </div>
+              <div class="item_fulltext">
+                {{ content }}
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

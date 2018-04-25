@@ -1,0 +1,35 @@
+news:
+  following: Další zprávy
+  all: Všechny zprávy
+
+links:
+  - title: Odkaz č. 1
+    url: /one
+    image: /uploads/banner_online_small.jpg
+  - title: Odkaz č. 2
+    url: /two
+    image: /uploads/banner_skody_3_small.jpg
+  - title: Odkaz č. 3
+    url: /three
+    image: /uploads/banner_silnice_small.jpg
+  - title: Odkaz č. 4
+    url: /four
+    image: /uploads/banner_stezka_small.jpg
+  - title: Odkaz č. 5
+    url: /five
+    image: /uploads/banner_bulletin_small.jpg
+
+mission:
+  body: |+
+    # Mise
+
+gallery:
+  title: Fotogalerie
+
+appeal:
+  body: |+
+    # Výzva
+
+other:
+  body: |+
+    # Dále

@@ -1,0 +1,29 @@
+---
+title: Úvod
+listed: true
+position: 0
+layout: default
+---
+{% include home_showcase.html %}
+{% include home_news.html %}
+{% include home_links.html %}
+<div id="mainbottom-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="moduletable efforts  span3">
+          {{ site.data.home.mission.body | markdownify }}
+        </div>
+        <div class="moduletable projects  span3">
+          {% include home_photogallery.html %}
+        </div>
+        <div class="moduletable whyus  span3">
+          {{ site.data.home.appeal.body | markdownify }}
+        </div>
+        <div class="moduletable whyus  span3">
+          {{ site.data.home.other.body | markdownify }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

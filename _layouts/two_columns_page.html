@@ -1,0 +1,52 @@
+---
+title: Two-column page with content on the left and aside on the right
+layout: default
+ref: two_columns_page
+---
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <div id="component" class="span9">
+          <div class="page-item page-item__">
+            <article>
+              <div class="item_header">
+                {% if page.long_title %}
+                  <h3 class="item_title">{{ page.long_title | markdownify | remove: "<p>" | remove: "</p>" }}{% if page.subtitle %}<br><small>{{ page.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</small>{% endif %}</h3>
+                {% else %}
+                  <h3 class="item_title">{{ page.title }}</h3>
+                {% endif %}
+              </div>
+
+              {% if page.image %}
+                <div class="item_img img-full img-full__none item-image">
+                  <img src="{{ page.image | relative_url }}">
+                </div>
+              {% endif %}
+              <div class="item_fulltext">
+                {{ content }}
+              </div>
+
+              {% include related_pages.html %}
+            </article>
+
+            {% include content_gallery.html %}
+          </div>
+        </div>
+        <div id="aside-right" class="span3">
+          <aside>
+            <div class="moduletable links">
+              <h3>{{ page.aside_title | default: site.data.aside.title }}</h3>
+              <div class="mod-custom mod-custom__links">
+                {{ page.aside_links | markdownify }}
+              </div>
+
+              {% include siblings_pages.html %}
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+---
+title: Single-column page
+layout: contentpage
+ref: single_column_page
+---
+<article>
+  <div class="page-item page-item__">
+    <div class="item_header">
+      {% if page.long_title %}
+        <h3 class="item_title">{{ page.long_title | markdownify | remove: "<p>" | remove: "</p>" }}{% if page.subtitle %}<br><small>{{ page.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</small>{% endif %}</h3>
+      {% else %}
+        <h3 class="item_title">{{ page.title }}</h3>
+      {% endif %}
+    </div>
+
+    {% if page.image %}
+      <div class="item_img img-full img-full__none item-image">
+        <img src="{{ page.image | relative_url }}">
+      </div>
+    {% endif %}
+    <div class="item_fulltext">
+      {{ content }}
+    </div>
+  </div>
+
+  {% include related_pages.html %}
+</article>
+
+{% include content_gallery.html %}

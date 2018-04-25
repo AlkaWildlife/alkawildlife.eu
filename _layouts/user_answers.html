@@ -1,0 +1,240 @@
+---
+layout: default
+---
+{% assign user_answer_posts = site.posts |
+     where_exp: "post", "post.categories contains 'user-answers'" %}
+{% for user_answer in user_answer_posts %}
+  {% assign tags = tags | concat: user_answer.tags | uniq %}
+{% endfor %}
+
+{% assign filterable_tags = site.filterable_tags | sort: "position" %}
+{% for filterable_tag in filterable_tags %}
+  {% unless tags contains filterable_tag.name %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_tags = site.filterable_tags |
+       where: "id", filterable_tag.id %}
+  {% assign filtered_tags = filtered_tags | concat: matching_tags %}
+{% endfor %}
+
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <!-- Left sidebar -->
+        <div id="component" class="span8">
+
+          <div class="page-blog page-blog__">
+            <div class="page_header">
+              <h3>
+                {% assign url_parts = page.url | split: "/" %}
+                {% if url_parts.size <= 2 %}
+                  {% assign cardinatlity = 'many' %}
+                {% else %}
+                  {% assign cardinatlity = 'one' %}
+                {% endif %}
+                <span class="item_title_part0">{{ site.data.user_answers.title[cardinatlity] }}</span>
+              </h3>
+            </div>
+            {{ content }}
+          </div>
+        </div>
+        <!-- Right sidebar -->
+        <div id="aside-right" class="span4">
+          <aside>
+            <div class="moduletable ">
+              <h3 class="moduleTitle ">{{ site.data.user_answers.filter.by_tag }}</h3>
+              <ul class="categories-module">
+                <li id="filter_by_category_all" hidden>
+                  <p>
+                    <a href="{{ "/user-answers" | relative_url }}#">Zobrazit vše</a>
+                    <br/>
+                  </p>
+                </li>
+
+                {% for filtered_tag in filtered_tags %}
+                  {% capture tag_slug -%}
+                    {% include helpers/slug.html page=filtered_tag %}
+                  {%- endcapture %}
+                  <li>
+                    <a href="{{ "/user-answers" | relative_url }}#category={{ tag_slug }}">
+                      {{ filtered_tag.name }}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="moduletable ">
+              <h3 class="moduleTitle ">{{ site.data.user_answers.filter.by_date }}</h3>
+
+              <ul class="archive-module">
+                <li id="filter_by_date_all" hidden>
+                  <p>
+                    <a href="{{ "/user-answers" | relative_url }}#">Zobrazit vše</a>
+                    <br/>
+                  </p>
+                </li>
+
+                {% assign first_user_answer = user_answer_posts | last %}
+                {% for user_answer in user_answer_posts reversed %}
+                  {% assign month = user_answer.date | date: "%Y-%m" %}
+                  {% if month == previous_month and forloop.first == false %}
+                    {% continue %}
+                  {% endif %}
+                  <li>
+                    <a href="{{ "/user-answers" | relative_url }}#month={{ month }}">{{ user_answer.date | date: "%-m/%Y" }}</a>
+                  </li>
+                  {% assign previous_month = user_answer.date | date: "%Y-%m" %}
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="moduletable aside">
+              {% include question_form.html %}
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function(w, d) {
+    if (typeof [].forEach !== "function") return
+    if (typeof [].map !== "function") return
+    if (typeof [].reduce !== "function") return
+    if (typeof [].every !== "function") return
+    if (typeof Object.keys !== "function") return
+    if (!("onpopstate" in w)) return
+    if (!("dateTime" in d.createElement("TIME"))) return
+
+    function paramsFromHash(hash) {
+      return !hash ? {} : hash.
+        slice(1).
+        split("&").
+        map(function(rawPair) { return rawPair.split("=", 2) }).
+        reduce(function(params, pair) {
+          params[pair[0]] = pair.length === 2 ? pair[1] : true
+          return params
+        }, {})
+    }
+
+    function toggleShowAll(params) {
+      d.getElementById("filter_by_category_all").hidden = !params["category"]
+      d.getElementById("filter_by_date_all").hidden = !params["month"]
+    }
+
+    function ifFilterChanged(obj, cur, fn) {
+      var pre = obj.params || {}
+      var preKeys = Object.keys(pre).sort()
+      var curKeys = Object.keys(cur).sort()
+      var same = preKeys.length == curKeys.length &&
+        preKeys.every(function(k, i) { return curKeys[i] === k })
+
+      if (!same) fn()
+
+      obj.params = cur
+    }
+
+    function toArray(indexable) {
+      var array = []
+      var i
+      for (i = 0; i < indexable.length; i += 1) {
+        array[i] = indexable[i]
+      }
+
+      return array
+    }
+
+    function forEachUserAnswer(fn) {
+      toArray(d.getElementsByClassName("js-user-answer")).forEach(fn)
+    }
+
+    function noFilter() {
+      forEachUserAnswer(function(ua) { ua.hidden = false })
+    }
+
+    function filterByCategory(category) {
+      if (!category) return
+
+      forEachUserAnswer(function(ua) {
+        ua.hidden = toArray(
+          ua.getElementsByClassName("js-user-answer-category")
+        ).every(function(a) {
+          var params = paramsFromHash("#" + a.href.split("#", 2)[1])
+          return category !== params["category"]
+        })
+      })
+    }
+
+    function resetTime(date) {
+      var res = new Date(date)
+      res.setHours(0)
+      res.setMinutes(0)
+      res.setSeconds(0)
+      res.setMilliseconds(0)
+
+      return res
+    }
+
+    function firstMomentOfMonth(month) {
+      var parts = month.
+        split("-", 2).
+        map(function(p) { return p | 0 })
+
+      date = new Date()
+      date.setYear(parts[0])
+      date.setMonth(parts[1] - 1)
+      date.setDate(1)
+
+      return resetTime(date)
+    }
+
+    function lastMomentOfMonth(month) {
+      var date, day
+
+      for (day = 29; day <= 32; day += 1) {
+        date = new Date(firstMomentOfMonth(month))
+        date.setDate(day)
+        if (date.getMonth() !== firstMomentOfMonth(month).getMonth()) break
+      }
+      resetTime(date).setTime(date.getTime() - 1)
+
+      return date
+    }
+
+    function filterByDate(month) {
+      if (!month) return
+
+      forEachUserAnswer(function(ua) {
+        var filterDate = resetTime(new Date(
+          ua.getElementsByClassName("js-user-answer-date")[0].dateTime
+        ))
+        ua.hidden = !((firstMomentOfMonth(month) <= filterDate) &&
+                      (lastMomentOfMonth(month) > filterDate))
+      })
+    }
+
+    function filter(ev) {
+      var params = paramsFromHash(ev.target.location.hash)
+      ifFilterChanged(filter, params, noFilter)
+      toggleShowAll(params)
+      filterByCategory(params["category"])
+      filterByDate(params["month"])
+    }
+
+    w.addEventListener("onpopstate", filter, false)
+    w.addEventListener("load", filter, false)
+    d.addEventListener("DOMContentLoaded", function(ev) {
+      w.removeEventListener("load", filter, false)
+      filter(ev)
+    }, false)
+  }(window, document))
+</script>

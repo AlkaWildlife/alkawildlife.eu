@@ -4,4 +4,437 @@ backend:
 
 media_folder: uploads
 
-collections: []
+collections:
+- name: md_pages
+  label: Pages
+  label_singular: Page
+  description: >-
+    Simple pages with single- or two-columns layout. The pages form a
+    hierarchy with created from their addresses. The top-most page in
+    the hierarchy is home page with address “/”. Its children are News
+    (“/news”), Gallery (“/gallery”) and Search (“/search”). Previously
+    named pages are special – do not create page with their addresses
+    or their children yourself. Anythis else is up to you… You can for
+    example create About Us page (“/about”) and then its child page
+    Our Team (“/about/team”). This hierarchy is used to generate
+    navigation menu, sibling pages (in the right column) and child
+    pages (under page content).
+  folder: _md_pages
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: permalink
+    label: Address (creates hierarchy—e.g., “/about/team” is a child of “/about” which is a child of “/”)
+    widget: string
+  - name: image
+    label: Image (610 × 358 px)
+    widget: image
+    required: false
+  - name: long_title
+    label: >-
+      Long title (heading right above content, you can wrap phrases
+      with * to emphasize them; defaults to plain title)
+    widget: string
+    required: false
+  - name: subtitle
+    label: Subtitle (optional small heading under long title)
+    widget: string
+    required: false
+  # - name: related_thumbnail
+  #   label: Thumbnail for listing in related pages (240 × 135 px)
+  #   widget: image
+  #   required: false
+  - name: body
+    label: Body
+    widget: markdown
+  - name: published
+    label: Published (publicly available under address)
+    widget: boolean
+  - name: listed
+    label: Show in the navigation menu
+    widget: boolean
+  - name: position
+    label: Position among siblings in listings
+    widget: number
+    valueType: int
+  - name: layout
+    label: Layout
+    widget: relation
+    collection: layouts
+    valueField: ref
+    searchFields:
+    - title
+  - name: aside_title
+    label: Heading for aside
+    widget: string
+    required: false
+  - name: aside_links
+    label: Content for aside above sibling pages listing
+    widget: markdown
+    required: false
+  meta:
+  - name: date
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+
+- name: galleries
+  label: Galleries
+  label_singular: Gallery
+  description: >-
+    Photo galleries linked to any content via its address. Gallery
+    photos are displayed under the content.
+  folder: _galleries
+  create: true
+  fields:
+  - name: page
+    label: Page address (copy and paste from web browser address bar, and remove https:// and domain)
+    widget: string
+  - name: position
+    label: Position
+    widget: number
+    valueType: int
+  meta:
+  - name: date
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+
+- name: news
+  label: News
+  folder: _posts
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: image
+    label: Image
+    widget: image
+  - name: listing_thumbnail
+    label: Optional thumbnail for news listing (274 × 175 px)
+    widget: image
+    required: false
+  - name: body
+    label: Content
+    widget: markdown
+  - name: published
+    label: Published
+    widget: boolean
+  - name: date
+    label: Published at
+    widget: date
+    format: YYYY-MM-DD
+  meta:
+  - name: category
+    label: Category
+    widget: string
+    default: news
+  - name: layout
+    label: Layout
+    widget: string
+    default: news
+
+- name: showcases
+  label: Showcases
+  label_singular: Showcase
+  description: Big photos that are displayed on the homepage.
+  folder: _showcases
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: image
+    label: Image
+    widget: image
+  - name: position
+    label: Position
+    widget: number
+    valueType: int
+  meta:
+  - name: date
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+
+- name: user_answers
+  label: User answers
+  label_singular: User answer
+  description: >-
+    Answers to questions submitted by site visitors. These questions
+    can be found in administration on Netlify.com.
+  folder: _posts
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: author
+    label: Author (name or identifier from _data/authors.yml file on GitHub)
+    widget: string
+  - name: body
+    label: Body
+    widget: markdown
+  - name: tags
+    label: Categories (to make them filterable, see Categories collection)
+    widget: list
+    required: false
+  meta:
+  - name: date
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+  - name: category
+    label: Category
+    widget: string
+    default: user-answers
+  - name: layout
+    label: Layout
+    widget: string
+    default: user_answer
+
+- name: filterable_tags
+  label: Categories
+  label_singular: Category
+  description: >-
+    Categorization and filtering of photos. Arbitrary categories can
+    be added to photos (i.e., photo categories don’t have to defined
+    here). But if you want a category to appear as a filter option on
+    the global photo gallery page, you have to define it here with
+    exactly same name as you use in photos.
+  folder: _filterable_tags
+  create: true
+  fields:
+  - name: name
+    label: Name
+    widget: string
+  - name: position
+    label: Position
+    widget: number
+    valueType: int
+  meta:
+  - name: date
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+
+- name: photos
+  label: Photos
+  label_singular: Photo
+  description: >-
+    Photos in linked to galleries. All photos are displayed on global
+    photo gallery.
+  folder: _posts
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: image
+    label: Image (about one or two megapixels)
+    widget: image
+  - name: home_thumbnail
+    label: Optional thumbnail for home page (113 × 103 px)
+    widget: image
+    required: false
+  - name: gallery_thumbnail
+    label: Optional thumbnail for gallery (250 × 250 px)
+    widget: image
+    required: false
+  - name: content_thumbnail
+    label: Optional thumbnail for gallery as part of a page (200 × 200 px)
+    widget: image
+    required: false
+  - name: body
+    label: Description
+    widget: markdown
+    required: false
+  - name: author
+    label: Author (name or identifier from _data/authors.yml file on GitHub)
+    widget: string
+    required: false
+  - name: tags
+    label: Categories (to make them filterable, see Categories collection)
+    widget: list
+    required: false
+  - name: gallery
+    label: Gallery
+    widget: relation
+    collection: galleries
+    searchFields:
+    - page
+    valueField: page
+    required: false
+  - name: position
+    label: Position on global photo gallery page (not the gallery above)
+    widget: number
+    valueType: int
+  meta:
+  - name: date
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+  - name: category
+    label: Category
+    widget: string
+    default: gallery
+  - name: layout
+    label: Layout
+    widget: string
+    default: photo
+
+- label: Site Settings
+  name: settings
+  description: Content of special pages like titles, button labels etc.
+  files:
+    - name: authors
+      label: "\U0001F6AB Authors (edit only on GitHub)"
+      label_singular: Author
+      file: _data/authors.yml
+      fields: []
+
+    - name: search
+      label: Search
+      file: _data/search.yml
+      fields:
+        - name: long_title
+          label: Title (you can wrap phrases with * to emphasize them)
+          widget: string
+        - name: phrase
+          label: Phrase
+          widget: string
+        - name: loading
+          label: Loading
+          widget: string
+
+    - name: gallery
+      label: Gallery
+      file: _data/gallery.yml
+      fields:
+        - name: long_title
+          label: Title (you can wrap phrases with * to emphasize them)
+          widget: string
+        - name: body
+          label: Description
+          widget: markdown
+
+    - name: news
+      label: News
+      file: _data/news.yml
+      fields:
+        - name: long_title
+          label: Title (you can wrap phrases with * to emphasize them)
+          widget: string
+
+    - name: home
+      label: Home page
+      file: _data/home.yml
+      fields:
+        - name: news
+          label: News section (top)
+          widget: object
+          fields:
+            - name: following
+              label: Heading introducing news following the most recent ones
+              widget: string
+            - name: all
+              label: Button label showing all news
+              widget: string
+        - name: links
+          label: Links section with 5 items (middle)
+          widget: list
+          fields:
+            - name: title
+              label: Title
+              widget: string
+            - name: url
+              label: Link Address (use relative address)
+              widget: string
+            - name: image
+              label: Image (165 × 117 px)
+              widget: file
+        - name: mission
+          label: Mission section (1st bottom)
+          widget: object
+          fields:
+            - name: body
+              label: Content
+              widget: markdown
+        - name: gallery
+          label: Gallery section (2nd bottom)
+          widget: object
+          fields:
+            - name: title
+              label: Title
+              widget: string
+        - name: appeal
+          label: Appeal section (3rd bottom)
+          widget: object
+          fields:
+            - name: body
+              label: Content
+              widget: markdown
+        - name: other
+          label: Other section (4th bottom)
+          widget: object
+          fields:
+            - name: body
+              label: Content
+              widget: markdown
+
+    - name: aside
+      label: Right column
+      file: _data/aside.yml
+      fields:
+        - name: title
+          label: Default title
+          widget: string
+
+    - name: header
+      label: Global header
+      file: _data/header.yml
+      fields:
+        - name: logo
+          label: Logo
+          widget: image
+        - name: claim
+          label: Claim
+          widget: string
+        - name: search
+          label: Search field placeholder
+          widget: string
+
+- name: layouts
+  label: "\U0001F6AB"
+  description: >-
+    Layouts to be references from pages. Do not delete nor edit in any
+    way.
+  files:
+  - name: single_column_page
+    label: Single-column page
+    file: _layouts/single_column_page.html
+    fields: []
+    meta:
+    - name: title
+      label: Title
+      widget: string
+    - name: ref
+      label: Reference
+      widget: string
+  - name: two_columns_page
+    label: Two-columns page
+    file: _layouts/two_columns_page.html
+    fields: []
+    meta:
+    - name: title
+      label: Title
+      widget: string
+    - name: ref
+      label: Reference
+      widget: string

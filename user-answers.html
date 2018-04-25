@@ -1,0 +1,28 @@
+---
+title: Poradna
+listed: true
+position: 1
+layout: user_answers
+---
+<div class="items-row cols-1 row-0 row-fluid">
+  <div class="span12">
+    {% assign user_answer_posts = site.posts |
+         where_exp: "post", "post.categories contains 'user-answers'" %}
+    {% for user_answer in user_answer_posts reversed %}
+      <div class="item column-1 m-bottom-4 js-user-answer">
+        <div class="item_header">
+          <h4 class="item_title">
+            <a href="{{ user_answer.url }}">{{ user_answer.title }}</a>
+          </h4>
+        </div>
+        {% include user_answer_info.html user_answer=user_answer %}
+        <div class="item_introtext">
+          <p>{{ user_answer.content | strip_html | truncatewords: 60 }}</p>
+        </div>
+        <a class="btn btn-info" href="{{ user_answer.url }}">
+          <span>{{ site.data.user_answers.more }}</span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
