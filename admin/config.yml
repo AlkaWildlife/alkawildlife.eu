@@ -405,6 +405,17 @@ collections:
           label: Default title
           widget: string
 
+    - name: footer
+      label: Global footer
+      file: _data/footer.yml
+      fields:
+        - name: funded_by_eea
+          label: Supported by grant from Iceland, Liechtenstein and Norway
+          widget: boolean
+        - name: funded_by_moe
+          label: Supported by Ministry of the Environment of the Czech Republic
+          widget: boolean
+
     - name: header
       label: Global header
       file: _data/header.yml

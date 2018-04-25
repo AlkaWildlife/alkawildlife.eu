@@ -9,15 +9,24 @@
               <span class="siteName">ALKA Wildlife, o.p.s.</span>
               <span class="copy">&copy;</span>
               <span class=>{{ site.time | date: '%Y' }}</span>
-              <p class="f-10 m-top-2">
-                Podpořeno grantem z&nbsp;Islandu, Lichtenštejnska a&nbsp;Norska.<br>
-                <span lang="en">Supported by grant from Iceland, Liechtenstein and Norway.</span>
-              </p>
+              {% if site.data.footer.funded_by_eea %}
+                <p class="f-10 m-top-2">
+                  Podpořeno grantem z&nbsp;Islandu, Lichtenštejnska a&nbsp;Norska.<br>
+                  <span lang="en">Supported by grant from Iceland, Liechtenstein and Norway.</span>
+                </p>
+              {% endif %}
             </div>
-            <div>
-              <img src="{{ "/assets/images/ehp-fondy-small.jpg" | relative_url }}">
-              <img src="{{ "/assets/images/opeu-logo-small.jpg" | relative_url }}">
-            </div>
+            {% if site.data.footer.funded_by_eea or
+                  site.data.footer.funded_by_moe %}
+              <div>
+                {% if site.data.footer.funded_by_eea %}
+                  <img src="{{ "/assets/images/ehp-fondy-small.jpg" | relative_url }}">
+                {% endif %}
+                {% if site.data.footer.funded_by_moe %}
+                  <img src="{{ "/assets/images/opeu-logo-small.jpg" | relative_url }}">
+                {% endif %}
+              </div>
+            {% endif %}
           </div>
         </div>
       </div>
