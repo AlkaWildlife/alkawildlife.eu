@@ -74,6 +74,20 @@ collections:
     label: Content for aside above sibling pages listing
     widget: markdown
     required: false
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    fields:
+    - name: en-GB
+      label: English
+      widget: object
+      fields:
+      - name: title
+        label: Title in English
+        widget: string
+      - name: permalink
+        label: Address on English site
+        widget: string
   meta:
   - name: date
     label: Created at
@@ -131,6 +145,20 @@ collections:
     label: Published at
     widget: date
     format: YYYY-MM-DD
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    fields:
+    - name: en-GB
+      label: English
+      widget: object
+      fields:
+      - name: title
+        label: Title in English
+        widget: string
+      - name: permalink
+        label: Address on English site
+        widget: string
   meta:
   - name: category
     label: Category
@@ -190,6 +218,20 @@ collections:
     label: Categories (to make them filterable, see Categories collection)
     widget: list
     required: false
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    fields:
+    - name: en-GB
+      label: English
+      widget: object
+      fields:
+      - name: title
+        label: Title in English
+        widget: string
+      - name: permalink
+        label: Address on English site
+        widget: string
   meta:
   - name: date
     label: Created at
@@ -284,6 +326,20 @@ collections:
     label: Position on global photo gallery page (not the gallery above)
     widget: number
     valueType: int
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    fields:
+    - name: en-GB
+      label: English
+      widget: object
+      fields:
+      - name: title
+        label: Title in English
+        widget: string
+      - name: permalink
+        label: Address on English site
+        widget: string
   meta:
   - name: date
     label: Created at
