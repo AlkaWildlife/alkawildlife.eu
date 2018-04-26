@@ -15,7 +15,7 @@ if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNo
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
      js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/{{ page.lang | default: site.lang | replace: "-", "_" }}/sdk.js";
+     js.src = "https://connect.facebook.net/{{ page.lang | default: site.lang }}/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 }

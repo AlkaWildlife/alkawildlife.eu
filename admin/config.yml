@@ -78,7 +78,7 @@ collections:
     label: Localized alternatives
     widget: object
     fields:
-    - name: en-GB
+    - name: en_GB
       label: English
       widget: object
       fields:
@@ -149,7 +149,7 @@ collections:
     label: Localized alternatives
     widget: object
     fields:
-    - name: en-GB
+    - name: en_GB
       label: English
       widget: object
       fields:
@@ -222,7 +222,7 @@ collections:
     label: Localized alternatives
     widget: object
     fields:
-    - name: en-GB
+    - name: en_GB
       label: English
       widget: object
       fields:
@@ -330,7 +330,7 @@ collections:
     label: Localized alternatives
     widget: object
     fields:
-    - name: en-GB
+    - name: en_GB
       label: English
       widget: object
       fields:

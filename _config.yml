@@ -8,7 +8,7 @@ baseurl: ""
 url: https://www.alkawildlife.eu
 author: alka-wildlife
 lang_alternatives:
-  - lang: en-GB
+  - lang: en_GB
     label: Switch to English
     title: "Visit an English version of this page: %@"
     url: https://en.alkawildlife.eu
@@ -24,7 +24,7 @@ social:
   name: ALKA Wildlife, o.p.s.
   links:
     - https://www.facebook.com/AlkaWildlife
-lang: cs-CZ
+lang: cs_CZ
 
 # Collection settings
 collections:

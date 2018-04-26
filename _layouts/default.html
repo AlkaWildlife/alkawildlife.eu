@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang }}">
+<html lang="{{ page.lang | default: site.lang | replace: "_", "-" }}">
   {%- include head.html -%}
   <body class="com_content view-featured task- itemid-101{% if page.url == '/' %} body__home{% endif %}">
     {%- if jekyll.environment == 'production' and site.facebook and
