@@ -10,6 +10,7 @@ author: alka-wildlife
 lang_alternatives:
   - lang: en-GB
     label: Switch to English
+    title: "Visit an English version of this page: %@"
     url: https://en.alkawildlife.eu
     flag: /assets/images/flag_uk.png
 

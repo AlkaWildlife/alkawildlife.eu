@@ -2,9 +2,15 @@
   {% if site.lang_alternatives %}
     <div class="language-switch">
       {% for alt in site.lang_alternatives %}
-        <a href="{{ alt.url }}" hreflang="{{ alt.lang }}" lang="{{ alt.lang }}">
-          <img alt="{{ alt.label }}" src="{{ alt.flag | relative_url }}">
-        </a>
+        {% if page.lang_alternatives[alt.lang] %}
+          <a href="{{ alt.url | append: page.lang_alternatives[alt.lang].permalink }}" hreflang="{{ alt.lang }}" lang="{{ alt.lang }}" title="{{ alt.title | replace: "%@", page.lang_alternatives[alt.lang].title }}">
+            <img alt="{{ alt.label }}" src="{{ alt.flag | relative_url }}">
+          </a>
+        {% else %}
+          <a href="{{ alt.url }}" hreflang="{{ alt.lang }}" lang="{{ alt.lang }}">
+            <img alt="{{ alt.label }}" src="{{ alt.flag | relative_url }}">
+          </a>
+        {% endif %}
       {% endfor %}
     </div>
   {% endif %}
