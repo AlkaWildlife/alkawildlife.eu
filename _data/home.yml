@@ -3,33 +3,42 @@ news:
   all: Všechny zprávy
 
 links:
-  - title: Odkaz č. 1
-    url: /one
-    image: /uploads/banner_online_small.jpg
-  - title: Odkaz č. 2
-    url: /two
-    image: /uploads/banner_skody_3_small.jpg
-  - title: Odkaz č. 3
-    url: /three
-    image: /uploads/banner_silnice_small.jpg
-  - title: Odkaz č. 4
-    url: /four
-    image: /uploads/banner_stezka_small.jpg
-  - title: Odkaz č. 5
-    url: /five
-    image: /uploads/banner_bulletin_small.jpg
+  - title: Sysli na vynici
+    url: https://www.syslinavinici.cz
+    image: /uploads/syslinavinici.jpg
+  - title: Vydry online
+    url: https://www.vydryonline.cz
+    image: /uploads/vydryonline.jpg
+  - title: Vydry na silnici
+    url: http://www.vydrynasilnici.cz
+    image: /uploads/vydrynasilnici.jpg
+  - title: Vydří stezka
+    url: https://www.vydristezky.cz
+    image: /uploads/vydristezky.jpg
+  - title: 3Lynx mapa
+    url: http://map.translynx.eu/cs
+    image: /uploads/map_translynx_eu.jpg
 
 mission:
   body: |+
     # Mise
+
+    Posláním neziskové nestátní společnosti ALKA Wildlife, o.p.s. je
+    přispět svými aktivitami proti tomuto trendu. Posláním společnosti
+    je přispět objektivním výzkumem k efektivní, kvalitními odbornými
+    znalostmi podložené ochraně a péči o volně žijící druhy živočichů.
 
 gallery:
   title: Fotogalerie
 
 appeal:
   body: |+
-    # Výzva
+    # Trans-Lynx
+
+    [![](/uploads/translynx.jpg)](http://translynx.selmy.cz)
 
 other:
   body: |+
-    # Dále
+    # Facebook
+
+    [![](/uploads/facebook.jpg)](https://www.facebook.com/AlkaWildlife)
