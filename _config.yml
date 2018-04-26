@@ -12,7 +12,7 @@ lang_alternatives:
     label: Switch to English
     title: "Visit an English version of this page: %@"
     url: https://en.alkawildlife.eu
-    flag: /assets/images/flag_uk.png
+    icon: /assets/images/flag_uk.png
 
 # Integrations and machine-readable metadata
 facebook:
