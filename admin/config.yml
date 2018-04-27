@@ -169,6 +169,105 @@ collections:
     widget: string
     default: news
 
+- name: projects
+  label: Projects
+  label_singular: Project
+  description: Structured searchable projects.
+  folder: _projects
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: from
+    label: From
+    widget: date
+    format: YYYY-MM-DD
+  - name: active
+    label: Still active
+    widget: boolean
+  - name: to
+    label: To
+    widget: date
+    format: YYYY-MM-DD
+    default: ""
+  - name: partners
+    label: Partners
+    widget: list
+    required: false
+  - name: funding
+    label: Financial resource
+    widget: list
+    required: false
+  - name: budget
+    label: Budget (CZK)
+    widget: number
+    valueType: int
+    min: 0
+    required: false
+  - name: web
+    label: Official website
+    widget: string
+    required: false
+  - name: contacts
+    label: Contacts
+    widget: list
+    required: false
+    fields:
+    - name: role
+      label: Role
+      widget: string
+      required: false
+    - name: name
+      label: Name
+      widget: string
+      required: false
+    - name: name
+      label: Name
+      widget: string
+      required: false
+    - name: email
+      label: Email
+      widget: string
+      required: false
+    - name: tel_primary
+      label: Phone (primary, e.g. landline)
+      widget: string
+      required: false
+    - name: tel_secondary
+      label: Phone (secondary, e.g. cell)
+      widget: string
+      required: false
+  - name: species
+    label: Target species
+    widget: list
+    required: false
+  - name: area
+    label: Target area
+    widget: list
+    required: false
+  - name: tags
+    label: Categories (to make them filterable, see Categories collection)
+    widget: list
+    required: false
+  - name: countries
+    label: Countries
+    widget: territories
+    priority:
+    - CZ
+    - DE
+    - AT
+    - SK
+    - PL
+  - name: body
+    label: Body
+    widget: markdown
+  meta:
+  - name: datetime
+    label: Created at
+    widget: date
+    format: YYYY-MM-DD HH:mm:ss ZZ
+
 - name: showcases
   label: Showcases
   label_singular: Showcase
@@ -250,11 +349,12 @@ collections:
   label: Categories
   label_singular: Category
   description: >-
-    Categorization and filtering of photos. Arbitrary categories can
-    be added to photos (i.e., photo categories don’t have to defined
-    here). But if you want a category to appear as a filter option on
-    the global photo gallery page, you have to define it here with
-    exactly same name as you use in photos.
+    Categorization and filtering of photos, projects and
+    publications. Arbitrary categories can be added to content items
+    (i.e., project categories don’t have to defined here). But if you
+    want a category to appear as a filter option on listing pages, you
+    have to define it here with exactly the same name as you use on
+    content item.
   folder: _filterable_tags
   create: true
   fields:
