@@ -11,6 +11,263 @@
   </head>
   <body>
     <script src="{{ "/assets/javascripts/cms.js" | relative_url }}"></script>
+    <script>
+      /**
+       * @typedef {{
+       *   type: string,
+       *   name: string
+       * }}
+       */
+      Territory
+
+      /** @typedef {!Array<string>} */
+      TerritoryTypes
+
+      /** @typedef {(undefined|TerritoryTypes)} */
+      ControlValue
+
+      /**
+       * @typedef {{
+       *   value: ControlValue,
+       *   onChange: function(TerritoryTypes=),
+       *   setActiveStyle: function()
+       *   setInActiveStyle: function()
+       *   classNameWrapper: string
+       *   forID: string,
+       *   field: !Immutable.Map
+       * }}
+       */
+      ControlProps
+    </script>
+    <script>
+      /**
+       * A list of territories loaded from external document.
+       *
+       * @const {Array<!Territory>}
+       */
+      TERRITORIES = (function() {
+	var ret = []
+	var client = new XMLHttpRequest()
+	client.onload = function() {
+	  if (this.status !== 200) {
+	    alert('Cannot load territories list')
+	    if (Object.freeze) Object.freeze(ret)
+	    return
+	  }
+
+	  var territories = Array.prototype.slice.call(
+	    this.response.getElementById('territories').children, 0
+	  ).map(function(territoryEl) {
+	    return {
+	      type: territoryEl.id,
+	      name: territoryEl.textContent
+	    }
+	  })
+
+          // External documents uses different sorting algorithm (if
+          // any). Use language of that document and sort territories
+          // by name.
+	  var lang = this.response.firstElementChild.lang
+	  var compare
+	  if (lang && typeof Intl !== 'undefined' && Intl.Collator) {
+	    compare = new Intl.Collator(lang).compare
+	    territories.sort(function(a, b) {
+	      return compare(a.name, b.name)
+	    })
+	  }
+
+	  ret.splice.apply(ret, [0, ret.length].concat(territories))
+	  if (Object.freeze) Object.freeze(ret)
+	}
+	client.open('GET', '{{ "/data/territories.html" | relative_url }}')
+	client.responseType = 'document'
+	client.send()
+
+	return ret
+      }())
+    </script>
+    <script>CMS.registerWidget(
+      'territories',
+
+      /**
+       * Netlify CMS widget control to set multiple territories.
+       *
+       * It renders a select element for each value and additional one
+       * to set additional territory. Each value can be removed using
+       * “-” button next to associated select element.
+       *
+       * Options for each select elements are taken from {@link
+       * TERRITORIES}.
+       *
+       * @param {!ControlProps} props
+       * @return {!React.ReactNode}
+       */
+      function territoriesWidgetControl(props) {
+        /**
+         * Change set territories.
+         *
+         * @param {number} idx position in set territories to change
+         * @param {Event} ev event’s target has new value
+         */
+        function onChange(idx, ev) {
+          var newValue = (props.value || []).slice(0)
+          newValue[idx] = ev.target.value
+          setNewValue(newValue)
+        }
+
+        /**
+         * Remove one position from set territories.
+         *
+         * @param {number} idx position in set territories to change
+         */
+        function onRemove(idx) {
+          var newValue = props.value.slice(0)
+          newValue.splice(idx, 1)
+          setNewValue(newValue)
+        }
+
+        /**
+         * Sets a new value by calling an onChange from props.
+         *
+         * @param {!Array<!Territory>} newValue
+         */
+        function setNewValue(newValue) {
+          if (newValue.length > 0) props.onChange(newValue)
+          else props.onChange()
+        }
+
+        /**
+         * Moves prioritizes territories to the begging.
+         *
+         * @param {!Array<!Territory>} territories territory types
+         * @param {!Immutable.List<string>} priorities territory types
+	 * @return {!Array<!Territory>}
+	 */
+        function prioritizeTerritories(territories, priorities) {
+          return priorities.
+            // Find exact territories to move to the top
+            map(function(type) {
+              var idx
+              for (idx = 0; idx < territories.length; idx += 1) {
+                if (territories[idx].type === type) return territories[idx]
+              }
+              return null
+            }, []).
+            filter(function(territory) { return territory !== null  }).
+            reverse().
+            // Find exact territories to move to the top
+            reduce(function(ts, territory, i) {
+              if (i === 0) ts.unshift(null)
+
+              var idx = ts.indexOf(territory);
+              ts.splice(idx, 1)
+              ts.unshift(territory)
+
+              return ts
+            }, territories.slice(0))
+        }
+
+        /**
+         * Return a select element with territories as options.
+         *
+         * If no territory is selected, add additional first option
+         * which is disabled and selected. On the other hand, if some
+         * territory is selected, add a “-” button to remove this
+         * select and its value from the whole widget.
+         *
+         * @param {number} idx position in set territories
+         * @param {string} selectedType territory type
+         * @param {?Immutable.Map<string>} priorities prioritized
+         * territory types
+         * @param {object=} attrs additional attributes for the select
+         * element
+         * @return {!Array<!React.ReactNode>}
+         */
+        function territorySelectElement(idx, selectedType,
+                                        priorities, attrs) {
+          var territories = priorities ?
+            prioritizeTerritories(TERRITORIES, priorities) :
+            TERRITORIES
+
+          if (selectedType === null) territories.unshift(null)
+
+          if (!attrs) attrs = {}
+          if (!attrs.value) attrs.value = selectedType
+          if (!attrs.onChange) attrs.onChange = onChange.bind(null, idx)
+          if (!attrs.onFocus) attrs.onFocus = props.setActiveStyle
+          if (!attrs.onBlur) attrs.onBlur = props.setInactiveStyle
+
+          var els = [h(
+            'select',
+            attrs,
+            territories.map(function(territory, i) {
+              return territory !== null ?
+                h('option', { value: territory.type }, territory.name) :
+                h('option', { disabled: true, selected: i === 0 })
+            })
+          )]
+
+          if (selectedType !== null) {
+            els.push(h(
+              'button',
+              { type: 'button',
+                onClick: function(_ev) { onRemove(idx) } },
+              '-'
+            ))
+          }
+
+          return els
+        }
+
+        var territories = (props.value || [])
+
+        return h(
+          'div',
+          { className: props.classNameWrapper },
+          territories.
+            map(function(code, idx) {
+              return territorySelectElement(
+                idx, code, props.field.get('priority')
+              ).concat([
+                h('br')
+              ])
+            }).
+            reduce(function(flat, els) { return flat.concat(els) }, []).
+            concat(
+              territorySelectElement(territories.length, null,
+                                     props.field.get('priority'), {
+                                       id: props.forID
+                                     })
+            )
+        )
+      },
+
+      /**
+       * Netlify CMS widget preview translating territory types to
+       * names.
+       *
+       * @param {!{value: ControlValue}} props
+       * @return {!React.ReactNode}
+       * @see TERRITORIES
+       */
+      function territoriesWidgetPreview(props) {
+        return h('div',
+          {},
+          props.value.
+            map(function(type) {
+              var idx
+              for (idx = 0; idx < TERRITORIES.length; idx += 1) {
+                if (TERRITORIES[idx].type === type) {
+                  return TERRITORIES[idx].name
+                }
+              }
+
+              return type
+            }).
+            join(', ')
+        )
+      }
+    )</script>
     <script>CMS.registerEditorComponent({
       id: "clearfix",
       label: "Clearfix",

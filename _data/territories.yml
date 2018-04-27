@@ -1,0 +1,1043 @@
+cldr_release: 33
+en:
+- type: AC
+  name: Ascension Island
+- type: AD
+  name: Andorra
+- type: AE
+  name: United Arab Emirates
+- type: AF
+  name: Afghanistan
+- type: AG
+  name: Antigua & Barbuda
+- type: AI
+  name: Anguilla
+- type: AL
+  name: Albania
+- type: AM
+  name: Armenia
+- type: AO
+  name: Angola
+- type: AQ
+  name: Antarctica
+- type: AR
+  name: Argentina
+- type: AS
+  name: American Samoa
+- type: AT
+  name: Austria
+- type: AU
+  name: Australia
+- type: AW
+  name: Aruba
+- type: AX
+  name: Åland Islands
+- type: AZ
+  name: Azerbaijan
+- type: BA
+  name: Bosnia & Herzegovina
+- type: BB
+  name: Barbados
+- type: BD
+  name: Bangladesh
+- type: BE
+  name: Belgium
+- type: BF
+  name: Burkina Faso
+- type: BG
+  name: Bulgaria
+- type: BH
+  name: Bahrain
+- type: BI
+  name: Burundi
+- type: BJ
+  name: Benin
+- type: BL
+  name: St. Barthélemy
+- type: BM
+  name: Bermuda
+- type: BN
+  name: Brunei
+- type: BO
+  name: Bolivia
+- type: BQ
+  name: Caribbean Netherlands
+- type: BR
+  name: Brazil
+- type: BS
+  name: Bahamas
+- type: BT
+  name: Bhutan
+- type: BV
+  name: Bouvet Island
+- type: BW
+  name: Botswana
+- type: BY
+  name: Belarus
+- type: BZ
+  name: Belize
+- type: CA
+  name: Canada
+- type: CC
+  name: Cocos (Keeling) Islands
+- type: CD
+  name: Congo - Kinshasa
+- type: CF
+  name: Central African Republic
+- type: CG
+  name: Congo - Brazzaville
+- type: CH
+  name: Switzerland
+- type: CI
+  name: Côte d’Ivoire
+- type: CK
+  name: Cook Islands
+- type: CL
+  name: Chile
+- type: CM
+  name: Cameroon
+- type: CN
+  name: China
+- type: CO
+  name: Colombia
+- type: CP
+  name: Clipperton Island
+- type: CR
+  name: Costa Rica
+- type: CU
+  name: Cuba
+- type: CV
+  name: Cape Verde
+- type: CW
+  name: Curaçao
+- type: CX
+  name: Christmas Island
+- type: CY
+  name: Cyprus
+- type: CZ
+  name: Czechia
+- type: DE
+  name: Germany
+- type: DG
+  name: Diego Garcia
+- type: DJ
+  name: Djibouti
+- type: DK
+  name: Denmark
+- type: DM
+  name: Dominica
+- type: DO
+  name: Dominican Republic
+- type: DZ
+  name: Algeria
+- type: EA
+  name: Ceuta & Melilla
+- type: EC
+  name: Ecuador
+- type: EE
+  name: Estonia
+- type: EG
+  name: Egypt
+- type: EH
+  name: Western Sahara
+- type: ER
+  name: Eritrea
+- type: ES
+  name: Spain
+- type: ET
+  name: Ethiopia
+- type: EU
+  name: European Union
+- type: EZ
+  name: Eurozone
+- type: FI
+  name: Finland
+- type: FJ
+  name: Fiji
+- type: FK
+  name: Falkland Islands
+- type: FM
+  name: Micronesia
+- type: FO
+  name: Faroe Islands
+- type: FR
+  name: France
+- type: GA
+  name: Gabon
+- type: GB
+  name: United Kingdom
+- type: GD
+  name: Grenada
+- type: GE
+  name: Georgia
+- type: GF
+  name: French Guiana
+- type: GG
+  name: Guernsey
+- type: GH
+  name: Ghana
+- type: GI
+  name: Gibraltar
+- type: GL
+  name: Greenland
+- type: GM
+  name: Gambia
+- type: GN
+  name: Guinea
+- type: GP
+  name: Guadeloupe
+- type: GQ
+  name: Equatorial Guinea
+- type: GR
+  name: Greece
+- type: GS
+  name: South Georgia & South Sandwich Islands
+- type: GT
+  name: Guatemala
+- type: GU
+  name: Guam
+- type: GW
+  name: Guinea-Bissau
+- type: GY
+  name: Guyana
+- type: HK
+  name: Hong Kong SAR China
+- type: HM
+  name: Heard & McDonald Islands
+- type: HN
+  name: Honduras
+- type: HR
+  name: Croatia
+- type: HT
+  name: Haiti
+- type: HU
+  name: Hungary
+- type: IC
+  name: Canary Islands
+- type: ID
+  name: Indonesia
+- type: IE
+  name: Ireland
+- type: IL
+  name: Israel
+- type: IM
+  name: Isle of Man
+- type: IN
+  name: India
+- type: IO
+  name: British Indian Ocean Territory
+- type: IQ
+  name: Iraq
+- type: IR
+  name: Iran
+- type: IS
+  name: Iceland
+- type: IT
+  name: Italy
+- type: JE
+  name: Jersey
+- type: JM
+  name: Jamaica
+- type: JO
+  name: Jordan
+- type: JP
+  name: Japan
+- type: KE
+  name: Kenya
+- type: KG
+  name: Kyrgyzstan
+- type: KH
+  name: Cambodia
+- type: KI
+  name: Kiribati
+- type: KM
+  name: Comoros
+- type: KN
+  name: St. Kitts & Nevis
+- type: KP
+  name: North Korea
+- type: KR
+  name: South Korea
+- type: KW
+  name: Kuwait
+- type: KY
+  name: Cayman Islands
+- type: KZ
+  name: Kazakhstan
+- type: LA
+  name: Laos
+- type: LB
+  name: Lebanon
+- type: LC
+  name: St. Lucia
+- type: LI
+  name: Liechtenstein
+- type: LK
+  name: Sri Lanka
+- type: LR
+  name: Liberia
+- type: LS
+  name: Lesotho
+- type: LT
+  name: Lithuania
+- type: LU
+  name: Luxembourg
+- type: LV
+  name: Latvia
+- type: LY
+  name: Libya
+- type: MA
+  name: Morocco
+- type: MC
+  name: Monaco
+- type: MD
+  name: Moldova
+- type: ME
+  name: Montenegro
+- type: MF
+  name: St. Martin
+- type: MG
+  name: Madagascar
+- type: MH
+  name: Marshall Islands
+- type: MK
+  name: Macedonia
+- type: ML
+  name: Mali
+- type: MM
+  name: Myanmar (Burma)
+- type: MN
+  name: Mongolia
+- type: MO
+  name: Macau SAR China
+- type: MP
+  name: Northern Mariana Islands
+- type: MQ
+  name: Martinique
+- type: MR
+  name: Mauritania
+- type: MS
+  name: Montserrat
+- type: MT
+  name: Malta
+- type: MU
+  name: Mauritius
+- type: MV
+  name: Maldives
+- type: MW
+  name: Malawi
+- type: MX
+  name: Mexico
+- type: MY
+  name: Malaysia
+- type: MZ
+  name: Mozambique
+- type: NA
+  name: Namibia
+- type: NC
+  name: New Caledonia
+- type: NE
+  name: Niger
+- type: NF
+  name: Norfolk Island
+- type: NG
+  name: Nigeria
+- type: NI
+  name: Nicaragua
+- type: NL
+  name: Netherlands
+- type: NO
+  name: Norway
+- type: NP
+  name: Nepal
+- type: NR
+  name: Nauru
+- type: NU
+  name: Niue
+- type: NZ
+  name: New Zealand
+- type: OM
+  name: Oman
+- type: PA
+  name: Panama
+- type: PE
+  name: Peru
+- type: PF
+  name: French Polynesia
+- type: PG
+  name: Papua New Guinea
+- type: PH
+  name: Philippines
+- type: PK
+  name: Pakistan
+- type: PL
+  name: Poland
+- type: PM
+  name: St. Pierre & Miquelon
+- type: PN
+  name: Pitcairn Islands
+- type: PR
+  name: Puerto Rico
+- type: PS
+  name: Palestinian Territories
+- type: PT
+  name: Portugal
+- type: PW
+  name: Palau
+- type: PY
+  name: Paraguay
+- type: QA
+  name: Qatar
+- type: QO
+  name: Outlying Oceania
+- type: RE
+  name: Réunion
+- type: RO
+  name: Romania
+- type: RS
+  name: Serbia
+- type: RU
+  name: Russia
+- type: RW
+  name: Rwanda
+- type: SA
+  name: Saudi Arabia
+- type: SB
+  name: Solomon Islands
+- type: SC
+  name: Seychelles
+- type: SD
+  name: Sudan
+- type: SE
+  name: Sweden
+- type: SG
+  name: Singapore
+- type: SH
+  name: St. Helena
+- type: SI
+  name: Slovenia
+- type: SJ
+  name: Svalbard & Jan Mayen
+- type: SK
+  name: Slovakia
+- type: SL
+  name: Sierra Leone
+- type: SM
+  name: San Marino
+- type: SN
+  name: Senegal
+- type: SO
+  name: Somalia
+- type: SR
+  name: Suriname
+- type: SS
+  name: South Sudan
+- type: ST
+  name: São Tomé & Príncipe
+- type: SV
+  name: El Salvador
+- type: SX
+  name: Sint Maarten
+- type: SY
+  name: Syria
+- type: SZ
+  name: Swaziland
+- type: TA
+  name: Tristan da Cunha
+- type: TC
+  name: Turks & Caicos Islands
+- type: TD
+  name: Chad
+- type: TF
+  name: French Southern Territories
+- type: TG
+  name: Togo
+- type: TH
+  name: Thailand
+- type: TJ
+  name: Tajikistan
+- type: TK
+  name: Tokelau
+- type: TL
+  name: Timor-Leste
+- type: TM
+  name: Turkmenistan
+- type: TN
+  name: Tunisia
+- type: TO
+  name: Tonga
+- type: TR
+  name: Turkey
+- type: TT
+  name: Trinidad & Tobago
+- type: TV
+  name: Tuvalu
+- type: TW
+  name: Taiwan
+- type: TZ
+  name: Tanzania
+- type: UA
+  name: Ukraine
+- type: UG
+  name: Uganda
+- type: UM
+  name: U.S. Outlying Islands
+- type: UN
+  name: United Nations
+- type: US
+  name: United States
+- type: UY
+  name: Uruguay
+- type: UZ
+  name: Uzbekistan
+- type: VA
+  name: Vatican City
+- type: VC
+  name: St. Vincent & Grenadines
+- type: VE
+  name: Venezuela
+- type: VG
+  name: British Virgin Islands
+- type: VI
+  name: U.S. Virgin Islands
+- type: VN
+  name: Vietnam
+- type: VU
+  name: Vanuatu
+- type: WF
+  name: Wallis & Futuna
+- type: WS
+  name: Samoa
+- type: XK
+  name: Kosovo
+- type: YE
+  name: Yemen
+- type: YT
+  name: Mayotte
+- type: ZA
+  name: South Africa
+- type: ZM
+  name: Zambia
+- type: ZW
+  name: Zimbabwe
+cs:
+- type: AC
+  name: Ascension
+- type: AD
+  name: Andorra
+- type: AE
+  name: Spojené arabské emiráty
+- type: AF
+  name: Afghánistán
+- type: AG
+  name: Antigua a Barbuda
+- type: AI
+  name: Anguilla
+- type: AL
+  name: Albánie
+- type: AM
+  name: Arménie
+- type: AO
+  name: Angola
+- type: AQ
+  name: Antarktida
+- type: AR
+  name: Argentina
+- type: AS
+  name: Americká Samoa
+- type: AT
+  name: Rakousko
+- type: AU
+  name: Austrálie
+- type: AW
+  name: Aruba
+- type: AX
+  name: Ålandy
+- type: AZ
+  name: Ázerbájdžán
+- type: BA
+  name: Bosna a Hercegovina
+- type: BB
+  name: Barbados
+- type: BD
+  name: Bangladéš
+- type: BE
+  name: Belgie
+- type: BF
+  name: Burkina Faso
+- type: BG
+  name: Bulharsko
+- type: BH
+  name: Bahrajn
+- type: BI
+  name: Burundi
+- type: BJ
+  name: Benin
+- type: BL
+  name: Svatý Bartoloměj
+- type: BM
+  name: Bermudy
+- type: BN
+  name: Brunej
+- type: BO
+  name: Bolívie
+- type: BQ
+  name: Karibské Nizozemsko
+- type: BR
+  name: Brazílie
+- type: BS
+  name: Bahamy
+- type: BT
+  name: Bhútán
+- type: BV
+  name: Bouvetův ostrov
+- type: BW
+  name: Botswana
+- type: BY
+  name: Bělorusko
+- type: BZ
+  name: Belize
+- type: CA
+  name: Kanada
+- type: CC
+  name: Kokosové ostrovy
+- type: CD
+  name: Kongo – Kinshasa
+- type: CF
+  name: Středoafrická republika
+- type: CG
+  name: Kongo – Brazzaville
+- type: CH
+  name: Švýcarsko
+- type: CI
+  name: Pobřeží slonoviny
+- type: CK
+  name: Cookovy ostrovy
+- type: CL
+  name: Chile
+- type: CM
+  name: Kamerun
+- type: CN
+  name: Čína
+- type: CO
+  name: Kolumbie
+- type: CP
+  name: Clippertonův ostrov
+- type: CR
+  name: Kostarika
+- type: CU
+  name: Kuba
+- type: CV
+  name: Kapverdy
+- type: CW
+  name: Curaçao
+- type: CX
+  name: Vánoční ostrov
+- type: CY
+  name: Kypr
+- type: CZ
+  name: Česko
+- type: DE
+  name: Německo
+- type: DG
+  name: Diego García
+- type: DJ
+  name: Džibutsko
+- type: DK
+  name: Dánsko
+- type: DM
+  name: Dominika
+- type: DO
+  name: Dominikánská republika
+- type: DZ
+  name: Alžírsko
+- type: EA
+  name: Ceuta a Melilla
+- type: EC
+  name: Ekvádor
+- type: EE
+  name: Estonsko
+- type: EG
+  name: Egypt
+- type: EH
+  name: Západní Sahara
+- type: ER
+  name: Eritrea
+- type: ES
+  name: Španělsko
+- type: ET
+  name: Etiopie
+- type: EU
+  name: Evropská unie
+- type: EZ
+  name: eurozóna
+- type: FI
+  name: Finsko
+- type: FJ
+  name: Fidži
+- type: FK
+  name: Falklandské ostrovy
+- type: FM
+  name: Mikronésie
+- type: FO
+  name: Faerské ostrovy
+- type: FR
+  name: Francie
+- type: GA
+  name: Gabon
+- type: GB
+  name: Spojené království
+- type: GD
+  name: Grenada
+- type: GE
+  name: Gruzie
+- type: GF
+  name: Francouzská Guyana
+- type: GG
+  name: Guernsey
+- type: GH
+  name: Ghana
+- type: GI
+  name: Gibraltar
+- type: GL
+  name: Grónsko
+- type: GM
+  name: Gambie
+- type: GN
+  name: Guinea
+- type: GP
+  name: Guadeloupe
+- type: GQ
+  name: Rovníková Guinea
+- type: GR
+  name: Řecko
+- type: GS
+  name: Jižní Georgie a Jižní Sandwichovy ostrovy
+- type: GT
+  name: Guatemala
+- type: GU
+  name: Guam
+- type: GW
+  name: Guinea-Bissau
+- type: GY
+  name: Guyana
+- type: HK
+  name: Hongkong – ZAO Číny
+- type: HM
+  name: Heardův ostrov a McDonaldovy ostrovy
+- type: HN
+  name: Honduras
+- type: HR
+  name: Chorvatsko
+- type: HT
+  name: Haiti
+- type: HU
+  name: Maďarsko
+- type: IC
+  name: Kanárské ostrovy
+- type: ID
+  name: Indonésie
+- type: IE
+  name: Irsko
+- type: IL
+  name: Izrael
+- type: IM
+  name: Ostrov Man
+- type: IN
+  name: Indie
+- type: IO
+  name: Britské indickooceánské území
+- type: IQ
+  name: Irák
+- type: IR
+  name: Írán
+- type: IS
+  name: Island
+- type: IT
+  name: Itálie
+- type: JE
+  name: Jersey
+- type: JM
+  name: Jamajka
+- type: JO
+  name: Jordánsko
+- type: JP
+  name: Japonsko
+- type: KE
+  name: Keňa
+- type: KG
+  name: Kyrgyzstán
+- type: KH
+  name: Kambodža
+- type: KI
+  name: Kiribati
+- type: KM
+  name: Komory
+- type: KN
+  name: Svatý Kryštof a Nevis
+- type: KP
+  name: Severní Korea
+- type: KR
+  name: Jižní Korea
+- type: KW
+  name: Kuvajt
+- type: KY
+  name: Kajmanské ostrovy
+- type: KZ
+  name: Kazachstán
+- type: LA
+  name: Laos
+- type: LB
+  name: Libanon
+- type: LC
+  name: Svatá Lucie
+- type: LI
+  name: Lichtenštejnsko
+- type: LK
+  name: Srí Lanka
+- type: LR
+  name: Libérie
+- type: LS
+  name: Lesotho
+- type: LT
+  name: Litva
+- type: LU
+  name: Lucembursko
+- type: LV
+  name: Lotyšsko
+- type: LY
+  name: Libye
+- type: MA
+  name: Maroko
+- type: MC
+  name: Monako
+- type: MD
+  name: Moldavsko
+- type: ME
+  name: Černá Hora
+- type: MF
+  name: Svatý Martin (Francie)
+- type: MG
+  name: Madagaskar
+- type: MH
+  name: Marshallovy ostrovy
+- type: MK
+  name: Makedonie
+- type: ML
+  name: Mali
+- type: MM
+  name: Myanmar (Barma)
+- type: MN
+  name: Mongolsko
+- type: MO
+  name: Macao – ZAO Číny
+- type: MP
+  name: Severní Mariany
+- type: MQ
+  name: Martinik
+- type: MR
+  name: Mauritánie
+- type: MS
+  name: Montserrat
+- type: MT
+  name: Malta
+- type: MU
+  name: Mauricius
+- type: MV
+  name: Maledivy
+- type: MW
+  name: Malawi
+- type: MX
+  name: Mexiko
+- type: MY
+  name: Malajsie
+- type: MZ
+  name: Mosambik
+- type: NA
+  name: Namibie
+- type: NC
+  name: Nová Kaledonie
+- type: NE
+  name: Niger
+- type: NF
+  name: Norfolk
+- type: NG
+  name: Nigérie
+- type: NI
+  name: Nikaragua
+- type: NL
+  name: Nizozemsko
+- type: NO
+  name: Norsko
+- type: NP
+  name: Nepál
+- type: NR
+  name: Nauru
+- type: NU
+  name: Niue
+- type: NZ
+  name: Nový Zéland
+- type: OM
+  name: Omán
+- type: PA
+  name: Panama
+- type: PE
+  name: Peru
+- type: PF
+  name: Francouzská Polynésie
+- type: PG
+  name: Papua-Nová Guinea
+- type: PH
+  name: Filipíny
+- type: PK
+  name: Pákistán
+- type: PL
+  name: Polsko
+- type: PM
+  name: Saint-Pierre a Miquelon
+- type: PN
+  name: Pitcairnovy ostrovy
+- type: PR
+  name: Portoriko
+- type: PS
+  name: Palestinská území
+- type: PT
+  name: Portugalsko
+- type: PW
+  name: Palau
+- type: PY
+  name: Paraguay
+- type: QA
+  name: Katar
+- type: QO
+  name: vnější Oceánie
+- type: RE
+  name: Réunion
+- type: RO
+  name: Rumunsko
+- type: RS
+  name: Srbsko
+- type: RU
+  name: Rusko
+- type: RW
+  name: Rwanda
+- type: SA
+  name: Saúdská Arábie
+- type: SB
+  name: Šalamounovy ostrovy
+- type: SC
+  name: Seychely
+- type: SD
+  name: Súdán
+- type: SE
+  name: Švédsko
+- type: SG
+  name: Singapur
+- type: SH
+  name: Svatá Helena
+- type: SI
+  name: Slovinsko
+- type: SJ
+  name: Špicberky a Jan Mayen
+- type: SK
+  name: Slovensko
+- type: SL
+  name: Sierra Leone
+- type: SM
+  name: San Marino
+- type: SN
+  name: Senegal
+- type: SO
+  name: Somálsko
+- type: SR
+  name: Surinam
+- type: SS
+  name: Jižní Súdán
+- type: ST
+  name: Svatý Tomáš a Princův ostrov
+- type: SV
+  name: Salvador
+- type: SX
+  name: Svatý Martin (Nizozemsko)
+- type: SY
+  name: Sýrie
+- type: SZ
+  name: Svazijsko
+- type: TA
+  name: Tristan da Cunha
+- type: TC
+  name: Turks a Caicos
+- type: TD
+  name: Čad
+- type: TF
+  name: Francouzská jižní území
+- type: TG
+  name: Togo
+- type: TH
+  name: Thajsko
+- type: TJ
+  name: Tádžikistán
+- type: TK
+  name: Tokelau
+- type: TL
+  name: Východní Timor
+- type: TM
+  name: Turkmenistán
+- type: TN
+  name: Tunisko
+- type: TO
+  name: Tonga
+- type: TR
+  name: Turecko
+- type: TT
+  name: Trinidad a Tobago
+- type: TV
+  name: Tuvalu
+- type: TW
+  name: Tchaj-wan
+- type: TZ
+  name: Tanzanie
+- type: UA
+  name: Ukrajina
+- type: UG
+  name: Uganda
+- type: UM
+  name: Menší odlehlé ostrovy USA
+- type: UN
+  name: Organizace spojených národů
+- type: US
+  name: Spojené státy
+- type: UY
+  name: Uruguay
+- type: UZ
+  name: Uzbekistán
+- type: VA
+  name: Vatikán
+- type: VC
+  name: Svatý Vincenc a Grenadiny
+- type: VE
+  name: Venezuela
+- type: VG
+  name: Britské Panenské ostrovy
+- type: VI
+  name: Americké Panenské ostrovy
+- type: VN
+  name: Vietnam
+- type: VU
+  name: Vanuatu
+- type: WF
+  name: Wallis a Futuna
+- type: WS
+  name: Samoa
+- type: XK
+  name: Kosovo
+- type: YE
+  name: Jemen
+- type: YT
+  name: Mayotte
+- type: ZA
+  name: Jihoafrická republika
+- type: ZM
+  name: Zambie
+- type: ZW
+  name: Zimbabwe
