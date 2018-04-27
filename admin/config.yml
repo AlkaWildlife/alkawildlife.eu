@@ -89,7 +89,7 @@ collections:
         label: Address on English site
         widget: string
   meta:
-  - name: date
+  - name: datetime
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
@@ -111,7 +111,7 @@ collections:
     widget: number
     valueType: int
   meta:
-  - name: date
+  - name: datetime
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
@@ -187,7 +187,7 @@ collections:
     widget: number
     valueType: int
   meta:
-  - name: date
+  - name: datetime
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
@@ -233,7 +233,7 @@ collections:
         label: Address on English site
         widget: string
   meta:
-  - name: date
+  - name: datetime
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
@@ -266,7 +266,7 @@ collections:
     widget: number
     valueType: int
   meta:
-  - name: date
+  - name: datetime
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
@@ -341,7 +341,7 @@ collections:
         label: Address on English site
         widget: string
   meta:
-  - name: date
+  - name: datetime
     label: Created at
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
