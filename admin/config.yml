@@ -354,9 +354,10 @@ collections:
     format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: user_answers
-  label: User answers
+  label: "\U0001F6AB User answers"
   label_singular: User answer
   description: >-
+    Disabled on this site.
     Answers to questions submitted by site visitors. These questions
     can be found in administration on Netlify.com.
   folder: _posts
