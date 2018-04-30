@@ -11,7 +11,7 @@
   </head>
   <body>
     <script src="{{ "/assets/javascripts/cms.js" | relative_url }}"></script>
-    <script>
+    <script>{% raw %}
       /**
        * @typedef {{
        *   type: string,
@@ -38,8 +38,8 @@
        * }}
        */
       ControlProps
-    </script>
-    <script>
+    {% endraw %}</script>
+    <script>{% raw %}
       /**
        * A list of territories loaded from external document.
        *
@@ -85,8 +85,8 @@
 
 	return ret
       }())
-    </script>
-    <script>CMS.registerWidget(
+    {% endraw %}</script>
+    <script>{% raw %}CMS.registerWidget(
       'territories',
 
       /**
@@ -267,8 +267,8 @@
             join(', ')
         )
       }
-    )</script>
-    <script>CMS.registerEditorComponent({
+    ){% endraw %}</script>
+    <script>{% raw %}CMS.registerEditorComponent({
       id: "clearfix",
       label: "Clearfix",
       fields: [],
@@ -282,6 +282,6 @@
       toPreview: function(_obj) {
         return '<div class="clearfix"></div>'
       }
-    })</script>
+    }){% endraw %}</script>
   </body>
 </html>
