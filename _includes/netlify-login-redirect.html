@@ -1,9 +1,0 @@
-<script>(function () {
-  if (typeof netlifyIdentity === 'undefined') return
-  netlifyIdentity.on("init", function (user) {
-    if (user) return
-    netlifyIdentity.on("login", function () {
-      location = "{{ "/admin/" | relative_url }}"
-    })
-  })
-}())</script>

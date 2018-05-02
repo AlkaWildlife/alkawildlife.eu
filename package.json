@@ -2,7 +2,6 @@
   "name": "alkawildlife-cs",
   "private": true,
   "dependencies": {
-    "netlify-cms": "^1.4.0",
-    "netlify-identity-widget": "^1.4.11"
+    "netlify-cms": "^1.7.0"
   }
 }

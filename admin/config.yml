@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: AlkaWildlife/alkawildlife.eu-cs
 
 media_folder: uploads
 
@@ -88,9 +88,8 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -110,9 +109,8 @@ collections:
     label: Position
     widget: number
     valueType: int
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -142,7 +140,7 @@ collections:
     label: Published
     widget: boolean
   - name: date
-    label: Published at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD
   - name: lang_alternatives
@@ -159,13 +157,12 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  meta:
   - name: category
-    label: Category
+    label: "\U0001F6AB Post type (do not change)"
     widget: string
     default: news
   - name: layout
-    label: Layout
+    label: "\U0001F6AB Layout (do not change)"
     widget: string
     default: news
 
@@ -262,9 +259,8 @@ collections:
   - name: body
     label: Body
     widget: markdown
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -304,9 +300,8 @@ collections:
   - name: url
     label: URL (relative address referencing a PDF)
     widget: string
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -324,9 +319,8 @@ collections:
     label: Position
     widget: number
     valueType: int
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -347,9 +341,8 @@ collections:
     label: Position
     widget: number
     valueType: int
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -394,17 +387,16 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
-    label: Category
+    label: "\U0001F6AB Post type (do not change)"
     widget: string
     default: user-answers
   - name: layout
-    label: Layout
+    label: "\U0001F6AB Layout (do not change)"
     widget: string
     default: user_answer
 
@@ -428,9 +420,8 @@ collections:
     label: Position
     widget: number
     valueType: int
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
 
@@ -503,17 +494,16 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  meta:
   - name: datetime
-    label: Created at
+    label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
-    label: Category
+    label: "\U0001F6AB Post type (do not change)"
     widget: string
     default: gallery
   - name: layout
-    label: Layout
+    label: "\U0001F6AB Layout (do not change)"
     widget: string
     default: photo
 

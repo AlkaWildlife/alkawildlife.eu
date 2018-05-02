@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Content Management</title>
     <link rel="stylesheet" href="{{ "/assets/stylesheets/cms.css" | relative_url }}">
-    <script src="{{ "/assets/javascripts/netlify-identity-widget.js" | relative_url }}"></script>
   </head>
   <body>
     <script src="{{ "/assets/javascripts/cms.js" | relative_url }}"></script>
@@ -18,13 +17,13 @@
        *   name: string
        * }}
        */
-      Territory
+      var Territory
 
       /** @typedef {!Array<string>} */
-      TerritoryTypes
+      var TerritoryTypes
 
       /** @typedef {(undefined|TerritoryTypes)} */
-      ControlValue
+      var ControlValue
 
       /**
        * @typedef {{
@@ -37,7 +36,7 @@
        *   field: !Immutable.Map
        * }}
        */
-      ControlProps
+      var ControlProps
     {% endraw %}</script>
     <script>{% raw %}
       /**
@@ -46,44 +45,44 @@
        * @const {Array<!Territory>}
        */
       TERRITORIES = (function() {
-	var ret = []
-	var client = new XMLHttpRequest()
-	client.onload = function() {
-	  if (this.status !== 200) {
-	    alert('Cannot load territories list')
-	    if (Object.freeze) Object.freeze(ret)
-	    return
-	  }
+        var ret = []
+        var client = new XMLHttpRequest()
+        client.onload = function() {
+          if (this.status !== 200) {
+            alert('Cannot load territories list')
+            if (Object.freeze) Object.freeze(ret)
+            return
+          }
 
-	  var territories = Array.prototype.slice.call(
-	    this.response.getElementById('territories').children, 0
-	  ).map(function(territoryEl) {
-	    return {
-	      type: territoryEl.id,
-	      name: territoryEl.textContent
-	    }
-	  })
+          var territories = Array.prototype.slice.call(
+            this.response.getElementById('territories').children, 0
+          ).map(function(territoryEl) {
+            return {
+              type: territoryEl.id,
+              name: territoryEl.textContent
+            }
+          })
 
           // External documents uses different sorting algorithm (if
           // any). Use language of that document and sort territories
           // by name.
-	  var lang = this.response.firstElementChild.lang
-	  var compare
-	  if (lang && typeof Intl !== 'undefined' && Intl.Collator) {
-	    compare = new Intl.Collator(lang).compare
-	    territories.sort(function(a, b) {
-	      return compare(a.name, b.name)
-	    })
-	  }
+          var lang = this.response.firstElementChild.lang
+          var compare
+          if (lang && typeof Intl !== 'undefined' && Intl.Collator) {
+            compare = new Intl.Collator(lang).compare
+            territories.sort(function(a, b) {
+              return compare(a.name, b.name)
+            })
+          }
 
-	  ret.splice.apply(ret, [0, ret.length].concat(territories))
-	  if (Object.freeze) Object.freeze(ret)
-	}
-	client.open('GET', '{{ "/data/territories.html" | relative_url }}')
-	client.responseType = 'document'
-	client.send()
+          ret.splice.apply(ret, [0, ret.length].concat(territories))
+          if (Object.freeze) Object.freeze(ret)
+        }
+        client.open('GET', '{% endraw %}{{ "/data/territories.html" | relative_url }}{% raw %}')
+        client.responseType = 'document'
+        client.send()
 
-	return ret
+        return ret
       }())
     {% endraw %}</script>
     <script>{% raw %}CMS.registerWidget(
@@ -141,8 +140,8 @@
          *
          * @param {!Array<!Territory>} territories territory types
          * @param {!Immutable.List<string>} priorities territory types
-	 * @return {!Array<!Territory>}
-	 */
+         * @return {!Array<!Territory>}
+         */
         function prioritizeTerritories(territories, priorities) {
           return priorities.
             // Find exact territories to move to the top

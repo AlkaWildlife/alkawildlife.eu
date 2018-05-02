@@ -18,8 +18,5 @@
     {% include footer.html %}
 
     <script src="{{ "/assets/javascripts/lib/polyfill.object-fit.js" | relative_url }}"></script>
-    {%- if page.url == '/' -%}
-      {%- include netlify-login-redirect.html -%}
-    {%- endif -%}
   </body>
 </html>

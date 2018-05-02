@@ -12,9 +12,7 @@ namespace "build" do
   CMS_SOURCES = FileList[
     "node_modules/netlify-cms/dist/cms.js",
     "node_modules/netlify-cms/dist/cms.js.map",
-    "node_modules/netlify-cms/dist/cms.css",
-    "node_modules/netlify-identity-widget/build/netlify-identity-widget.js",
-    "node_modules/netlify-identity-widget/build/netlify-identity-widget.js.map"
+    "node_modules/netlify-cms/dist/cms.css"
   ]
   CMS_SOURCES.each do |source|
     file source do
@@ -40,11 +38,11 @@ namespace "build" do
 
   desc "Copy Netlify CMS assets from node_modules to _site\n" +
        "\n" +
-       "Netlify CMS and Netlify Identity Widget assets are copied from \n" +
-       "local Node.js modules path (i.e., node_modules directory) to \n" +
-       "assets directory under the Jekyll destination path (_site \n" +
-       "directory by default). Custom Jekyll config can be specified by \n" +
-       "JEKYLL_CONFIG environment variable."
+       "Netlify CMS assets are copied from local Node.js modules path\n" +
+       "(i.e., node_modules directory) to assets directory under the\n" +
+       "Jekyll destination path (_site directory by default). Custom\n" +
+       "Jekyll config can be specified by JEKYLL_CONFIG environment\n" +
+       "variable."
   task cms: CMS_TARGETS
 
   task :jekyll do
