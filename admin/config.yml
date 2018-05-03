@@ -77,6 +77,7 @@ collections:
   - name: lang_alternatives
     label: Localized alternatives
     widget: object
+    required: false
     fields:
     - name: en_GB
       label: English
@@ -307,6 +308,7 @@ collections:
   - name: lang_alternatives
     label: Localized alternatives
     widget: object
+    required: false
     fields:
     - name: en_GB
       label: English
@@ -538,6 +540,7 @@ collections:
   - name: lang_alternatives
     label: Localized alternatives
     widget: object
+    required: false
     fields:
     - name: en_GB
       label: English
@@ -647,6 +650,7 @@ collections:
   - name: lang_alternatives
     label: Localized alternatives
     widget: object
+    required: false
     fields:
     - name: en_GB
       label: English
