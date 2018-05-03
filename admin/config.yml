@@ -983,17 +983,6 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
-      - name: posts
-        label: Posts (news, photos and user answers)
-        widget: object
-        fields:
-        - name: permalink
-          label: URL template
-          widget: string
-          default: /:categories/:year/:month/:day/:title:output_ext
-        - name: output
-          label: Generate individual documents
-          widget: boolean
       - name: showcases
         label: Showcases
         widget: object
