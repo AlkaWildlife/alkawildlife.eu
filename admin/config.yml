@@ -6,7 +6,7 @@ media_folder: uploads
 
 collections:
 - name: md_pages
-  label: Pages
+  label: Content pages
   label_singular: Page
   description: >-
     Simple pages with single- or two-columns layout. The pages form a
@@ -92,6 +92,167 @@ collections:
     label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD HH:mm:ss ZZ
+
+- name: special_pages
+  label: Special pages
+  description: >-
+    Pages created and maintained by developers which can be slightly
+    customized either here or in Site settings.
+  create: false
+  delete: false
+  files:
+
+  - name: 404
+    label: Page not found
+    file: 404.md
+    format: frontmatter
+    extension: md
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: shout
+      label: Shout (succinct message saying page wasn’t found)
+      widget: string
+    - name: shout_style
+      label: Shout style
+      widget: select
+      options:
+      - muted
+      - primary
+      - success
+      - info
+      - warning
+      - danger
+    - name: body
+      label: Body
+      widget: markdown
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+
+  - name: search
+    label: Search
+    file: search.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: user_answers
+    label: User answers
+    file: user-answers.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: gallery
+    label: Gallery
+    file: gallery.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: news
+    label: News
+    file: news.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: index
+    label: Home
+    file: index.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    meta:
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
 
 - name: galleries
   label: Galleries
@@ -347,10 +508,9 @@ collections:
     format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: user_answers
-  label: "\U0001F6AB User answers"
+  label: User answers
   label_singular: User answer
   description: >-
-    Disabled on this site.
     Answers to questions submitted by site visitors. These questions
     can be found in administration on Netlify.com.
   folder: _posts
@@ -370,7 +530,9 @@ collections:
     label: Body
     widget: markdown
   - name: tags
-    label: Categories (to make them filterable, see Categories collection)
+    label: >-
+      Categories (separated by commas; to make them filterable, see
+      Categories collection)
     widget: list
     required: false
   - name: lang_alternatives
@@ -465,7 +627,9 @@ collections:
     widget: string
     required: false
   - name: tags
-    label: Categories (to make them filterable, see Categories collection)
+    label: >-
+      Categories (separated by commas; to make them filterable, see
+      Categories collection)
     widget: list
     required: false
   - name: gallery
@@ -507,143 +671,333 @@ collections:
     widget: string
     default: photo
 
-- label: Site Settings
-  name: settings
+- name: settings
+  label: Site Settings
   description: Content of special pages like titles, button labels etc.
+  create: false
+  delete: false
   files:
-    - name: authors
-      label: "\U0001F6AB Authors (edit only on GitHub)"
-      label_singular: Author
-      file: _data/authors.yml
-      fields: []
+  - name: authors
+    label: "\U0001F6AB Authors (edit only on GitHub)"
+    label_singular: Author
+    file: _data/authors.yml
+    fields: []
 
-    - name: search
-      label: Search
-      file: _data/search.yml
-      fields:
-        - name: long_title
-          label: Title (you can wrap phrases with * to emphasize them)
-          widget: string
-        - name: phrase
-          label: Phrase
-          widget: string
-        - name: loading
-          label: Loading
-          widget: string
+  - name: search
+    label: Search
+    file: _data/search.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: phrase
+      label: Phrase
+      widget: string
+    - name: loading
+      label: Loading
+      widget: string
 
-    - name: gallery
-      label: Gallery
-      file: _data/gallery.yml
-      fields:
-        - name: long_title
-          label: Title (you can wrap phrases with * to emphasize them)
-          widget: string
-        - name: body
-          label: Description
-          widget: markdown
+  - name: gallery
+    label: Gallery
+    file: _data/gallery.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: body
+      label: Description
+      widget: markdown
 
+  - name: news
+    label: News
+    file: _data/news.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+
+  - name: home
+    label: Home page
+    file: _data/home.yml
+    fields:
     - name: news
-      label: News
-      file: _data/news.yml
+      label: News section (top)
+      widget: object
       fields:
-        - name: long_title
-          label: Title (you can wrap phrases with * to emphasize them)
+      - name: following
+        label: Heading introducing news following the most recent ones
+        widget: string
+      - name: all
+        label: Button label showing all news
+        widget: string
+    - name: links
+      label: Links section with 5 items (middle)
+      widget: list
+      fields:
+      - name: title
+        label: Title
+        widget: string
+      - name: url
+        label: Link Address (use relative address)
+        widget: string
+      - name: image
+        label: Image (165 × 117 px)
+        widget: file
+    - name: mission
+      label: Mission section (1st bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+    - name: gallery
+      label: Gallery section (2nd bottom)
+      widget: object
+      fields:
+      - name: title
+        label: Title
+        widget: string
+    - name: appeal
+      label: Appeal section (3rd bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+    - name: other
+      label: Other section (4th bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+
+  - name: aside
+    label: Right column
+    file: _data/aside.yml
+    fields:
+    - name: title
+      label: Default title
+      widget: string
+
+  - name: footer
+    label: Global footer
+    file: _data/footer.yml
+    fields:
+    - name: funded_by_eea
+      label: Supported by grant from Iceland, Liechtenstein and Norway
+      widget: boolean
+    - name: funded_by_moe
+      label: Supported by Ministry of the Environment of the Czech Republic
+      widget: boolean
+
+  - name: header
+    label: Global header
+    file: _data/header.yml
+    fields:
+    - name: logo
+      label: Logo
+      widget: image
+    - name: claim
+      label: Claim
+      widget: string
+    - name: search
+      label: Search field placeholder
+      widget: string
+
+  - name: config
+    label: Global config
+    file: _config.yml
+    fields:
+    - name: title
+      label: >-
+        Title (part of every page’s title visible on browser tab,
+        search engine results or when shared on social media)
+      widget: string
+    - name: description
+      label: Description (succinct description of this website)
+      widget: text
+    - name: url
+      label: URL
+      widget: string
+    - name: logo
+      label: Logo
+      widget: image
+    - name: lang
+      label: Language
+      widget: string
+    - name: lang_alternatives
+      label: Language alternatives
+      widget: list
+      required: false
+      fields:
+      - name: lang
+        label: Language
+        widget: string
+      - name: label
+        label: Label (general label for switching in target language)
+        widget: string
+      - name: title
+        label: >-
+          Title (label for switching particular page in target
+          language; special character sequence “%@” will be replace
+          with target document’s title)
+        widget: string
+      - name: url
+        label: URL
+        widget: string
+      - name: icon
+        label: Icon (URL to image representing target language)
+        widget: string
+    - name: author
+      label: >-
+        Author (default author of posts on this site; name or
+        identifier from _data/authors.yml file on GitHub)
+      widget: string
+    - name: facebook
+      label: Facebook settings
+      widget: object
+      fields:
+      - name: app_id
+        label: App ID
+        widget: string
+      - name: publisher
+        label: Publisher
+        widget: string
+      - name: admins
+        label: Admin
+        widget: string
+    - name: social
+      label: Social media presence
+      widget: object
+      fields:
+      - name: name
+        label: Name
+        widget: string
+      - name: links
+        label: Links to social profiles (separated by commas)
+        widget: list
+    - name: webmaster_verifications
+      label: Webmaster tools verifications
+      widget: object
+      fields:
+      - name: google
+        label: Google
+        widget: string
+    - name: google_analytics
+      label: Google Analytics property ID
+      widget: string
+  meta:
+    - name: baseurl
+      label: Base URL
+      widget: string
+    - name: collections
+      label: Collections
+      widget: object
+      fields:
+      - name: md_pages
+        label: Content pages
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
           widget: string
-
-    - name: home
-      label: Home page
-      file: _data/home.yml
-      fields:
-        - name: news
-          label: News section (top)
-          widget: object
-          fields:
-            - name: following
-              label: Heading introducing news following the most recent ones
-              widget: string
-            - name: all
-              label: Button label showing all news
-              widget: string
-        - name: links
-          label: Links section with 5 items (middle)
-          widget: list
-          fields:
-            - name: title
-              label: Title
-              widget: string
-            - name: url
-              label: Link Address (use relative address)
-              widget: string
-            - name: image
-              label: Image (165 × 117 px)
-              widget: file
-        - name: mission
-          label: Mission section (1st bottom)
-          widget: object
-          fields:
-            - name: body
-              label: Content
-              widget: markdown
-        - name: gallery
-          label: Gallery section (2nd bottom)
-          widget: object
-          fields:
-            - name: title
-              label: Title
-              widget: string
-        - name: appeal
-          label: Appeal section (3rd bottom)
-          widget: object
-          fields:
-            - name: body
-              label: Content
-              widget: markdown
-        - name: other
-          label: Other section (4th bottom)
-          widget: object
-          fields:
-            - name: body
-              label: Content
-              widget: markdown
-
-    - name: aside
-      label: Right column
-      file: _data/aside.yml
-      fields:
-        - name: title
-          label: Default title
-          widget: string
-
-    - name: footer
-      label: Global footer
-      file: _data/footer.yml
-      fields:
-        - name: funded_by_eea
-          label: Supported by grant from Iceland, Liechtenstein and Norway
+          default: /:collection/:path
+        - name: output
+          label: Generate individual documents
           widget: boolean
-        - name: funded_by_moe
-          label: Supported by Ministry of the Environment of the Czech Republic
+      - name: galleries
+        label: Galleries
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+        - name: output
+          label: Generate individual documents
           widget: boolean
-
-    - name: header
-      label: Global header
-      file: _data/header.yml
-      fields:
-        - name: logo
-          label: Logo
-          widget: image
-        - name: claim
-          label: Claim
+      - name: posts
+        label: Posts (news, photos and user answers)
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
           widget: string
-        - name: search
-          label: Search field placeholder
+          default: /:collection/:path
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+      - name: posts
+        label: Posts (news, photos and user answers)
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
           widget: string
+          default: /:categories/:year/:month/:day/:title:output_ext
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+      - name: showcases
+        label: Showcases
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+      - name: filterable_tags
+        label: Categories
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+      - name: markdown
+        label: Markdown engine
+        widget: string
+      - name: kramdown
+        label: Kramdown settings
+        widget: object
+        fields:
+        - name: smart_quotes
+          label: >-
+            Unicode code points separated by commas for smart
+            quote replacement of opening single quote, closing
+            single quote, opening double quote and closing double
+            quote
+          widget: string
+        - name: header_offset
+          label: Generated heading lever offset
+          widget: number
+          valueType: int
+          min: 1
+          max: 6
+      - name: plugins
+        label: Plugins
+        widget: list
+      - name: exclude
+        label: Files and directories excluded from generation
+        widget: list
+      - name: keep_files
+        label: Files kept from clobbering
+        widget: list
 
 - name: layouts
   label: "\U0001F6AB"
   description: >-
     Layouts to be references from pages. Do not delete nor edit in any
     way.
+  create: false
+  delete: false
   files:
   - name: single_column_page
     label: Single-column page
