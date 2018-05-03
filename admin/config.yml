@@ -88,9 +88,9 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  - name: datetime
+  - name: date
     label: "\U00002757 Published at (change with caution)"
-    widget: date
+    widget: datetime
     format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: special_pages
@@ -270,9 +270,9 @@ collections:
     label: Position
     widget: number
     valueType: int
-  - name: datetime
+  - name: date
     label: "\U00002757 Published at (change with caution)"
-    widget: date
+    widget: datetime
     format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: news
@@ -502,9 +502,9 @@ collections:
     label: Position
     widget: number
     valueType: int
-  - name: datetime
+  - name: date
     label: "\U00002757 Published at (change with caution)"
-    widget: date
+    widget: datetime
     format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: user_answers
@@ -549,9 +549,9 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  - name: datetime
+  - name: date
     label: "\U00002757 Published at (change with caution)"
-    widget: date
+    widget: datetime
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
     label: "\U0001F6AB Post type (do not change)"
@@ -582,9 +582,9 @@ collections:
     label: Position
     widget: number
     valueType: int
-  - name: datetime
+  - name: date
     label: "\U00002757 Published at (change with caution)"
-    widget: date
+    widget: datetime
     format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: photos
@@ -658,9 +658,9 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  - name: datetime
+  - name: date
     label: "\U00002757 Published at (change with caution)"
-    widget: date
+    widget: datetime
     format: YYYY-MM-DD HH:mm:ss ZZ
   - name: category
     label: "\U0001F6AB Post type (do not change)"
