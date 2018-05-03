@@ -701,6 +701,57 @@ collections:
       label: Loading
       widget: string
 
+  - name: user_answers
+    label: User answers
+    file: _data/user_answers.yml
+    fields:
+    - name: title
+      label: Title
+      widget: object
+      fields:
+      - name: one
+        label: One (only one answer is published)
+        widget: string
+      - name: many
+        label: Many (more than one answer is published)
+        widget: string
+    - name: more
+      label: Show more button label
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+    - name: form
+      label: User question form
+      widget: object
+      fields:
+      - name: title
+        label: Title
+        widget: string
+      - name: fields
+        label: Field labels
+        widget: object
+        fields:
+        - name: name
+          label: Name
+          widget: string
+        - name: email
+          label: Email
+          widget: string
+        - name: question
+          label: Message
+          widget: string
+        - name: submit
+          label: Submit
+          widget: string
+
   - name: gallery
     label: Gallery
     file: _data/gallery.yml

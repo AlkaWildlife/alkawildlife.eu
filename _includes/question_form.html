@@ -1,6 +1,6 @@
 <h3 class="moduleTitle ">{{ site.data.user_answers.form.title }}</h3>
 <div class="mod-login mod-login__aside">
-  <form name="user_questions" method="POST" netlify>
+  <form name="user question" method="POST" netlify>
     <label for="user-question_name">
       {{ site.data.user_answers.form.fields.name }}
     </label>
@@ -11,10 +11,10 @@
     </label>
     <input id="user-question_email" type="email" name="email" size="18" required>
 
-    <label for="user-question_message">
-      {{ site.data.user_answers.form.fields.message }}
+    <label for="user-question_question">
+      {{ site.data.user_answers.form.fields.question }}
     </label>
-    <textarea id="user-question_message" name="message" class="user-question__message block" required></textarea>
+    <textarea id="user-question_question" name="question" class="user-question__message block" required></textarea>
 
     <button type="submit" class="btn btn-primary">
       {{ site.data.user_answers.form.fields.submit }}
