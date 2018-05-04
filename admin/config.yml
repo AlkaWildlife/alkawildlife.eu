@@ -743,6 +743,9 @@ collections:
       - name: by_tag
         label: By tag
         widget: string
+    - name: content_gallery_title
+      label: Content gallery title
+      widget: string
 
   - name: news
     label: News

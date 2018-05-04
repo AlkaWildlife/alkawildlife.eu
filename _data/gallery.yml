@@ -8,3 +8,4 @@ body: >-
 filter:
   all: všechny fotky
   by_tag: Filtrovat podle kategorie
+content_gallery_title: Galerie

@@ -2,7 +2,7 @@
 {% if gallery %}
   <div class="clearfix"></div>
   <div class="article-gallery m-top-3">
-    <h3>Galerie</h3>
+    <h3>{{ site.data.gallery.content_gallery_title }}</h3>
     <ul class="article-gallery-list">
       {% assign photo_posts = site.posts |
            where_exp: "post", "post.categories contains 'gallery'" |
