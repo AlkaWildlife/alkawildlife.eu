@@ -89,10 +89,6 @@ collections:
       - name: permalink
         label: Address on English site
         widget: string
-  - name: date
-    label: "\U00002757 Published at (change with caution)"
-    widget: datetime
-    format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: special_pages
   label: Special pages
@@ -271,10 +267,6 @@ collections:
     label: Position
     widget: number
     valueType: int
-  - name: date
-    label: "\U00002757 Published at (change with caution)"
-    widget: datetime
-    format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: news
   label: News
@@ -422,10 +414,6 @@ collections:
   - name: body
     label: Body
     widget: markdown
-  - name: datetime
-    label: "\U00002757 Published at (change with caution)"
-    widget: date
-    format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: publications
   label: Publications
@@ -463,10 +451,6 @@ collections:
   - name: url
     label: URL (relative address referencing a PDF)
     widget: string
-  - name: datetime
-    label: "\U00002757 Published at (change with caution)"
-    widget: date
-    format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: publication_types
   label: Publication Types
@@ -482,10 +466,6 @@ collections:
     label: Position
     widget: number
     valueType: int
-  - name: datetime
-    label: "\U00002757 Published at (change with caution)"
-    widget: date
-    format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: showcases
   label: Showcases
@@ -504,10 +484,6 @@ collections:
     label: Position
     widget: number
     valueType: int
-  - name: date
-    label: "\U00002757 Published at (change with caution)"
-    widget: datetime
-    format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: user_answers
   label: User answers
@@ -585,10 +561,6 @@ collections:
     label: Position
     widget: number
     valueType: int
-  - name: date
-    label: "\U00002757 Published at (change with caution)"
-    widget: datetime
-    format: YYYY-MM-DD HH:mm:ss ZZ
 
 - name: photos
   label: Photos
