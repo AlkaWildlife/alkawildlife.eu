@@ -733,6 +733,16 @@ collections:
     - name: body
       label: Description
       widget: markdown
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Show all photos
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
 
   - name: news
     label: News
