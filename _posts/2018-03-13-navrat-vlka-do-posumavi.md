@@ -1,6 +1,7 @@
 ---
 title: Návrat vlka do Pošumaví
 image: /media/s320_i__00087_tuning_02.jpg
+published: true
 date: 2018-03-13
 category: news
 layout: news

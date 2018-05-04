@@ -1,6 +1,7 @@
 ---
 title: Přednáška o fotopastech v Českém lese
 image: /media/s320_co-nam-ukazuji-fotopasti.jpg
+published: true
 date: 2018-03-08
 category: news
 layout: news

@@ -1,6 +1,7 @@
 ---
 title: Bulletin Vydra 17
 image: /media/cover.png
+published: true
 date: 2018-03-15
 category: news
 layout: news

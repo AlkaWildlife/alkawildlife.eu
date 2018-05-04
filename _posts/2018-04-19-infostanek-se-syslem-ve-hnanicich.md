@@ -1,6 +1,7 @@
 ---
 title: Infostánek se syslem ve Hnanicích
 image: /media/pozvanka.jpg
+published: true
 date: 2018-04-19
 category: news
 layout: news

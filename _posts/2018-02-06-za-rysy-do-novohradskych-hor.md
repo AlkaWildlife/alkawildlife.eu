@@ -1,6 +1,7 @@
 ---
 title: Za rysy do Novohradských hor
 image: /media/s320_dscn4493.jpg
+published: true
 date: 2018-02-06
 category: news
 layout: news
