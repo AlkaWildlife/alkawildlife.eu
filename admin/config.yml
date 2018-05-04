@@ -59,6 +59,7 @@ collections:
     label: Position among siblings in listings
     widget: number
     valueType: int
+    min: 1
   - name: layout
     label: Layout
     widget: relation
@@ -165,6 +166,7 @@ collections:
       label: Position among siblings in listings
       widget: number
       valueType: int
+      min: 1
     meta:
     - name: layout
       label: Layout
@@ -192,6 +194,7 @@ collections:
       label: Position among siblings in listings
       widget: number
       valueType: int
+      min: 1
     meta:
     - name: layout
       label: Layout
@@ -219,6 +222,7 @@ collections:
       label: Position among siblings in listings
       widget: number
       valueType: int
+      min: 1
     meta:
     - name: layout
       label: Layout
@@ -244,6 +248,7 @@ collections:
       label: Position among siblings in listings
       widget: number
       valueType: int
+      min: 1
     - name: layout
       label: Layout
       widget: string
@@ -263,10 +268,6 @@ collections:
   - name: page
     label: Page address (copy and paste from web browser address bar, and remove https:// and domain)
     widget: string
-  - name: position
-    label: Position
-    widget: number
-    valueType: int
 
 - name: news
   label: News
@@ -481,9 +482,10 @@ collections:
     label: Image
     widget: image
   - name: position
-    label: Position
+    label: Position defining order in which showcases rotate
     widget: number
     valueType: int
+    min: 1
 
 - name: user_answers
   label: User answers
@@ -558,9 +560,10 @@ collections:
     label: Name
     widget: string
   - name: position
-    label: Position
+    label: Position in filter options
     widget: number
     valueType: int
+    min: 1
 
 - name: photos
   label: Photos
@@ -615,10 +618,6 @@ collections:
     - page
     valueField: page
     required: false
-  - name: position
-    label: Position on global photo gallery page (not the gallery above)
-    widget: number
-    valueType: int
   - name: lang_alternatives
     label: Localized alternatives
     widget: object

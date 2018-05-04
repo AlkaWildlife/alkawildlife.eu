@@ -2,7 +2,7 @@
 title: Činnost
 permalink: /spolecnost/cinnost
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 ---
 Společnost poskytuje veřejnosti obecně prospěšné služby ve formě:

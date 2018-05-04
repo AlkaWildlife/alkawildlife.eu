@@ -2,7 +2,7 @@
 title: Společnost
 permalink: /spolecnost
 listed: true
-position: 1
+position: 2
 layout: single_column_page
 ---
 Symbol naší společnosti [alka velká](/zajmove-druhy/alka-velka) je

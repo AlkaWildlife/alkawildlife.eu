@@ -1,5 +1,5 @@
 ---
 title: Niva
 image: "/media/niva.jpg"
-position: 0
+position: 1
 ---

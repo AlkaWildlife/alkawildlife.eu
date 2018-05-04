@@ -3,7 +3,7 @@ title: Podpořte nás
 permalink: /spolecnost/podporte-nas
 long_title: Jak nás můžete podpořit?
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 ---
 Pokud Vás naše činnost zaujala a je Vám sympatická, můžete nás

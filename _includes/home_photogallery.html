@@ -1,6 +1,5 @@
 {% assign photo_posts = site.posts |
-     where_exp: "post", "post.categories contains 'gallery'" |
-     sort: "position" %}
+     where_exp: "post", "post.categories contains 'gallery'" %}
 <h3 class="moduleTitle ">{{ site.data.home.gallery.title }}</h3>
 <div class="mod-newsflash-adv mod-newsflash-adv__projects">
   <div class="row-fluid">

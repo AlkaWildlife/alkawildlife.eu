@@ -2,12 +2,11 @@
 title: Fotogalerie
 published: true
 listed: false
-position: 3
+position: 4
 layout: contentpage
 ---
 {% assign photo_posts = site.posts |
-     where_exp: "post", "post.categories contains 'gallery'" |
-     sort: "position" %}
+     where_exp: "post", "post.categories contains 'gallery'" %}
 {% for photo in photo_posts %}
   {% assign tags = tags | concat: photo.tags | uniq %}
 {% endfor %}
