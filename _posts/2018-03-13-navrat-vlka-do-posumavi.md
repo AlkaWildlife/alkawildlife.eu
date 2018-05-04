@@ -1,6 +1,6 @@
 ---
 title: Návrat vlka do Pošumaví
-image: /uploads/s320_i__00087_tuning_02.jpg
+image: /media/s320_i__00087_tuning_02.jpg
 date: 2018-03-13
 category: news
 layout: news
@@ -13,7 +13,7 @@ nebo celá smečka.
 
 <div class="clearfix"></div>
 
-![](/uploads/s320_cdy00004vlk.jpg){: .wysiwyg-float-left} V roce 2015
+![](/media/s320_cdy00004vlk.jpg){: .wysiwyg-float-left} V roce 2015
 byl pomocí fotopastí poprvé zdokumentován výskyt vlka na Šumavě,
 přesněji na východním okraji pohoří u Loučovic. Poslední vlk na české
 straně Šumavy byl zastřelen v roce 1874 v polesí Lipka u Vimperka. Od té
@@ -47,6 +47,6 @@ a dostatkem potravy poskytuje této šelmě ideální podmínky pro
 život. Stejně jako rys ostrovid, i vlk se v současnosti vrací tam, kam,
 kde kdysi žil a kam také patří.
 
-![](/uploads/s250_13lynx_cmyk.jpg){: .wysiwyg-float-right} O projektu
+![](/media/s250_13lynx_cmyk.jpg){: .wysiwyg-float-right} O projektu
 3Lynx si můžete přečíst
 [zde](http://www.interreg-central.eu/Content.Node/3Lynx.html).

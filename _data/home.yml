@@ -5,19 +5,19 @@ news:
 links:
   - title: Sysli na vynici
     url: https://www.syslinavinici.cz
-    image: /uploads/syslinavinici.jpg
+    image: /media/syslinavinici.jpg
   - title: Vydry online
     url: https://www.vydryonline.cz
-    image: /uploads/vydryonline.jpg
+    image: /media/vydryonline.jpg
   - title: Vydry na silnici
     url: http://www.vydrynasilnici.cz
-    image: /uploads/vydrynasilnici.jpg
+    image: /media/vydrynasilnici.jpg
   - title: Vydří stezka
     url: https://www.vydristezky.cz
-    image: /uploads/vydristezky.jpg
+    image: /media/vydristezky.jpg
   - title: 3Lynx mapa
     url: http://map.translynx.eu/cs
-    image: /uploads/map_translynx_eu.jpg
+    image: /media/map_translynx_eu.jpg
 
 mission:
   body: |+
@@ -35,10 +35,10 @@ appeal:
   body: |+
     # Trans-Lynx
 
-    [![](/uploads/translynx.jpg)](http://translynx.selmy.cz)
+    [![](/media/translynx.jpg)](http://translynx.selmy.cz)
 
 other:
   body: |+
     # Facebook
 
-    [![](/uploads/facebook.jpg)](https://www.facebook.com/AlkaWildlife)
+    [![](/media/facebook.jpg)](https://www.facebook.com/AlkaWildlife)

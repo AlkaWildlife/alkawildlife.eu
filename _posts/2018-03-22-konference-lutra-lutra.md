@@ -1,6 +1,6 @@
 ---
 title: Konference Lutra lutra
-image: /uploads/flyer-cz.jpg
+image: /media/flyer-cz.jpg
 date: 2018-03-22
 category: news
 layout: news
@@ -20,4 +20,4 @@ Přihlásit na konferenci se můžete na
 [lukas.polednik@alkawildlife.eu](mailto:lukas.polednik@alkawildlife.eu)
 / [606 598 903](tel:+420-606-598-903)
 
-[Program konference a organizační informace (PDF)](/uploads/konference_lutra-lutra_program.pdf)
+[Program konference a organizační informace (PDF)](/media/konference_lutra-lutra_program.pdf)

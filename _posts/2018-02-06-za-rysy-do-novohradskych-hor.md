@@ -1,6 +1,6 @@
 ---
 title: Za rysy do Novohradských hor
-image: /uploads/s320_dscn4493.jpg
+image: /media/s320_dscn4493.jpg
 date: 2018-02-06
 category: news
 layout: news
@@ -24,7 +24,7 @@ sledovat i pohyby jednotlivých rysů.
 
 <div class="clearfix"></div>
 
-![](/uploads/s320_img_0378.jpg){: .wysiwyg-float-left} V zimě je možné
+![](/media/s320_img_0378.jpg){: .wysiwyg-float-left} V zimě je možné
 ale také využít prastarých metod monitoringu zvířat a tím je
 stopování. Stopu rysa je někdy možné zaměnit se stopou velké psovité
 šelmy nebo i stopami zajíce. Je potřeba se podívat na celou řadu
@@ -39,7 +39,7 @@ tlapy jsou přibližně 6-9 cm.
 
 <div class="clearfix"></div>
 
-![](/uploads/s320_img_0385.jpg){: .wysiwyg-float-left} Když se k této
+![](/media/s320_img_0385.jpg){: .wysiwyg-float-left} Když se k této
 prastaré metodě přidá moderní technika, je možné pomocí analýzy DNA
 identifikovat jedince, určit pohlaví, příbuznost jedinců. Cílem analýz
 také bude zjistit, jestli se v populaci rysa v česko-rakousko-bavorském
@@ -54,7 +54,7 @@ k degradaci materiálu.
 
 <div class="clearfix"></div>
 
-![](/uploads/s320_dscn4849.jpg){: .wysiwyg-float-left} V Novohradských
+![](/media/s320_dscn4849.jpg){: .wysiwyg-float-left} V Novohradských
 horách jsme ale nenarazili jen na rysí stopy, ale také na zapomenutý
 malebný kout světa uprostřed střední Evropy. Asi není třeba více slov,
 fotografie postačí.  
