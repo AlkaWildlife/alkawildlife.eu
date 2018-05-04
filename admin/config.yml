@@ -26,7 +26,7 @@ collections:
     label: Title
     widget: string
   - name: permalink
-    label: Address (creates hierarchy—e.g., “/about/team” is a child of “/about” which is a child of “/”)
+    label: Address (creates hierarchy—e.g., “/about/team” is a child of “/about” which is a child of “/”; shouldn’t contain white-space characters like space)
     widget: string
   - name: image
     label: Image (610 × 358 px)
