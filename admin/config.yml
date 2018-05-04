@@ -504,7 +504,7 @@ collections:
     label: Title
     widget: string
   - name: author
-    label: Author (name or identifier from _data/authors.yml file on GitHub)
+    label: Author
     widget: string
   - name: body
     label: Body
@@ -601,7 +601,7 @@ collections:
     widget: markdown
     required: false
   - name: author
-    label: Author (name or identifier from _data/authors.yml file on GitHub)
+    label: Author
     widget: string
     required: false
   - name: tags
@@ -652,12 +652,6 @@ collections:
   create: false
   delete: false
   files:
-  - name: authors
-    label: "\U0001F6AB Authors (edit only on GitHub)"
-    label_singular: Author
-    file: _data/authors.yml
-    fields: []
-
   - name: search
     label: Search
     file: _data/search.yml
