@@ -344,6 +344,7 @@ collections:
     widget: date
     format: YYYY-MM-DD
     default: ""
+    required: false
   - name: partners
     label: Partners
     widget: list
@@ -412,6 +413,8 @@ collections:
     - AT
     - SK
     - PL
+    default:
+    - CZ
   - name: body
     label: Body
     widget: markdown
