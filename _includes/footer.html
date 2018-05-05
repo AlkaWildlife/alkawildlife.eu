@@ -6,7 +6,9 @@
         <div class="container-fluid">
           <div class="flex space-between">
             <div id="copyright">
-              <span class="siteName">{{ site.data.authors[site.author].name }}</span>
+              <span class="siteName">
+                {%- include helpers/author.html author=site.author -%}
+              </span>
               <span class="copy">&copy;</span>
               <span>{{ site.time | date: '%Y' }}</span>
               {% if site.data.footer.funded_by_eea %}

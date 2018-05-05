@@ -9,10 +9,9 @@
            where: "gallery", gallery.page %}
       {% for photo in photo_posts %}
         <li class="article-gallery-item img-full">
-          {% assign author = site.data.authors[photo.author] %}
           {% capture photo_title -%}
-            {%- if author %}{{ author.name }} &ndash; {% endif -%}
-            {{ include.photo.title }}
+            {%- if photo.author %}{% include helpers/author.html author=photo.author %} &ndash; {% endif -%}
+            {{ photo.title }}
           {%- endcapture %}
           <a href="{{ photo.image | relative_url }}"
              data-rel="lightcase:gallery"

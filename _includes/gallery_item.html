@@ -8,9 +8,8 @@
     {%- endunless %} {% include helpers/slug.html page=filterable_tag -%}
   {%- endfor -%}
 {%- endcapture -%}
-{% assign author = site.data.authors[include.photo.author] %}
 {% capture photo_title -%}
-  {%- if author %}{{ author.name }} &ndash; {% endif -%}
+  {%- if include.photo.author %}{% include helpers/author.html author=include.photo.author %} &ndash; {% endif -%}
   {{ include.photo.title }}
 {%- endcapture %}
 <li class="gallery-item firstItem isotope-item{{ tag_slugs }}">
@@ -31,7 +30,7 @@
   </div>
   <div class="item_introtext">
     {{ include.photo.content | truncatewords: 10 }}
-    {% if author %}(<i>{{ author.name }}</i>){% endif %}
+    {% if include.photo.author %}(<i>{% include helpers/author.html author=include.photo.author %}</i>){% endif %}
   </div>
   <div class="clearfix"></div>
 </li>

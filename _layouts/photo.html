@@ -10,8 +10,7 @@ layout: default
           <div class="page-item page-item__">
             <article>
               <div class="item_header">
-                {% assign author = site.data.authors[page.author] %}
-                <h3 class="item_title">{{ page.title }}{% if author %}<br><small>{{ author.name }}</small>{% endif %}</h3>
+                <h3 class="item_title">{{ page.title }}{% if page.author %}<br><small>{% include helpers/author.html author=page.author %}</small>{% endif %}</h3>
               </div>
               <div class="item_img img-full img-full__left item-image">
                 <img src="{{ page.image | relative_url }}">

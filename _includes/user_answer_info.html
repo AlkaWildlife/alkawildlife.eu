@@ -1,8 +1,9 @@
-{% assign author = site.data.authors[include.user_answer.author] %}
 <div class="item_info m-bottom-1">
   <dl class="item_info_dl">
     <dd>
-      <div class="item_createdby">{{ author.name }}</div>
+      <div class="item_createdby">
+        {%- include helpers/author.html author=include.user_answer.author -%}
+      </div>
     </dd>
     |
     <dd>
