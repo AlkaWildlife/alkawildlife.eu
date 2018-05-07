@@ -376,10 +376,6 @@ collections:
       label: Name
       widget: string
       required: false
-    - name: name
-      label: Name
-      widget: string
-      required: false
     - name: email
       label: Email
       widget: string
