@@ -1,0 +1,15 @@
+more: více
+filter:
+  by_tag: Kategorie
+  by_date: Průběh projektu
+
+partners: Partneři
+funding: Financování
+budget: Rozpočet
+approx: "&asymp;"
+period:
+  only_from: Zahájení
+  from_to: Trvání
+contacts:
+  one: Kontaktní osoba
+  many: Kontaktní osoby

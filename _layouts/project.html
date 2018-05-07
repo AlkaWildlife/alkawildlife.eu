@@ -1,0 +1,88 @@
+---
+layout: projects
+---
+<div class="item_fulltext">
+  {% if page.partners %}
+    <h4>{{ site.data.projects.partners }}</h4>
+    {{ page.partners | markdownify }}
+  {% endif %}
+
+  {% if page.funding %}
+    <h4>{{ site.data.projects.funding }}</h4>
+    {{ page.funding | markdownify }}
+  {% endif %}
+
+  {% if page.budget %}
+    <h4>{{ site.data.projects.budget }}</h4>
+    <p>
+      {%- if site.lang == "cs_CZ" and
+             page.budget.czk and page.budget.czk.exact -%}
+        {% include helpers/number.html number=page.budget.czk.value %}&nbsp;<abbr title="Korun českých">Kč</abbr>
+      {%- elsif site.lang == "cs_CZ" and
+                page.budget.eur and page.budget.eur.exact -%}
+        {% include helpers/number.html number=page.budget.eur.value %}&nbsp;&euro;
+        {%- if page.budget.czk %} ({{ site.data.projects.approx }} {% include helpers/number.html number=page.budget.czk.value %}&nbsp;<abbr title="Korun českých">Kč</abbr>){%- endif -%}
+      {%- elsif site.lang != "cs_CZ" and
+                page.budget.czk and page.budget.czk.exact -%}
+        <abbr title="Czech Koruna">CZK</abbr>&nbsp;{% include helpers/number.html number=page.budget.czk.value %}
+        {%- if page.budget.eur %} ({{ site.data.projects.approx }} &euro;{% include helpers/number.html number=page.budget.eur.value %}){%- endif -%}
+      {%- elsif site.lang != "cs_CZ" and
+                page.budget.eur and page.budget.eur.exact -%}
+        &euro;{% include helpers/number.html number=page.budget.eur.value %}
+      {%- endif -%}
+    </p>
+  {% endif %}
+
+  <h4>
+    {%- if page.to -%}
+      {{- site.data.projects.period.from_to -}}
+    {%- else -%}
+      {{- site.data.projects.period.only_from -}}
+    {%- endif -%}
+  </h4>
+  <p>
+    <time datetime="{{ page.from | date: "%Y-%m-%d" }}">{{ page.from | date: "%-m/%Y" }}</time>
+    {%- if page.to %}
+      &ndash;
+      <time datetime="{{ page.to | date: "%Y-%m-%d" }}">{{ page.to | date: "%-m/%Y" }}</time>
+    {%- endif -%}
+  </p>
+
+  {% if page.contacts and page.contacts.size > 0 %}
+    <h4>
+      {%- if page.contacts.size > 1 -%}
+        {{ site.data.projects.contacts.many }}
+      {%- else -%}
+        {{ site.data.projects.contacts.one }}
+      {%- endif -%}
+    </h4>
+    <p>
+    {%- for contact in page.contacts -%}
+      {%- if forloop.first != true -%}<br>{%- endif -%}
+      <span itemscope itemtype="http://microformats.org/profile/hcard">
+      <span itemprop="fn">{{- contact.name -}}</span>
+      {%- if contact.role %} ({{ contact.role }}){% endif -%}
+      {%- if contact.email or contact.tel_primary or contact.tel_secondary %}:{% endif -%}
+      {%- assign divide = false -%}
+      {%- if contact.email %}
+        <a itemprop="email" href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+      {%- endif -%}
+      {%- if contact.email -%}{%- assign divide = true -%}{%- endif -%}
+      {%- if divide and contact.tel_primary -%},{%- endif -%}
+      {%- if contact.tel_primary %}
+        {% include helpers/tel.html tel=contact.tel_primary hcard=true -%}
+      {%- endif -%}
+      {%- if contact.tel_primary -%}{%- assign divide = true -%}{%- endif -%}
+      {%- if divide and contact.tel_secondary -%},{%- endif %}
+      {%- if contact.tel_secondary %}
+        {% include helpers/tel.html tel=contact.tel_secondary hcard=true -%}
+      {%- endif %}
+      </span>
+    {%- endfor -%}
+    </p>
+  {% endif %}
+
+  {{ content }}
+</div>
+
+{% include content_gallery.html %}

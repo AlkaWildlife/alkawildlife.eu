@@ -1,0 +1,90 @@
+{%- assign number__as_text = "" | append: include.number -%}
+{%- assign number__frac_pos = number__as_text.size -%}
+{%- assign number__last_i = number__as_text.size | minus: 1 -%}
+{%- for number__i in (0..number__last_i) -%}
+  {%- assign number__c = number__as_text | slice: number__i -%}
+  {%- if number__c == "." -%}
+    {%- assign number__frac_pos = number__i -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign number__int = number__as_text | slice: 0, number__frac_pos -%}
+{%- assign number__frac_pos = number__frac_pos | plus: 1 -%}
+{%- assign number__frac = number__as_text | slice: number__frac_pos, number__as_text.size -%}
+
+{%- assign number__group_delim = "," -%}
+{%- assign number__group_length = 3 -%}
+{%- assign number__int_groups = number__int.size |
+      divided_by: number__group_length |
+      ceil -%}
+{%- assign number__grouped_int = "" -%}
+{%- for number__i in (0..number__int_groups) -%}
+  {%- assign number__start = number__int.size |
+        minus: number__grouped_int.size |
+        plus: number__i -%}
+  {%- if forloop.first != true -%}
+    {%- assign number__start = number__start |
+          minus: number__group_delim.size -%}
+  {%- endif -%}
+  {%- if number__start <= 0 -%}
+    {%- break -%}
+  {%- endif -%}
+
+  {%- if forloop.first != true -%}
+    {%- assign number__grouped_int = number__group_delim |
+          append: number__grouped_int -%}
+  {%- endif -%}
+
+  {%- assign number__start = number__start |
+        minus: number__group_length -%}
+  {%- assign number__length = number__group_length | plus: number__start -%}
+  {%- if number__start < 0 -%}
+    {%- assign number__start = 0 -%}
+  {%- endif -%}
+  {%- if number__length > number__group_length -%}
+    {%- assign number__length = number__group_length -%}
+  {%- endif -%}
+  {%- assign number__grouped_int = number__int |
+        slice: number__start, number__length |
+        append: number__grouped_int -%}
+{%- endfor -%}
+
+{%- assign number__frac_groups = number__frac.size |
+      divided_by: number__group_length |
+      ceil -%}
+{%- assign number__grouped_frac = "" -%}
+{%- for number__i in (0..number__frac_groups) -%}
+  {%- assign number__start = number__grouped_frac.size |
+        minus: number__i -%}
+  {%- if forloop.first != true -%}
+    {%- assign number__start = number__start |
+          plus: number__group_delim.size -%}
+  {%- endif -%}
+  {%- if number__start >= number__frac.size -%}
+    {%- break -%}
+  {%- endif -%}
+
+  {%- if forloop.first != true -%}
+    {%- assign number__grouped_frac = number__grouped_frac |
+          append: number__group_delim -%}
+  {%- endif -%}
+
+  {%- assign number__frac_group = number__frac |
+        slice: number__start, number__group_length -%}
+  {%- assign number__grouped_frac = number__grouped_frac |
+        append: number__frac_group -%}
+{%- endfor -%}
+
+{%- if site.lang == "cs_CZ" -%}
+  {{- number__grouped_int | replace: ",", "&nbsp;" -}}
+  {%- if number__grouped_frac != "" -%}
+    ,
+    {{- number__grouped_frac | replace: ",", "&nbsp;" -}}
+  {%- endif -%}
+{%- else -%}
+  {{- number__grouped_int -}}
+  {%- if number__grouped_frac != "" -%}
+    .
+    {{- number__grouped_frac -}}
+  {%- endif -%}
+{%- endif -%}

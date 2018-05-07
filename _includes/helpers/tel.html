@@ -1,0 +1,15 @@
+{%- assign tel__url = include.tel | replace: " ", "-" -%}
+{%- assign tel__intl_call_prefix = tel__url | slice: 0, 1 -%}
+{%- assign tel__country_calling_code = tel__url | slice: 1, 3 -%}
+{%- if tel__intl_call_prefix == "+" -%}
+  {%- if site.lang == "cs_CZ" and tel__country_calling_code == "420" -%}
+    {%- assign tel__display = include.tel | slice: 5, 50 -%}
+  {%- else -%}
+    {%- assign tel__display = include.tel -%}
+  {%- endif -%}
+  <a{% if include.hcard %} itemprop="tel"{% endif %} href="tel:{{ tel__url }}">
+    {{- tel__display | replace: " ", "&nbsp;" -}}
+  </a>
+{%- else -%}
+  {{- include.tel -}}
+{%- endif -%}

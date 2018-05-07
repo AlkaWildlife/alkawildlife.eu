@@ -33,9 +33,17 @@ collections:
   galleries: {}
   posts:
     permalink: /:categories/:title
+  projects:
+    output: true
   showcases: {}
   filterable_tags: {}
 
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
 # Build settings
 markdown: kramdown
 kramdown:
