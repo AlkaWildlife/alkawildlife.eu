@@ -6,7 +6,6 @@
       </div>
     </dd>
     |
-    {% if include.user_answer.tags and include.user_answer.tags.size > 0 %}
     <dd>
       <div class="item_category-name">
         {% for tag in include.user_answer.tags %}
@@ -25,7 +24,6 @@
       </div>
     </dd>
     |
-    {% endif %}
     <dd>
       <div class="item_published"><time datetime="{{ include.user_answer.date | date: "%Y-%m-%d" }}" class="js-user-answer-date">{{ include.user_answer.date | date: "%e. %-m. %Y" }}</time></div>
     </dd>
