@@ -332,17 +332,18 @@ collections:
   - name: title
     label: Title
     widget: string
+  - name: subtitle
+    label: Subtitle (optional small heading under long title)
+    widget: string
+    required: false
   - name: from
-    label: From
+    label: From (day is not significant, only month and year are applied)
     widget: date
-    format: YYYY-MM-DD
-  - name: active
-    label: Still active
-    widget: boolean
+    format: YYYY-MM
   - name: to
-    label: To
+    label: To (day is not significant, only month and year are applied)
     widget: date
-    format: YYYY-MM-DD
+    format: YYYY-MM
     default: ""
     required: false
   - name: partners
