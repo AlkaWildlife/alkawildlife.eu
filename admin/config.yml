@@ -449,6 +449,7 @@ collections:
     label: Year
     widget: number
     valueType: int
+    default: 2018
   - name: url
     label: URL (relative address referencing a PDF)
     widget: string
