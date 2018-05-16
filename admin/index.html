@@ -281,6 +281,19 @@
         generateCldrWidgetPreview(TERRITORIES)
       )
     {% endraw %}</script>
+    <script>{% raw %}
+      /**
+       * A list of languages loaded from external document.
+       *
+       * @const {Array<!CldrData>}
+       */
+      LANGUAGES = loadCldrList('languages')
+      CMS.registerWidget(
+        'languages',
+        generateCldrWidgetControl(LANGUAGES),
+        generateCldrWidgetPreview(LANGUAGES)
+      )
+    {% endraw %}</script>
     <script>{% raw %}CMS.registerEditorComponent({
       id: "clearfix",
       label: "Clearfix",
