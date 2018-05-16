@@ -92,21 +92,10 @@ layout: projects
     {% if page.countries.size > 1 or
           page.countries.first != site.data.projects.default_country %}
       <h4>{{ site.data.projects.countries }}</h4>
-      {% assign lang = site.lang | split: "_" | first %}
       <p>
         {%- for country in page.countries -%}
           {%- unless forloop.first -%}, {% endunless -%}
-          {%- assign found = false -%}
-          {%- for territory in site.data.territories[lang] -%}
-            {%- if territory.type == country -%}
-              {{- territory.name -}}
-              {%- assign found = true -%}
-              {%- break -%}
-            {%- endif -%}
-          {%- endfor -%}
-          {%- unless found -%}
-            {{- country -}}
-          {%- endunless -%}
+          {%- include helpers/cldr.html name="territories" type=country -%}
         {%- endfor -%}
       </p>
     {% endif %}
