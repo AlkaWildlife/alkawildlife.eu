@@ -477,6 +477,7 @@ collections:
     fields:
     - name: link
       label: URL (relative address referencing a PDF)
+      widget: string
 
 - name: publication_types
   label: Publication Types
