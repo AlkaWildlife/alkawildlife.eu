@@ -113,7 +113,6 @@ layout: default
     if (typeof [].every !== "function") return
     if (typeof Object.keys !== "function") return
     if (!("onpopstate" in w)) return
-    if (!("dateTime" in d.createElement("TIME"))) return
 
     function paramsFromHash(hash) {
       return !hash ? {} : hash.
@@ -144,13 +143,7 @@ layout: default
     }
 
     function toArray(indexable) {
-      var array = []
-      var i
-      for (i = 0; i < indexable.length; i += 1) {
-        array[i] = indexable[i]
-      }
-
-      return array
+      return Array.prototype.slice.call(indexable, 0)
     }
 
     function forEachUserAnswer(fn) {
@@ -214,8 +207,9 @@ layout: default
       if (!monthFilter) return
 
       forEachUserAnswer(function(ua) {
-        var filterDate = resetTime(new Date(
-          ua.getElementsByClassName("js-user-answer-date")[0].dateTime
+        var date = resetTime(new Date(
+          ua.getElementsByClassName("js-user-answer-date")[0].
+            getAttribute("datetime")
         ))
         ua.hidden = !((firstMomentOfMonth(monthFilter) <= date) &&
                       (lastMomentOfMonth(monthFilter) >= date))
