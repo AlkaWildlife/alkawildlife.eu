@@ -467,7 +467,7 @@ collections:
   - name: lang
     label: Language
     widget: string
-  - name: url
+  - name: link
     label: URL (relative address referencing a PDF)
     widget: string
   - name: attachments
@@ -475,7 +475,7 @@ collections:
     widget: list
     required: false
     fields:
-    - name: url
+    - name: link
       label: URL (relative address referencing a PDF)
 
 - name: publication_types
