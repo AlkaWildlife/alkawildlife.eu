@@ -8,10 +8,15 @@ filter:
 partners: Partneři
 funding: Financování
 budget: Rozpočet
-approx: "&asymp;"
+registration_no: Registrační číslo
+web: Stránky projektu
 period:
   only_from: Zahájení
   from_to: Trvání
 contacts:
   one: Kontaktní osoba
   many: Kontaktní osoby
+species: Cílové druhy
+area: Cílová oblast
+countries: Země
+default_country: CZ

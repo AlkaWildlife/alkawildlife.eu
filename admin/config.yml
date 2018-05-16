@@ -337,31 +337,39 @@ collections:
     widget: string
     required: false
   - name: from
-    label: From (day is not significant, only month and year are applied)
+    label: >-
+      From (day is not significant, only month and year are applied;
+      if not set considered long-term)
     widget: date
     format: YYYY-MM
+    default: ""
+    required: false
   - name: to
-    label: To (day is not significant, only month and year are applied)
+    label: >-
+      To (day is not significant, only month and year are applied;
+      if not set considered currently active)
     widget: date
     format: YYYY-MM
     default: ""
     required: false
   - name: partners
     label: Partners
-    widget: list
+    widget: markdown
     required: false
   - name: funding
     label: Financial resource
-    widget: list
+    widget: markdown
     required: false
   - name: budget
-    label: Budget (CZK)
-    widget: number
-    valueType: int
-    min: 0
+    label: Budget
+    widget: markdown
+    required: false
+  - name: registration_no
+    label: Registration number
+    widget: string
     required: false
   - name: web
-    label: Official website
+    label: Website
     widget: string
     required: false
   - name: contacts
@@ -369,12 +377,11 @@ collections:
     widget: list
     required: false
     fields:
-    - name: role
-      label: Role
-      widget: string
-      required: false
     - name: name
       label: Name
+      widget: string
+    - name: role
+      label: Role
       widget: string
       required: false
     - name: email
@@ -382,20 +389,24 @@ collections:
       widget: string
       required: false
     - name: tel_primary
-      label: Phone (primary, e.g. landline)
+      label: >-
+        Phone (primary, e.g. landline; internation format, e.g. +420
+        777 555 333)
       widget: string
       required: false
     - name: tel_secondary
-      label: Phone (secondary, e.g. cell)
+      label: >-
+        Phone (secondary, e.g. cell; internation format, e.g. +420 777
+        555 333)
       widget: string
       required: false
   - name: species
     label: Target species
-    widget: list
+    widget: markdown
     required: false
   - name: area
     label: Target area
-    widget: list
+    widget: markdown
     required: false
   - name: tags
     label: Categories (to make them filterable, see Categories collection)

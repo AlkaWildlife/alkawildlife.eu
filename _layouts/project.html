@@ -14,39 +14,35 @@ layout: projects
 
   {% if page.budget %}
     <h4>{{ site.data.projects.budget }}</h4>
+    {{ page.budget | markdownify }}
+  {% endif %}
+
+  {% if page.registration_no %}
+    <h4>{{ site.data.projects.registration_no }}</h4>
+    <p>{{ page.registration_no }}</p>
+  {% endif %}
+
+  {% if page.web %}
+    <h4>{{ site.data.projects.web }}</h4>
+    <p><a href="{{ page.web }}">{{ page.web | replace_first: "https://", "" | replace_first: "http://", "" }}</a></p>
+  {% endif %}
+
+  {% if page.from %}
+    <h4>
+      {%- if page.to -%}
+        {{- site.data.projects.period.from_to -}}
+      {%- else -%}
+        {{- site.data.projects.period.only_from -}}
+      {%- endif -%}
+    </h4>
     <p>
-      {%- if site.lang == "cs_CZ" and
-             page.budget.czk and page.budget.czk.exact -%}
-        {% include helpers/number.html number=page.budget.czk.value %}&nbsp;<abbr title="Korun českých">Kč</abbr>
-      {%- elsif site.lang == "cs_CZ" and
-                page.budget.eur and page.budget.eur.exact -%}
-        {% include helpers/number.html number=page.budget.eur.value %}&nbsp;&euro;
-        {%- if page.budget.czk %} ({{ site.data.projects.approx }} {% include helpers/number.html number=page.budget.czk.value %}&nbsp;<abbr title="Korun českých">Kč</abbr>){%- endif -%}
-      {%- elsif site.lang != "cs_CZ" and
-                page.budget.czk and page.budget.czk.exact -%}
-        <abbr title="Czech Koruna">CZK</abbr>&nbsp;{% include helpers/number.html number=page.budget.czk.value %}
-        {%- if page.budget.eur %} ({{ site.data.projects.approx }} &euro;{% include helpers/number.html number=page.budget.eur.value %}){%- endif -%}
-      {%- elsif site.lang != "cs_CZ" and
-                page.budget.eur and page.budget.eur.exact -%}
-        &euro;{% include helpers/number.html number=page.budget.eur.value %}
+      <time datetime="{{ page.from | date: "%Y-%m-%d" }}">{{ page.from | date: "%-m/%Y" }}</time>
+      {%- if page.to %}
+        &ndash;
+        <time datetime="{{ page.to | date: "%Y-%m-%d" }}">{{ page.to | date: "%-m/%Y" }}</time>
       {%- endif -%}
     </p>
   {% endif %}
-
-  <h4>
-    {%- if page.to -%}
-      {{- site.data.projects.period.from_to -}}
-    {%- else -%}
-      {{- site.data.projects.period.only_from -}}
-    {%- endif -%}
-  </h4>
-  <p>
-    <time datetime="{{ page.from | date: "%Y-%m-%d" }}">{{ page.from | date: "%-m/%Y" }}</time>
-    {%- if page.to %}
-      &ndash;
-      <time datetime="{{ page.to | date: "%Y-%m-%d" }}">{{ page.to | date: "%-m/%Y" }}</time>
-    {%- endif -%}
-  </p>
 
   {% if page.contacts and page.contacts.size > 0 %}
     <h4>
@@ -80,6 +76,40 @@ layout: projects
       </span>
     {%- endfor -%}
     </p>
+  {% endif %}
+
+  {% if page.species %}
+    <h4>{{ site.data.projects.species }}</h4>
+    {{ page.species | markdownify }}
+  {% endif %}
+
+  {% if page.area %}
+    <h4>{{ site.data.projects.area }}</h4>
+    {{ page.area | markdownify }}
+  {% endif %}
+
+  {% if page.countries and page.countries.size > 0 %}
+    {% if page.countries.size > 1 or
+          page.countries.first != site.data.projects.default_country %}
+      <h4>{{ site.data.projects.countries }}</h4>
+      {% assign lang = site.lang | split: "_" | first %}
+      <p>
+        {%- for country in page.countries -%}
+          {%- unless forloop.first -%}, {% endunless -%}
+          {%- assign found = false -%}
+          {%- for territory in site.data.territories[lang] -%}
+            {%- if territory.type == country -%}
+              {{- territory.name -}}
+              {%- assign found = true -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+          {%- unless found -%}
+            {{- country -}}
+          {%- endunless -%}
+        {%- endfor -%}
+      </p>
+    {% endif %}
   {% endif %}
 
   {{ content }}
