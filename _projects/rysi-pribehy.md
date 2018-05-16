@@ -14,6 +14,10 @@ contacts:
   role: vedoucí projektu
 tags:
 - rys
+countries:
+- CZ
+- DE
+- AT
 ---
 Rys ostrovid je kriticky ohroženým a zároveň chráněným druhem, pro který
 je v současnosti připravován program péče. Faktorem, který rysa

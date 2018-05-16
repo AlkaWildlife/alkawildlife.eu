@@ -3,7 +3,6 @@ title: Sokol stěhovavý v průmyslových areálech
 from: "2010-01"
 tags:
 - sokol
-- dlouhodobý
 ---
 Sokol stěhovavý je v ČR velmi vzácný, patří mezi kriticky ohrožené
 druhy. V mnoha zemích v průběhu šedesátých let vyhynul, především vlivem

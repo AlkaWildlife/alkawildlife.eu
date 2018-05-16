@@ -11,16 +11,13 @@ partners: |-
 funding: |-
   Program: Interreg V-A Slovenská republika – Česká republika  
   Spoločne bez hraníc / Společně bez hranic
-budget:
-  czk:
-    value: 2286418.93
-  eur:
-    value: 89795.56
-    exact: true
+budget: 2 286 418,93 Kč
 contacts:
 - name: Lukáš Poledník
 tags:
 - vydra
+countries:
+- CZ
 ---
 # Cíl projektu
 
