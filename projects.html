@@ -5,25 +5,11 @@ listed: true
 position: 4
 layout: projects
 ---
-{% assign this_month = site.time | date: "%Y-%m" %}
-{% assign no_to_projects = site.projects |
-     where_exp: "project", "project.to == null" %}
-{% assign active_exp = "project.to >= '" | append: this_month | append: "'" %}
-{% assign has_to_projects = site.projects |
-     where_exp: "project", active_exp %}
-{% assign active_projects = no_to_projects | concat: has_to_projects |
-     sort: "title" | reverse |
-     sort: "from" | reverse %}
-{% assign past_exp = "project.to < '" | append: this_month | append: "'" %}
-{% assign past_projects = site.projects |
-     where_exp: "project", past_exp |
-     sort: "title" | reverse |
-     sort: "to" | reverse %}
-{% assign projects = active_projects | concat: past_projects %}
+{% include sorted_projects.html %}
 <div class="items-row cols-1 row-0 row-fluid">
   <div class="span12">
-    {% for project in projects %}
-      <div class="item column-1 m-bottom-4 js-user-answer">
+    {% for project in sorted_projects %}
+      <div class="item column-1 m-bottom-4 js-project">
         <div class="item_header">
           <h4 class="item_title">
             <a href="{{ project.url }}">{{ project.title }}</a>
@@ -63,7 +49,7 @@ layout: projects
         <div class="item_introtext">
           <p>{{ project.content | strip_html | truncatewords: 60 }}</p>
         </div>
-        <a class="btn btn-info" href="{{ user_answer.url }}">
+        <a class="btn btn-info" href="{{ project.url }}">
           <span>{{ site.data.project.more }}</span>
         </a>
       </div>

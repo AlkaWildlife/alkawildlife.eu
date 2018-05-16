@@ -1,7 +1,9 @@
 more: více
 filter:
   by_tag: Kategorie
-  by_date: Průběh projektu
+  by_date: Projekty probíhající v datu
+  month: Měsíc
+  year: Rok
 
 partners: Partneři
 funding: Financování

@@ -1,23 +1,9 @@
 ---
 layout: default
 ---
-{% assign this_month = site.time | date: "%Y-%m" %}
-{% assign no_to_projects = site.projects |
-     where_exp: "project", "project.to == null" %}
-{% assign active_exp = "project.to >= '" | append: this_month | append: "'" %}
-{% assign has_to_projects = site.projects |
-     where_exp: "project", active_exp %}
-{% assign active_projects = no_to_projects | concat: has_to_projects |
-     sort: "title" | reverse |
-     sort: "from" | reverse %}
-{% assign past_exp = "project.to < '" | append: this_month | append: "'" %}
-{% assign past_projects = site.projects |
-     where_exp: "project", past_exp |
-     sort: "title" | reverse |
-     sort: "to" | reverse %}
-{% assign projects = active_projects | concat: past_projects %}
+{% include sorted_projects.html %}
 
-{% for project in projects %}
+{% for project in sorted_projects %}
   {% assign tags = tags | concat: project.tags | uniq %}
 {% endfor %}
 
@@ -84,7 +70,7 @@ layout: default
               </ul>
             </div>
             {% endif %}
-            {% if projects and projects.size > 0 %}
+            {% if sorted_projects and sorted_projects.size > 0 %}
             <div class="moduletable ">
               <h3 class="moduleTitle ">{{ site.data.projects.filter.by_date }}</h3>
 
@@ -96,15 +82,19 @@ layout: default
                   </p>
                 </li>
 
-                {% assign first_project = projects | last %}
-                {% assign first_date = first_project.from %}
-                {% assign last_project = projects |
-                     where_exp: "project", "project.to != null" |
+                {% assign oldest_project = sorted_projects |
+                     where_exp: "project", "project.from != null" |
+                     sort: "from" |
                      first %}
-                {% assign last_date = last_project.to %}
-		<li>
-		  <input type="month" name="month" min="{{ first_date }}" max="{{ last_date }}">
-		</li>
+                {% assign first_date = oldest_project.from %}
+                {% assign newest_project = sorted_projects |
+                     where_exp: "project", "project.to != null" |
+                     sort: "to" |
+                     last %}
+                {% assign last_date = newest_project.to %}
+                <li>
+                  <input type="month" name="date" min="{{ first_date }}" max="{{ last_date }}" class="js-date">
+                </li>
               </ul>
             </div>
             {% endif %}
@@ -115,7 +105,7 @@ layout: default
   </div>
 </div>
 
-{% if projects and projects.size > 0 %}
+{% if sorted_projects and sorted_projects.size > 0 %}
 <script>
   (function(w, d) {
     if (typeof [].forEach !== "function") return
@@ -124,7 +114,6 @@ layout: default
     if (typeof [].every !== "function") return
     if (typeof Object.keys !== "function") return
     if (!("onpopstate" in w)) return
-    if (!("dateTime" in d.createElement("TIME"))) return
 
     function paramsFromHash(hash) {
       return !hash ? {} : hash.
@@ -139,7 +128,7 @@ layout: default
 
     function toggleShowAll(params) {
       d.getElementById("filter_by_category_all").hidden = !params["category"]
-      d.getElementById("filter_by_date_all").hidden = !params["month"]
+      d.getElementById("filter_by_date_all").hidden = !params["date"]
     }
 
     function ifFilterChanged(obj, cur, fn) {
@@ -155,33 +144,38 @@ layout: default
     }
 
     function toArray(indexable) {
-      var array = []
-      var i
-      for (i = 0; i < indexable.length; i += 1) {
-        array[i] = indexable[i]
-      }
-
-      return array
+      return Array.prototype.slice.call(indexable, 0)
     }
 
-    function forEachUserAnswer(fn) {
+    function forEachProject(fn) {
       toArray(d.getElementsByClassName("js-project")).forEach(fn)
     }
 
     function noFilter() {
-      forEachUserAnswer(function(ua) { ua.hidden = false })
+      forEachProject(function(p) { p.hidden = false })
     }
 
-    function filterByCategory(category) {
-      if (!category) return
+    function filterByCategory(filter) {
+      if (!filter) return
 
-      forEachUserAnswer(function(ua) {
-        ua.hidden = toArray(
-          ua.getElementsByClassName("js-project-category")
+      forEachProject(function(p) {
+        p.hidden = toArray(
+          p.getElementsByClassName("js-project-category")
         ).every(function(a) {
           var params = paramsFromHash("#" + a.href.split("#", 2)[1])
-          return category !== params["category"]
+          return filter !== params["category"]
         })
+
+        console.log("title", p.getElementsByTagName("H4")[0].textContent.
+                               replace(/^\s+/, "").
+                               replace(/\s+$/, ""))
+        console.log("filter", filter)
+        console.log("categories", toArray(
+          p.getElementsByClassName("js-project-category")
+        ).map(function(a) {
+          return paramsFromHash("#" + a.href.split("#", 2)[1])["category"]
+        }))
+        console.log("hidden?", p.hidden)
       })
     }
 
@@ -197,7 +191,7 @@ layout: default
 
     function firstMomentOfMonth(month) {
       var parts = month.
-        split("-", 2).
+        split("-", 3).
         map(function(p) { return p | 0 })
 
       date = new Date()
@@ -216,37 +210,184 @@ layout: default
         date.setDate(day)
         if (date.getMonth() !== firstMomentOfMonth(month).getMonth()) break
       }
-      resetTime(date).setTime(date.getTime() - 1)
+      date.setTime(date.getTime() - 1)
 
       return date
     }
 
-    function filterByDate(month) {
-      if (!month) return
+    function rangeFromDate(date) {
+      switch (date.split("-").length) {
+      case 1:
+        return rangeFromYear(date)
+      default:
+        return rangeFromMonth(date)
+      }
+    }
 
-      forEachUserAnswer(function(ua) {
-        var filterDate = resetTime(new Date(
-          ua.getElementsByClassName("js-project-date")[0].dateTime
-        ))
-        ua.hidden = !((firstMomentOfMonth(month) <= filterDate) &&
-                      (lastMomentOfMonth(month) > filterDate))
+    function rangeFromYear(date) {
+      var range = {}
+      range.from = firstMomentOfMonth(date + "-01")
+      range.to = lastMomentOfMonth(date + "-12")
+
+      return range
+    }
+
+    function rangeFromMonth(date) {
+      var range = {}
+      range.from = firstMomentOfMonth(date)
+      range.to = lastMomentOfMonth(date)
+
+      return range
+    }
+
+    function rangeFromMonths(from, to) {
+      var range = {}
+
+      range.from = from ?
+        firstMomentOfMonth(from) :
+        Number.NEGATIVE_INFINITY
+
+      range.to = to ?
+        lastMomentOfMonth(to) :
+        Number.POSITIVE_INFINITY
+
+      return range
+    }
+
+    function hasIntersection(a, b) {
+      var st = a.from <= b.from ? a : b
+      var nd = st === a ? b : a
+
+      if (st.from < nd.from) {
+        return st.to >= nd.from
+      } else return true
+    }
+
+    function filterByDate(date) {
+      if (!date) return
+
+      var filter = rangeFromDate(date)
+      forEachProject(function(p) {
+        var fromEl = p.getElementsByClassName("js-project-from")[0]
+        var toEl = p.getElementsByClassName("js-project-to")[0]
+        var period = rangeFromMonths(
+          fromEl && fromEl.getAttribute("datetime"),
+          toEl && toEl.getAttribute("datetime")
+        )
+
+        p.hidden = !hasIntersection(filter, period)
       })
     }
 
     function filter(ev) {
       var params = paramsFromHash(ev.target.location.hash)
       ifFilterChanged(filter, params, noFilter)
+      ensureDateFilterValue(params["date"])
       toggleShowAll(params)
       filterByCategory(params["category"])
-      filterByDate(params["month"])
+      filterByDate(params["date"])
     }
 
-    w.addEventListener("onpopstate", filter, false)
+    function pushDateFilter() {
+      if (!readDateFilter()) return
+
+      w.location = "#date=" + readDateFilter()
+    }
+
+    function ensureDateFilterValue(date) {
+      var filterEl = d.getElementsByClassName("js-date")[0]
+      if (filterEl.tagName === "INPUT") {
+        filterEl.value = date
+        return
+      }
+
+      var parts = (date || "").
+        split("-", 3).
+        map(function(p) { return p | 0 })
+
+      var yearEl = filterEl.firstChild
+      yearEl.value = parts[0] || ""
+
+      var monthEl = filterEl.lastChild
+      monthEl.value = parts[1] || ""
+      monthEl.hidden = !yearEl.value
+      monthEl.style.display = monthEl.hidden ? "none" : ""
+    }
+
+    function readDateFilter() {
+      var filterEl = d.getElementsByClassName("js-date")[0]
+      if (filterEl.tagName === "INPUT") return filterEl.value
+
+      var yearEl = filterEl.firstChild
+      var monthEl = filterEl.lastChild
+
+      if (!yearEl.value) return yearEl.value
+
+      var val = yearEl.value
+
+      if (monthEl.value) val += "-"
+
+      if (monthEl.value && monthEl.value.length < 2) val += "0" + monthEl.value
+      else if (monthEl.value) val += monthEl.value
+
+      return val
+    }
+
+    function initDateFilter() {
+      var filterEl = d.getElementsByClassName("js-date")[0]
+      if (filterEl.type === "month") return
+
+      var containerEl = d.createElement("DIV")
+      containerEl.className = "js-date"
+
+      var yearEl = d.createElement("SELECT")
+      yearEl.style.width = "auto"
+      yearEl.appendChild(d.createElement("OPTION"))
+      yearEl.childNodes[0].value = ""
+      yearEl.childNodes[0].selected = true
+      yearEl.childNodes[0].disabled = true
+      yearEl.childNodes[0].textContent =
+        "{{ site.data.projects.filter.year }}"
+
+      var minYear = filterEl.getAttribute("min").slice(0, 4) | 0
+      var maxYear = filterEl.getAttribute("max").slice(0, 4) | 0
+      for (i = minYear; i <= maxYear; i += 1) {
+        yearEl.appendChild(d.createElement("OPTION"))
+        yearEl.childNodes[yearEl.childNodes.length - 1].textContent = i
+      }
+
+      var monthEl = d.createElement("SELECT")
+      monthEl.hidden = true
+      monthEl.style.display = monthEl.hidden ? "none" : ""
+      monthEl.style.width = "auto"
+      monthEl.appendChild(d.createElement("OPTION"))
+      monthEl.childNodes[0].value = ""
+      monthEl.childNodes[0].selected = true
+      monthEl.childNodes[0].disabled = true
+      monthEl.childNodes[0].textContent =
+        "{{ site.data.projects.filter.month }}"
+
+      var i;
+      for (i = 1; i <= 12; i += 1) {
+        monthEl.appendChild(d.createElement("OPTION"))
+        monthEl.childNodes[monthEl.childNodes.length - 1].textContent = i
+      }
+
+      containerEl.appendChild(yearEl)
+      containerEl.appendChild(monthEl)
+
+      filterEl.parentNode.replaceChild(containerEl, filterEl)
+    }
+
+    w.addEventListener("popstate", filter, false)
     w.addEventListener("load", filter, false)
     d.addEventListener("DOMContentLoaded", function(ev) {
       w.removeEventListener("load", filter, false)
       filter(ev)
     }, false)
+    initDateFilter()
+    d.getElementsByClassName("js-date")[0].
+      addEventListener("change", pushDateFilter, false)
   }(window, document))
 </script>
 {% endif %}

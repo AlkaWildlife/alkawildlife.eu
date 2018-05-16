@@ -1,0 +1,30 @@
+{% assign sorted_projects__this_month = site.time | date: "%Y-%m" %}
+{% assign sorted_projects__no_to_projects = site.projects |
+     where_exp: "project", "project.from != null" |
+     where_exp: "project", "project.to == null" %}
+{% assign sorted_projects__active_exp = "project.to >= '" |
+     append: sorted_projects__this_month |
+     append: "'" %}
+{% assign sorted_projects__has_to_projects = site.projects |
+     where_exp: "project", sorted_projects__active_exp %}
+{% assign sorted_projects__has_from_projects =
+     sorted_projects__no_to_projects |
+     concat: sorted_projects__has_to_projects |
+     sort: "title" | reverse |
+     sort: "from" | reverse %}
+{% assign sorted_projects__no_from_projects = site.projects |
+     where_exp: "project", "project.from == null" |
+     sort: "title" %}
+{% assign sorted_projects__active_projects =
+     sorted_projects__has_from_projects |
+     concat: sorted_projects__no_from_projects %}
+{% assign sorted_projects__past_exp = "project.to < '" |
+     append: sorted_projects__this_month |
+     append: "'" %}
+{% assign sorted_projects__past_projects = site.projects |
+     where_exp: "project", sorted_projects__past_exp |
+     sort: "title" | reverse |
+     sort: "to" | reverse %}
+{% assign sorted_projects =
+     sorted_projects__active_projects |
+     concat: sorted_projects__past_projects %}
