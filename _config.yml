@@ -35,6 +35,8 @@ collections:
     permalink: /:categories/:title
   projects:
     output: true
+  publications: {}
+  publication_types: {}
   showcases: {}
   filterable_tags: {}
 

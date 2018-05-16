@@ -1,0 +1,117 @@
+---
+title: Publikace
+published: true
+listed: true
+position: 5
+layout: contentpage
+---
+<div class="page-item page-item__">
+  <div class="item_header">
+    <h3 class="item_title">{{ site.data.publications.title }}</h3>
+  </div>
+  <div class="item_fulltext">
+    {% assign publication_types = site.publication_types | sort: "position" %}
+    {% for publication_type in publication_types %}
+      {% assign publications = site.publications |
+           where: "type", publication_type.title |
+           sort: "title" | reverse |
+           sort: "year", "last" | reverse %}
+      {% unless publications.size > 0 %}{% continue %}{% endunless %}
+      <h4>{{ publication_type.title }}</h4>
+      {% for publication in publications %}
+        <p><a href="{{ publication.link }}">{{ publication.title }}</a>
+          {%- assign has_break = false -%}
+          {%- if publication.authors and publication.authors.size > 0 -%}
+            {%- unless has_break -%}
+              <br>
+              {%- assign has_break = true -%}
+            {%- endunless -%}
+            {%- for author in publication.authors -%}
+              {%- unless forloop.first %}, {% endunless -%}
+              {{- author.name -}}
+            {%- endfor -%}
+            .
+          {% endif -%}
+          {%- if publication.publisher %}
+            {%- unless has_break -%}
+              <br>
+              {%- assign has_break = true -%}
+            {%- endunless -%}
+            {{ publication.publisher }}.
+          {% endif -%}
+          {%- if publication.journal %}
+            {%- unless has_break -%}
+              <br>
+              {%- assign has_break = true -%}
+            {%- endunless -%}
+            {{ publication.journal }}.
+          {% endif -%}
+          {%- if publication.year %}
+            {%- unless has_break -%}
+              <br>
+              {%- assign has_break = true -%}
+            {%- endunless -%}
+            {{ publication.year }}.
+          {% endif -%}
+          {%- assign last_path_segment = publication.link |
+                split: "/" |
+                last -%}
+          {%- assign extension = last_path_segment |
+                split: "." |
+                last -%}
+          {%- assign normalized_extension = extension | upcase -%}
+          {%- if extension.size > 0 and
+                 last_path_segment != extension and
+                 normalized_extension != "HTML" -%}
+            {%- assign has_extension = true -%}
+          {%- else -%}
+            {%- assign has_extension = false -%}
+          {%- endif -%}
+          {%- if publication.lang or has_extension -%}
+            {%- unless has_break -%}
+              <br>
+              {%- assign has_break = true -%}
+            {%- endunless -%}
+            (
+            {%- if publication.lang -%}
+              {%- include helpers/cldr.html name="languages"
+                                            type=publication.lang -%}
+            {%- endif -%}
+            {%- if publication.lang and has_extension %}, {% endif -%}
+            {%- if has_extension -%}
+              {{ normalized_extension }}
+            {%- endif -%}
+            )
+          {%- endif -%}
+          {%- if publication.attachments and
+                 publication.attachments.size > 0 -%}
+            <br>&nbsp;
+            {%- for attachment in publication.attachments -%}
+              {%- unless forloop.first %}, {% endunless -%}
+              {%- assign last_path_segment = publication.link |
+                    split: "/" |
+                    last -%}
+              {%- assign extension = last_path_segment |
+                    split: "." |
+                    last -%}
+              {%- assign normalized_extension = extension | upcase -%}
+              {%- if extension.size > 0 and
+                     last_path_segment != extension and
+                     normalized_extension != "HTML" -%}
+                {%- assign has_extension = true -%}
+              {%- else -%}
+                {%- assign has_extension = false -%}
+              {%- endif -%}
+              {%- if attachment.title -%}
+                <a href="{{ attachment.link }}">{{ attachment.title }}</a>
+              {%- else -%}
+                <a href="{{ attachment.link }}">{{ last_path_segment }}</a>
+              {%- endif -%}
+              {%- if has_extension %} ({{ normalized_extension }}){%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        </p>
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>
