@@ -36,10 +36,10 @@ layout: projects
       {%- endif -%}
     </h4>
     <p>
-      <time datetime="{{ page.from | date: "%Y-%m-%d" }}">{{ page.from | date: "%-m/%Y" }}</time>
+      <time datetime="{{ page.from | date: "%Y-%m-%d" }}">{{ page.from | append: "-01" | date: "%-m/%Y" }}</time>
       {%- if page.to %}
         &ndash;
-        <time datetime="{{ page.to | date: "%Y-%m-%d" }}">{{ page.to | date: "%-m/%Y" }}</time>
+        <time datetime="{{ page.to | date: "%Y-%m-%d" }}">{{ page.to | append: "-01" | date: "%-m/%Y" }}</time>
       {%- endif -%}
     </p>
   {% endif %}

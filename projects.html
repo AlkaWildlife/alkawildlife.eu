@@ -41,7 +41,7 @@ layout: projects
             {%- endif %}
             {% if project.from %}
             <dd>
-              <div class="item_published"><time datetime="{{ project.from | date: "%Y-%m-%d" }}" class="js-project-from">{{ project.from | date: "%-m/%Y" }}</time>{% if project.to %} &ndash; <time datetime="{{ project.to | date: "%Y-%m-%d" }}" class="js-project-to">{{ project.to | date: "%-m/%Y" }}</time>{% endif %}</div>
+              <div class="item_published"><time datetime="{{ project.from | date: "%Y-%m-%d" }}" class="js-project-from">{{ project.from | append: "-01" | date: "%-m/%Y" }}</time>{% if project.to %} &ndash; <time datetime="{{ project.to | date: "%Y-%m-%d" }}" class="js-project-to">{{ project.to | append: "-01" | date: "%-m/%Y" }}</time>{% endif %}</div>
             </dd>
             {% endif %}
           </dl>
