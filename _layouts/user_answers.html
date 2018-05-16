@@ -205,20 +205,20 @@ layout: default
         date.setDate(day)
         if (date.getMonth() !== firstMomentOfMonth(month).getMonth()) break
       }
-      resetTime(date).setTime(date.getTime() - 1)
+      date.setTime(date.getTime() - 1)
 
       return date
     }
 
-    function filterByDate(month) {
-      if (!month) return
+    function filterByDate(monthFilter) {
+      if (!monthFilter) return
 
       forEachUserAnswer(function(ua) {
         var filterDate = resetTime(new Date(
           ua.getElementsByClassName("js-user-answer-date")[0].dateTime
         ))
-        ua.hidden = !((firstMomentOfMonth(month) <= filterDate) &&
-                      (lastMomentOfMonth(month) > filterDate))
+        ua.hidden = !((firstMomentOfMonth(monthFilter) <= date) &&
+                      (lastMomentOfMonth(monthFilter) >= date))
       })
     }
 
@@ -230,7 +230,7 @@ layout: default
       filterByDate(params["month"])
     }
 
-    w.addEventListener("onpopstate", filter, false)
+    w.addEventListener("popstate", filter, false)
     w.addEventListener("load", filter, false)
     d.addEventListener("DOMContentLoaded", function(ev) {
       w.removeEventListener("load", filter, false)
