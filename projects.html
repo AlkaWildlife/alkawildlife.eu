@@ -31,6 +31,7 @@ layout: projects
         </div>
         <div class="item_info m-bottom-1">
           <dl class="item_info_dl">
+            {% if project.tags and project.tags.size > 0 %}
             <dd>
               <div class="item_category-name">
                 {% for tag in project.tags %}
@@ -48,10 +49,15 @@ layout: projects
                 {% endfor %}
               </div>
             </dd>
-            |
+            {% endif %}
+            {% if project.tags and project.tags.size > 0 and project.from -%}
+              |
+            {%- endif %}
+            {% if project.from %}
             <dd>
               <div class="item_published"><time datetime="{{ project.from | date: "%Y-%m-%d" }}" class="js-project-from">{{ project.from | date: "%-m/%Y" }}</time>{% if project.to %} &ndash; <time datetime="{{ project.to | date: "%Y-%m-%d" }}" class="js-project-to">{{ project.to | date: "%-m/%Y" }}</time>{% endif %}</div>
             </dd>
+            {% endif %}
           </dl>
         </div>
         <div class="item_introtext">

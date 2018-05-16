@@ -1,11 +1,17 @@
 <div class="item_info m-bottom-1">
   <dl class="item_info_dl">
+    {% if include.user_answer.author %}
     <dd>
       <div class="item_createdby">
         {%- include helpers/author.html author=include.user_answer.author -%}
       </div>
     </dd>
-    |
+    {% endif %}
+    {% if include.user_answer.author and
+          include.user_answer.tags and include.user_answer.tags.size > 0 -%}
+      |
+    {%- endif %}
+    {% if include.user_answer.tags and include.user_answer.tags.size > 0 %}
     <dd>
       <div class="item_category-name">
         {% for tag in include.user_answer.tags %}
@@ -23,7 +29,11 @@
         {% endfor %}
       </div>
     </dd>
-    |
+    {% endif %}
+    {% if include.user_answer.author or
+          (include.user_answer.tags and include.user_answer.tags.size > 0) -%}
+      |
+    {%- endif %}
     <dd>
       <div class="item_published"><time datetime="{{ include.user_answer.date | date: "%Y-%m-%d" }}" class="js-user-answer-date">{{ include.user_answer.date | date: "%e. %-m. %Y" }}</time></div>
     </dd>
