@@ -475,6 +475,9 @@ collections:
     widget: list
     required: false
     fields:
+    - name: description
+      label: Short description
+      widget: string
     - name: link
       label: URL (relative address referencing a PDF)
       widget: string
