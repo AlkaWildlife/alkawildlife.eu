@@ -1,0 +1,14 @@
+{%- assign cldr__lang = include.lang | default: site.lang |
+      split: "_" |
+      first -%}
+{%- assign cldr__found = false -%}
+{%- for cldr__data in site.data[include.name][cldr__lang] -%}
+  {%- if cldr__data.type == include.type -%}
+    {{- cldr__data.name -}}
+    {%- assign cldr__found = true -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- unless cldr__found -%}
+  {{- country -}}
+{%- endunless -%}
