@@ -46,8 +46,14 @@ collections:
   #   label: Thumbnail for listing in related pages (240 × 135 px)
   #   widget: image
   #   required: false
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
   - name: body
-    label: Body
+    label: Content
     widget: markdown
   - name: published
     label: Published (publicly available under address)
@@ -288,6 +294,12 @@ collections:
     label: Optional thumbnail for news listing (274 × 175 px)
     widget: image
     required: false
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
   - name: body
     label: Content
     widget: markdown
@@ -423,8 +435,14 @@ collections:
     - PL
     default:
     - CZ
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
   - name: body
-    label: Body
+    label: Content
     widget: markdown
 
 - name: publications
@@ -535,8 +553,14 @@ collections:
   - name: author
     label: Author
     widget: string
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
   - name: body
-    label: Body
+    label: Content
     widget: markdown
   - name: tags
     label: >-
@@ -624,6 +648,12 @@ collections:
   - name: content_thumbnail
     label: Optional thumbnail for gallery as part of a page (200 × 200 px)
     widget: image
+    required: false
+  - name: description
+    label: >-
+      Short description (up to 10 words displayed as a preview of the
+      following body; defaults to truncated photo description)
+    widget: text
     required: false
   - name: body
     label: Description

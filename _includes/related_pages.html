@@ -53,7 +53,8 @@
             </h4>
           </div>
           <div class="item_introtext remove-all-the-styles">
-            {{ child.content | markdownify | strip_html | truncatewords: 50 }}
+            {% include helpers/description.html item=child words=50
+                                                markdownify=true %}
           </div>
         </div>
       </div>

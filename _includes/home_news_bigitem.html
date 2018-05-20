@@ -12,7 +12,7 @@
         </a>
       </div>
       <div class="item_introtext">
-        {{ include.news.content | strip_html | truncatewords: 22 }}
+        {% include helpers/description.html item=include.news words=22 %}
       </div>
     </div>
   </div>

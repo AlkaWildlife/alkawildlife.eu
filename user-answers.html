@@ -18,7 +18,7 @@ layout: user_answers
         </div>
         {% include user_answer_info.html user_answer=user_answer %}
         <div class="item_introtext">
-          <p>{{ user_answer.content | strip_html | truncatewords: 60 }}</p>
+          <p>{% include helpers/description.html item=user_answer words=60 %}</p>
         </div>
         <a class="btn btn-info" href="{{ user_answer.url }}">
           <span>{{ site.data.user_answers.more }}</span>

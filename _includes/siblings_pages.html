@@ -54,7 +54,8 @@
           </h4>
         </div>
         <div class="item_introtext">
-          {{ sibling.content | markdownify | strip_html | truncate: 120 }}
+          {% include helpers/description.html item=sibling words=22
+                                              markdownify=true %}
         </div>
       </div>
     </div>

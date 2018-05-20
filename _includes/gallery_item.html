@@ -29,7 +29,7 @@
     <h5 class="item_title">{{ include.photo.title | truncate: 35 }}</h5>
   </div>
   <div class="item_introtext">
-    {{ include.photo.content | truncatewords: 10 }}
+    {% include helpers/description.html item=include.photo words=10 %}
     {% if include.photo.author %}(<i>{% include helpers/author.html author=include.photo.author %}</i>){% endif %}
   </div>
   <div class="clearfix"></div>

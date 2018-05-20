@@ -14,7 +14,7 @@
         </a>
       </div>
       <div class="item_introtext">
-        {{ include.news.content | strip_html | truncatewords: 50 }}
+        {% include helpers/description.html item=include.news words=50 %}
       </div>
       <br>
       <a class="btn btn-info" href="{{ include.news.url | relative_url }}">

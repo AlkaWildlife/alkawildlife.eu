@@ -47,7 +47,7 @@ layout: projects
           </dl>
         </div>
         <div class="item_introtext">
-          <p>{{ project.content | strip_html | truncatewords: 60 }}</p>
+          <p>{% include helpers/description.html item=project words=60 %}</p>
         </div>
         <a class="btn btn-info" href="{{ project.url }}">
           <span>{{ site.data.project.more }}</span>
