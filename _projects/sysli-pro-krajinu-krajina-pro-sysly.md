@@ -17,6 +17,16 @@ contacts:
 - name: Kateřina Poledníková
 tags:
 - sysel
+description: >-
+  Sysel obecný je ohrožený druh, jeden z nejvzácnějších savců
+  Evropy. V současnosti je znám z programového území jen z 24
+  izolovaných lokalit (roztroušeně v Trenčianském, Trnavském
+  a Jihomoravském kraji). Cílem projektu je přispět k záchraně tohoto
+  druhu na úrovni celého programového území komplexním souborem
+  aktivit. Projekt přispívá ke zlepšení životního prostředí obyvatel
+  regionu. Projekt také cílí na návštěvníky regionu, kterým bude sysel
+  představen jako zástupce místní přírody a symbol zachovalé stepní
+  zemědělské krajiny.
 ---
 # Cíl projektu
 

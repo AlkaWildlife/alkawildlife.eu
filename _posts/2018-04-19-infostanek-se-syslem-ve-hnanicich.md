@@ -5,6 +5,9 @@ published: true
 date: 2018-04-19
 category: news
 layout: news
+description: >-
+  Srdečně Vás zveme 5. 5. 2018 na Otevřené sklepy ve Hnanicích, kde
+  bude i náš Informační stánek se syslem.
 ---
 S jarem se probudili sysli, nám začal nový velký projekt a vinaři se
 chystají na jarní otevřené sklepy. Srdečně Vás proto zveme 5. 5. 2018 na
