@@ -87,7 +87,7 @@ p {
   font-size: 12px;
   line-height: 19px;
   background: #ffffff;
-  color: #617277;
+  color: #7b7764;
   text-shadow: none;
   border: 1px solid #e6e6e6;
   border-bottom-color: #e6e6e6;
@@ -375,7 +375,7 @@ input[type='checkbox'] {
   display: none; }
 
 .navigation {
-  background: url(../images/topmbg.png) repeat-x;
+  background: url(../images/topmbg.gif) repeat-x;
   height: 76px;
   border-bottom: 6px solid #617b00;
   margin: 0 auto; }
@@ -584,7 +584,7 @@ input[type='checkbox'] {
 /*======================= MAINTOP =======================*/
 #maintop-row {
   border: 1px solid rgba(0, 0, 0, 0.05);
-  background: rgba(124, 155, 165, 0.34);
+  background: rgba(218, 183, 127, 0.34);
   padding: 35px 0 27px; }
 
 #maintop-row .animals .item_title {
@@ -731,7 +731,7 @@ blockquote small {
 #aside-right .testimonials blockquote p {
   padding: 25px 30px;
   border: 1px solid rgba(0, 0, 0, 0.05);
-  background: rgba(124, 155, 165, 0.34);
+  background: rgba(218, 183, 127, 0.34);
   border-bottom: none; }
 
 #aside-right .testimonials blockquote p:before,
@@ -751,7 +751,7 @@ blockquote small {
 
 #aside-right .testimonials blockquote small a,
 #aside-right .testimonials blockquote small span {
-  color: #003459;
+  color: #156e2f;
   text-transform: none; }
 
 #aside-right .testimonials blockquote small a:hover,
@@ -893,7 +893,7 @@ input[type="color"]:focus,
 .list1 ul li a,
 .links ul li a {
   display: inline;
-  color: #00A8E8;
+  color: #74705f;
   line-height: 19px; }
 
 .archive-module li a:hover,
@@ -940,7 +940,7 @@ input[type="color"]:focus,
   margin: 0 0 4px; }
 
 #mainbottom-row .whyus .item_introtext ul li a {
-  color: #00A8E8;
+  color: #74705f;
   line-height: 19px; }
 
 #mainbottom-row .whyus .item_introtext ul li a:hover {
@@ -950,7 +950,7 @@ input[type="color"]:focus,
   margin: 0 0 7px; }
 
 #mainbottom-row .news .item_published {
-  color: #003459;
+  color: #156e2f;
   margin: 0 0 3px; }
 
 #mainbottom-row .news h6.item_title__news {
@@ -958,7 +958,7 @@ input[type="color"]:focus,
   line-height: 18px; }
 
 #mainbottom-row .news h6.item_title__news a {
-  color: #00A8E8; }
+  color: #74705f; }
 
 #mainbottom-row .news h6.item_title__news a:hover {
   color: #a2d438; }
@@ -986,14 +986,14 @@ input[type="color"]:focus,
 
 #copyright {
   text-transform: uppercase;
-  color: #7C9BA5; }
+  color: #635f50; }
 
 #copyright .year:after {
   content: '|';
   padding: 0 0 0 4px; }
 
 #copyright a {
-  color: #7C9BA5; }
+  color: #635f50; }
 
 #copyright a:hover {
   color: #8b8980; }
