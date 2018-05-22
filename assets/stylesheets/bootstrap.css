@@ -128,7 +128,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   line-height: 19px;
-  color: #617277;
+  color: #7b7764;
   background-color: #ffffff; }
 
 a {
@@ -1241,7 +1241,7 @@ select:focus:required:invalid:focus {
 .input-append .active,
 .input-prepend .active {
   background-color: #c3c1b5;
-  border-color: #617277; }
+  border-color: #7b7764; }
 
 .input-prepend .add-on,
 .input-prepend .btn {
