@@ -11,18 +11,21 @@
   <body>
     <script src="{{ "/assets/javascripts/cms.js" | relative_url }}"></script>
     <script>{% raw %}
+      /** @typedef {string} */
+      var CldrType
+
       /**
        * @typedef {{
-       *   type: string,
+       *   type: CldrType,
        *   name: string
        * }}
        */
       var CldrData
 
-      /** @typedef {!Array<string>} */
+      /** @typedef {!Array<CldrType>} */
       var CldrDataTypes
 
-      /** @typedef {(undefined|CldrDataTypes)} */
+      /** @typedef {(undefined|CldrType|CldrDataTypes)} */
       var ControlValue
 
       /**
@@ -86,6 +89,19 @@
       }
     {% endraw %}</script>
     <script>{% raw %}
+      /**
+       * Returns value from props as array of CLDR types.
+       *
+       * @param {!ControlProps} props
+       * @return {!CldrDataTypes}
+       */
+      function valueAsCldrTypes(props) {
+        return props.field.get('multiple') ?
+          (props.value || []) :
+          (props.value ? [props.value] : [])
+      }
+    {% endraw %}</script>
+    <script>{% raw %}
       function generateCldrWidgetControl(cldrList) {
         /**
          * Netlify CMS widget control to set multiple CLDR data items.
@@ -106,7 +122,7 @@
            * @param {Event} ev event’s target has new value
            */
           function onChange(idx, ev) {
-            var newValue = (props.value || []).slice(0)
+            var newValue = valueAsCldrTypes(props).slice(0)
             newValue[idx] = ev.target.value
             setNewValue(newValue)
           }
@@ -118,7 +134,7 @@
            * change
            */
           function onRemove(idx) {
-            var newValue = props.value.slice(0)
+            var newValue = valueAsCldrTypes(props).slice(0)
             newValue.splice(idx, 1)
             setNewValue(newValue)
           }
@@ -129,7 +145,11 @@
            * @param {!Array<!CldrData>} newValue
            */
           function setNewValue(newValue) {
-            if (newValue.length > 0) props.onChange(newValue)
+            var val =
+              props.field.get('multiple') ? newValue : newValue[0]
+            var notEmpty =
+              props.field.get('multiple') ? newValue.length > 0 : !!val
+            if (notEmpty) props.onChange(val)
             else props.onChange()
           }
 
@@ -137,31 +157,31 @@
            * Moves prioritized CLDR data items to the begging.
            *
            * @param {!Array<!CldrData>} cldrItems CLDR date items
-           * @param {!Immutable.List<string>} priorities CLDR data types
+           * @param {!Immutable.List<CldrType>} priorities CLDR data types
            * @return {!Array<!CldrData>}
            */
           function prioritizeCldrItems(cldrItems, priorities) {
             return priorities.
-              // Find exact CLDR data items to move to the top
-              map(function(type) {
-                var idx
-                for (idx = 0; idx < cldrItems.length; idx += 1) {
-                  if (cldrItems[idx].type === type) return cldrItems[idx]
-                }
-                return null
-              }, []).
-              filter(function(cldrData) { return cldrData !== null  }).
-              reverse().
-              // Find exact CLDR data items to move to the top
-              reduce(function(ts, cldrData, i) {
-                if (i === 0) ts.unshift(null)
+               // Find exact CLDR data items to move to the top
+               map(function(type) {
+                 var idx
+                 for (idx = 0; idx < cldrItems.length; idx += 1) {
+                   if (cldrItems[idx].type === type) return cldrItems[idx]
+                 }
+                 return null
+               }, []).
+               filter(function(cldrData) { return cldrData !== null  }).
+               reverse().
+               // Find exact CLDR data items to move to the top
+               reduce(function(ts, cldrData, i) {
+                 if (i === 0) ts.unshift(null)
 
-                var idx = ts.indexOf(cldrData);
-                ts.splice(idx, 1)
-                ts.unshift(cldrData)
+                 var idx = ts.indexOf(cldrData);
+                 ts.splice(idx, 1)
+                 ts.unshift(cldrData)
 
-                return ts
-              }, cldrItems.slice(0))
+                 return ts
+               }, cldrItems.slice(0))
           }
 
           /**
@@ -173,8 +193,8 @@
            * select and its value from the whole widget.
            *
            * @param {number} idx position in set CLDR data items
-           * @param {string} selectedType CLDR data type
-           * @param {?Immutable.Map<string>} priorities prioritized
+           * @param {CldrType} selectedType CLDR data type
+           * @param {?Immutable.Map<CldrType>} priorities prioritized
            * CLDR data types
            * @param {object=} attrs additional attributes for the select
            * element
@@ -199,12 +219,12 @@
               attrs,
               cldrItems.map(function(cldrData, i) {
                 return cldrData !== null ?
-                  h('option', { value: cldrData.type }, cldrData.name) :
-                  h('option', { disabled: true, selected: i === 0 })
+                       h('option', { value: cldrData.type }, cldrData.name) :
+                       h('option', { disabled: true, selected: i === 0 })
               })
             )]
 
-            if (selectedType !== null) {
+            if (props.field.get('multiple') && selectedType !== null) {
               els.push(h(
                 'button',
                 { type: 'button',
@@ -216,43 +236,71 @@
             return els
           }
 
-          var cldrItems = (props.value || [])
+          var children = valueAsCldrTypes(props).
+            /* 1. Get SELECT element for each CLDR item received as
+             *    value. SELECT elements are separated by BR
+             *    element.
+             */
+            map(function(code, idx) {
+              return (
+                idx > 0 ? [h('br')] : []
+              ).concat(
+                cldrDataSelectElement(idx, code, props.field.get('priority'))
+              )
+            }).
+            /* 2. Flatten the result of previous step. Previous step
+             *    creates structure like this:
+             *    [[SELECT, BR], [SELECT, BR], …, [SELECT, BR]].
+             */
+            reduce(function(flat, els) { return flat.concat(els) }, [])
+
+          if (props.field.get('multiple') &&
+              valueAsCldrTypes(props).length >= 0) {
+            /* 3. Divide SELECT carrying control value from empty one.
+             *    This is necessary as a separate step to support
+             *    multiple as an option – otherwise it would be
+             *    simpler and done in the first step.
+             */
+            children = children.concat([h('br')])
+          }
+
+          if (props.field.get('multiple') ||
+              valueAsCldrTypes(props).length <= 0) {
+            /* 4. Append empty SELECT so that user can set new CLDR
+             *    item as control value, or append it if multiple
+             *    options are allowed.
+             */
+            children = children.concat(
+              cldrDataSelectElement(valueAsCldrTypes(props).length,
+                                    null,
+                                    props.field.get('priority'), {
+                                      id: props.forID
+                                    })
+            )
+          }
 
           return h(
             'div',
             { className: props.classNameWrapper },
-            cldrItems.
-              map(function(code, idx) {
-                return cldrDataSelectElement(
-                  idx, code, props.field.get('priority')
-                ).concat([
-                  h('br')
-                ])
-              }).
-              reduce(function(flat, els) { return flat.concat(els) }, []).
-              concat(
-                cldrDataSelectElement(cldrItems.length, null,
-                                      props.field.get('priority'), {
-                                        id: props.forID
-                                      })
-              )
+            children
           )
         }
       }
-    {% endraw %}</script>
+     {% endraw %}</script>
     <script>{% raw %}
       function generateCldrWidgetPreview(cldrList) {
         /**
          * Netlify CMS widget preview translating CLDR data types to
          * names.
          *
-         * @param {!{value: ControlValue}} props
+         * @param {!{value: ControlValue, field: !Immutable.Map}}
+         * props
          * @return {!React.ReactNode}
          */
         return function cldrWidgetPreview(props) {
           return h('div',
                    {},
-                   props.value.
+                   valueAsCldrTypes(props).
                      map(function(type) {
                        var idx
                        for (idx = 0; idx < cldrList.length; idx += 1) {

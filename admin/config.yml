@@ -427,6 +427,7 @@ collections:
   - name: countries
     label: Countries
     widget: territories
+    multiple: true
     priority:
     - CZ
     - DE
