@@ -885,12 +885,50 @@ collections:
     label: Global footer
     file: _data/footer.yml
     fields:
-    - name: funded_by_eea
-      label: Supported by grant from Iceland, Liechtenstein and Norway
-      widget: boolean
-    - name: funded_by_moe
-      label: Supported by Ministry of the Environment of the Czech Republic
-      widget: boolean
+    - name: funded_by
+      label: Funding institutions
+      widget: list
+      fields:
+      - name: logos
+        label: Logos
+        widget: list
+        fields:
+        - name: image
+          label: Image
+          widget: file
+        - name: height
+          label: Height (in pixels; width is computed to maintain proportions)
+          widget: number
+          valueType: int
+          min: 1
+        - name: margin_top_bottom
+          label: Vertical space around the image (in pixels)
+          widget: number
+          valueType: int
+          min: 1
+        - name: margin_left_right
+          label: Horizontal space around the image (in pixels)
+          widget: number
+          valueType: int
+          min: 1
+      - name: description
+        label: Description (or some mandatory text)
+        widget: list
+        fields:
+        - name: lang
+          label: Language
+          widget: languages
+          priority:
+          - cs
+          - sk
+          - en
+          - de
+          - pl
+          default:
+          - cs
+        - name: body
+          label: Content
+          widget: string
 
   - name: header
     label: Global header
