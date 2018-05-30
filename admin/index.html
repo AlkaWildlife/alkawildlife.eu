@@ -46,7 +46,7 @@
           if (this.status !== 200) {
             alert('Cannot load ' + name + ' list')
             if (Object.freeze) Object.freeze(ret)
-            return ret
+            return
           }
 
           var list = Array.prototype.slice.call(
