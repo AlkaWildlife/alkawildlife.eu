@@ -11,22 +11,38 @@
               </span>
               <span class="copy">&copy;</span>
               <span>{{ site.time | date: '%Y' }}</span>
-              {% if site.data.footer.funded_by_eea %}
-                <p class="f-10 m-top-2">
-                  <span lang="cs">Podpořeno grantem z&nbsp;Islandu, Lichtenštejnska a&nbsp;Norska.</span><br>
-                  <span lang="en">Supported by grant from Iceland, Liechtenstein and Norway.</span>
+              {% for fund in site.data.footer.funded_by %}
+                {% unless fund.description.size > 0 %}
+                  {% continue %}
+                {% endunless %}
+                <p class="f-10{% if forloop.first %} m-top-2{% endif %}">
+                  {% for description in fund.description %}
+                    {% unless forloop.first %}<br>{% endunless %}
+                    <span lang="{{ description.lang }}">{{ description.body }}</span>
+                  {% endfor %}
                 </p>
-              {% endif %}
+              {% endfor %}
             </div>
-            {% if site.data.footer.funded_by_eea or
-                  site.data.footer.funded_by_moe %}
-              <div>
-                {% if site.data.footer.funded_by_eea %}
-                  <img src="{{ "/assets/images/ehp-fondy-small.jpg" | relative_url }}">
-                {% endif %}
-                {% if site.data.footer.funded_by_moe %}
-                  <img src="{{ "/assets/images/opeu-logo-small.jpg" | relative_url }}">
-                {% endif %}
+            {% if site.data.footer.funded_by.size > 0 %}
+              <div style="text-align: right;">
+              {% for fund in site.data.footer.funded_by %}
+                {% unless fund.logos.size > 0 %}
+                  {% continue %}
+                {% endunless %}
+                {% for logo in fund.logos %}
+                  {% assign style = "" |
+                       append: "width: auto; " |
+                       append: "height: " |
+                       append: logo.height |
+                       append: "px; " |
+                       append: "margin: " |
+                       append: logo.margin_top_bottom |
+                       append: "px " |
+                       append: logo.margin_left_right |
+                       append: "px;" %}
+                  <img src="{{ logo.image | relative_url }}" style="{{ style }}">
+                {% endfor %}
+              {% endfor %}
               </div>
             {% endif %}
           </div>
