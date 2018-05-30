@@ -484,7 +484,15 @@ collections:
     default: 2018
   - name: lang
     label: Language
-    widget: string
+    widget: languages
+    priority:
+    - cs
+    - sk
+    - en
+    - de
+    - pl
+    default:
+    - cs
   - name: link
     label: URL (relative address referencing a PDF)
     widget: string
