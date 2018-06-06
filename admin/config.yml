@@ -781,8 +781,32 @@ collections:
         - name: question
           label: Message
           widget: string
+        - name: honeypot
+          label: Honeypot (mention that humans shouldn’t fill this in)
+          widget: string
         - name: submit
           label: Submit
+          widget: string
+      - name: consent
+        label: Consent (note about data handling)
+        widget: string
+      - name: results
+        label: Possible results of form submission
+        widget: list
+        fields:
+        - name: id
+          label: ID
+          widget: string
+        - name: type
+          label: Type
+          widget: select
+          options:
+          - success
+          - info
+          - warning
+          - danger
+        - name: message
+          label: Message
           widget: string
 
   - name: gallery

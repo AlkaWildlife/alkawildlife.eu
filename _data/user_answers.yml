@@ -10,5 +10,29 @@ form:
   fields:
     name: Jméno
     email: Email
-    message: Dotaz
+    question: Dotaz
+    honeypot: Doplňující komentář (nevyplňujte pokud jste člověk)
     submit: Odeslat
+  consent: >-
+    Údaje z formuláře budou doručeny na email zaměstnance ALKA
+    Wildlife, o.p.s. a budou použity pouze k zodpovězení dotazu.
+  results:
+  - id: no-email
+    type: danger
+    message: Zadejte email, na který chcete zaslat odpověď.
+  - id: no-question
+    type: danger
+    message: Zadejte svůj dotaz.
+  - id: no-email,no-question
+    type: danger
+    message: >-
+      Zadejte svůj dotaz a email, na který chcete zaslat odpověď.
+  - id: fail
+    type: danger
+    message: >-
+      Omlouváme se, ale dotaz se nepodařilo odeslat. Zkuste to
+      prosím znovu. Pokud se ani to nepodaří, oslovte přímo někoho
+      uvedeného v <a href="/o-nas/kontakty">kontaktech</a>.
+  - id: sent
+    type: success
+    message: Dotaz byl úspěšně odeslán.
