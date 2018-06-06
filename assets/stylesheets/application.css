@@ -9817,6 +9817,20 @@ article {
 
 .flex {
   display: flex; }
+  .flex--wrap {
+    flex-wrap: wrap; }
+  .flex--small-wrap {
+    flex-wrap: wrap; }
+@media (min-width: 576px) {
+      .flex--small-wrap {
+        flex-wrap: nowrap; }
+}
+  .flex--centered {
+    align-content: center;
+    align-items: center;
+    justify-content: center; }
+  .flex--even > * {
+    flex: 1 1 1%; }
 
 .block {
   display: block; }
