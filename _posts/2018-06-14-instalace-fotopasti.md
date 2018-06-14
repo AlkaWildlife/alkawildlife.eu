@@ -1,15 +1,15 @@
 ---
-title: instalace fotopasti
-image: /media/dscn4767.jpg
-content_thumbnail: /media/dscn4767_320.jpg
-description: 'Monitoring rysů probíhá pomocí fotopastí. '
+title: Instalace fotopasti
+image: /media/imag0013_2000.jpg
+content_thumbnail: /media/imag0013_320.jpg
+description: Monitoring rysů probíhá pomocí fotopastí.
 author: Štěpán Zápotočný
 tags:
   - rys; práce v terénu
 lang_alternatives:
   en_GB:
     title: Installation of phototrap
-date: '2018-06-14 18:47:43 +0200'
+date: '2018-06-14 19:09:14 +0200'
 category: gallery
 layout: photo
 ---
