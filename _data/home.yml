@@ -1,36 +1,26 @@
 news:
-  following: Další zprávy
   all: Všechny zprávy
-
+  following: Další zprávy
 links:
-  - title: Sysli na vynici
-    url: https://www.syslinavinici.cz
-    image: /media/syslinavinici.jpg
-  - title: Vydry online
-    url: https://www.vydryonline.cz
-    image: /media/vydryonline.jpg
-  - title: Vydry na silnici
-    url: http://www.vydrynasilnici.cz
-    image: /media/vydrynasilnici.jpg
-  - title: Vydří stezka
-    url: https://www.vydristezky.cz
-    image: /media/vydristezky.jpg
-  - title: 3Lynx mapa
-    url: http://map.translynx.eu/cs
-    image: /media/map_translynx_eu.jpg
-
+  - image: /media/syslinavinici.jpg
+    title: Sysli na vinici
+    url: 'https://www.syslinavinici.cz'
+  - image: /media/vydryonline.jpg
+    title: Vydry online
+    url: 'https://www.vydryonline.cz'
+  - image: /media/vydrynasilnici.jpg
+    title: Vydry na silnici
+    url: 'http://www.vydrynasilnici.cz'
+  - image: /media/vydristezky.jpg
+    title: Vydří stezka
+    url: 'https://www.vydristezky.cz'
+  - image: /media/map_translynx_eu.jpg
+    title: 3Lynx mapa
+    url: 'http://map.translynx.eu/cs'
 mission:
-  body: |+
-    # Mise
-
-    Posláním neziskové nestátní společnosti ALKA Wildlife, o.p.s. je
-    přispět svými aktivitami proti tomuto trendu. Posláním společnosti
-    je přispět objektivním výzkumem k efektivní, kvalitními odbornými
-    znalostmi podložené ochraně a péči o volně žijící druhy živočichů.
-
+  body: "# Mise\n\nPosláním neziskové nestátní společnosti ALKA Wildlife, o.p.s. je\npřispět svými aktivitami proti tomuto trendu. Posláním společnosti\nje přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů.\n\n"
 gallery:
   title: Fotogalerie
-
 appeal:
   body: |+
     # Trans-Lynx
@@ -38,7 +28,7 @@ appeal:
     [![](/media/translynx.jpg)](http://translynx.selmy.cz)
 
 other:
-  body: |+
+  body: |
     # Facebook
 
     [![](/media/facebook.jpg)](https://www.facebook.com/AlkaWildlife)
