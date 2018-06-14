@@ -1,4 +1,5 @@
 ---
-title: Články pro veřejnost
+name: odborné články
 position: 1
 ---
+
