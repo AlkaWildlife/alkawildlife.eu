@@ -1,6 +1,9 @@
 ---
 title: Činnost
 permalink: /spolecnost/cinnost
+description: >-
+  Společnost poskytuje veřejnosti obecně prospěšné služby i vykonává doplňkovou
+  činnost
 published: true
 listed: true
 position: 1
