@@ -1,6 +1,6 @@
 ---
 title: Vydra říční
-permalink: /ABOUT/TEAM
+permalink: /spolecnost
 description: |
   Vydra říční v ČR
 published: true
