@@ -1,5 +1,5 @@
 ---
-title: Instalace fotopasti
+title: Instalace fotopasti 1
 image: /media/imag0013_2000.jpg
 content_thumbnail: /media/imag0013_320.jpg
 description: Monitoring rysů probíhá pomocí fotopastí.
