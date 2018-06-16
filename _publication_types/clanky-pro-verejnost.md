@@ -1,5 +1,5 @@
 ---
-name: odborné články
+name: Odborné publikace
 position: 1
 ---
 
