@@ -1,23 +1,13 @@
 ---
 title: Rysí příběhy
-from: "2016-02"
-to: "2016-12"
-funding: |-
-  Ministerstvo životního prostředí – projekt „Propagace záchranných
-  programů zvláště chráněných druhů v České republice“ realizovaný
-  Beleco, z.s.  
-  Projekt byl finančně podpořen v grantovém řízení Ministerstva
-  životního prostředí a nemusí vyjadřovat stanoviska Ministerstva
-  životního prostředí.
+from: 2016-02
+to: 2016-12
+funding: "Ministerstvo životního prostředí – projekt „Propagace záchranných\nprogramů zvláště chráněných druhů v\_České republice“ realizovaný\nBeleco, z.s.  \nProjekt byl finančně podpořen v\_grantovém řízení Ministerstva\nživotního prostředí a\_nemusí vyjadřovat stanoviska Ministerstva\nživotního prostředí."
 contacts:
-- name: Tereza Mináriková
-  role: vedoucí projektu
+  - name: Tereza Mináriková
+    role: vedoucí projektu
 tags:
-- rys
-countries:
-- CZ
-- DE
-- AT
+  - rys
 ---
 Rys ostrovid je kriticky ohroženým a zároveň chráněným druhem, pro který
 je v současnosti připravován program péče. Faktorem, který rysa
