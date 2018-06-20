@@ -113,7 +113,7 @@
          * @param {!ControlProps} props
          * @return {!React.ReactNode}
          */
-        return function cldrWidgetControl(props) {
+        function cldrWidgetControl(props) {
           /**
            * Change set CLDR data items.
            *
@@ -285,6 +285,14 @@
             children
           )
         }
+
+        //XXX Netlify CMS breaks when custom widget has stateless
+        // control components (netlify/netlify-cms#1346).
+        return createClass({
+          render: function() {
+            return cldrWidgetControl(this.props)
+          }
+        })
       }
      {% endraw %}</script>
     <script>{% raw %}
