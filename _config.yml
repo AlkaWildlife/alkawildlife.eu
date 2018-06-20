@@ -75,3 +75,5 @@ keep_files:
   - assets/javascripts/cms.js
   - assets/javascripts/cms.js.map
   - assets/stylesheets/cms.css
+  - assets/src
+  - assets/node_modules
