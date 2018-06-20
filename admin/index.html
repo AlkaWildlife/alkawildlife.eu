@@ -90,6 +90,36 @@
     {% endraw %}</script>
     <script>{% raw %}
       /**
+       * Returns immutable collection as array.
+       *
+       * If given value has a method `toJS`, it’ll be
+       * called. Otherwise, returns the value itself.
+       *
+       * @param {?} value
+       * @return {*}
+       */
+      function immutableToJs(value) {
+        return value.toJS ? value.toJS() : value
+      }
+
+      /**
+       * Returns default value from props.
+       *
+       * If there’s none set, it either return an empty array if props
+       * allows multiple values to be set or `null`.
+       *
+       * @param {!ControlProps} props
+       * @return {!ControlValue}
+       */
+      function defaultCldrValue(props) {
+        if (props.field.has('default')) {
+          return immutableToJs(props.field.get('default'))
+        }
+
+        return props.field.get('multiple') ? [] : undefined
+      }
+
+      /**
        * Returns value from props as array of CLDR types.
        *
        * @param {!ControlProps} props
@@ -97,7 +127,7 @@
        */
       function valueAsCldrTypes(props) {
         return props.field.get('multiple') ?
-          (props.value || []) :
+          (immutableToJs(props.value) || []) :
           (props.value ? [props.value] : [])
       }
     {% endraw %}</script>
