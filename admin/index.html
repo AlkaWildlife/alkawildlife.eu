@@ -203,8 +203,8 @@
           function cldrDataSelectElement(idx, selectedType,
                                          priorities, attrs) {
             var cldrItems = priorities ?
-                            prioritizeCldrItems(cldrList, priorities) :
-                            cldrList
+              prioritizeCldrItems(cldrList, priorities) :
+              cldrList
 
             if (selectedType === null) cldrItems.unshift(null)
 
@@ -219,8 +219,8 @@
               attrs,
               cldrItems.map(function(cldrData, i) {
                 return cldrData !== null ?
-                       h('option', { value: cldrData.type }, cldrData.name) :
-                       h('option', { disabled: true, selected: i === 0 })
+                  h('option', { value: cldrData.type }, cldrData.name) :
+                  h('option', { disabled: true, selected: i === 0 })
               })
             )]
 
@@ -298,20 +298,21 @@
          * @return {!React.ReactNode}
          */
         return function cldrWidgetPreview(props) {
-          return h('div',
-                   {},
-                   valueAsCldrTypes(props).
-                     map(function(type) {
-                       var idx
-                       for (idx = 0; idx < cldrList.length; idx += 1) {
-                         if (cldrList[idx].type === type) {
-                           return cldrList[idx].name
-                         }
-                       }
+          return h(
+            'div',
+            {},
+            valueAsCldrTypes(props).
+              map(function(type) {
+                var idx
+                for (idx = 0; idx < cldrList.length; idx += 1) {
+                  if (cldrList[idx].type === type) {
+                    return cldrList[idx].name
+                  }
+                }
 
-                       return type
-                     }).
-                     join(', ')
+                return type
+              }).
+              join(', ')
           )
         }
       }
