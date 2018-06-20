@@ -250,7 +250,7 @@
             }).
             /* 2. Flatten the result of previous step. Previous step
              *    creates structure like this:
-             *    [[SELECT, BR], [SELECT, BR], …, [SELECT, BR]].
+             *    [[SELECT], [BR, SELECT], …, [BR, SELECT]].
              */
             reduce(function(flat, els) { return flat.concat(els) }, [])
 
