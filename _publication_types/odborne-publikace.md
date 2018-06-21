@@ -1,5 +1,5 @@
 ---
-name: Články pro veřejnost
+name: Odborné publikace
 position: 2
 ---
 
