@@ -1,4 +1,4 @@
 ---
-path: /spolecnost
+title: /spolecnost
 ---
 
