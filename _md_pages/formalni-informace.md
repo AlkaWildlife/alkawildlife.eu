@@ -6,11 +6,11 @@ listed: true
 position: 2
 layout: two_columns_page
 ---
-_**ALKA Wildlife o.p.s.**_\
-**\*Sídlo**: Lidéřovice 62, 380 01  Dačice*\
-**\*IČO**: 280 64 933*\
-**\*DIČ**: CZ28064933 je plátcem DPH*\
-**\*ID datové schránky**: gypmz9w*
+**_ALKA Wildlife o.p.s._**\
+**\*Sídlo**: Lidéřovice 62, 380 01  Dačice\
+_**\*IČO**: 280 64 933_\
+**\*DIČ**: CZ28064933 je plátcem DPH\
+_**\*ID datové schránky**: gypmz9w_
 
 _[profil zadavatele](https://www.vhodne-uverejneni.cz/profil/28064933)_
 
@@ -21,6 +21,8 @@ Facebook:
 
 Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti
 odborníků zabývajících se ekologií obratlovců a ochranou přírody.
+
+test
 
 # Poslání společnosti
 
