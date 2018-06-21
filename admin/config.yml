@@ -464,7 +464,9 @@ collections:
     - name: name
       label: Name
   - name: type
-    label: Publication Type
+    label: >-
+      Publication Type (manage in separate collection Publication
+      Types)
     widget: relation
     collection: publication_types
     searchFields:
