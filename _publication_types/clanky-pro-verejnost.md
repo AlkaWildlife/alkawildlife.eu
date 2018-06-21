@@ -1,5 +1,5 @@
 ---
-name: Články pro veřejnost
+title: Články pro veřejnost
 position: 1
 ---
 

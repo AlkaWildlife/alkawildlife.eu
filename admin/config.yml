@@ -516,7 +516,7 @@ collections:
   folder: _publication_types
   create: true
   fields:
-  - name: name
+  - name: title
     label: Name
     widget: string
   - name: position
