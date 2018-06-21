@@ -22,8 +22,6 @@ Facebook:
 Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti
 odborníků zabývajících se ekologií obratlovců a ochranou přírody.
 
-test
-
 # Poslání společnosti
 
 Získávat, šířit a aplikovat informace týkající se biologie a ekologie
