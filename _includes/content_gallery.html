@@ -1,4 +1,4 @@
-{% assign gallery = site.galleries | where: "page", page.url | first %}
+{% assign gallery = site.galleries | where: "title", page.url | first %}
 {% if gallery %}
   <div class="clearfix"></div>
   <div class="article-gallery m-top-3">
@@ -6,7 +6,7 @@
     <ul class="article-gallery-list">
       {% assign photo_posts = site.posts |
            where_exp: "post", "post.categories contains 'gallery'" |
-           where: "gallery", gallery.page %}
+           where: "gallery", gallery.title %}
       {% for photo in photo_posts %}
         <li class="article-gallery-item img-full">
           {% capture photo_title -%}

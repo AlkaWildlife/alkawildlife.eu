@@ -271,7 +271,7 @@ collections:
   folder: _galleries
   create: true
   fields:
-  - name: path
+  - name: title
     label: Page address (copy and paste from web browser address bar, and remove https:// and domain)
     widget: string
 
@@ -685,8 +685,8 @@ collections:
     widget: relation
     collection: galleries
     searchFields:
-    - path
-    valueField: path
+    - title
+    valueField: title
     required: false
   - name: lang_alternatives
     label: Localized alternatives
