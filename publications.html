@@ -67,17 +67,25 @@ layout: contentpage
           {%- else -%}
             {%- assign has_extension = false -%}
           {%- endif -%}
-          {%- if publication.lang or has_extension -%}
+          {%- capture site_lang -%}
+              {%- include helpers/language.html locale=site.lang -%}
+          {%- endcapture -%}
+          {%- if publication.lang and publication.lang != site_lang -%}
+            {%- assign has_foreign_lang = true -%}
+          {%- else -%}
+            {%- assign has_foreign_lang = false -%}
+          {%- endif -%}
+          {%- if has_foreign_lang or has_extension -%}
             {%- unless has_break -%}
               <br>
               {%- assign has_break = true -%}
             {%- endunless -%}
             (
-            {%- if publication.lang -%}
+            {%- if has_foreign_lang -%}
               {%- include helpers/cldr.html name="languages"
                                             type=publication.lang -%}
             {%- endif -%}
-            {%- if publication.lang and has_extension %}, {% endif -%}
+            {%- if has_foreign_lang and has_extension %}, {% endif -%}
             {%- if has_extension -%}
               {{ normalized_extension }}
             {%- endif -%}
