@@ -8,6 +8,7 @@ contacts:
     role: vedoucí projektu
 tags:
   - rys
+  - osvěta
 countries:
   - CZ
   - DE
