@@ -763,7 +763,7 @@ collections:
         label: Many (more than one answer is published)
         widget: string
     - name: more
-      label: Show more button label
+      label: Show more button label on user answer listing
       widget: string
     - name: filter
       label: Filter
@@ -853,6 +853,9 @@ collections:
     fields:
     - name: long_title
       label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: more
+      label: Show more button label on news listing
       widget: string
 
   - name: home
@@ -1080,6 +1083,7 @@ collections:
           label: URL template
           widget: string
           default: /:collection/:path
+          required: false
         - name: output
           label: Generate individual documents
           widget: boolean
@@ -1091,6 +1095,7 @@ collections:
           label: URL template
           widget: string
           default: /:collection/:path
+          required: false
         - name: output
           label: Generate individual documents
           widget: boolean
@@ -1102,6 +1107,43 @@ collections:
           label: URL template
           widget: string
           default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+      - name: projects
+        label: Projects
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+      - name: publications
+        label: Publications
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+      - name: publication_types
+        label: Publication Types
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
         - name: output
           label: Generate individual documents
           widget: boolean
@@ -1113,6 +1155,7 @@ collections:
           label: URL template
           widget: string
           default: /:collection/:path
+          required: false
         - name: output
           label: Generate individual documents
           widget: boolean
@@ -1124,38 +1167,61 @@ collections:
           label: URL template
           widget: string
           default: /:collection/:path
+          required: false
         - name: output
           label: Generate individual documents
           widget: boolean
-      - name: markdown
-        label: Markdown engine
-        widget: string
-      - name: kramdown
-        label: Kramdown settings
+    - name: defaults
+      label: Defaults for collections
+      widget: list
+      required: false
+      fields:
+      - name: scope
+        label: Scope
         widget: object
         fields:
-        - name: smart_quotes
-          label: >-
-            Unicode code points separated by commas for smart
-            quote replacement of opening single quote, closing
-            single quote, opening double quote and closing double
-            quote
+        - name: path
+          label: Path
           widget: string
-        - name: header_offset
-          label: Generated heading lever offset
-          widget: number
-          valueType: int
-          min: 1
-          max: 6
-      - name: plugins
-        label: Plugins
-        widget: list
-      - name: exclude
-        label: Files and directories excluded from generation
-        widget: list
-      - name: keep_files
-        label: Files kept from clobbering
-        widget: list
+        - name: type
+          label: Type
+          widget: string
+      - name: values
+        label: Values
+        widget: object
+        fields:
+        - name: layout
+          label: Layout
+          widget: string
+    - name: markdown
+      label: Markdown engine
+      widget: string
+    - name: kramdown
+      label: Kramdown settings
+      widget: object
+      fields:
+      - name: smart_quotes
+        label: >-
+          Unicode code points separated by commas for smart
+          quote replacement of opening single quote, closing
+          single quote, opening double quote and closing double
+          quote
+        widget: string
+      - name: header_offset
+        label: Generated heading lever offset
+        widget: number
+        valueType: int
+        min: 1
+        max: 6
+    - name: plugins
+      label: Plugins
+      widget: list
+    - name: exclude
+      label: Files and directories excluded from generation
+      widget: list
+    - name: keep_files
+      label: Files kept from clobbering
+      widget: list
 
 - name: layouts
   label: "\U0001F6AB"
@@ -1173,9 +1239,15 @@ collections:
     - name: title
       label: Title
       widget: string
+    - name: layout
+      label: Layout
+      widget: string
     - name: ref
       label: Reference
       widget: string
+    - name: body
+      label: Body
+      widget: text
   - name: two_columns_page
     label: Two-columns page
     file: _layouts/two_columns_page.html
@@ -1184,6 +1256,12 @@ collections:
     - name: title
       label: Title
       widget: string
+    - name: layout
+      label: Layout
+      widget: string
     - name: ref
       label: Reference
       widget: string
+    - name: body
+      label: Body
+      widget: text
