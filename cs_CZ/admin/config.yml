@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: AlkaWildlife/alkawildlife.eu-cs
+  repo: AlkaWildlife/alkawildlife.eu
 
 media_folder: media
 
