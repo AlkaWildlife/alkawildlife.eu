@@ -843,9 +843,76 @@ collections:
       - name: by_date
         label: By date
         widget: string
-      - name: year
+
+  - name: projects
+    label: Projects
+    file: _data/projects.yml
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
         label: By date
         widget: string
+      - name: month
+        label: Month label
+        widget: string
+      - name: year
+        label: Year label
+        widget: string
+    - name: partners
+      label: Partners label
+      widget: string
+    - name: funding
+      label: Funding label
+      widget: string
+    - name: budget
+      label: Budget label
+      widget: string
+    - name: registration_no
+      label: Registration no. label
+      widget: string
+    - name: web
+      label: Web label
+      widget: string
+    - name: period
+      label: Period
+      widget: object
+      fields:
+      - name: only_from
+        label: Label if only start date is set
+      - name: from_to
+        label: Label if both start and finish date
+    - name: contacts
+      label: Contacts
+      widget: object
+      fields:
+      - name: one
+        label: Label for one person
+      - name: many
+        label: Label for many people
+    - name: species
+      label: Species label
+      widget: string
+    - name: area
+      label: Area label
+      widget: string
+    - name: countries
+      label: Countries label
+      widget: string
+    - name: default_country
+      label: Default Country (not displayed when set as only country)
+      widget: string
 
   - name: gallery
     label: Gallery
