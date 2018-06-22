@@ -3,6 +3,8 @@ title: Stopování rysů 1
 image: /media/dscn4767.jpg
 content_thumbnail: /media/dscn4767_320.jpg
 description: Rysí monitoring probíhá také na sněhu.
+tags:
+  - zkouška
 gallery: ''
 date: '2018-06-14 20:20:22 +0200'
 category: gallery
