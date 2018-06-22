@@ -1,5 +1,6 @@
 more: více
 filter:
+  all: Zobrazit vše
   by_tag: Kategorie
   by_date: Projekty probíhající v datu
   month: Měsíc
