@@ -23,7 +23,7 @@
             {% include helpers/slug.html page=filterable_tag %}
           {%- endcapture %}
           <a href="{{ "/user-answers" | relative_url }}#category={{ tag_slug }}" class="js-user-answer-category">
-            {{ filterable_tag.name }}
+            {{ filterable_tag.title }}
           </a>
           {%- unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}

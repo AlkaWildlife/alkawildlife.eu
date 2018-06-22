@@ -29,7 +29,7 @@ layout: projects
                     {% include helpers/slug.html page=filterable_tag %}
                   {%- endcapture %}
                   <a href="{{ "/projects" | relative_url }}#category={{ tag_slug }}" class="js-project-category">
-                    {{ filterable_tag.name }}
+                    {{ filterable_tag.title }}
                   </a>
                   {%- unless forloop.last %}&nbsp;{% endunless %}
                 {% endfor %}
