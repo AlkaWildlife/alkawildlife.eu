@@ -1,5 +1,4 @@
 ---
-name: sokol
+title: sokol
 position: 3
 ---
-

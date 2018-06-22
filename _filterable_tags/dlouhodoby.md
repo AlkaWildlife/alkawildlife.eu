@@ -1,3 +1,3 @@
 ---
-name: dlouhodobý
+title: dlouhodobý
 ---
