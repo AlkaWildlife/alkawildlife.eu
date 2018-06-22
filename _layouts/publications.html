@@ -1,0 +1,206 @@
+---
+layout: default
+---
+{% unless sorted_publications %}
+  {% include sorted_publications.html %}
+{% endunless %}
+
+{% for publication in sorted_publications %}
+  {% assign tags = tags | concat: publication.tags | uniq %}
+{% endfor %}
+
+{% assign filterable_tags = site.filterable_tags | sort: "position" %}
+{% for filterable_tag in filterable_tags %}
+  {% unless tags contains filterable_tag.title %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_tags = site.filterable_tags |
+       where: "id", filterable_tag.id %}
+  {% assign filtered_tags = filtered_tags | concat: matching_tags %}
+{% endfor %}
+
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <!-- Left sidebar -->
+        <div id="component" class="span8">
+
+          <div class="page-blog page-blog__">
+            <div class="page_header">
+              <h3>
+                <span class="item_title_part0">{{ page.title }}</span>
+                {%- if page.subtitle -%}
+                <br><small>{{ page.subtitle }}</small>
+                {%- endif -%}
+              </h3>
+            </div>
+            {{ content }}
+          </div>
+        </div>
+        <!-- Right sidebar -->
+        <div id="aside-right" class="span4">
+          <aside>
+            {% if filtered_tags and filtered_tags.size > 0 %}
+            <div class="moduletable ">
+              <h3 class="moduleTitle ">{{ site.data.publications.filter.by_tag }}</h3>
+              <ul class="categories-module">
+                <li id="filter_by_category_all" hidden>
+                  <p>
+                    <a href="{{ "/publications" | relative_url }}#">{{ site.data.publications.filter.all }}</a>
+                    <br/>
+                  </p>
+                </li>
+
+                {% for filtered_tag in filtered_tags %}
+                  {% capture tag_slug -%}
+                    {% include helpers/slug.html page=filtered_tag %}
+                  {%- endcapture %}
+                  <li>
+                    <a href="{{ "/publications" | relative_url }}#category={{ tag_slug }}">
+                      {{ filtered_tag.title }}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endif %}
+            {% if sorted_publications and sorted_publications.size > 0 %}
+            <div class="moduletable ">
+              <h3 class="moduleTitle ">{{ site.data.publications.filter.by_date }}</h3>
+
+              <ul class="archive-module">
+                <li id="filter_by_date_all" hidden>
+                  <p>
+                    <a href="{{ "/publications" | relative_url }}#">{{ site.data.publications.filter.all }}</a>
+                    <br/>
+                  </p>
+                </li>
+
+                {% assign publications_by_year = sorted_publications |
+                     sort: "year" %}
+                <li>
+                  <input type="number" name="date" min="{{ publications_by_year.first.year }}" max="{{ publications_by_year.last.year }}" class="js-date" size="4" style="width: auto">
+                </li>
+              </ul>
+            </div>
+            {% endif %}
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% if sorted_publications and sorted_publications.size > 0 %}
+<script>
+  (function(w, d) {
+    if (typeof [].forEach !== "function") return
+    if (typeof [].map !== "function") return
+    if (typeof [].reduce !== "function") return
+    if (typeof [].every !== "function") return
+    if (typeof [].some !== "function") return
+    if (typeof Object.keys !== "function") return
+    if (!("onpopstate" in w)) return
+
+    function paramsFromHash(hash) {
+      return !hash ? {} : hash.
+        slice(1).
+        split("&").
+        map(function(rawPair) { return rawPair.split("=", 2) }).
+        reduce(function(params, pair) {
+          params[pair[0]] = pair.length === 2 ? pair[1] : true
+          return params
+        }, {})
+    }
+
+    function toggleShowAll(params) {
+      d.getElementById("filter_by_category_all").hidden = !params["category"]
+      d.getElementById("filter_by_date_all").hidden = !params["date"]
+    }
+
+    function ifFilterChanged(obj, cur, fn) {
+      var pre = obj.params || {}
+      var preKeys = Object.keys(pre).sort()
+      var curKeys = Object.keys(cur).sort()
+      var same = preKeys.length == curKeys.length &&
+        preKeys.every(function(k, i) { return curKeys[i] === k })
+
+      if (!same) fn()
+
+      obj.params = cur
+    }
+
+    function toArray(indexable) {
+      return Array.prototype.slice.call(indexable, 0)
+    }
+
+    function forEachPublication(fn) {
+      toArray(d.getElementsByClassName("js-publication")).forEach(fn)
+    }
+
+    function noFilter() {
+      forEachPublication(function(p) { p.hidden = false })
+    }
+
+    function filterByCategory(filter) {
+      if (!filter) return
+
+      forEachPublication(function(p) {
+        p.hidden = !(p.getAttribute("data-categories") || "").
+          split(" ").
+          some(function(c) { return c === filter })
+      })
+    }
+
+    function filterByDate(date) {
+      if (!date) return
+
+      forEachPublication(function(p) {
+        p.hidden =
+          p.getElementsByClassName("js-publication-year")[0].textContent !==
+          date
+      })
+    }
+
+    function filter(ev) {
+      var params = paramsFromHash(ev.target.location.hash)
+      ifFilterChanged(filter, params, noFilter)
+      ensureDateFilterValue(params["date"])
+      toggleShowAll(params)
+      filterByCategory(params["category"])
+      filterByDate(params["date"])
+    }
+
+    function pushDateFilter() {
+      w.location = readDateFilter() ?
+        ("#date=" + readDateFilter()) :
+        "#"
+    }
+
+    function ensureDateFilterValue(date) {
+      d.getElementsByClassName("js-date")[0].value = date
+    }
+
+    function readDateFilter() {
+      return (d.getElementsByClassName("js-date")[0].value | 0)
+    }
+
+    w.addEventListener("popstate", filter, false)
+    w.addEventListener("load", filter, false)
+    d.addEventListener("DOMContentLoaded", function(ev) {
+      w.removeEventListener("load", filter, false)
+      filter(ev)
+    }, false)
+    d.getElementsByClassName("js-date")[0].
+      addEventListener("change", pushDateFilter, false)
+  }(window, document))
+</script>
+{% endif %}

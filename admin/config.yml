@@ -823,6 +823,30 @@ collections:
           label: Message
           widget: string
 
+  - name: publications
+    label: Publication
+    file: _data/publications.yml
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+      - name: year
+        label: By date
+        widget: string
+
   - name: gallery
     label: Gallery
     file: _data/gallery.yml

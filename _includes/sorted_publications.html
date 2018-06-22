@@ -1,0 +1,15 @@
+{%- assign sorted_publications__publication_types =
+      site.publication_types | sort: "position" -%}
+{%- for sorted_publications__publication_type in
+      sorted_publications__publication_types -%}
+  {%- assign sorted_publications__publications = site.publications |
+	 where: "type", sorted_publications__publication_type.title |
+	 sort: "title" | reverse |
+	 sort: "year", "last" | reverse -%}
+  {%- if sorted_publications -%}
+    {%- assign sorted_publications = sorted_publications |
+          concat: sorted_publications__publications -%}
+  {%- else -%}
+    {%- assign sorted_publications = sorted_publications__publications -%}
+  {%- endif -%}
+{%- endfor -%}
