@@ -1,12 +1,22 @@
+require 'pathname'
+
 require 'rake/clean'
 require 'jekyll'
 require_relative 'util'
 
 desc "Build this site\n" +
      "\n" +
-     "Custom Jekyll config can be specified by JEKYLL_CONFIG environment\n" +
-     "variable."
-task build: %w[build:cms build:jekyll]
+     "If this source code has different site for different locales\n" +
+     "which correspond to Jekyll source directories, specify the site\n" +
+     "you want to build with JEKYLL_LANG environment variable.\n"
+task build: %w[build:cms build:jekyll:build]
+
+desc "Serve this site for local development\n" +
+     "\n" +
+     "If this source code has different site for different locales\n" +
+     "which correspond to Jekyll source directories, specify the site\n" +
+     "you want to build with JEKYLL_LANG environment variable.\n"
+task serve: %w[build:cms build:jekyll:serve]
 
 namespace "build" do
   CMS_SOURCES = FileList[
@@ -79,15 +89,66 @@ namespace "build" do
       each {|s, t| sh 'mv', s, t }
   end
 
-  task :jekyll do
-    opts = {'serving' => false}
-    opts['config'] = ENV['JEKYLL_CONFIG'] if ENV.key? 'JEKYLL_CONFIG'
+  MEDIA_DIRS = cms_config ? FileList[
+    "#{jekyll_config['source']}/#{cms_config['media_folder']}"
+  ] : []
 
-    $stderr.print "bundle exec jekyll build"
-    $stderr.print "--config #{opts['config']}" if opts.key? 'config'
-    $stderr.puts
+  # Media folder is normally in Jekyll source dir. However,
+  # repositories with with multiple localtization share media folder
+  # and it needs to be copied to Jekyll build destination. In such
+  # cases, media folder on top of repostiroy working copy (i.e.,
+  # project root). The folder is expected to be top-level (i.e., has
+  # no forward slashes or path segments).
+  MEDIA_DIR_SOURCES = MEDIA_DIRS.
+    reject {|d| File.exist? d }.
+    map {|d| File.basename d }
 
-    Jekyll::Commands::Build.process opts
+  MEDIA_DIR_TARGETS = MEDIA_DIR_SOURCES.
+    map {|d| "#{jekyll_config['destination']}/#{d}" }
+
+  MEDIA_DIR_SOURCES.zip(MEDIA_DIR_TARGETS).each do |source, target|
+    file target => [source] do |t|
+      #XXX This was supposed to be a symlink, but Netlify does not
+      # push files from symlinks to CDN. Using `cp -a` should be just
+      # fine on modern hardware and file systems with copy-on-write
+      # feature.
+      sh 'cp', '-a', t.prerequisites.last, t.name
+    end
+  end
+
+  namespace "jekyll" do
+    task build: MEDIA_DIR_TARGETS do
+      opts = {'serving' => false}
+      opts['config'] = jekyll_config_files unless jekyll_config_files.empty?
+
+      $stderr.print "bundle exec jekyll build"
+      if opts.key? 'config'
+        $stderr.print " --config #{opts['config'].join(',')}"
+      end
+      $stderr.puts
+
+      Jekyll::Commands::Build.process opts
+    end
+
+    task serve: MEDIA_DIR_TARGETS do
+      opts = {
+        'livereload_port' => 35_729,
+        'serving' => true,
+        'watch' => true,
+        'incremental' => true,
+        'livereload' => true,
+      }
+      opts['config'] = jekyll_config_files unless jekyll_config_files.empty?
+
+      $stderr.print "bundle exec jekyll serve --incremental --livereload"
+      if opts.key? 'config'
+        $stderr.print " --config #{opts['config'].join(',')}"
+      end
+      $stderr.puts
+
+      Jekyll::Commands::Build.process opts
+      Jekyll::Commands::Serve.process opts
+    end
   end
 
   CLOBBER << jekyll_config['destination']
