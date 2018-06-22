@@ -13,7 +13,7 @@ layout: contentpage
 
 {% assign filterable_tags = site.filterable_tags | sort: "position" %}
 {% for filterable_tag in filterable_tags %}
-  {% unless tags contains filterable_tag.name %}
+  {% unless tags contains filterable_tag.title %}
     {% continue %}
   {% endunless %}
   {% comment %}

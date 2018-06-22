@@ -1,7 +1,7 @@
 {%- capture tag_slugs -%}
   {%- for tag in include.photo.tags -%}
     {%- assign filterable_tag = site.filterable_tags |
-          where: "name", tag |
+          where: "title", tag |
           first -%}
     {%- unless filterable_tag -%}
       {%- continue -%}
