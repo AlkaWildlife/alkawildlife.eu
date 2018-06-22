@@ -7,5 +7,5 @@
     {%- assign pretty_url__res = pretty_url__res | append: "." -%}
   {%- endif -%}
   {%- assign pretty_url__res = pretty_url__res | append: pretty_url__url_part -%}
-{% endfor %}
+{%- endfor -%}
 {{- pretty_url__res -}}
