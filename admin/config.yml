@@ -25,6 +25,9 @@ collections:
   - name: title
     label: Title
     widget: string
+  - name: published
+    label: Published (publicly available under the following address)
+    widget: boolean
   - name: permalink
     label: Address (creates hierarchy—e.g., “/about/team” is a child of “/about” which is a child of “/”; shouldn’t contain white-space characters like space)
     widget: string
@@ -55,9 +58,6 @@ collections:
   - name: body
     label: Content
     widget: markdown
-  - name: published
-    label: Published (publicly available under address)
-    widget: boolean
   - name: listed
     label: Show in the navigation menu
     widget: boolean
@@ -287,6 +287,9 @@ collections:
   - name: title
     label: Title
     widget: string
+  - name: published
+    label: Published
+    widget: boolean
   - name: image
     label: Image
     widget: image
@@ -303,9 +306,6 @@ collections:
   - name: body
     label: Content
     widget: markdown
-  - name: published
-    label: Published
-    widget: boolean
   - name: date
     label: "\U00002757 Published at (change with caution)"
     widget: date
@@ -344,6 +344,9 @@ collections:
   - name: title
     label: Title
     widget: string
+  - name: published
+    label: Published
+    widget: boolean
   - name: subtitle
     label: Subtitle (optional small heading under long title)
     widget: string
@@ -456,6 +459,9 @@ collections:
   - name: title
     label: Title
     widget: string
+  - name: published
+    label: Published
+    widget: boolean
   - name: authors
     label: Authors
     widget: list
@@ -561,6 +567,9 @@ collections:
   - name: title
     label: Title
     widget: string
+  - name: published
+    label: Published
+    widget: boolean
   - name: author
     label: Author
     widget: string
@@ -645,6 +654,9 @@ collections:
   - name: title
     label: Title
     widget: string
+  - name: published
+    label: Published
+    widget: boolean
   - name: image
     label: Image (about one or two megapixels)
     widget: image
