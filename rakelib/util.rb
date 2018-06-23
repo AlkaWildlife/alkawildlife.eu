@@ -61,25 +61,19 @@ end
 #
 # It is expected that necessary directories exist.
 def clone_file source, target, *opts
-  common_cmd = ['cp']
-  common_cmd << '-R' if opts.include? :recursive
-
-  fallback_cp = ->(ok, _) do
-    break if ok
-
-    if Jekyll.env != 'production'
-      $stderr.puts "Cannot use file cloning, falling back to regular copying"
-    end
-
-    cmd = common_cmd + [source, target]
-    sh *cmd
-  end
-
-  cmd = common_cmd
   if RUBY_PLATFORM.include? 'darwin'
-    cmd += ['-c', source, target]
+    sh 'cp', '-c', source, target do |ok|
+      break if ok
+      if Jekyll.env != 'production'
+        $stderr.puts "Cannot use file cloning, falling back to regular copying"
+      end
+      cp source, target
+    end
   else
-    cmd += ['--reflink', source, target]
+    # macOS requires explicit clone argument for copy (see
+    # above). Behavior on other platforms is uknown, except for Linux
+    # where it occur automatically. Therefore, just doing copy should
+    # be fine.
+    cp source, target
   end
-  sh *cmd, &fallback_cp
 end
