@@ -6667,7 +6667,7 @@ body {
 
 #push,
 #footer-wrapper {
-  height: 49px; }
+  min-height: 49px; }
 
 /*=================================================================*/
 /*======================= MODULE STYLES ===========================*/
@@ -8205,12 +8205,12 @@ input[type="color"]:focus,
 #copyright a:hover {
   color: #8b8980; }
 
-#footer-wrapper {
-  background: url(../images/fotbg.gif) repeat-x #282415; }
+.body__home #footer-wrapper {
+  background: url(../images/mainbg.png); }
 
 #footer-wrapper .footer-wrapper-inner {
-  border-bottom: 1px solid #373221;
-  border-top: 1px solid #4d472c;
+  border-bottom: 1px solid rgba(55, 50, 33, 0.5);
+  border-top: 1px solid rgba(77, 71, 44, 0.5);
   background: rgba(124, 155, 165, 0.34);
   min-height: 47px; }
 
@@ -9913,9 +9913,6 @@ article {
   #showcase-row .showcase img {
     width: 100%;
     height: 100%; }
-
-#footer-wrapper {
-  background: none; }
 
 .separator {
   border-bottom: 2px solid rgba(0, 52, 89, 0.57); }
