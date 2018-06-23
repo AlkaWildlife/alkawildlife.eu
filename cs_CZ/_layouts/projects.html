@@ -165,17 +165,6 @@ layout: default
           var params = paramsFromHash("#" + a.href.split("#", 2)[1])
           return filter !== params["category"]
         })
-
-        console.log("title", p.getElementsByTagName("H4")[0].textContent.
-                               replace(/^\s+/, "").
-                               replace(/\s+$/, ""))
-        console.log("filter", filter)
-        console.log("categories", toArray(
-          p.getElementsByClassName("js-project-category")
-        ).map(function(a) {
-          return paramsFromHash("#" + a.href.split("#", 2)[1])["category"]
-        }))
-        console.log("hidden?", p.hidden)
       })
     }
 
