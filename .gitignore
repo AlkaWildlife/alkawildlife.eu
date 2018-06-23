@@ -1,5 +1,8 @@
-_site.cs_CZ/
+_site/
 .sass-cache/
 .jekyll-metadata
 .bundle/
 node_modules/
+
+/_site.??_??/
+/??_??/media/

@@ -36,4 +36,3 @@ keep_files:
   - assets/stylesheets/cms.css
   - assets/src
   - assets/node_modules
-  - media

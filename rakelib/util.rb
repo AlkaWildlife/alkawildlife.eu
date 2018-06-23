@@ -49,3 +49,31 @@ def cms_config
     end
   end
 end
+
+##
+# Copies source to target using cloning if possible.
+#
+# Jekyll or its dependencies require that files are effectively
+# regular files, so symlinks are out of question. Hardlinks can cause
+# other issues.
+#
+# It is expected that necessary directories exist.
+def clone_file source, target, *opts
+  common_cmd = ['cp']
+  common_cmd << '-R' if opts.include? :recursive
+
+  fallback_cp = ->(ok, _) do
+    break if ok
+    $stderr.puts "Cannot use file cloning, falling back to regular copying"
+    cmd = common_cmd + [source, target]
+    sh *cmd
+  end
+
+  cmd = common_cmd
+  if RUBY_PLATFORM.include? 'darwin'
+    cmd += ['-c', source, target]
+  else
+    cmd += ['--reflink', source, target]
+  end
+  sh *cmd, &fallback_cp
+end
