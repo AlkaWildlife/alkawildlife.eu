@@ -77,6 +77,6 @@ def clone_file source, target, *opts
     # above). Behavior on other platforms is uknown, except for Linux
     # where it occur automatically. Therefore, just doing copy should
     # be fine.
-    cp *(cmd + [source, target])
+    sh *(cmd + [source, target])
   end
 end
