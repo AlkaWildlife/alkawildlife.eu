@@ -59,7 +59,7 @@ Exploration
 
 You can see Rake tasks generally usable from command line by using `rake` with the usual `-T` or `-D` arguments.
 
-The site source files are very explicit as there are no sophisticated Jekyll plugins (except for well-known [SEO tag][jekyll-seo-tag]) and Liquid templating language doesn’t allow any nasty auto-magick to occur. Simply get familiar with Jekyll and you should be good to go. Just beware that `assign`s from `include`d templates leak outside—they’re not scoped.
+The site source files are very explicit as there are no sophisticated Jekyll plugins (except for well-known [SEO tag][jekyll-seo-tag]) and Liquid templating language doesn’t allow any nasty auto-magic to occur. Simply get familiar with Jekyll and you should be good to go. Just beware that `assign`s from `include`d templates leak outside—they’re not scoped.
 
 
 [jekyll]: https://jekyllrb.com
