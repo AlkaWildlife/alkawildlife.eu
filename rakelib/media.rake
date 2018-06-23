@@ -44,4 +44,6 @@ desc "Ensure media files are in Jekyll site source directory\n" +
      "you want to build with JEKYLL_LANG environment variable.\n"
 task media: MEDIA_TARGETS
 
-CLOBBER << MEDIA_DIR_TARGET if MEDIA_DIR_TARGET
+if MEDIA_DIR_TARGET and not File.identical?(MEDIA_DIR_SOURCE, MEDIA_DIR_TARGET)
+  CLOBBER << MEDIA_DIR_TARGET
+end
