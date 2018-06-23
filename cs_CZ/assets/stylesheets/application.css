@@ -8122,7 +8122,8 @@ input[type="color"]:focus,
 
 /*======================= MAINBOTTOM =======================*/
 #mainbottom-row {
-  padding: 36px 0 24px; }
+  padding: 36px 0 24px;
+  background-color: white; }
 
 #mainbottom-row .projects h3.moduleTitle {
   margin: 0 0 23px; }
@@ -8210,6 +8211,7 @@ input[type="color"]:focus,
 #footer-wrapper .footer-wrapper-inner {
   border-bottom: 1px solid #373221;
   border-top: 1px solid #4d472c;
+  background: rgba(124, 155, 165, 0.34);
   min-height: 47px; }
 
 /*===== Social Media ======*/
