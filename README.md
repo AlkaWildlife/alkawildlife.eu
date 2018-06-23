@@ -54,6 +54,13 @@ The result of production build can be generally hosted anywhere. The build itsel
 4. Make everything from Jekyll’s destination directory accessible
    on `https://www.alkawildlife.cz`
 
+Exploration
+-----------
+
+You can see Rake tasks generally usable from command line by using `rake` with the usual `-T` or `-D` arguments.
+
+The site source files are very explicit as there are no sophisticated Jekyll plugins (except for well-known [SEO tag][jekyll-seo-tag]) and Liquid templating language doesn’t allow any nasty auto-magick to occur. Simply get familiar with Jekyll and you should be good to go. Just beware that `assign`s from `include`d templates leak outside—they’re not scoped.
+
 
 [jekyll]: https://jekyllrb.com
 [netlify-cms]: https://www.netlifycms.org
@@ -61,3 +68,4 @@ The result of production build can be generally hosted anywhere. The build itsel
 [netlify-identity]: https://www.netlify.com/docs/identity/
 [bundler]: https://bundler.io/#getting-started
 [npm]: https://www.npmjs.com/get-npm
+[jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
