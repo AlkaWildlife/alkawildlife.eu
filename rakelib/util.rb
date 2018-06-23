@@ -1,6 +1,8 @@
 require 'pathname'
 require 'yaml'
 
+require 'jekyll'
+
 def jekyll_config_files
   return [] unless ENV.key? 'JEKYLL_LANG'
 
@@ -64,7 +66,11 @@ def clone_file source, target, *opts
 
   fallback_cp = ->(ok, _) do
     break if ok
-    $stderr.puts "Cannot use file cloning, falling back to regular copying"
+
+    if Jekyll.env != 'production'
+      $stderr.puts "Cannot use file cloning, falling back to regular copying"
+    end
+
     cmd = common_cmd + [source, target]
     sh *cmd
   end
