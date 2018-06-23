@@ -7771,7 +7771,6 @@ input[type='checkbox'] {
 /*======================= MAINTOP =======================*/
 #maintop-row {
   border: 1px solid rgba(0, 0, 0, 0.05);
-  background: rgba(124, 155, 165, 0.34);
   padding: 35px 0 27px; }
 
 
@@ -8122,7 +8121,8 @@ input[type="color"]:focus,
 
 /*======================= MAINBOTTOM =======================*/
 #mainbottom-row {
-  padding: 36px 0 24px; }
+  padding: 36px 0 24px;
+  background-color: white; }
 
 #mainbottom-row .projects h3.moduleTitle {
   margin: 0 0 23px; }
@@ -8208,8 +8208,9 @@ input[type="color"]:focus,
   background: url(../images/fotbg.gif) repeat-x #282415; }
 
 #footer-wrapper .footer-wrapper-inner {
-  border-bottom: 1px solid #373221;
-  border-top: 1px solid #4d472c;
+  border-bottom: 1px solid rgba(55, 50, 33, 0.33);
+  border-top: 1px solid rgba(77, 71, 44, 0.33);
+  background: url(../images/mainbg.png); }
   min-height: 47px; }
 
 /*===== Social Media ======*/
