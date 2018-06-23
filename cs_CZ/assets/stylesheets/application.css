@@ -8689,7 +8689,8 @@ input[type="color"]:focus,
   top: 8px;
   right: 20px; }
   .language-switch img {
-    width: 40px; }
+    width: 40px;
+    height: auto; }
 
 .clearfix {
   *zoom: 1; }
