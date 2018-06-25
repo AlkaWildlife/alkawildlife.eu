@@ -1,0 +1,43 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Content Management: Thumbnail Generation</title>
+    {% if jekyll.environment == 'production' -%}
+      <script src="{{ "/assets/javascripts/js-yaml.min.js" | relative_url }}"></script>
+    {%- else -%}
+      <script src="{{ "/assets/javascripts/js-yaml.js" | relative_url }}"></script>
+    {%- endif %}
+    <style>
+      @keyframes meteors {
+        from {
+          opacity: 0;
+        }
+
+        to {
+          opacity: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="{{ "/admin" | relative_url }}">Go back to content management</a>
+    </nav>
+    <h1>Thumbnail Generation</h1>
+    <table>
+      <caption>Media without up-to-date thumbnails</caption>
+      <thead>
+        <th>Name</th>
+        <th>Listing thumbnail</th>
+        <th>Home thumbnail</th>
+        <th>Gallery thumbnail</th>
+        <th>Content thumbnail</th>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </body>
+</html>
