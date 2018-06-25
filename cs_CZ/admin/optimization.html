@@ -40,7 +40,7 @@
       <tbody></tbody>
     </table>
     <script>
-(function(w, d, c) {
+(function(w, d) {
   const GITHUB_URL = "https://api.github.com"
   const JSON_API_V3 = "application/vnd.github.v3+json"
   const RAW_API_V3 = "application/vnd.github.v3.raw"
@@ -335,7 +335,7 @@
   }
 
   d.addEventListener("DOMContentLoaded", () => init())
-}(window, document, document.getElementsByTagName("CANVAS")[0]))
+}(window, document))
     </script>
   </body>
 </html>
