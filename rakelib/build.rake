@@ -21,8 +21,11 @@ namespace "build" do
     "node_modules/netlify-cms/dist/cms.js",
     "node_modules/netlify-cms/dist/cms.css"
   ]
-  if Jekyll.env == "development"
+  if Jekyll.env != "development"
+    CMS_SOURCES << "node_modules/js-yaml/dist/js-yaml.min.js"
+  else
     CMS_SOURCES << "node_modules/netlify-cms/dist/cms.js.map"
+    CMS_SOURCES << "node_modules/js-yaml/dist/js-yaml.js"
   end
   CMS_DEBUG_SOURCES = Jekyll.env == "development" ? FileList[
     "node_modules/netlify-cms/src",

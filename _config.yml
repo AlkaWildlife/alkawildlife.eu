@@ -33,6 +33,8 @@ plugins:
 keep_files:
   - assets/javascripts/cms.js
   - assets/javascripts/cms.js.map
+  - assets/javascripts/js-yaml.min.js
+  - assets/javascripts/js-yaml.js
   - assets/stylesheets/cms.css
   - assets/src
   - assets/node_modules

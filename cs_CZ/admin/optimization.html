@@ -28,7 +28,7 @@
       <a href="{{ "/admin" | relative_url }}">Go back to content management</a>
     </nav>
     <h1>Thumbnail Generation</h1>
-    <table>
+    <table id="thumbnails">
       <caption>Media without up-to-date thumbnails</caption>
       <thead>
         <th>Name</th>
@@ -39,5 +39,303 @@
       </thead>
       <tbody></tbody>
     </table>
+    <script>
+(function(w, d, c) {
+  const GITHUB_URL = "https://api.github.com"
+  const JSON_API_V3 = "application/vnd.github.v3+json"
+  const RAW_API_V3 = "application/vnd.github.v3.raw"
+
+  const THUMBNAILS_PATH = "@"
+
+  const THUMBNAIL_LISTING = "l"
+  const THUMBNAIL_HOME = "h"
+  const THUMBNAIL_GALLERY = "g"
+  const THUMBNAIL_CONTENT = "c"
+
+  const POST_CATEGORY_TO_THUMBNAIL_TYPES = {
+    "news": {},
+    "gallery": {}
+  }
+  POST_CATEGORY_TO_THUMBNAIL_TYPES["news"][THUMBNAIL_LISTING] =
+    "listing_thumbnail"
+  POST_CATEGORY_TO_THUMBNAIL_TYPES["gallery"][THUMBNAIL_HOME] =
+    "home_thumbnail"
+  POST_CATEGORY_TO_THUMBNAIL_TYPES["gallery"][THUMBNAIL_GALLERY] =
+    "gallery_thumbnail"
+  POST_CATEGORY_TO_THUMBNAIL_TYPES["gallery"][THUMBNAIL_CONTENT] =
+    "content_thumbnail"
+
+  const POST_CATEGORY_TO_TABLE_COLUMN = [
+    THUMBNAIL_LISTING,
+    THUMBNAIL_HOME,
+    THUMBNAIL_GALLERY,
+    THUMBNAIL_CONTENT
+  ]
+
+  const THUMBNAIL_MISSING = "\u2717"
+  const THUMBNAIL_READY = "\u2713"
+
+
+  function config() {
+    if (config.res) return config.res
+
+    config.res = fetch("{{ '/admin/config.yml' | relative_url }}").
+      then(res => res.text()).
+      then(jsyaml.safeLoad)
+
+    return config.res
+  }
+
+  function user() {
+    return JSON.parse(w.localStorage.getItem("netlify-cms-user"))
+  }
+
+  function postsFolder() {
+    return config().
+      then(cfg => cfg["collections"].
+             find(col => col["name"] === "news")
+             ["folder"])
+  }
+
+  function repoUrl() {
+    return config().
+      then(cfg => `${GITHUB_URL}/repos/${cfg["backend"]["repo"]}`)
+  }
+
+  function apiFetch(url, type) {
+    return fetch(url, {
+      "headers": {
+        "Accept": type,
+        "Authorization": "token " + user()["token"]
+      }
+    })
+  }
+
+  function jsonFetch(url) {
+    return apiFetch(url, JSON_API_V3).then(res => res.json())
+  }
+
+  function rawFetch(url) {
+    return apiFetch(url, RAW_API_V3)
+  }
+
+  function ref(name) {
+    return repoUrl().then(url => jsonFetch(url + "/git/refs/" + name))
+  }
+
+  function commit(ref) {
+    return jsonFetch(ref["object"]["url"])
+  }
+
+  function rootTree(commit) {
+    return jsonFetch(commit["tree"]["url"])
+  }
+
+  function findObject(tree, path) {
+    return tree["tree"].find(obj => (
+      obj["type"] === "tree" && obj["path"] === path
+    ))
+  }
+
+  function findByField(col, field, val) {
+    return col.find(el => el[field] === val)
+  }
+
+  function findThumbnail(thumbs, type, path) {
+    return findByField(thumbs, "path", type + path)
+  }
+
+  function emptyTree() {
+    return {"tree": []}
+  }
+
+  function subTree([tree, path]) {
+    var segments = path.split("/", 2)
+
+    var localPath = segments.shift()
+
+    var obj = findObject(tree, localPath)
+    if (!obj) return Promise.resolve(emptyTree())
+
+    var promisedTree = jsonFetch(obj["url"])
+
+    return segments.length > 0 ?
+      promisedTree.then(tree => [tree, segments.shift()]).then(subTree) :
+      promisedTree
+  }
+
+  // Idea from Jekyll::Document::YAML_FRONT_MATTER_REGEXP
+  const FRONT_MATTER_START_RE = /^---\s*$/
+  const FRONT_MATTER_END_RE = /^(?:---|\.\.\.)\s*$\n?/m
+
+  function frontMatter(obj) {
+    return rawFetch(obj["url"]).
+      then(res => res.text()).
+      then(contents => {
+        var parts = contents.split("\n")
+        if (parts.length <= 1) return ""
+
+        var firstLine = parts.shift()
+        if (!FRONT_MATTER_START_RE.test(firstLine)) return ""
+
+        return "---\n" +
+          parts.slice(1).join("\n").split(FRONT_MATTER_END_RE, 1)[0]
+      }).
+      then(jsyaml.safeLoad)
+  }
+
+  function head() {
+    var res = {}
+
+    return ref("heads/master").
+      then(commit).
+      then(commit => {
+        res.commit = commit
+        return commit
+      }).
+      then(rootTree).
+      then(tree => {
+        res.rootTree = tree
+      }).
+      then(_ => res)
+  }
+
+  function basename(path) {
+    return path.split("/").pop()
+  }
+
+  function extname(path) {
+    var name = path.split(".").pop()
+
+    return name ? "." + name : name
+  }
+
+  function isBlob(obj) {
+    return obj["type"] === "blob"
+  }
+
+  const IMAGE_EXTNAME_RE = /^\.(?:jpe?g|png|gif)$/i
+
+  function isImage(obj) {
+    return isBlob(obj) && IMAGE_EXTNAME_RE.test(extname(obj["path"]))
+  }
+
+  function isMediaImage(path, mediaFolder) {
+    return path && (
+      path.indexOf(mediaFolder) === 0 &&
+      path.slice(mediaFolder.length + 1).split("/").length === 1
+    )
+  }
+
+  function images(head) {
+    return config().
+      then(cfg => [head.rootTree, cfg["media_folder"]]).
+      then(subTree).
+      then(tree => [tree, THUMBNAILS_PATH]).
+      then(([mediaTree, path]) => Promise.all([
+        mediaTree,
+        subTree([mediaTree, path])
+      ])).
+      then(trees => trees.map(t => t["tree"].filter(isImage)))
+  }
+
+  function posts(head) {
+    return postsFolder().
+      then(postsFolder => [head.rootTree, postsFolder]).
+      then(subTree).
+      then(tree => Promise.all([postsFolder()].concat(
+        tree["tree"].
+          filter(isBlob).
+          map(obj => Promise.all([obj, frontMatter(obj)]))
+      ))).then(([postsFolder, ...objFms]) => (
+        objFms.map(([obj, fm]) => Object.assign(
+          {path: postsFolder + "/" + obj["path"]}, fm
+        ))
+      ))
+  }
+
+  function isThumbnailMissing(orig, thumbs, type) {
+    var thumb = findThumbnail(thumbs, type, orig["path"])
+
+    return !thumb || thumb["orig"]["sha"] !== orig["sha"]
+  }
+
+  function thumbnailsToGenerate(posts, [origs, thumbs], publicFolder) {
+    return Object.entries(
+      posts.
+        filter(p => POST_CATEGORY_TO_THUMBNAIL_TYPES[p["category"]]).
+        filter(p => isMediaImage(p["image"], publicFolder)).
+        map(p => [
+          basename(p["image"]),
+          Object.
+            entries(POST_CATEGORY_TO_THUMBNAIL_TYPES[p["category"]]).
+            filter(([_, field]) => !p.hasOwnProperty(field)).
+            map(([type, _]) => type)
+        ]).
+        reduce((m, [imagePath, types]) => {
+          if (!m.hasOwnProperty(imagePath)) m[imagePath] = []
+          types.
+            filter(t => m[imagePath].indexOf(t) < 0).
+            forEach(t => m[imagePath].push(t))
+
+          return m
+        }, {})
+    ).
+      map(([imagePath, types]) => [
+        imagePath,
+        findByField(origs, "path", imagePath),
+        types
+      ]).
+      filter(([imagePath, orig, _]) => {
+        if (!orig) console.warn(`Expected to find media file ${image}`)
+
+        return !!orig
+      }).
+      map(([imagePath, orig, types]) => [orig, types]).
+      map(([orig, types]) => [
+        orig,
+        types.filter(t => isThumbnailMissing(orig, thumbs, t))
+      ]).
+      filter(([_, types]) => types.length > 0)
+  }
+
+  function fillTheTable(spec) {
+    spec.forEach(([orig, types]) => {
+      var row = d.getElementById("thumbnails").tBodies[0].insertRow()
+      row.dataset.sha = orig["sha"]
+
+      var cell
+
+      cell = d.createElement("TD")
+      cell.textContent = orig["path"]
+      row.appendChild(cell)
+
+      POST_CATEGORY_TO_TABLE_COLUMN.forEach(t => {
+        cell = d.createElement("TD")
+        cell.textContent = types.indexOf(t) < 0 ?
+          THUMBNAIL_READY :
+          THUMBNAIL_MISSING
+        row.appendChild(cell)
+      })
+    })
+  }
+
+  function init() {
+    head().
+      then(head => Promise.all(
+        [posts, images].map(fn => fn(head)).
+          concat([config()])
+      )).
+      then(([posts, [origs, thumbs], cfg]) => thumbnailsToGenerate(
+        posts,
+        [origs, thumbs],
+        cfg["public_folder"] || ("/" + cfg["media_folder"])
+      )).
+      then(fillTheTable)
+  }
+
+  d.addEventListener("DOMContentLoaded", () => init())
+}(window, document, document.getElementsByTagName("CANVAS")[0]))
+    </script>
   </body>
 </html>
