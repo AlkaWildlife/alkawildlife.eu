@@ -1,5 +1,6 @@
 ---
 title: 3Lynx
+published: true
 from: 2017-07
 to: 2020-06
 partners: >-
@@ -57,6 +58,7 @@ contacts:
   - email: ''
     name: Tereza Mináriková
     role: projektový manažer
+species: rys
 countries:
   - CZ
 ---
