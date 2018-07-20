@@ -12,8 +12,6 @@ type: Odborné publikace
 publisher: 'ALKA Wildlife, o.p.s.'
 journal: Bulletin Vydra 17
 year: 2018
-lang:
-  - cs
-link: '/media/Polednik_etal_4_13.pdf '
+lang: cs
+link: '/media/Polednik_etal_4_13.pdf'
 ---
-

@@ -6,8 +6,6 @@ authors:
 type: Výroční zprávy
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2018
-lang:
-  - cs
-link: '/media/ALKA výročka 2017 WEB - good.pdf '
+lang: cs
+link: '/media/ALKA výročka 2017 WEB - good.pdf'
 ---
-
