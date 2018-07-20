@@ -1,6 +1,7 @@
 title: Publikace
 filter:
   all: Zobrazit vše
+  by_type: Typ publikace
   by_tag: Kategorie
   by_date: Publikace z roku
   year: Rok

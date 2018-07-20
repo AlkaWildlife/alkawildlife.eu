@@ -8,6 +8,23 @@ layout: default
 {% for publication in sorted_publications %}
   {% assign tags = tags | concat: publication.tags | uniq %}
 {% endfor %}
+{% assign types = sorted_publications | map: "type" | uniq %}
+
+{% assign filterable_types = site.publication_types | sort: "position" %}
+{% for filterable_type in filterable_types %}
+  {% unless types contains filterable_type.title %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_types = site.publication_types |
+       where: "id", filterable_type.id %}
+  {% assign filtered_types = filtered_types | concat: matching_types %}
+{% endfor %}
 
 {% assign filterable_tags = site.filterable_tags | sort: "position" %}
 {% for filterable_tag in filterable_tags %}
@@ -48,6 +65,30 @@ layout: default
         <!-- Right sidebar -->
         <div id="aside-right" class="span4">
           <aside>
+            {% if filtered_types and filtered_types.size > 0 %}
+            <div class="moduletable ">
+              <h3 class="moduleTitle ">{{ site.data.publications.filter.by_type }}</h3>
+              <ul class="categories-module">
+                <li id="filter_by_type_all" hidden>
+                  <p>
+                    <a href="{{ "/publications" | relative_url }}#">{{ site.data.publications.filter.all }}</a>
+                    <br/>
+                  </p>
+                </li>
+
+                {% for filtered_type in filtered_types %}
+                  {% capture type_slug -%}
+                    {% include helpers/slug.html page=filtered_type %}
+                  {%- endcapture %}
+                  <li>
+                    <a href="{{ "/publications" | relative_url }}#type={{ type_slug }}">
+                      {{ filtered_type.title }}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endif %}
             {% if filtered_tags and filtered_tags.size > 0 %}
             <div class="moduletable ">
               <h3 class="moduleTitle ">{{ site.data.publications.filter.by_tag }}</h3>

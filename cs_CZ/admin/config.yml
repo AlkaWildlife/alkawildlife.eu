@@ -776,6 +776,9 @@ collections:
       - name: all
         label: Display everything (cancel filter)
         widget: string
+      - name: by_type
+        label: By publication type
+        widget: string
       - name: by_tag
         label: By tag
         widget: string

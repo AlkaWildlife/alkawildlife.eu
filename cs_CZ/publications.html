@@ -9,10 +9,6 @@ layout: publications
 <div class="items-row cols-1 row-0 row-fluid">
   <div class="span12">
     {% for publication in sorted_publications %}
-      {% if publication.type != last_type %}
-        <h4>{{ publication.type }}</h4>
-      {% endif %}
-      {% assign last_type = publication.type %}
       <p class="js-publication" data-categories="{{ publication.tags | join: " " }}"><a href="{{ publication.link }}">{{ publication.title }}</a>
         {%- assign has_break = false -%}
         {%- if publication.authors and publication.authors.size > 0 -%}
@@ -75,6 +71,8 @@ layout: publications
             {%- assign has_break = true -%}
           {%- endunless -%}
           (
+          {{- publication.type -}}
+          {%- if has_foreign_lang or has_extension %}, {% endif -%}
           {%- if has_foreign_lang -%}
             {%- include helpers/cldr.html name="languages"
                                           type=publication.lang -%}
