@@ -516,6 +516,10 @@ collections:
     - name: link
       label: URL (relative address referencing a PDF)
       widget: string
+  - name: tags
+    label: Categories (to make them filterable, see Categories collection)
+    widget: list
+    required: false
 
 - name: publication_types
   label: Publication Types
