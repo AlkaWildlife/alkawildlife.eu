@@ -2,7 +2,7 @@
   "name": "alkawildlife-cs",
   "private": true,
   "dependencies": {
-    "netlify-cms": "^1.9.2",
-    "js-yaml": "^3.10.0"
+    "js-yaml": "^3.10.0",
+    "netlify-cms": "^1.9.3"
   }
 }
