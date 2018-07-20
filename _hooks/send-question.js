@@ -40,7 +40,7 @@ var NetlifyCallback
  * @return {string}
  */
 function parseContentType(headerValue) {
-  return (headerValue || "").split(/;\s+/, 2)[0]
+  return (headerValue || "").split(/;\s*/, 2)[0]
 }
 
 /**
