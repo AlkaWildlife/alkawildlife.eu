@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{ "/assets/stylesheets/cms.css" | relative_url }}">
   </head>
   <body>
-    <a href="{{ "/admin/thumbnails" | relative_url }}" class="nc-appHeader-button" style="position: absolute; z-index: 400; top: 2px; left: 250px;">
+    <a href="{{ "/admin/thumbnails" | relative_url }}" class="nc-appHeader-button js-thumbnails-menu-button" style="display: none; position: absolute; z-index: 400; top: 2px; left: 250px;">
       <span class="nc-icon">
         <span style="width: 24px; height: 24px;">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
@@ -24,6 +24,17 @@
       </span>
       Thumbnails
     </a>
+    <script>
+      setInterval(function() {
+        if (document.querySelector(".nc-collectionPage-container")) {
+          document.querySelector(".js-thumbnails-menu-button").style.display =
+            null
+        } else {
+          document.querySelector(".js-thumbnails-menu-button").style.display =
+            "none"
+        }
+      }, 100)
+    </script>
     <script src="{{ "/assets/javascripts/cms.js" | relative_url }}"></script>
     <script>{% raw %}
       /** @typedef {string} */
