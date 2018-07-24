@@ -62,6 +62,7 @@ collections:
   - name: listed
     label: Show in the navigation menu
     widget: boolean
+    required: false
   - name: position
     label: Position among siblings in listings
     widget: number
@@ -170,6 +171,7 @@ collections:
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -199,6 +201,7 @@ collections:
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -228,6 +231,7 @@ collections:
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -254,6 +258,7 @@ collections:
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -1197,6 +1202,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: galleries
         label: Galleries
         widget: object
@@ -1209,6 +1215,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: posts
         label: Posts (news, photos and user answers)
         widget: object
@@ -1221,6 +1228,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: projects
         label: Projects
         widget: object
@@ -1233,6 +1241,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: publications
         label: Publications
         widget: object
@@ -1245,6 +1254,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: publication_types
         label: Publication Types
         widget: object
@@ -1257,6 +1267,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: showcases
         label: Showcases
         widget: object
@@ -1269,6 +1280,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: filterable_tags
         label: Categories
         widget: object
@@ -1281,6 +1293,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
     - name: defaults
       label: Defaults for collections
       widget: list
