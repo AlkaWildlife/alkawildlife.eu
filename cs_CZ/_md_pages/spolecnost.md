@@ -1,6 +1,6 @@
 ---
-title: Společnost
-permalink: /spolecnost
+title: O nás
+permalink: /o_nas
 listed: true
 position: 2
 layout: single_column_page
