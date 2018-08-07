@@ -1,6 +1,6 @@
 ---
 title: O nás
-published: true
+published: false
 permalink: /o_nas
 listed: true
 position: 2
