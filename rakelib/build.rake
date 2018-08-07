@@ -18,13 +18,12 @@ task serve: %w[build:cms build:jekyll:serve]
 
 namespace "build" do
   CMS_SOURCES = FileList[
-    "node_modules/netlify-cms/dist/cms.js",
-    "node_modules/netlify-cms/dist/cms.css"
+    "node_modules/netlify-cms/dist/netlify-cms.js"
   ]
   if Jekyll.env != "development"
     CMS_SOURCES << "node_modules/js-yaml/dist/js-yaml.min.js"
   else
-    CMS_SOURCES << "node_modules/netlify-cms/dist/cms.js.map"
+    CMS_SOURCES << "node_modules/netlify-cms/dist/netlify-cms.js.map"
     CMS_SOURCES << "node_modules/js-yaml/dist/js-yaml.js"
   end
   CMS_DEBUG_SOURCES = Jekyll.env == "development" ? FileList[

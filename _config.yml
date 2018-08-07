@@ -31,10 +31,9 @@ plugins:
 # Netlify CMS assets are created before Jekyll build via Rake build
 # task.
 keep_files:
-  - assets/javascripts/cms.js
-  - assets/javascripts/cms.js.map
+  - assets/javascripts/netlify-cms.js
+  - assets/javascripts/netlify-cms.js.map
   - assets/javascripts/js-yaml.min.js
   - assets/javascripts/js-yaml.js
-  - assets/stylesheets/cms.css
   - assets/src
   - assets/node_modules
