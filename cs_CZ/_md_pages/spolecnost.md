@@ -5,6 +5,7 @@ permalink: /o_nas
 listed: true
 position: 2
 layout: single_column_page
+aside_links: "Posláním ALKA Wildlife je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými znalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
 ---
 ## Poslání
 
