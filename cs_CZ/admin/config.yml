@@ -108,7 +108,7 @@ collections:
   delete: false
   files:
 
-  - name: 404
+  - name: not_found
     label: Page not found
     file: cs_CZ/404.md
     format: frontmatter
