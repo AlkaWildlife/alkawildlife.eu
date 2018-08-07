@@ -108,39 +108,9 @@ collections:
   delete: false
   files:
 
-  - name: not_found
-    label: Page not found
-    file: cs_CZ/404.md
-    format: frontmatter
-    extension: md
-    fields:
-    - name: title
-      label: Title
-      widget: string
-    - name: shout
-      label: Shout (succinct message saying page wasn’t found)
-      widget: string
-    - name: shout_style
-      label: Shout style
-      widget: select
-      options:
-      - muted
-      - primary
-      - success
-      - info
-      - warning
-      - danger
-    - name: body
-      label: Body
-      widget: markdown
-    meta:
-    - name: layout
-      label: Layout
-      widget: string
-
-  - name: search
-    label: Search
-    file: cs_CZ/search.html
+  - name: index
+    label: Home
+    file: cs_CZ/index.html
     format: frontmatter
     extension: html
     fields:
@@ -148,6 +118,15 @@ collections:
       label: Title
       widget: string
     meta:
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
     - name: layout
       label: Layout
       widget: string
@@ -155,9 +134,9 @@ collections:
       label: Body
       widget: text
 
-  - name: user_answers
-    label: User answers
-    file: cs_CZ/user-answers.html
+  - name: news
+    label: News
+    file: cs_CZ/news.html
     format: frontmatter
     extension: html
     fields:
@@ -215,9 +194,9 @@ collections:
       label: Body
       widget: text
 
-  - name: news
-    label: News
-    file: cs_CZ/news.html
+  - name: user_answers
+    label: User answers
+    file: cs_CZ/user-answers.html
     format: frontmatter
     extension: html
     fields:
@@ -245,9 +224,9 @@ collections:
       label: Body
       widget: text
 
-  - name: index
-    label: Home
-    file: cs_CZ/index.html
+  - name: search
+    label: Search
+    file: cs_CZ/search.html
     format: frontmatter
     extension: html
     fields:
@@ -255,21 +234,42 @@ collections:
       label: Title
       widget: string
     meta:
-    - name: listed
-      label: Show in the navigation menu
-      widget: boolean
-      required: false
-    - name: position
-      label: Position among siblings in listings
-      widget: number
-      valueType: int
-      min: 1
     - name: layout
       label: Layout
       widget: string
     - name: body
       label: Body
       widget: text
+
+  - name: not_found
+    label: Page not found
+    file: cs_CZ/404.md
+    format: frontmatter
+    extension: md
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: shout
+      label: Shout (succinct message saying page wasn’t found)
+      widget: string
+    - name: shout_style
+      label: Shout style
+      widget: select
+      options:
+      - muted
+      - primary
+      - success
+      - info
+      - warning
+      - danger
+    - name: body
+      label: Body
+      widget: markdown
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
 
 - name: galleries
   label: Galleries
@@ -752,354 +752,6 @@ collections:
   create: false
   delete: false
   files:
-  - name: search
-    label: Search
-    file: cs_CZ/_data/search.yml
-    fields:
-    - name: long_title
-      label: Title (you can wrap phrases with * to emphasize them)
-      widget: string
-    - name: phrase
-      label: Phrase
-      widget: string
-    - name: loading
-      label: Loading
-      widget: string
-
-  - name: user_answers
-    label: User answers
-    file: cs_CZ/_data/user_answers.yml
-    fields:
-    - name: title
-      label: Title
-      widget: object
-      fields:
-      - name: one
-        label: One (only one answer is published)
-        widget: string
-      - name: many
-        label: Many (more than one answer is published)
-        widget: string
-    - name: more
-      label: Show more button label on user answer listing
-      widget: string
-    - name: filter
-      label: Filter
-      widget: object
-      fields:
-      - name: all
-        label: Display everything (cancel filter)
-        widget: string
-      - name: by_type
-        label: By publication type
-        widget: string
-      - name: by_tag
-        label: By tag
-        widget: string
-      - name: by_date
-        label: By date
-        widget: string
-    - name: form
-      label: User question form
-      widget: object
-      fields:
-      - name: title
-        label: Title
-        widget: string
-      - name: fields
-        label: Field labels
-        widget: object
-        fields:
-        - name: name
-          label: Name
-          widget: string
-        - name: email
-          label: Email
-          widget: string
-        - name: question
-          label: Message
-          widget: string
-        - name: honeypot
-          label: Honeypot (mention that humans shouldn’t fill this in)
-          widget: string
-        - name: submit
-          label: Submit
-          widget: string
-      - name: consent
-        label: Consent (note about data handling)
-        widget: string
-      - name: results
-        label: Possible results of form submission
-        widget: list
-        fields:
-        - name: id
-          label: ID
-          widget: string
-        - name: type
-          label: Type
-          widget: select
-          options:
-          - success
-          - info
-          - warning
-          - danger
-        - name: message
-          label: Message
-          widget: string
-
-  - name: publications
-    label: Publication
-    file: cs_CZ/_data/publications.yml
-    fields:
-    - name: title
-      label: Title
-      widget: string
-    - name: filter
-      label: Filter
-      widget: object
-      fields:
-      - name: all
-        label: Display everything (cancel filter)
-        widget: string
-      - name: by_tag
-        label: By tag
-        widget: string
-      - name: by_date
-        label: By date
-        widget: string
-
-  - name: projects
-    label: Projects
-    file: cs_CZ/_data/projects.yml
-    fields:
-    - name: title
-      label: Title
-      widget: string
-    - name: filter
-      label: Filter
-      widget: object
-      fields:
-      - name: all
-        label: Display everything (cancel filter)
-        widget: string
-      - name: by_tag
-        label: By tag
-        widget: string
-      - name: by_date
-        label: By date
-        widget: string
-      - name: month
-        label: Month label
-        widget: string
-      - name: year
-        label: Year label
-        widget: string
-    - name: partners
-      label: Partners label
-      widget: string
-    - name: funding
-      label: Funding label
-      widget: string
-    - name: budget
-      label: Budget label
-      widget: string
-    - name: registration_no
-      label: Registration no. label
-      widget: string
-    - name: web
-      label: Web label
-      widget: string
-    - name: period
-      label: Period
-      widget: object
-      fields:
-      - name: only_from
-        label: Label if only start date is set
-      - name: from_to
-        label: Label if both start and finish date
-    - name: contacts
-      label: Contacts
-      widget: object
-      fields:
-      - name: one
-        label: Label for one person
-      - name: many
-        label: Label for many people
-    - name: species
-      label: Species label
-      widget: string
-    - name: area
-      label: Area label
-      widget: string
-    - name: countries
-      label: Countries label
-      widget: string
-    - name: default_country
-      label: Default Country (not displayed when set as only country)
-      widget: string
-
-  - name: gallery
-    label: Gallery
-    file: cs_CZ/_data/gallery.yml
-    fields:
-    - name: long_title
-      label: Title (you can wrap phrases with * to emphasize them)
-      widget: string
-    - name: body
-      label: Description
-      widget: markdown
-    - name: filter
-      label: Filter
-      widget: object
-      fields:
-      - name: all
-        label: Show all photos
-        widget: string
-      - name: by_tag
-        label: By tag
-        widget: string
-    - name: content_gallery_title
-      label: Content gallery title
-      widget: string
-
-  - name: news
-    label: News
-    file: cs_CZ/_data/news.yml
-    fields:
-    - name: long_title
-      label: Title (you can wrap phrases with * to emphasize them)
-      widget: string
-    - name: more
-      label: Show more button label on news listing
-      widget: string
-
-  - name: home
-    label: Home page
-    file: cs_CZ/_data/home.yml
-    fields:
-    - name: news
-      label: News section (top)
-      widget: object
-      fields:
-      - name: following
-        label: Heading introducing news following the most recent ones
-        widget: string
-      - name: all
-        label: Button label showing all news
-        widget: string
-    - name: links
-      label: Links section with 5 items (middle)
-      widget: list
-      fields:
-      - name: title
-        label: Title
-        widget: string
-      - name: url
-        label: Link Address (use relative address)
-        widget: string
-      - name: image
-        label: Image (165 × 117 px)
-        widget: file
-    - name: mission
-      label: Mission section (1st bottom)
-      widget: object
-      fields:
-      - name: body
-        label: Content
-        widget: markdown
-    - name: gallery
-      label: Gallery section (2nd bottom)
-      widget: object
-      fields:
-      - name: title
-        label: Title
-        widget: string
-    - name: appeal
-      label: Appeal section (3rd bottom)
-      widget: object
-      fields:
-      - name: body
-        label: Content
-        widget: markdown
-    - name: other
-      label: Other section (4th bottom)
-      widget: object
-      fields:
-      - name: body
-        label: Content
-        widget: markdown
-
-  - name: aside
-    label: Right column
-    file: cs_CZ/_data/aside.yml
-    fields:
-    - name: title
-      label: Default title
-      widget: string
-
-  - name: footer
-    label: Global footer
-    file: cs_CZ/_data/footer.yml
-    fields:
-    - name: funded_by
-      label: Funding institutions
-      widget: list
-      fields:
-      - name: logos
-        label: Logos
-        widget: list
-        fields:
-        - name: image
-          label: Image
-          widget: file
-        - name: height
-          label: Height (in pixels; width is computed to maintain proportions)
-          widget: number
-          valueType: int
-          min: 1
-        - name: margin_top_bottom
-          label: Vertical space around the image (in pixels)
-          widget: number
-          valueType: int
-          min: 1
-        - name: margin_left_right
-          label: Horizontal space around the image (in pixels)
-          widget: number
-          valueType: int
-          min: 1
-      - name: description
-        label: Description (or some mandatory text)
-        widget: list
-        fields:
-        - name: lang
-          label: Language
-          widget: languages
-          priority:
-          - cs
-          - sk
-          - en
-          - de
-          - pl
-          default:
-          - cs
-        - name: body
-          label: Content
-          widget: string
-
-  - name: header
-    label: Global header
-    file: cs_CZ/_data/header.yml
-    fields:
-    - name: logo
-      label: Logo
-      widget: image
-    - name: claim
-      label: Claim
-      widget: string
-    - name: search
-      label: Search field placeholder
-      widget: string
-
   - name: config
     label: Global config
     file: cs_CZ/_config.yml
@@ -1182,7 +834,7 @@ collections:
     - name: google_analytics
       label: Google Analytics property ID
       widget: string
-  meta:
+    meta:
     - name: baseurl
       label: Base URL
       widget: string
@@ -1345,6 +997,354 @@ collections:
     - name: keep_files
       label: Files kept from clobbering
       widget: list
+
+  - name: header
+    label: Global header
+    file: cs_CZ/_data/header.yml
+    fields:
+    - name: logo
+      label: Logo
+      widget: image
+    - name: claim
+      label: Claim
+      widget: string
+    - name: search
+      label: Search field placeholder
+      widget: string
+
+  - name: footer
+    label: Global footer
+    file: cs_CZ/_data/footer.yml
+    fields:
+    - name: funded_by
+      label: Funding institutions
+      widget: list
+      fields:
+      - name: logos
+        label: Logos
+        widget: list
+        fields:
+        - name: image
+          label: Image
+          widget: file
+        - name: height
+          label: Height (in pixels; width is computed to maintain proportions)
+          widget: number
+          valueType: int
+          min: 1
+        - name: margin_top_bottom
+          label: Vertical space around the image (in pixels)
+          widget: number
+          valueType: int
+          min: 1
+        - name: margin_left_right
+          label: Horizontal space around the image (in pixels)
+          widget: number
+          valueType: int
+          min: 1
+      - name: description
+        label: Description (or some mandatory text)
+        widget: list
+        fields:
+        - name: lang
+          label: Language
+          widget: languages
+          priority:
+          - cs
+          - sk
+          - en
+          - de
+          - pl
+          default:
+          - cs
+        - name: body
+          label: Content
+          widget: string
+
+  - name: aside
+    label: Right column
+    file: cs_CZ/_data/aside.yml
+    fields:
+    - name: title
+      label: Default title
+      widget: string
+
+  - name: home
+    label: Home page
+    file: cs_CZ/_data/home.yml
+    fields:
+    - name: news
+      label: News section (top)
+      widget: object
+      fields:
+      - name: following
+        label: Heading introducing news following the most recent ones
+        widget: string
+      - name: all
+        label: Button label showing all news
+        widget: string
+    - name: links
+      label: Links section with 5 items (middle)
+      widget: list
+      fields:
+      - name: title
+        label: Title
+        widget: string
+      - name: url
+        label: Link Address (use relative address)
+        widget: string
+      - name: image
+        label: Image (165 × 117 px)
+        widget: file
+    - name: mission
+      label: Mission section (1st bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+    - name: gallery
+      label: Gallery section (2nd bottom)
+      widget: object
+      fields:
+      - name: title
+        label: Title
+        widget: string
+    - name: appeal
+      label: Appeal section (3rd bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+    - name: other
+      label: Other section (4th bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+
+  - name: news
+    label: News
+    file: cs_CZ/_data/news.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: more
+      label: Show more button label on news listing
+      widget: string
+
+  - name: gallery
+    label: Gallery
+    file: cs_CZ/_data/gallery.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: body
+      label: Description
+      widget: markdown
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Show all photos
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+    - name: content_gallery_title
+      label: Content gallery title
+      widget: string
+
+  - name: projects
+    label: Projects
+    file: cs_CZ/_data/projects.yml
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+      - name: month
+        label: Month label
+        widget: string
+      - name: year
+        label: Year label
+        widget: string
+    - name: partners
+      label: Partners label
+      widget: string
+    - name: funding
+      label: Funding label
+      widget: string
+    - name: budget
+      label: Budget label
+      widget: string
+    - name: registration_no
+      label: Registration no. label
+      widget: string
+    - name: web
+      label: Web label
+      widget: string
+    - name: period
+      label: Period
+      widget: object
+      fields:
+      - name: only_from
+        label: Label if only start date is set
+      - name: from_to
+        label: Label if both start and finish date
+    - name: contacts
+      label: Contacts
+      widget: object
+      fields:
+      - name: one
+        label: Label for one person
+      - name: many
+        label: Label for many people
+    - name: species
+      label: Species label
+      widget: string
+    - name: area
+      label: Area label
+      widget: string
+    - name: countries
+      label: Countries label
+      widget: string
+    - name: default_country
+      label: Default Country (not displayed when set as only country)
+      widget: string
+
+  - name: publications
+    label: Publication
+    file: cs_CZ/_data/publications.yml
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+
+  - name: user_answers
+    label: User answers
+    file: cs_CZ/_data/user_answers.yml
+    fields:
+    - name: title
+      label: Title
+      widget: object
+      fields:
+      - name: one
+        label: One (only one answer is published)
+        widget: string
+      - name: many
+        label: Many (more than one answer is published)
+        widget: string
+    - name: more
+      label: Show more button label on user answer listing
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_type
+        label: By publication type
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+    - name: form
+      label: User question form
+      widget: object
+      fields:
+      - name: title
+        label: Title
+        widget: string
+      - name: fields
+        label: Field labels
+        widget: object
+        fields:
+        - name: name
+          label: Name
+          widget: string
+        - name: email
+          label: Email
+          widget: string
+        - name: question
+          label: Message
+          widget: string
+        - name: honeypot
+          label: Honeypot (mention that humans shouldn’t fill this in)
+          widget: string
+        - name: submit
+          label: Submit
+          widget: string
+      - name: consent
+        label: Consent (note about data handling)
+        widget: string
+      - name: results
+        label: Possible results of form submission
+        widget: list
+        fields:
+        - name: id
+          label: ID
+          widget: string
+        - name: type
+          label: Type
+          widget: select
+          options:
+          - success
+          - info
+          - warning
+          - danger
+        - name: message
+          label: Message
+          widget: string
+
+  - name: search
+    label: Search
+    file: cs_CZ/_data/search.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: phrase
+      label: Phrase
+      widget: string
+    - name: loading
+      label: Loading
+      widget: string
 
 - name: layouts
   label: "\U0001F6AB"
