@@ -1,11 +1,14 @@
 ---
 title: O nás
 published: false
-permalink: /o_nas
+permalink: /o-nás
+description: >-
+  Posláním ALKA Wildlife je přispět objektivním výzkumem k efektivní, kvalitními
+  odbornými znalostmi podložené ochraně a péči o volně žijící druhy živočichů.
 listed: true
 position: 2
 layout: single_column_page
-aside_links: "Posláním ALKA Wildlife je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými znalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
+aside_links: ''
 ---
 ## Poslání
 
