@@ -10,9 +10,7 @@ position: 4
 layout: single_column_page
 aside_links: ''
 ---
-Symbol naší společnosti alka velká je černobílý pták vzhledem připomínající známé tučňáky. Bohužel alka velká, stejně jako řada jiných druhů, vyhynula v polovině 19. století, z velké části vlivem člověka. Poslední jedinec byl zabit v roce 1844.
-
-Jsme o přibližně 160 let dále, na začátku nového tisíciletí. Ochrana druhů a biodiversity je již součástí řady lidských aktivit. Ale vlivem člověka stále mizí další druhy: lokálně, regionálně i globálně. 
+![]()
 
 Symbol naší společnosti alka velká je černobílý pták vzhledem připomínající známé tučňáky. Bohužel alka velká, stejně jako řada jiných druhů, vyhynula v polovině 19. století, z velké části vlivem člověka. Poslední jedinec byl zabit v roce 1844.
 
