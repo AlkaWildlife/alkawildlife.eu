@@ -1,7 +1,7 @@
 ---
 title: Formální informace
-permalink: /spolecnost/formalni-informace
 published: false
+permalink: /o-nas/formalni-informace
 listed: true
 position: 2
 layout: two_columns_page
