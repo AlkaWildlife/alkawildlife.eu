@@ -1,13 +1,13 @@
 ---
-title: Formální informace
+title: Kontakty
 published: false
-permalink: /o-nas/formalni-informace
+permalink: /o-nas/kontakty
 listed: true
 position: 2
 layout: two_columns_page
 ---
-**_ALKA Wildlife o.p.s._**\
-**\*Sídlo**: Lidéřovice 62, 380 01  Dačice\
+_**ALKA Wildlife o.p.s.**_\
+**\*Sídlo**: Lidéřovice 62, 380 01  Peč\
 _**\*IČO**: 280 64 933_\
 **\*DIČ**: CZ28064933 je plátcem DPH\
 _**\*ID datové schránky**: gypmz9w_
@@ -19,54 +19,58 @@ _Web: [www.alkawildlife.eu](https://www.alkawildlife.eu)_
 Facebook:
 [facebook.com/AlkaWildlife](https://www.facebook.com/AlkaWildlife)
 
-Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti
-odborníků zabývajících se ekologií obratlovců a ochranou přírody.
+E-mailové adresy pro všechny níže uvedené osoby jsou ve tvaru: jmeno.primeni@alkawildlife.eu
 
-# Poslání společnosti
 
-Získávat, šířit a aplikovat informace týkající se biologie a ekologie
-živočichů tak, aby došlo k jejich efektivní, vědecky podložené ochraně
-a managementu
 
-# Status
+## Mgr. Kateřina Poledníková
 
-Společnost ALKA Wildlife, o.p.s. je **obecně prospěšná společnost**
-založená dle zákona č. 248/1995 Sb., o obecně prospěšných společnostech,
-ve znění pozdějších předpisů.
+tel: 606598903
 
-Společnosti ALKA Wildlife, o.p.s. byla udělena **akreditace od Ústřední
-komise pro ochranu zvířat podle zákona č. 246/1992 Sb., na ochranu
-zvířat** proti týrání, ve znění pozdějších předpisů. Na základě této
-akreditace má společnost povolení pro provádění pokusů na zvířatech
-s pokus ířete včetně jeho metodického sledování ve volné
-přírodě. Povolení bylo vydáno pro naše druhy lasicovitých šelem.
+## 
 
-Společnost ALKA Wildlife, o.p.s. je na seznamu **výzkumných organizací**
-splňujících formální znaky VO schváleném Radou pro výzkum, vývoj
-a inovace.
+* ředitelka společnosti 
+* projektový a finanční manažer, vědecký pracovník
+* administrativa
+* správce webových stránek 
+* zpracování dat a statistické analýzy 
+* ekologie lasicovitých šelem
 
-# Statutární orgán společnosti – ředitel
 
-Mgr. Kateřina Poledníková\
-Ředitel je oprávněn jednat jménem společnosti.
 
-# Správní rada:
+## Mgr. Lukáš Poledník, Ph.D.
 
-Mgr. Aleš Jelínek (předseda správní rady)\
-Zdeněk Hron\
-Ing. Václav Křivan
+tel: 721113973
 
-# Dozorčí rada:
+## 
 
-Jaroslava Musilová (předseda dozorčí rady)\
-Jindra Jelínková, Dis.\
-Miloslava Kráľová
+* vedoucí vědecký pracovník
+* potravní analýzy
+* GIS analýzy
+* odborné vedení studentů
+* posudky na škody způsobené vydrou říční
+* ekologie lasicovitých šelem
+* člen IUCN Otter Specialist Group
 
-# Zakladatelé společnosti:
 
-Mgr. Václav Beran\
-Ing. Václav Hlaváč\
-Dr. Andreas Kranz\
-Mgr. Lukáš Poledník, Ph.D.\
-Mgr. Kateřina Poledníková\
-RNDr. Aleš Toman
+
+## Mgr. Tereza Mináriková
+
+tel: 724706806
+
+* projektový manažer
+* správce facebookových stránek společnosti 
+* ekologie šelem
+* publicita, práce s veřejností a médii 
+* profesní životopis, zkušenosti a dovednosti viz. profil na Linkedin 
+
+## Mgr. Václav Beran
+
+tel: 731407839
+
+## 
+
+* inventarizační průzkumy obratlovců
+* ekologie lasicovitých šelem 
+* ornitologie
+* profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin ](https://www.linkedin.com/in/václav-beran-5709705a)
