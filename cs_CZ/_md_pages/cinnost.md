@@ -3,8 +3,9 @@ title: Činnost
 published: true
 permalink: /spolecnost/cinnost
 description: >-
-  Společnost poskytuje veřejnosti obecně prospěšné služby i vykonává doplňkovou
-  činnost
+  Posláním společnosti je získávat, šířit a aplikovat informace týkající se
+  biologie a ekologie živočichů tak, aby došlo k jejich efektivní, vědecky
+  podložené ochraně a managementu
 listed: true
 position: 1
 layout: two_columns_page
