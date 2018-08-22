@@ -58,7 +58,7 @@ tel: 721113973
 
 tel: 724706806
 
-* projektový manažer
+* projektový manažer, vědecký pracovník
 * správce facebookových stránek společnosti 
 * ekologie šelem
 * publicita, práce s veřejností a médii 
@@ -68,9 +68,17 @@ tel: 724706806
 
 tel: 731407839
 
-## 
-
+* projektový manažer, vědecký pracovník
 * inventarizační průzkumy obratlovců
 * ekologie lasicovitých šelem 
 * ornitologie
 * profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin ](https://www.linkedin.com/in/václav-beran-5709705a)
+
+
+
+## Ing. Jan Horáček
+
+tel: 724299225
+
+* ekonom, finanční manažer
+* administrativa
