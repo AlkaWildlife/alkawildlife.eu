@@ -10,6 +10,8 @@ listed: true
 position: 1
 layout: two_columns_page
 ---
+Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odborníků zabývajících se ekologií obratlovců a ochranou přírody.
+
 ## Společnost poskytuje veřejnosti obecně prospěšné služby ve formě:
 
 * realizace **výzkumných projektů **v oblasti biologie, ekologie a ochrany volně žijících živočichů
@@ -43,8 +45,6 @@ Mgr. Kateřina Poledníková
 
 Ředitel je oprávněn jednat jménem společnosti. 
 
-
-
 ## Správní rada:
 
 Mgr. Aleš Jelínek (předseda správní rady)
@@ -53,8 +53,6 @@ Zdeněk Hron
 
 Ing. Václav Křivan
 
-
-
 ## Dozorčí rada:
 
 Jaroslava Musilová (předseda dozorčí rady)
@@ -62,8 +60,6 @@ Jaroslava Musilová (předseda dozorčí rady)
 Jindra Jelínková, Dis.
 
 Miloslava Král’ová
-
-
 
 ## Zakladatelé společnosti:
 
