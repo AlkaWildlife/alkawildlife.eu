@@ -27,9 +27,13 @@ Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odb
 
 * zpracování **odborných posudků **v oblasti škod způsobovaných zvláště chráněnými živočichy
 
+
+
 ## Poslání společnosti
 
 Získávat, šířit a aplikovat informace týkající se biologie a ekologie živočichů tak, aby došlo k jejich efektivní, vědecky podložené ochraně a managementu
+
+
 
 ## Status
 
