@@ -1,5 +1,6 @@
 ---
 title: Podpořte nás
+published: true
 permalink: /spolecnost/podporte-nas
 long_title: Jak nás můžete podpořit?
 listed: true
