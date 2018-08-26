@@ -39,38 +39,36 @@ Společnosti ALKA Wildlife, o.p.s. byla udělena akreditace od Ústřední komis
 
 Společnost ALKA Wildlife, o.p.s. je na seznamu výzkumných organizací splňujících formální znaky VO schváleném Radou pro výzkum, vývoj a inovace.
 
+
+
 ## Statutární orgán společnosti - ředitel
 
-Mgr. Kateřina Poledníková 
-
+Mgr. Kateřina Poledníková\
 Ředitel je oprávněn jednat jménem společnosti. 
+
+
 
 ## Správní rada:
 
-Mgr. Aleš Jelínek (předseda správní rady)
-
-Zdeněk Hron 
-
+Mgr. Aleš Jelínek (předseda správní rady)\
+Zdeněk Hron \
 Ing. Václav Křivan
+
+
 
 ## Dozorčí rada:
 
-Jaroslava Musilová (předseda dozorčí rady)
-
-Jindra Jelínková, Dis.
-
+Jaroslava Musilová (předseda dozorčí rady)\
+Jindra Jelínková, Dis.\
 Miloslava Král’ová
+
+
 
 ## Zakladatelé společnosti:
 
-Mgr. Václav Beran
-
-Ing. Václav Hlaváč
-
-Dr. Andreas Kranz
-
-Mgr. Lukáš Poledník, Ph.D.
-
-Mgr. Kateřina Poledníková
-
+Mgr. Václav Beran\
+Ing. Václav Hlaváč\
+Dr. Andreas Kranz\
+Mgr. Lukáš Poledník, Ph.D.\
+Mgr. Kateřina Poledníková\
 RNDr. Aleš Toman
