@@ -1,6 +1,6 @@
 ---
 title: Kontakty
-published: false
+published: true
 permalink: /o-nas/kontakty
 listed: true
 position: 2
