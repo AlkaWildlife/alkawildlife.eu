@@ -3,6 +3,6 @@
   "private": true,
   "dependencies": {
     "js-yaml": "^3.10.0",
-    "netlify-cms": "^2.0.9"
+    "netlify-cms": "^2.3.1"
   }
 }
