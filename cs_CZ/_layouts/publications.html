@@ -42,6 +42,15 @@ layout: default
   {% assign filtered_tags = filtered_tags | concat: matching_tags %}
 {% endfor %}
 
+{%- capture site_lang -%}
+    {%- include helpers/language.html locale=site.lang -%}
+{%- endcapture -%}
+{%- if page.lang and page.lang != site_lang -%}
+    {%- assign has_foreign_lang = true -%}
+{%- else -%}
+    {%- assign has_foreign_lang = false -%}
+{%- endif -%}
+
 <div id="content-row">
   <div class="row-container">
     <div class="container-fluid">
@@ -56,6 +65,9 @@ layout: default
                 <span class="item_title_part0">{{ page.title }}</span>
                 {%- if page.subtitle -%}
                 <br><small>{{ page.subtitle }}</small>
+                {%- endif -%}
+                {%- if page.type -%}
+                <br><small{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>{{ page.type }}</small>
                 {%- endif -%}
               </h3>
             </div>

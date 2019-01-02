@@ -1244,12 +1244,43 @@ collections:
       - name: all
         label: Display everything (cancel filter)
         widget: string
+      - name: by_type
+        label: By publication type
+        widget: string
       - name: by_tag
         label: By tag
         widget: string
       - name: by_date
         label: By date
         widget: string
+      - name: year
+        label: By year
+        widget: string
+    - name: authors
+      label: Authors
+      widget: object
+      fields:
+      - name: one
+        label: One (a publication with only one author)
+        widget: string
+      - name: many
+        label: Many (a publication with more than one author)
+        widget: string
+    - name: publisher
+      label: Publisher
+      widget: string
+    - name: journal
+      label: Journal
+      widget: string
+    - name: year
+      label: Publishing year
+      widget: string
+    - name: download
+      label: Download (use %@ as a placeholder for publication title)
+      widget: string
+    - name: attachments
+      label: Attachments
+      widget: string
 
   - name: user_answers
     label: User answers

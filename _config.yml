@@ -7,7 +7,8 @@ collections:
     permalink: /:categories/:title
   projects:
     output: true
-  publications: {}
+  publications:
+    output: true
   publication_types: {}
   showcases: {}
   filterable_tags: {}
@@ -18,6 +19,11 @@ defaults:
       type: projects
     values:
       layout: project
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
 
 # Build settings
 markdown: kramdown

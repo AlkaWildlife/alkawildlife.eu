@@ -5,3 +5,12 @@ filter:
   by_tag: Kategorie
   by_date: Publikace z roku
   year: Rok
+
+authors:
+  one: Autor
+  many: Autoři
+publisher: Vydavatel
+journal: Časopis
+year: Rok vydání
+download: Otevřít publikaci „%@“
+attachments: Dále ke stažení
