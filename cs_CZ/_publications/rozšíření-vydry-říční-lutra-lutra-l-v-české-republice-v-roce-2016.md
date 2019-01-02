@@ -8,7 +8,7 @@ authors:
   - name: Čamlík G.
   - name: 'Praus L. '
   - name: Mateos-Gonzalez F.
-type: Odborné publikace
+type: Odborná publikace
 publisher: 'ALKA Wildlife, o.p.s.'
 journal: Bulletin Vydra 17
 year: 2018

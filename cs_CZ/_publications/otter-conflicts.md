@@ -7,7 +7,7 @@ authors:
   - name: Poledník L.
   - name: Myšiak J.
   - name: R. A. Klenke et al. (eds.)
-type: Odborné publikace
+type: Odborná publikace
 publisher: Springer-Verlag Berlin Heidelberg
 journal: Human-Wildlife Conflicts in Europe Environmental Science and Engineering
 year: 2013

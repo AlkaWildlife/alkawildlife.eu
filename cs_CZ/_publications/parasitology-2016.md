@@ -17,7 +17,7 @@ authors:
   - name: L. Poledník
   - name: P. Heneberg
   - name: E.A. Chadwick
-type: Odborné publikace
+type: Odborná publikace
 journal: Parasitology International 65
 year: 2016
 lang: en
