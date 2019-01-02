@@ -18,7 +18,14 @@ layout: publications
         {%- assign has_foreign_lang = false -%}
       {%- endif -%}
 
-      <p class="js-publication" data-categories="{{ publication.tags | join: " " }}"{% if has_foreign_lang %} lang="{{ publication.lang }}"{% endif %}><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a>
+      {%- assign publication_type = site.publication_types |
+            where: "title", publication.type |
+            first -%}
+      {% capture publication_type_slug -%}
+        {% include helpers/slug.html page=publication_type %}
+      {%- endcapture %}
+
+      <p class="js-publication" data-type="{{ publication_type_slug | url_decode }}" data-categories="{{ publication.tags | join: " " }}"{% if has_foreign_lang %} lang="{{ publication.lang }}"{% endif %}><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a>
         {%- assign has_break = false -%}
 
         {%- if publication.authors and publication.authors.size > 0 -%}

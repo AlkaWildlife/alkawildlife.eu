@@ -169,14 +169,24 @@ layout: default
         split("&").
         map(function(rawPair) { return rawPair.split("=", 2) }).
         reduce(function(params, pair) {
-          params[pair[0]] = pair.length === 2 ? pair[1] : true
+          params[pair[0]] = pair.length === 2 ?
+            decodeURIComponent(pair[1]) :
+            true
+
           return params
         }, {})
     }
 
     function toggleShowAll(params) {
-      d.getElementById("filter_by_category_all").hidden = !params["category"]
-      d.getElementById("filter_by_date_all").hidden = !params["date"]
+      if (d.getElementById("filter_by_type_all")) {
+        d.getElementById("filter_by_type_all").hidden = !params["type"]
+      }
+      if (d.getElementById("filter_by_category_all")) {
+        d.getElementById("filter_by_category_all").hidden = !params["category"]
+      }
+      if (d.getElementById("filter_by_date_all")) {
+        d.getElementById("filter_by_date_all").hidden = !params["date"]
+      }
     }
 
     function ifFilterChanged(obj, cur, fn) {
@@ -201,6 +211,14 @@ layout: default
 
     function noFilter() {
       forEachPublication(function(p) { p.hidden = false })
+    }
+
+    function filterByType(filter) {
+      if (!filter) return
+
+      forEachPublication(function(p) {
+        p.hidden = (p.getAttribute("data-type") || "") !== filter
+      })
     }
 
     function filterByCategory(filter) {
@@ -228,6 +246,7 @@ layout: default
       ifFilterChanged(filter, params, noFilter)
       ensureDateFilterValue(params["date"])
       toggleShowAll(params)
+      filterByType(params["type"])
       filterByCategory(params["category"])
       filterByDate(params["date"])
     }
