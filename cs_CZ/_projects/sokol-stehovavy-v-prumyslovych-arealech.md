@@ -1,5 +1,6 @@
 ---
 title: Sokol stěhovavý v průmyslových areálech
+published: true
 from: "2010-01"
 tags:
 - sokol

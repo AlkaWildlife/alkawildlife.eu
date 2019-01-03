@@ -1,5 +1,6 @@
 ---
 title: Stopování rysů 1
+published: true
 image: /media/dscn4767.jpg
 content_thumbnail: /media/dscn4767_320.jpg
 description: Rysí monitoring probíhá také na sněhu.

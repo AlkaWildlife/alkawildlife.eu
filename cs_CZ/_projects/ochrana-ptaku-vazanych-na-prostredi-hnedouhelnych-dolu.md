@@ -1,5 +1,6 @@
 ---
 title: Ochrana ptáků vázaných na prostředí hnědouhelných dolů
+published: true
 subtitle: >-
   Efektivní ochrana druhů vázaných na raná stádia sukcese formou
   optimalizace managementu hnědouhelných těžebních oblastí: příklad

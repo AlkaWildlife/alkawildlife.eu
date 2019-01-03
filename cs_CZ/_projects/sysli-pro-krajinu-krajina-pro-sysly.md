@@ -1,5 +1,6 @@
 ---
 title: Sysli pro krajinu, krajina pro sysly
+published: true
 subtitle: Monitoring a podpora populace sysla obecného na jižní Moravě
 from: "2018-02"
 to: "2020-01"

@@ -1,5 +1,7 @@
 ---
 title: Alka velká
+published: true
+listed: false
 permalink: /alka-velka
 position: 1
 layout: two_columns_page

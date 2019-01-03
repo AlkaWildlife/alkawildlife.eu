@@ -1,5 +1,6 @@
 ---
 title: Revision
+published: true
 subtitle: Opatrenia pre zmiernenie dopadov inváznych živočíchov na Západnom Slovensku a južnej Morave
 from: "2018-02"
 to: "2020-01"
