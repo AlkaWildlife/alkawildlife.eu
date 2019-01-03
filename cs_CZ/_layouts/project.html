@@ -2,9 +2,9 @@
 layout: projects
 ---
 <div class="item_fulltext">
-  {% if page.partners %}
-    <h4>{{ site.data.projects.partners }}</h4>
-    {{ page.partners | markdownify }}
+  {% if page.registration_no %}
+    <h4>{{ site.data.projects.registration_no }}</h4>
+    <p>{{ page.registration_no }}</p>
   {% endif %}
 
   {% if page.funding %}
@@ -15,16 +15,6 @@ layout: projects
   {% if page.budget %}
     <h4>{{ site.data.projects.budget }}</h4>
     {{ page.budget | markdownify }}
-  {% endif %}
-
-  {% if page.registration_no %}
-    <h4>{{ site.data.projects.registration_no }}</h4>
-    <p>{{ page.registration_no }}</p>
-  {% endif %}
-
-  {% if page.web %}
-    <h4>{{ site.data.projects.web }}</h4>
-    <p><a href="{{ page.web }}">{{ page.web | replace_first: "https://", "" | replace_first: "http://", "" }}</a></p>
   {% endif %}
 
   {% if page.from %}
@@ -42,6 +32,16 @@ layout: projects
         <time datetime="{{ page.to | date: "%Y-%m-%d" }}">{{ page.to | append: "-01" | date: "%-m/%Y" }}</time>
       {%- endif -%}
     </p>
+  {% endif %}
+
+  {% if page.partners %}
+    <h4>{{ site.data.projects.partners }}</h4>
+    {{ page.partners | markdownify }}
+  {% endif %}
+
+  {% if page.web %}
+    <h4>{{ site.data.projects.web }}</h4>
+    <p><a href="{{ page.web }}">{{ page.web | replace_first: "https://", "" | replace_first: "http://", "" }}</a></p>
   {% endif %}
 
   {% if page.contacts and page.contacts.size > 0 %}

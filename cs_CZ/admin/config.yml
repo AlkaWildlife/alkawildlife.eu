@@ -422,6 +422,18 @@ collections:
     label: Subtitle (optional small heading under long title)
     widget: string
     required: false
+  - name: registration_no
+    label: Registration number
+    widget: string
+    required: false
+  - name: funding
+    label: Financial resource
+    widget: markdown
+    required: false
+  - name: budget
+    label: Budget
+    widget: markdown
+    required: false
   - name: from
     label: >-
       From (day is not significant, only month and year are applied;
@@ -441,18 +453,6 @@ collections:
   - name: partners
     label: Partners
     widget: markdown
-    required: false
-  - name: funding
-    label: Financial resource
-    widget: markdown
-    required: false
-  - name: budget
-    label: Budget
-    widget: markdown
-    required: false
-  - name: registration_no
-    label: Registration number
-    widget: string
     required: false
   - name: web
     label: Website
