@@ -494,6 +494,10 @@ collections:
     searchFields:
     - name
     valueField: name
+  - name: tags
+    label: Categories (to make them filterable, see Categories collection)
+    widget: list
+    required: false
   - name: publisher
     label: Publisher
     widget: string
@@ -518,6 +522,9 @@ collections:
     - pl
     default:
     - cs
+  - name: body
+    label: Abstract
+    widget: markdown
   - name: link
     label: URL (relative address referencing a PDF)
     widget: string
@@ -533,10 +540,6 @@ collections:
     - name: link
       label: URL (relative address referencing a PDF)
       widget: string
-  - name: tags
-    label: Categories (to make them filterable, see Categories collection)
-    widget: list
-    required: false
 
 - name: publication_types
   label: Publication Types
