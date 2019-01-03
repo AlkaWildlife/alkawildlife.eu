@@ -1,6 +1,7 @@
 ---
 title: Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2016
 published: true
+public: false
 authors:
   - name: Poledník L.
   - name: Poledníková K.

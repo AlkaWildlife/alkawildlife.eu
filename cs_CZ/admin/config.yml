@@ -522,7 +522,6 @@ collections:
   - name: public
     label: Public (whether to display download link directly on the site)
     widget: boolean
-    required: false
   - name: authors
     label: Authors
     widget: list
