@@ -3,6 +3,7 @@ title: >-
   Distribution and molecular phylogeny of biliary trematodes (Opistrorchiidae)
   infecting native Lutra lutra and alien Neovison vison across Europe
 published: true
+public: false
 authors:
   - name: E. Sherrard-Smith
   - name: D.W.G. Stanton

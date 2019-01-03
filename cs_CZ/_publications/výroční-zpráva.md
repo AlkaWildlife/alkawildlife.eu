@@ -1,6 +1,7 @@
 ---
 title: Výroční zpráva 2017
 published: true
+public: true
 authors:
   - name: 'ALKA Wildlife, o.p.s.'
 type: Výroční zpráva

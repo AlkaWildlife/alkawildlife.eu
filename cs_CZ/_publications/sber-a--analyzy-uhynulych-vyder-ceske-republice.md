@@ -1,6 +1,7 @@
 ---
 title: "Sběr a\_analýzy uhynulých vyder v\_České republice"
 published: true
+public: true
 type: Článek pro veřejnost
 year: 2017
 lang: cs

@@ -474,6 +474,10 @@ collections:
     label: Published
     widget: boolean
     required: false
+  - name: public
+    label: Public (whether to display download link directly on the site)
+    widget: boolean
+    required: false
   - name: authors
     label: Authors
     widget: list
@@ -517,6 +521,7 @@ collections:
   - name: link
     label: URL (relative address referencing a PDF)
     widget: string
+    required: false
   - name: attachments
     label: Attachments
     widget: list
@@ -1277,6 +1282,9 @@ collections:
       widget: string
     - name: download
       label: Download (use %@ as a placeholder for publication title)
+      widget: string
+    - name: request
+      label: Request info (for non-public publications)
       widget: string
     - name: attachments
       label: Attachments

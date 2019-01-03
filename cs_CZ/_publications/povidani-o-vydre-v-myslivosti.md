@@ -1,6 +1,7 @@
 ---
 title: "Povídání o\_vydře a\_norkovi"
 published: true
+public: true
 type: Článek pro veřejnost
 journal: Myslivost
 year: 2009

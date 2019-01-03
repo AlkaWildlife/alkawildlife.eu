@@ -59,32 +59,34 @@ layout: publications
     {%- assign has_extension = false -%}
   {%- endif -%}
 
-  <p>
-    <a href="{{ page.link }}"{% if has_foreign_lang %} lang="{{ site.lang }}" hreflang="{{ page.lang }}"{% endif %}>
-      {%- if has_foreign_lang -%}
-        {{ site.data.publications.download |
-             replace: "%@", '<span lang="%!">%@</span>' |
-             replace: "%!", page.lang |
-             replace: "%@", page.title }}
-      {%- else -%}
-        {{ site.data.publications.download |
-             replace: "%@", page.title }}
+  <p{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>
+    {%- if page.public -%}
+      <a href="{{ page.link }}"{% if has_foreign_lang %} hreflang="{{ page.lang }}"{% endif %}>
+        {%- if has_foreign_lang -%}
+          {{ site.data.publications.download |
+               replace: "%@", '<span lang="%!">%@</span>' |
+               replace: "%!", page.lang |
+               replace: "%@", page.title }}
+        {%- else -%}
+          {{ site.data.publications.download |
+               replace: "%@", page.title }}
+        {%- endif -%}
+      </a>
+      {%- if has_foreign_lang or has_extension -%}
+        {{- " " -}}
+        (
+        {%- if has_foreign_lang -%}
+          {%- include helpers/cldr.html name="languages"
+                                        type=page.lang -%}
+        {%- endif -%}
+        {%- if has_foreign_lang and has_extension %}, {% endif -%}
+        {%- if has_extension -%}
+          {{ normalized_extension }}
+        {%- endif -%}
+        )
       {%- endif -%}
-    </a>
-    {%- if has_foreign_lang or has_extension -%}
-      {{- " " -}}
-      {%- if has_foreign_lang %}<span lang="{{ site.lang }}">{% endif -%}
-      (
-      {%- if has_foreign_lang -%}
-        {%- include helpers/cldr.html name="languages"
-                                      type=page.lang -%}
-      {%- endif -%}
-      {%- if has_foreign_lang and has_extension %}, {% endif -%}
-      {%- if has_extension -%}
-        {{ normalized_extension }}
-      {%- endif -%}
-      )
-      {%- if has_foreign_lang %}</span>{% endif -%}
+    {%- else -%}
+      {{- site.data.publications.request -}}</a>
     {%- endif -%}
   </p>
 

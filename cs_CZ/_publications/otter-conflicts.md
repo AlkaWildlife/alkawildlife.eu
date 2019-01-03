@@ -1,6 +1,7 @@
 ---
 title: Otters causing conflicts. The Fish Farming case of the Czech Republic
 published: true
+public: true
 authors:
   - name: Poledníková K.
   - name: Kranz A.
