@@ -6,11 +6,11 @@ listed: true
 position: 2
 layout: two_columns_page
 ---
-_**ALKA Wildlife o.p.s.**_\
-**\*Sídlo**: Lidéřovice 62, 380 01  Peč\
-_**\*IČO**: 280 64 933_\
-**\*DIČ**: CZ28064933 je plátcem DPH\
-_**\*ID datové schránky**: gypmz9w_
+_**ALKA Wildlife o.p.s.**_  
+_**Sídlo**: Lidéřovice 62, 380 01  Peč_  
+_**IČO**: 280 64 933_  
+_**DIČ**: CZ28064933 je plátcem DPH_  
+_**ID datové schránky**: gypmz9w_
 
 _[profil zadavatele](https://www.vhodne-uverejneni.cz/profil/28064933)_
 
@@ -21,28 +21,20 @@ Facebook:
 
 E-mailové adresy pro všechny níže uvedené osoby jsou ve tvaru: jmeno.primeni@alkawildlife.eu
 
+# Mgr. Kateřina Poledníková
 
+tel: 606 598 903
 
-## Mgr. Kateřina Poledníková
-
-tel: 606598903
-
-## 
-
-* ředitelka společnosti 
+* ředitelka společnosti
 * projektový a finanční manažer, vědecký pracovník
 * administrativa
-* správce webových stránek 
-* zpracování dat a statistické analýzy 
+* správce webových stránek
+* zpracování dat a statistické analýzy
 * ekologie lasicovitých šelem
 
+# Mgr. Lukáš Poledník, Ph.D.
 
-
-## Mgr. Lukáš Poledník, Ph.D.
-
-tel: 721113973
-
-## 
+tel: 721 113 973
 
 * vedoucí vědecký pracovník
 * potravní analýzy
@@ -52,33 +44,29 @@ tel: 721113973
 * ekologie lasicovitých šelem
 * člen IUCN Otter Specialist Group
 
+# Mgr. Tereza Mináriková
 
-
-## Mgr. Tereza Mináriková
-
-tel: 724706806
+tel: 724 706 806
 
 * projektový manažer, vědecký pracovník
-* správce facebookových stránek společnosti 
+* správce facebookových stránek společnosti
 * ekologie šelem
-* publicita, práce s veřejností a médii 
-* profesní životopis, zkušenosti a dovednosti viz. profil na Linkedin 
+* publicita, práce s veřejností a médii
+* profesní životopis, zkušenosti a dovednosti viz. profil na Linkedin
 
-## Mgr. Václav Beran
+# Mgr. Václav Beran
 
-tel: 731407839
+tel: 731 407 839
 
 * projektový manažer, vědecký pracovník
 * inventarizační průzkumy obratlovců
-* ekologie lasicovitých šelem 
+* ekologie lasicovitých šelem
 * ornitologie
 * profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin ](https://www.linkedin.com/in/václav-beran-5709705a)
 
+# Ing. Jan Horáček
 
-
-## Ing. Jan Horáček
-
-tel: 724299225
+tel: 724 299 225
 
 * ekonom, finanční manažer
 * administrativa
