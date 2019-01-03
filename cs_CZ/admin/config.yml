@@ -1277,6 +1277,8 @@ collections:
         label: Label if only start date is set
       - name: from_to
         label: Label if both start and finish date
+      - name: to_today
+        label: Placeholder if there’s no to-date (i.e., the project is long-term)
     - name: contacts
       label: Contacts
       widget: object
