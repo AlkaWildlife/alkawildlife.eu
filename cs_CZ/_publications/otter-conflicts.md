@@ -18,4 +18,6 @@ attachments:
     link: grafy.zip
   - title: "tabulka č.\_5"
     link: tab_5.xlsx
+tags:
+  - vydra
 ---

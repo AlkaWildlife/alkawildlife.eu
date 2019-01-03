@@ -23,4 +23,6 @@ year: 2016
 lang: en
 link: >-
   https://www.vydryonline.cz/media/parasitology_2016_1-s2.0-S1383576915001919-main.pdf
+tags:
+  - vydra
 ---
