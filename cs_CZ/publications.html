@@ -18,14 +18,41 @@ layout: publications
         {%- assign has_foreign_lang = false -%}
       {%- endif -%}
 
-      {%- assign publication_type = site.publication_types |
-            where: "title", publication.type |
-            first -%}
-      {% capture publication_type_slug -%}
-        {% include helpers/slug.html page=publication_type %}
-      {%- endcapture %}
+      <p class="js-publication"{% if has_foreign_lang %} lang="{{ publication.lang }}"{% endif %}><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a>
 
-      <p class="js-publication" data-type="{{ publication_type_slug | url_decode }}" data-categories="{{ publication.tags | join: " " }}"{% if has_foreign_lang %} lang="{{ publication.lang }}"{% endif %}><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a>
+        {%- if has_foreign_lang %}<span lang="{{ site.lang }}">{% endif -%}
+
+        {{- " | " -}}
+
+        {%- assign publication_type = site.publication_types |
+              where: "title", publication.type |
+              first -%}
+        {% capture type_slug -%}
+          {% include helpers/slug.html page=publication_type %}
+        {%- endcapture %}
+        <a href="#type={{ type_slug }}" class="js-publication-type">
+          {{- publication.type -}}
+        </a>
+        {%- if publication.tags and publication.tags.size > 0 -%}
+          &nbsp;
+        {%- endif %}
+
+        {% for tag in publication.tags -%}
+          {%- assign filterable_tag = site.filterable_tags |
+                where: "title", tag |
+                first -%}
+          {%- unless filterable_tag %}{% continue %}{% endunless -%}
+          {%- capture tag_slug -%}
+            {% include helpers/slug.html page=filterable_tag %}
+          {%- endcapture -%}
+          <a href="#category={{ tag_slug }}" class="js-publication-category">
+            {{- tag -}}
+          </a>
+          {%- unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+
+        {%- if has_foreign_lang %}</span>{% endif -%}
+
         {%- assign has_break = false -%}
 
         {%- if publication.authors and publication.authors.size > 0 -%}
@@ -48,27 +75,13 @@ layout: publications
           {{ publication.journal }}.
         {% endif -%}
 
-        {%- if has_foreign_lang %}<span lang="{{ site.lang }}">{% endif -%}
-
         {%- if publication.year %}
           {%- unless has_break -%}
             <br>
             {%- assign has_break = true -%}
           {%- endunless -%}
-          <time class="js-publication-year">{{ publication.year }}</time>.
+          <time class="js-publication-year"{%- if has_foreign_lang %} lang="{{ site.lang }}"{% endif -%}>{{ publication.year }}</time>.
         {% endif -%}
-
-        {%- if publication.type -%}
-          {%- if has_break -%}
-            {{ " " }}
-          {% else -%}
-            <br>
-            {%- assign has_break = true -%}
-          {%- endif -%}
-          ({{ publication.type }})
-        {% endif %}
-
-        {%- if has_foreign_lang %}</span>{% endif -%}
       </p>
     {% endfor %}
   </div>

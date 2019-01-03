@@ -213,21 +213,29 @@ layout: default
       forEachPublication(function(p) { p.hidden = false })
     }
 
-    function filterByType(filter) {
-      if (!filter) return
+    function filterByType(type) {
+      if (!type) return
 
       forEachPublication(function(p) {
-        p.hidden = (p.getAttribute("data-type") || "") !== filter
+        p.hidden = toArray(
+          p.getElementsByClassName("js-publication-type")
+        ).every(function(a) {
+          var params = paramsFromHash("#" + a.href.split("#", 2)[1])
+          return type !== params["type"]
+        })
       })
     }
 
-    function filterByCategory(filter) {
-      if (!filter) return
+    function filterByCategory(category) {
+      if (!category) return
 
       forEachPublication(function(p) {
-        p.hidden = !(p.getAttribute("data-categories") || "").
-          split(" ").
-          some(function(c) { return c === filter })
+        p.hidden = toArray(
+          p.getElementsByClassName("js-publication-category")
+        ).every(function(a) {
+          var params = paramsFromHash("#" + a.href.split("#", 2)[1])
+          return category !== params["category"]
+        })
       })
     }
 
@@ -235,9 +243,11 @@ layout: default
       if (!date) return
 
       forEachPublication(function(p) {
-        p.hidden =
-          p.getElementsByClassName("js-publication-year")[0].textContent !==
-          date
+        p.hidden = toArray(
+          p.getElementsByClassName("js-publication-year")
+        ).every(function(time) {
+          return date !== time.textContent
+        })
       })
     }
 
