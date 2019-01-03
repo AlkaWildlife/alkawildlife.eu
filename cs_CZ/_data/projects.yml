@@ -2,7 +2,7 @@ more: více
 filter:
   all: Zobrazit vše
   by_tag: Kategorie
-  by_date: Projekty probíhající v datu
+  by_date: Projekty probíhající v roce
   month: Měsíc
   year: Rok
 
@@ -14,6 +14,7 @@ web: Stránky projektu
 period:
   only_from: Zahájení
   from_to: Trvání
+  to_today: současnost
 contacts:
   one: Kontaktní osoba
   many: Kontaktní osoby

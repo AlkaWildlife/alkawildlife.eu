@@ -86,15 +86,23 @@ layout: default
                      where_exp: "project", "project.from != null" |
                      sort: "from" |
                      first %}
-                {% assign first_date = oldest_project.from %}
+                {% assign first_year = oldest_project.from |
+                     split: "-" |
+                     first %}
                 {% assign newest_project = sorted_projects |
                      where_exp: "project", "project.to != null" |
                      sort: "to" |
                      last %}
-                {% assign last_date = newest_project.to %}
+                {% assign last_year = newest_project.to |
+                     split: "-" |
+                     first %}
+                {% for date in (first_year..last_year) reversed %}
                 <li>
-                  <input type="month" name="date" min="{{ first_date }}" max="{{ last_date }}" class="js-date">
+                  <a href="{{ "/projects" | relative_url }}#date={{ date }}">
+                    {{ date }}
+                  </a>
                 </li>
+                {% endfor %}
               </ul>
             </div>
             {% endif %}
@@ -271,101 +279,9 @@ layout: default
     function filter(ev) {
       var params = paramsFromHash(ev.target.location.hash)
       ifFilterChanged(filter, params, noFilter)
-      ensureDateFilterValue(params["date"])
       toggleShowAll(params)
       filterByCategory(params["category"])
       filterByDate(params["date"])
-    }
-
-    function pushDateFilter() {
-      if (!readDateFilter()) return
-
-      w.location = "#date=" + readDateFilter()
-    }
-
-    function ensureDateFilterValue(date) {
-      var filterEl = d.getElementsByClassName("js-date")[0]
-      if (filterEl.tagName === "INPUT") {
-        filterEl.value = date
-        return
-      }
-
-      var parts = (date || "").
-        split("-", 3).
-        map(function(p) { return p | 0 })
-
-      var yearEl = filterEl.firstChild
-      yearEl.value = parts[0] || ""
-
-      var monthEl = filterEl.lastChild
-      monthEl.value = parts[1] || ""
-      monthEl.hidden = !yearEl.value
-      monthEl.style.display = monthEl.hidden ? "none" : ""
-    }
-
-    function readDateFilter() {
-      var filterEl = d.getElementsByClassName("js-date")[0]
-      if (filterEl.tagName === "INPUT") return filterEl.value
-
-      var yearEl = filterEl.firstChild
-      var monthEl = filterEl.lastChild
-
-      if (!yearEl.value) return yearEl.value
-
-      var val = yearEl.value
-
-      if (monthEl.value) val += "-"
-
-      if (monthEl.value && monthEl.value.length < 2) val += "0" + monthEl.value
-      else if (monthEl.value) val += monthEl.value
-
-      return val
-    }
-
-    function initDateFilter() {
-      var filterEl = d.getElementsByClassName("js-date")[0]
-      if (filterEl.type === "month") return
-
-      var containerEl = d.createElement("DIV")
-      containerEl.className = "js-date"
-
-      var yearEl = d.createElement("SELECT")
-      yearEl.style.width = "auto"
-      yearEl.appendChild(d.createElement("OPTION"))
-      yearEl.childNodes[0].value = ""
-      yearEl.childNodes[0].selected = true
-      yearEl.childNodes[0].disabled = true
-      yearEl.childNodes[0].textContent =
-        "{{ site.data.projects.filter.year }}"
-
-      var minYear = filterEl.getAttribute("min").slice(0, 4) | 0
-      var maxYear = filterEl.getAttribute("max").slice(0, 4) | 0
-      for (i = minYear; i <= maxYear; i += 1) {
-        yearEl.appendChild(d.createElement("OPTION"))
-        yearEl.childNodes[yearEl.childNodes.length - 1].textContent = i
-      }
-
-      var monthEl = d.createElement("SELECT")
-      monthEl.hidden = true
-      monthEl.style.display = monthEl.hidden ? "none" : ""
-      monthEl.style.width = "auto"
-      monthEl.appendChild(d.createElement("OPTION"))
-      monthEl.childNodes[0].value = ""
-      monthEl.childNodes[0].selected = true
-      monthEl.childNodes[0].disabled = true
-      monthEl.childNodes[0].textContent =
-        "{{ site.data.projects.filter.month }}"
-
-      var i;
-      for (i = 1; i <= 12; i += 1) {
-        monthEl.appendChild(d.createElement("OPTION"))
-        monthEl.childNodes[monthEl.childNodes.length - 1].textContent = i
-      }
-
-      containerEl.appendChild(yearEl)
-      containerEl.appendChild(monthEl)
-
-      filterEl.parentNode.replaceChild(containerEl, filterEl)
     }
 
     w.addEventListener("popstate", filter, false)
@@ -374,9 +290,6 @@ layout: default
       w.removeEventListener("load", filter, false)
       filter(ev)
     }, false)
-    initDateFilter()
-    d.getElementsByClassName("js-date")[0].
-      addEventListener("change", pushDateFilter, false)
   }(window, document))
 </script>
 {% endif %}
