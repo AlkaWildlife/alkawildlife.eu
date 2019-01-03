@@ -1301,7 +1301,7 @@ collections:
       widget: string
 
   - name: publications
-    label: Publication
+    label: Publications
     file: cs_CZ/_data/publications.yml
     fields:
     - name: title
