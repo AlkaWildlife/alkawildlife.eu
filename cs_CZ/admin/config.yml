@@ -194,6 +194,66 @@ collections:
       label: Body
       widget: text
 
+  - name: projects
+    label: Projects
+    file: cs_CZ/projects.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+      required: false
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: publications
+    label: Publications
+    file: cs_CZ/publications.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+      required: false
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
   - name: user_answers
     label: User answers
     file: cs_CZ/user-answers.html
