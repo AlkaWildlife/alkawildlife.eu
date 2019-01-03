@@ -42,6 +42,8 @@ layout: default
   {% assign filtered_tags = filtered_tags | concat: matching_tags %}
 {% endfor %}
 
+{% assign filterable_dates = sorted_publications | map: "year" | uniq %}
+
 {%- capture site_lang -%}
     {%- include helpers/language.html locale=site.lang -%}
 {%- endcapture -%}
@@ -137,11 +139,13 @@ layout: default
                   </p>
                 </li>
 
-                {% assign publications_by_year = sorted_publications |
-                     sort: "year" %}
+                {% for date in filterable_dates %}
                 <li>
-                  <input type="number" name="date" min="{{ publications_by_year.first.year }}" max="{{ publications_by_year.last.year }}" class="js-date" size="4" style="width: auto">
+                  <a href="{{ "/publications" | relative_url }}#date={{ date }}">
+                    {{ date }}
+                  </a>
                 </li>
+                {% endfor %}
               </ul>
             </div>
             {% endif %}
@@ -254,25 +258,10 @@ layout: default
     function filter(ev) {
       var params = paramsFromHash(ev.target.location.hash)
       ifFilterChanged(filter, params, noFilter)
-      ensureDateFilterValue(params["date"])
       toggleShowAll(params)
       filterByType(params["type"])
       filterByCategory(params["category"])
       filterByDate(params["date"])
-    }
-
-    function pushDateFilter() {
-      w.location = readDateFilter() ?
-        ("#date=" + readDateFilter()) :
-        "#"
-    }
-
-    function ensureDateFilterValue(date) {
-      d.getElementsByClassName("js-date")[0].value = date
-    }
-
-    function readDateFilter() {
-      return (d.getElementsByClassName("js-date")[0].value | 0)
     }
 
     w.addEventListener("popstate", filter, false)
@@ -281,8 +270,6 @@ layout: default
       w.removeEventListener("load", filter, false)
       filter(ev)
     }, false)
-    d.getElementsByClassName("js-date")[0].
-      addEventListener("change", pushDateFilter, false)
   }(window, document))
 </script>
 {% endif %}
