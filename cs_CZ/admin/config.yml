@@ -649,7 +649,9 @@ collections:
   label_singular: User answer
   description: >-
     Answers to questions submitted by site visitors. These questions
-    can be found in administration on Netlify.com.
+    are sent via email. The email address can be set in Netlify site
+    administration on app.netlify.com in Setting → Build & deploy →
+    Build environment variables → QUESTION_FORM_TO.
   folder: cs_CZ/_posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   filter:
