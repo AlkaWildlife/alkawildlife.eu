@@ -18,6 +18,8 @@ contacts:
   - name: Kateřina Poledníková
 tags:
   - sysel obecný
+  - management
+  - výzkum
 countries:
   - CZ
   - SK
