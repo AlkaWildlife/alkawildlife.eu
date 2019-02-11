@@ -58,7 +58,10 @@ contacts:
   - email: ''
     name: Tereza Mináriková
     role: projektový manažer
-species: rys
+species: |-
+  rys ostrovid
+
+  koncepce
 countries:
   - CZ
 description: >-
