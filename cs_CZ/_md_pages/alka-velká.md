@@ -1,7 +1,7 @@
 ---
 title: Alka velká
 published: true
-permalink: /alka-velka
+permalink: /zajmove-druhy/alka-velka
 image: /media/alka_obrazek.jpg
 listed: false
 position: 1
