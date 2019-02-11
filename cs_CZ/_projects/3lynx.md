@@ -85,3 +85,11 @@ Pro zlepšení spolupráce všech partnerů bude pořádána řada pracovních s
 Rysí populace budou sledovány ve dvou přeshraničních regionech (Česko - Německo - Rakousko a Slovinsko - Itálie - Chorvatsko) pomocí sítě fotopastí a v zimním období také stopováním na sněhu. Sbírány budou genetické vzorky pro zjištění genetické variability populací, prováděno bude i telemetrické sledování jedinců. V rámci osvětové kampaně budou organizován společný mezinárodní „Rysí den“ , v rámci kterého bude řada aktivit pro veřejnost (přednášky, filmy, program pro děti atd.), vydány a distribuovány budou atraktivní brožury o ochraně rysa ostrovida, budou vytvořeny webové stránky projektu i prezentace na facebooku, budou vydávána tisková prohlášení, reportáže a články do časopisů..
 
 V rámci projektu bude také podporováno vyšetřování ilegálního lovu rysa ostrovida – u odlovených jedinců bude provedena pitva a případné další analýzy, případ bude řešen s policií a maximálně medializován.
+
+# Výstupy projektu
+
+
+
+![](/media/map_translynx_eu.jpg "Interaktivní mapa fotografií z fotopastí")
+
+# Aktuality projektu
