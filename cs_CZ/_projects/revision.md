@@ -1,24 +1,26 @@
 ---
 title: Revision
 published: true
-subtitle: Opatrenia pre zmiernenie dopadov inváznych živočíchov na Západnom Slovensku a južnej Morave
-from: "2018-02"
-to: "2020-01"
+subtitle: >-
+  Opatrenia pre zmiernenie dopadov inváznych živočíchov na Západnom Slovensku a
+  južnej Morave
+funding: |-
+  Program: Interreg V-A Slovenská republika – Česká republika  
+  Spoločne bez hraníc / Společně bez hranic
+budget: "2\_286\_418,93 Kč"
+from: 2018-02
+to: 2020-01
 partners: |-
   Slovenská ornitologická spoločnosť (vedoucí partner)  
   Krok Kyjov, z.ú. (hlavní přeshraniční partner)  
   ALKA Wildlife, o.p.s.  
   Česká společnost ornitologická – Jihomoravská pobočka
-funding: |-
-  Program: Interreg V-A Slovenská republika – Česká republika  
-  Spoločne bez hraníc / Společně bez hranic
-budget: 2 286 418,93 Kč
 contacts:
-- name: Lukáš Poledník
+  - name: Lukáš Poledník
 tags:
-- vydra
+  - norek americký; management; psík mývalovitý; mýval severní; nutrie
 countries:
-- CZ
+  - CZ
 ---
 # Cíl projektu
 
