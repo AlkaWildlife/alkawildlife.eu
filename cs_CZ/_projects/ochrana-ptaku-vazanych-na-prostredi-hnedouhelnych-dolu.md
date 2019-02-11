@@ -17,7 +17,12 @@ partners: Vršanská uhelná a.s.
 contacts:
   - name: Václav Beran
     role: vedoucí projektu
-species: linduška
+species: |-
+  linduška úhorní
+
+  bělořit šedý
+
+  výzkum
 countries:
   - CZ
 description: "Cílem projektu byl detailní průzkum populací lindušky úhorní, bělořita\nšedého a\_strnada zahradního v\_povrchových hnědouhelných lomech\nPodkrušnohorské pánve a\_zjištění biotopových nároků lindušky úhorní\na\_bělořita šedého."
