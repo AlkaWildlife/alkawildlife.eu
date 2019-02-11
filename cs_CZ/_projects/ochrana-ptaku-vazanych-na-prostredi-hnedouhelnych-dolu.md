@@ -4,8 +4,6 @@ published: true
 subtitle: "Efektivní ochrana druhů vázaných na raná stádia sukcese formou optimalizace managementu hnědouhelných těžebních oblastí: příklad lindušky úhorní a\_bělořita šedého"
 registration_no: TA04021269
 funding: |-
-
-
   Technologická agentura ČR (TAČR)
 
   ![](/media/tačr_320.jpg)
@@ -21,8 +19,10 @@ species: |-
   linduška úhorní
 
   bělořit šedý
-
-  výzkum
+tags:
+  - linduška úhorní
+  - bělořit šedý
+  - výzkum
 countries:
   - CZ
 description: "Cílem projektu byl detailní průzkum populací lindušky úhorní, bělořita\nšedého a\_strnada zahradního v\_povrchových hnědouhelných lomech\nPodkrušnohorské pánve a\_zjištění biotopových nároků lindušky úhorní\na\_bělořita šedého."
