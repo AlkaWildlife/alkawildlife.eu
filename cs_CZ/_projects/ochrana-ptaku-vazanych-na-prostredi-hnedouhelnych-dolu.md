@@ -8,9 +8,9 @@ funding: |-
 
   Technologická agentura ČR (TAČR)
 
-  ![](/media/logo_white_red.jpg)
+  ![](/media/tačr_320.jpg)
 
-  ![](/media/alfa.jpg)
+  ![](/media/alfa_320.jpg)
 from: 2014-01
 to: 2017-01
 partners: Vršanská uhelná a.s.
