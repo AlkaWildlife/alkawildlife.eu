@@ -6,7 +6,7 @@ description: >-
   Posláním ALKA Wildlife je přispět objektivním výzkumem k efektivní, kvalitními
   odbornými znalostmi podložené ochraně a péči o volně žijící druhy živočichů.
 listed: true
-position: 6
+position: 5
 layout: single_column_page
 aside_links: ''
 ---
