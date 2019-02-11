@@ -1,9 +1,12 @@
 ---
-title: Sokol stěhovavý v průmyslových areálech
+title: "Sokol stěhovavý v\_průmyslových areálech"
 published: true
-from: "2010-01"
+from: 2010-01
 tags:
-- sokol
+  - sokol stěhovavý
+  - management
+countries:
+  - CZ
 ---
 Sokol stěhovavý je v ČR velmi vzácný, patří mezi kriticky ohrožené
 druhy. V mnoha zemích v průběhu šedesátých let vyhynul, především vlivem
