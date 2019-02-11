@@ -1,19 +1,26 @@
 ---
 title: Ochrana ptáků vázaných na prostředí hnědouhelných dolů
 published: true
-subtitle: >-
-  Efektivní ochrana druhů vázaných na raná stádia sukcese formou
-  optimalizace managementu hnědouhelných těžebních oblastí: příklad
-  lindušky úhorní a bělořita šedého
-from: "2014-01"
-to: "2017-01"
-partners: |-
-  Vršanská uhelná a.s.
+subtitle: "Efektivní ochrana druhů vázaných na raná stádia sukcese formou optimalizace managementu hnědouhelných těžebních oblastí: příklad lindušky úhorní a\_bělořita šedého"
+registration_no: TA04021269
 funding: |-
+
+
   Technologická agentura ČR (TAČR)
+
+  ![](/media/logo_white_red.jpg)
+
+  ![](/media/alfa.jpg)
+from: 2014-01
+to: 2017-01
+partners: Vršanská uhelná a.s.
 contacts:
-- name: Václav Beran
-  role: vedoucí projektu
+  - name: Václav Beran
+    role: vedoucí projektu
+species: linduška
+countries:
+  - CZ
+description: "Cílem projektu byl detailní průzkum populací lindušky úhorní, bělořita\nšedého a\_strnada zahradního v\_povrchových hnědouhelných lomech\nPodkrušnohorské pánve a\_zjištění biotopových nároků lindušky úhorní\na\_bělořita šedého."
 ---
 # Cíle projektu
 
