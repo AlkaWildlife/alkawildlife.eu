@@ -88,8 +88,8 @@ V rámci projektu bude také podporováno vyšetřování ilegálního lovu rysa
 
 # Výstupy projektu
 
+[interaktivní mapa](http://map.translynx.eu/cs?specie=lynx-lynx&layers=3)
 
-
-![](/media/map_translynx_eu.jpg "Interaktivní mapa fotografií z fotopastí")
+[![](/media/map_translynx_eu.jpg "Interaktivní mapa fotografií z fotopastí")](http://map.translynx.eu/cs?specie=lynx-lynx&layers=3)
 
 # Aktuality projektu
