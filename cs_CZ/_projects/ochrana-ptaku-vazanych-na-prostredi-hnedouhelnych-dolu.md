@@ -43,9 +43,11 @@ zahradního místně příslušnému orgánu ochrany přírody (tedy krajskému
 úřadu Ústeckého kraje) pro účel ochrany těchto druhů a 3) odborné
 publikace a prezentace na konferencích.
 
+![](/media/dscf5415.jpg "linduška úhorní (autor: Michal Porteš)")
+
 # Popis projektu
 
-Díky dlouhodobé úzké spolupráci ALKA Wildlife o.p.s. se společností
+Díky dlouhodobé úzké spolupráci se společností
 Vršanská uhelná a.s. se nám podařilo připravit projekt, v rámci kterého
 se nabízí unikátní možnost vytvořit jakousi „terénní laboratoř“:
 regulovat podmínky a sledovat jejich vliv na početnost a výskyt
@@ -53,7 +55,7 @@ ohrožených druhů na více než 100 ha v extrémních podmínkách
 hnědouhelných výsypek. Cílové druhy – linduška úhorní a bělořit šedý
 jsou silně ohrožené a vzácné. Jejich výzkum a uvedení získaných poznatků
 do praxe má velký význam pro ochranu těchto druhů a jejich typického
-životního prostředí.  obrázek stádia první sukcese vegetace
+životního prostředí.  
 
 Tyto druhy, vázané na specifický typ prostředí, se vlivem plošných změn
 ve využívání krajiny staly vzácnými a jejich přežívání je zásadně či
