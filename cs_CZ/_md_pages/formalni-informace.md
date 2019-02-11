@@ -6,10 +6,10 @@ listed: true
 position: 2
 layout: two_columns_page
 ---
-_**ALKA Wildlife o.p.s.**_  
-_**Sídlo**: Lidéřovice 62, 380 01  Peč_  
-_**IČO**: 280 64 933_  
-_**DIČ**: CZ28064933 je plátcem DPH_  
+**_ALKA Wildlife o.p.s._**\
+_**Sídlo**: Lidéřovice 62, 380 01  Peč_\
+_**IČO**: 280 64 933_\
+_**DIČ**: CZ28064933 je plátcem DPH_\
 _**ID datové schránky**: gypmz9w_
 
 _[profil zadavatele](https://www.vhodne-uverejneni.cz/profil/28064933)_
@@ -27,29 +27,27 @@ tel: 606 598 903
 
 * ředitelka společnosti
 * projektový a finanční manažer, vědecký pracovník
-* administrativa
 * správce webových stránek
-* zpracování dat a statistické analýzy
-* ekologie lasicovitých šelem
+* komunikace
+* specializace: demografie, analýzy životaschopnosti populace
 
 # Mgr. Lukáš Poledník, Ph.D.
 
 tel: 721 113 973
 
 * vedoucí vědecký pracovník
-* potravní analýzy
-* GIS analýzy
 * odborné vedení studentů
 * posudky na škody způsobené vydrou říční
 * ekologie lasicovitých šelem
 * člen IUCN Otter Specialist Group
+* specializace: potravní analýzy, zpracování gis dat
 
 # Mgr. Tereza Mináriková
 
 tel: 724 706 806
 
 * projektový manažer, vědecký pracovník
-* správce facebookových stránek společnosti
+* správce Facebooku společnosti
 * ekologie šelem
 * publicita, práce s veřejností a médii
 * profesní životopis, zkušenosti a dovednosti viz. profil na Linkedin
@@ -59,10 +57,23 @@ tel: 724 706 806
 tel: 731 407 839
 
 * projektový manažer, vědecký pracovník
-* inventarizační průzkumy obratlovců
-* ekologie lasicovitých šelem
-* ornitologie
+* specializace: ornitologie, inventarizační průzkumy obratlovců
 * profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin ](https://www.linkedin.com/in/václav-beran-5709705a)
+
+# Fernando Mateos-González
+
+* vědecký pracovník
+* zpracování dat
+* specializace: chování živočichů
+
+# Hannah Findlay
+
+* vědecký pracovník
+* správce Instagramu společnosti
+
+# Štěpán Zápotočný
+
+* vědecký pracovník
 
 # Ing. Jan Horáček
 
