@@ -62,6 +62,9 @@ species: |-
   rys ostrovid
 
   koncepce
+tags:
+  - rys ostrovid
+  - koncepce
 countries:
   - CZ
 description: >-
