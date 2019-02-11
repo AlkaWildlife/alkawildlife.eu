@@ -1,14 +1,14 @@
 ---
 title: Rysí příběhy
 published: true
+funding: "Ministerstvo životního prostředí – projekt „Propagace záchranných\nprogramů zvláště chráněných druhů v\_České republice“ realizovaný\nBeleco, z.s.  \nProjekt byl finančně podpořen v\_grantovém řízení Ministerstva\nživotního prostředí a\_nemusí vyjadřovat stanoviska Ministerstva\nživotního prostředí."
 from: 2016-02
 to: 2016-12
-funding: "Ministerstvo životního prostředí – projekt „Propagace záchranných\nprogramů zvláště chráněných druhů v\_České republice“ realizovaný\nBeleco, z.s.  \nProjekt byl finančně podpořen v\_grantovém řízení Ministerstva\nživotního prostředí a\_nemusí vyjadřovat stanoviska Ministerstva\nživotního prostředí."
 contacts:
   - name: Tereza Mináriková
     role: vedoucí projektu
 tags:
-  - rys
+  - rys ostrovid
   - osvěta
 countries:
   - CZ
