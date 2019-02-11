@@ -1,33 +1,27 @@
 ---
-title: Sysli pro krajinu, krajina pro sysly
+title: 'Sysli pro krajinu, krajina pro sysly'
 published: true
-subtitle: Monitoring a podpora populace sysla obecného na jižní Moravě
-from: "2018-02"
-to: "2020-01"
-partners: |-
-  ALKA Wildlife, o.p.s. (vedoucí partner)  
-  DAPHNE – Inštitút aplikovanej ekológie (hlavní přeshraniční partner)  
-  Ekocentrum Trkmanka, p.o.  
-  Národná zoologická záhrada Bojnice
+subtitle: "Monitoring a\_podpora populace sysla obecného na jižní Moravě"
 funding: |-
   Program: Interreg V-A Slovenská republika – Česká republika Spoločne
   bez hraníc / Společně bez hranic  
   Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí
   vyjadřovat stanoviska MŽP.
+from: 2018-02
+to: 2020-01
+partners: |-
+  ALKA Wildlife, o.p.s. (vedoucí partner)  
+  DAPHNE – Inštitút aplikovanej ekológie (hlavní přeshraniční partner)  
+  Ekocentrum Trkmanka, p.o.  
+  Národná zoologická záhrada Bojnice
 contacts:
-- name: Kateřina Poledníková
+  - name: Kateřina Poledníková
 tags:
-- sysel
-description: >-
-  Sysel obecný je ohrožený druh, jeden z nejvzácnějších savců
-  Evropy. V současnosti je znám z programového území jen z 24
-  izolovaných lokalit (roztroušeně v Trenčianském, Trnavském
-  a Jihomoravském kraji). Cílem projektu je přispět k záchraně tohoto
-  druhu na úrovni celého programového území komplexním souborem
-  aktivit. Projekt přispívá ke zlepšení životního prostředí obyvatel
-  regionu. Projekt také cílí na návštěvníky regionu, kterým bude sysel
-  představen jako zástupce místní přírody a symbol zachovalé stepní
-  zemědělské krajiny.
+  - sysel obecný
+countries:
+  - CZ
+  - SK
+description: "Sysel obecný je ohrožený druh, jeden z\_nejvzácnějších savců Evropy. V\_současnosti je znám z\_programového území jen z\_24 izolovaných lokalit (roztroušeně v\_Trenčianském, Trnavském a\_Jihomoravském kraji). Cílem projektu je přispět k\_záchraně tohoto druhu na úrovni celého programového území komplexním souborem aktivit. Projekt přispívá ke zlepšení životního prostředí obyvatel regionu. Projekt také cílí na návštěvníky regionu, kterým bude sysel představen jako zástupce místní přírody a\_symbol zachovalé stepní zemědělské krajiny."
 ---
 # Cíl projektu
 
