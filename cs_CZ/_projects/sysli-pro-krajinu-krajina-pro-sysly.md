@@ -13,13 +13,18 @@ funding: >-
   ![](/media/logo_irrva_2014-20_610.jpg)
 from: 2018-02
 to: 2020-01
-partners: |-
-  ALKA Wildlife, o.p.s. (vedoucí partner)  
-  DAPHNE – Inštitút aplikovanej ekológie (hlavní přeshraniční partner)  
-  Ekocentrum Trkmanka, p.o.  
-  Národná zoologická záhrada Bojnice
+partners: >-
+  ALKA Wildlife, o.p.s. (vedoucí partner)\
+
+  [DAPHNE – Inštitút aplikovanej ekológie ](http://daphne.sk/)(hlavní
+  přeshraniční partner)\
+
+  [Ekocentrum Trkmanka, p.o.](https://www.ekocentrum-trkmanka.com/)\
+
+  [Národná zoologická záhrada Bojnice](https://zoobojnice.sk/)
 contacts:
   - name: Kateřina Poledníková
+species: sysel obecný
 tags:
   - sysel obecný
   - management
