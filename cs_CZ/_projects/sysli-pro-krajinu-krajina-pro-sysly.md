@@ -49,6 +49,8 @@ prostředí obyvatel regionu. Projekt také cílí na návštěvníky regionu,
 kterým bude sysel představen jako zástupce místní přírody a symbol
 zachovalé stepní zemědělské krajiny.
 
+![](/media/img_2907v_900.jpg "sysel obecný")
+
 # Aktivity projektu
 
 Projekt bude realizovat ochranu tohoto druhu komplexně, na několika
