@@ -3,6 +3,8 @@ title: Hnízdo lindušky
 published: true
 image: /media/dscf5674.jpg
 description: vejce lindušky úhorní
+tags:
+  - linduška úhorní
 gallery: /projects/ochrana-ptaku-vazanych-na-prostredi-hnedouhelnych-dolu
 lang_alternatives:
   en_GB: {}
