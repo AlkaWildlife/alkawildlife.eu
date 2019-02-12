@@ -1,12 +1,16 @@
 ---
 title: 'Sysli pro krajinu, krajina pro sysly'
 published: true
-subtitle: "Monitoring a\_podpora populace sysla obecného na jižní Moravě"
-funding: |-
-  Program: Interreg V-A Slovenská republika – Česká republika Spoločne
-  bez hraníc / Společně bez hranic  
-  Projekt je podpořen Ministerstvem životního prostředí, projekt nemusí
-  vyjadřovat stanoviska MŽP.
+subtitle: 'Sysli pro krajinu, krajina pro sysly'
+funding: >-
+  Program: [Interreg V-A Slovenská republika – Česká republika
+  ](https://www.sk-cz.eu/sk/)
+
+
+  Spoločne bez hraníc / Společně bez hranic
+
+
+  ![](/media/logo_irrva_2014-20_610.jpg)
 from: 2018-02
 to: 2020-01
 partners: |-
