@@ -83,3 +83,7 @@ postupů těžbou narušeného prostředí při minimalizaci nákladů těžebn�
 společností.
 
 # Výstupy projektu
+
+[Certifikovaná metodika pro plánování managementových opatření a vytváření vhodných biotopů pro lindušku úhorní v aktivních těžebních oblastech](/media/Certifikovana_metodika_linduska_uhorni_fin.pdf)
+
+[Certifikovaná metodika pro plánování managementových opatření a vytváření vhodných biotopů pro bělořita šedého v aktivních těžebních oblastech](/media/Certifikovana_metodika_belorit_fin.pdf)
