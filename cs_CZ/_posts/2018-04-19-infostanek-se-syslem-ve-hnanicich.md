@@ -1,13 +1,11 @@
 ---
 title: Infostánek se syslem ve Hnanicích
-image: /media/pozvanka.jpg
 published: true
-date: 2018-04-19
+image: /media/pozvanka.jpg
+description: "Srdečně Vás zveme 5.\_5.\_2018 na Otevřené sklepy ve Hnanicích, kde bude i\_náš Informační stánek se syslem."
+date: 2018-04-19T00:00:00.000Z
 category: news
 layout: news
-description: >-
-  Srdečně Vás zveme 5. 5. 2018 na Otevřené sklepy ve Hnanicích, kde
-  bude i náš Informační stánek se syslem.
 ---
 S jarem se probudili sysli, nám začal nový velký projekt a vinaři se
 chystají na jarní otevřené sklepy. Srdečně Vás proto zveme 5. 5. 2018 na
@@ -21,8 +19,8 @@ V tento den se konají také [Otevřené sklepy ve Velkých
 Pavlovicích](http://www.vinozvelkychpavlovic.cz/majove-otevrene-sklepy-2018),
 kde se sysly a vínem se známkou Sysli na vinici pyšní již dlouho.
 
-Akce probíhá v rámci projektů [Sysli pro krajinu, krajina pro sysly –
-Monitoring a podpora populace sysla obecného na jižní
-Moravě](http://www.syslinavinici.cz/o-nas/projekty/sysli-pro-krajinu-krajina-pro-sysly). Financováno
+Akce probíhá v rámci projektů [Sysli pro krajinu, krajina pro sysly](/projects/sysli-pro-krajinu-krajina-pro-sysly) a
+[Monitoring a podpora populace sysla obecného na jižní
+Moravě](/projects/monitoring-sysla-na-jizni-morave). Financováno
 z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva
 životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP.
