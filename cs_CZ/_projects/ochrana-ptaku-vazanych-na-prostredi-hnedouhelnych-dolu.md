@@ -15,10 +15,7 @@ partners: Vršanská uhelná a.s.
 contacts:
   - name: Václav Beran
     role: vedoucí projektu
-species: |-
-  linduška úhorní
-
-  bělořit šedý
+species: 'linduška úhorní, bělořit šedý'
 tags:
   - linduška úhorní
   - bělořit šedý
@@ -37,7 +34,7 @@ efektivní a v praxi realizovatelné metodiky a odborné mapy pro plánován�
 účinných managementových opatření pro orgány ochrany přírody, báňský
 úřad a těžební společnosti.
 
-Dalšími cíli projektu bylo: 1) výšení povědomí odpovědných pracovníků
+Dalšími cíli projektu bylo: 1) zvýšení povědomí odpovědných pracovníků
 těžebních společností o potřebách druhů společenstev v rané fázi
 sukcese, o jejich významu v naší přírodě a o tom, že lze relativně
 snadno a levně realizovat managementová opatření pro podporu těchto
@@ -62,6 +59,8 @@ jsou silně ohrožené a vzácné. Jejich výzkum a uvedení získaných pozna
 do praxe má velký význam pro ochranu těchto druhů a jejich typického
 životního prostředí.  
 
+![](/media/img_1901_610.jpg)
+
 Tyto druhy, vázané na specifický typ prostředí, se vlivem plošných změn
 ve využívání krajiny staly vzácnými a jejich přežívání je zásadně či
 úplně závislé na raných sukcesních stádiích (s velmi nízkou pokryvností
@@ -83,6 +82,4 @@ managementu krajiny zacíleného na vytvoření nového vhodného prostředí
 postupů těžbou narušeného prostředí při minimalizaci nákladů těžebních
 společností.
 
-# Realizace
-
-Projekt byl realizován dle plánu a ukončen.
+# Výstupy projektu
