@@ -7,8 +7,7 @@ description: >-
   dnes již vzácných druhů jako je linduška úhorní
 author: Kateřina Poledníková
 tags:
-  - linduška úhorní
-  - bělořit šedý
+  - ''
 gallery: /projects/ochrana-ptaku-vazanych-na-prostredi-hnedouhelnych-dolu.html
 lang_alternatives:
   en_GB: {}
