@@ -1,5 +1,5 @@
 ---
-title: Stopa rysa
+title: Stopa rysa na skále
 published: true
 image: /media/img_0399.jpg
 description: Tady seděl a koukal do krajiny pod sebou....
