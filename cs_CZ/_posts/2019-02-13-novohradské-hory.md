@@ -1,5 +1,5 @@
 ---
-title: Novohradské hory
+title: Novohradské hory 3
 published: true
 image: /media/dscn4528.jpg
 author: Fernando Mateos-González
