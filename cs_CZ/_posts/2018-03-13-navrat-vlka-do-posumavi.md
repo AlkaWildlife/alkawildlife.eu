@@ -23,8 +23,8 @@ doby pocházela ze Šumavy pouze občasná pozorování, důkaz o výskytu tét
 
 <div class="clearfix"></div>
 
-Video prvních šumavských vlčat:
-[video.idnes.cz/?idvideo=V170808_145431_budejovice_jda](http://video.idnes.cz/?idvideo=V170808_145431_budejovice_jda)  
+Video prvních šumavských vlčat bylo zveřejněno zde:
+[video.idnes.cz/?idvideo=V170808_145431_budejovice_jda](http://video.idnes.cz/?idvideo=V170808_145431_budejovice_jda)\
 Zdroj: Facebook Národního parku Bavorský les
 
 V roce 2017 a 2018 tak došlo k dalšímu nárůstu záznamů vlka ze Šumavy,
