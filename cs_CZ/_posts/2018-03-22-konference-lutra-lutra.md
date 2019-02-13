@@ -1,8 +1,9 @@
 ---
 title: Konference Lutra lutra
-image: /media/flyer-cz.jpg
 published: true
-date: 2018-03-22
+image: /media/flyer-cz.jpg
+listing_thumbnail: /media/vydra-ricni-948a_320.jpg
+date: 2018-03-22T00:00:00.000Z
 category: news
 layout: news
 ---
