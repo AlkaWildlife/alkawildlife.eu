@@ -1,8 +1,8 @@
 ---
 title: Za rysy do Novohradských hor
-image: /media/s320_dscn4493.jpg
 published: true
-date: 2018-02-06
+image: /media/s320_dscn4493.jpg
+date: 2018-02-06T00:00:00.000Z
 category: news
 layout: news
 ---
@@ -55,9 +55,10 @@ k degradaci materiálu.
 
 <div class="clearfix"></div>
 
-![](/media/s320_dscn4849.jpg){: .wysiwyg-float-left} V Novohradských
+![](/media/3lynx_cmyk_350.jpg)
+
+{: .wysiwyg-float-left} V Novohradských
 horách jsme ale nenarazili jen na rysí stopy, ale také na zapomenutý
 malebný kout světa uprostřed střední Evropy. Asi není třeba více slov,
-fotografie postačí.  
-Stopování rysů probíhá v rámci projektu 3LYNX, více o projektu se
-dočtete [zde](http://www.interreg-central.eu/Content.Node/3Lynx.html).
+fotografie postačí.\
+Stopování rysů probíhá v rámci projektu [3LYNX](https://www.interreg-central.eu/Content.Node/3Lynx.html).
