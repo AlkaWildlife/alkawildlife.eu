@@ -16,40 +16,40 @@ budget: "Celková výše alokace: 2 318 784 €\r\n\nAlokace pro ALKA Wildlife: 
 from: 2017-07
 to: 2020-06
 partners: >-
-  Ministerstvo životního prostředí 
+  [Ministerstvo životního prostředí ](www.mzp.cz)
 
   (vedoucí partner)
 
 
-  Správa Národního parku Šumava
+  [Správa Národního parku Šumava](www.npsumava.cz)
 
 
-  Agentura ochrany přírody a krajiny České republiky
+  [Agentura ochrany přírody a krajiny České republiky](www.ochranaprirody.cz)
 
 
-  ALKA Wildlife, o.p.s.
+  [ALKA Wildlife, o.p.s.](www.alkawildlife.eu)
 
 
-  Bavarian environmental agency 
+  [Bavarian environmental agency ](www.lfu.bayern.de)
 
 
-  World Wild Fund for Nature Germany
+  [World Wild Fund for Nature Germany](www.wwf.de)
 
 
-  Government of Upper Austria 
+  [Government of Upper Austria ](www.land-oberoesterreich.gv.at)
 
 
-  Green Heart of Europe 
+  [Green Heart of Europe ](www.gruenesherz.boehmerwaldnatur.at)
 
 
-  Research Institute of Wildlife Ecology, University of Veterinary Medicine,
-  Vienna 
+  [Research Institute of Wildlife Ecology, University of Veterinary Medicine,
+  Vienna ](www.fiwi.at)
 
 
-  Slovenia Forest Service
+  [Slovenia Forest Service](www.zgs.si)
 
 
-  Italian Lynx Project
+  [Italian Lynx Project](www.progettolinceitalia.it)
 
 
   University of Zagreb Faculty of Veterinary Medicine  (přidružený partner)
