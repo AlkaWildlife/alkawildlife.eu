@@ -2,6 +2,7 @@
 title: Rozhovor o kočce divoké
 published: true
 image: /media/cdy00039.jpg
+listing_thumbnail: /media/cdy00039_320.jpg
 description: |2
    Rozhovor o kočce divoké povídala Tereza Mináriková v Rádiu Prague. Poslechnout si ji můžete v archivu rozhlasu.
 date: '2018-11-17'
