@@ -2,6 +2,7 @@
 title: Infostánek se syslem ve Hnanicích
 published: true
 image: /media/pozvanka.jpg
+listing_thumbnail: /media/img_2903_m_320.jpg
 description: "Srdečně Vás zveme 5.\_5.\_2018 na Otevřené sklepy ve Hnanicích, kde bude i\_náš Informační stánek se syslem."
 date: 2018-04-19T00:00:00.000Z
 category: news
