@@ -2,6 +2,7 @@
 title: Kontakty
 published: true
 permalink: /o-nas/kontakty
+description: kontakty na společnost a jednotlivé pracovníky
 listed: true
 position: 2
 layout: two_columns_page
@@ -14,7 +15,7 @@ ALKA Wildlife o.p.s.
 
 **DIČ**: CZ28064933, je plátcem DPH
 
-**ID datové schránky**: gypmz9w_
+**ID datové schránky**: gypmz9w
 
 _[profil zadavatele](https://www.vhodne-uverejneni.cz/profil/28064933)_
 
