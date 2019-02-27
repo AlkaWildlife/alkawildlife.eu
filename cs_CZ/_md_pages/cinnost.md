@@ -11,7 +11,7 @@ Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odb
 
 # Společnost poskytuje veřejnosti obecně prospěšné služby ve formě:
 
-* realizace **výzkumných projektů **v oblasti biologie, ekologie a ochrany volně žijících živočichů
+* realizace **výzkumných projektů** v oblasti biologie, ekologie a ochrany volně žijících živočichů
 * zpracovávání **odborných analýz, studií**, stanovisek a **inventarizačních průzkumů** týkajících se volně žijících živočichů 
 * informační **podpora rozhodování** v oblasti ochrany volně žijících druhů živočichů a ochrany biodiverzity 
 * **vedení odborných prací** studentů středních a vysokých škol v oblasti ekologie živočichů 
@@ -24,17 +24,23 @@ Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odb
 
 * zpracování odborných posudků v oblasti škod způsobovaných zvláště chráněnými živočichy
 
+
+
 # Poslání společnosti
 
 Získávat, šířit a aplikovat informace týkající se biologie a ekologie živočichů tak, aby došlo k jejich efektivní, vědecky podložené ochraně a managementu
+
+
 
 # Status
 
 Společnost ALKA Wildlife, o.p.s. je obecně prospěšná společnost založená dle zákona č. 248/1995 Sb., o obecně prospěšných společnostech, ve znění pozdějších předpisů.
 
-Společnosti ALKA Wildlife, o.p.s. byla udělena akreditace od Ústřední komise pro ochranu zvířat podle zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů. Na základě této akreditace má společnost povolení pro provádění pokusů na zvířatech s cílem ověřování vědecké domněnky a získávání vědeckých poznatků a zkoumání reakcí zvířete včetně jeho metodického sledování ve volné přírodě. 
+Společnosti ALKA Wildlife, o.p.s. byla udělena **akreditace** od Ústřední komise pro ochranu zvířat podle zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů. Na základě této akreditace má společnost povolení pro provádění pokusů na zvířatech s cílem ověřování vědecké domněnky a získávání vědeckých poznatků a zkoumání reakcí zvířete včetně jeho metodického sledování ve volné přírodě. 
 
-Společnost ALKA Wildlife, o.p.s. je na seznamu výzkumných organizací MŠMT.
+Společnost ALKA Wildlife, o.p.s. je na **seznamu výzkumných organizací **MŠMT.
+
+
 
 # Statutární orgán společnosti - ředitel
 
@@ -47,13 +53,13 @@ Mgr. Aleš Jelínek (předseda správní rady)\
 Zdeněk Hron \
 Ing. Václav Křivan
 
-## Dozorčí rada:
+# Dozorčí rada:
 
 Jaroslava Musilová (předseda dozorčí rady)\
 Jindra Jelínková, Dis.\
 Miloslava Král’ová
 
-## Zakladatelé společnosti:
+# Zakladatelé společnosti:
 
 Mgr. Václav Beran\
 Ing. Václav Hlaváč\
