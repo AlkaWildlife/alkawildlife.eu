@@ -73,13 +73,10 @@ Návrat a obnova populace rysa ostrovida je snahou mnoha evropských států, v�
 
 ## Cíle projektu
 
-\- Zlepšení mezinárodní spolupráce jednotlivých zájmových skupin (státní ochrana přírody, myslivci, lesníci, neziskové organizace, vědci) při ochraně Česko-Bavorsko-Rakouské, Alpské a Dinárské populace rysa ostrovida 
-
-\- Vytvoření společné strategie na ochranu rysa ostrovida v Česko-Bavorsko-Rakouské oblasti
-
-\- Nastavení komplexního monitoringu rysa ostrovida v centrální Evropě
-
-\- Výměna dat mezi partnerskými organizacemi za účelem zefektivnění ochrany rysa ostrovida 
+* Zlepšení mezinárodní spolupráce jednotlivých zájmových skupin (státní ochrana přírody, myslivci, lesníci, neziskové organizace, vědci) při ochraně Česko-Bavorsko-Rakouské, Alpské a Dinárské populace rysa ostrovida 
+* Vytvoření společné strategie na ochranu rysa ostrovida v Česko-Bavorsko-Rakouské oblasti
+* Nastavení komplexního monitoringu rysa ostrovida v centrální Evropě
+* Výměna dat mezi partnerskými organizacemi za účelem zefektivnění ochrany rysa ostrovida 
 
 ## Obsah projektu
 
