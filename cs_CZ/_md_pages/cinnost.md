@@ -9,7 +9,7 @@ layout: two_columns_page
 ---
 Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odborníků zabývajících se ekologií obratlovců a ochranou přírody.
 
-## Společnost poskytuje veřejnosti obecně prospěšné služby ve formě:
+# Společnost poskytuje veřejnosti obecně prospěšné služby ve formě:
 
 * realizace **výzkumných projektů **v oblasti biologie, ekologie a ochrany volně žijících živočichů
 * zpracovávání **odborných analýz, studií**, stanovisek a **inventarizačních průzkumů** týkajících se volně žijících živočichů 
@@ -20,15 +20,15 @@ Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odb
 * zpracování **koncepčních dokumentů** v ochraně přírody 
 * **pořádání konferencí**, pracovních setkání, výukových programů a přednášek 
 
-## Společnost může také vykonávat doplňkovou činnost ve formě:
+# Společnost může také vykonávat doplňkovou činnost ve formě:
 
 * zpracování odborných posudků v oblasti škod způsobovaných zvláště chráněnými živočichy
 
-## Poslání společnosti
+# Poslání společnosti
 
 Získávat, šířit a aplikovat informace týkající se biologie a ekologie živočichů tak, aby došlo k jejich efektivní, vědecky podložené ochraně a managementu
 
-## Status
+# Status
 
 Společnost ALKA Wildlife, o.p.s. je obecně prospěšná společnost založená dle zákona č. 248/1995 Sb., o obecně prospěšných společnostech, ve znění pozdějších předpisů.
 
@@ -36,12 +36,12 @@ Společnosti ALKA Wildlife, o.p.s. byla udělena akreditace od Ústřední komis
 
 Společnost ALKA Wildlife, o.p.s. je na seznamu výzkumných organizací MŠMT.
 
-## Statutární orgán společnosti - ředitel
+# Statutární orgán společnosti - ředitel
 
 Mgr. Kateřina Poledníková\
 Ředitel je oprávněn jednat jménem společnosti. 
 
-## Správní rada:
+# Správní rada:
 
 Mgr. Aleš Jelínek (předseda správní rady)\
 Zdeněk Hron \
