@@ -3,6 +3,11 @@ title: Alka velká
 published: true
 permalink: /zajmove-druhy/alka-velka
 image: /media/alka_obrazek.jpg
+description: >-
+  Alku velkou popsal přírodovědec Karl Linnaeus. Původně se vyskytovala na území
+  Severního Atlantiku od Kanady přes Grónsko, Island až po Velkou Británii. Alka
+  velká ale byla vyhubena.  Důvodem bylo nadměrný lov pro peří, maso a tuk.
+  Vzhledem k nelétavosti se stávala lehkou obětí často zbytečného vybíjení.
 listed: false
 position: 1
 layout: two_columns_page
