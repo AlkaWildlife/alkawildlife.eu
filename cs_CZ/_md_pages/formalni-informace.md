@@ -6,11 +6,15 @@ listed: true
 position: 2
 layout: two_columns_page
 ---
-**_ALKA Wildlife o.p.s._**\
-_**Sídlo**: Lidéřovice 62, 380 01  Peč_\
-_**IČO**: 280 64 933_\
-_**DIČ**: CZ28064933 je plátcem DPH_\
-_**ID datové schránky**: gypmz9w_
+ALKA Wildlife o.p.s.
+
+**Sídlo**: Lidéřovice 62, 380 01  Peč 
+
+**IČO**: 280 64 933
+
+**DIČ**: CZ28064933, je plátcem DPH
+
+**ID datové schránky**: gypmz9w_
 
 _[profil zadavatele](https://www.vhodne-uverejneni.cz/profil/28064933)_
 
