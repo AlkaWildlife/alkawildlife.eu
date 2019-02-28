@@ -7,7 +7,6 @@ authors:
   - name: Kranz A.
   - name: Poledník L.
   - name: Myšiak J.
-  - name: R. A. Klenke et al. (eds.)
 type: Kapitola v knize
 tags:
   - vydra říční
