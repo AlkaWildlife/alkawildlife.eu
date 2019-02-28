@@ -1,5 +1,5 @@
 ---
-title: Odborná publikace
-position: 2
+title: Článek v periodiku
+position: 1
 ---
 
