@@ -12,6 +12,7 @@ authors:
 type: Článek v periodiku
 tags:
   - vydra říční
+  - publikace pro odbornou veřejnost
 publisher: 'ALKA Wildlife, o.p.s.'
 journal: Bulletin Vydra 17
 year: 2018
