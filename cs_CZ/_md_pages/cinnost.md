@@ -24,13 +24,9 @@ Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odb
 
 * zpracování odborných posudků v oblasti škod způsobovaných zvláště chráněnými živočichy
 
-
-
 # Poslání společnosti
 
 Získávat, šířit a aplikovat informace týkající se biologie a ekologie živočichů tak, aby došlo k jejich efektivní, vědecky podložené ochraně a managementu
-
-
 
 # Status
 
@@ -38,9 +34,7 @@ Společnost ALKA Wildlife, o.p.s. je obecně prospěšná společnost založená
 
 Společnosti ALKA Wildlife, o.p.s. byla udělena **akreditace** od Ústřední komise pro ochranu zvířat podle zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů. Na základě této akreditace má společnost povolení pro provádění pokusů na zvířatech s cílem ověřování vědecké domněnky a získávání vědeckých poznatků a zkoumání reakcí zvířete včetně jeho metodického sledování ve volné přírodě. 
 
-Společnost ALKA Wildlife, o.p.s. je na **seznamu výzkumných organizací **MŠMT.
-
-
+Společnost ALKA Wildlife, o.p.s. je na **seznamu výzkumných organizací** MŠMT.
 
 # Statutární orgán společnosti - ředitel
 
