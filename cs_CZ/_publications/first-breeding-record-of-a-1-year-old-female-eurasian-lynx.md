@@ -9,9 +9,10 @@ authors:
   - name: Benjamin Watzl
   - name: Peter Gerngross
   - name: Elisa Belotti
-type: Odborná publikace
+type: Článek v periodiku
 tags:
   - rys ostrovid
+  - publikace pro odbornou veřejnost
 publisher: ''
 journal: European Journal of Wildlife Research
 year: 2019
