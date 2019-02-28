@@ -5,19 +5,19 @@ title: >-
 published: true
 public: false
 authors:
-  - name: E. Sherrard-Smith
-  - name: D.W.G. Stanton
-  - name: J. Cable
-  - name: P. Orozco-terWengel
-  - name: V.R. Simpson
-  - name: M. Elmeros
-  - name: J. van Dijk
-  - name: F. Simonnet
-  - name: A. Roos
-  - name: Ch. Lemarchand
-  - name: L. Poledník
-  - name: P. Heneberg
-  - name: E.A. Chadwick
+  - name: Ellie Sherrard-Smith
+  - name: David W.G. Stanton
+  - name: Jo Cable
+  - name: Pablo Orozco-terWengel
+  - name: Vic R. Simpson
+  - name: Morten Elmeros
+  - name: Jiska van Dijk
+  - name: Franck Simonnet
+  - name: Anna Roos
+  - name: Charles Lemarchand
+  - name: Lukáš Poledník
+  - name: Petr Heneberg
+  - name: Elizabeth A. Chadwick
 type: Článek v periodiku
 tags:
   - vydra říční
