@@ -33,7 +33,7 @@ journal: 'Lynx, n.s. (Praha)'
 year: 2017
 lang:
   - cs
-link: ''
+link: /media/093-107_Kutal.pdf
 attachments:
   - {}
 ---
