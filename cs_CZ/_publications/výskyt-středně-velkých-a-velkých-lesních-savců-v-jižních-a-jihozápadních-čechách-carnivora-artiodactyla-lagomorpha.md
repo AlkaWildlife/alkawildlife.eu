@@ -22,7 +22,7 @@ journal: 'Lynx, n.s. (Praha)'
 year: 2015
 lang:
   - cs
-link: /media/043_064_Minarikova (1).pdf
+link: /media/043_064_Minarikova.pdf
 attachments:
   - {}
 ---
