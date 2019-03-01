@@ -12,7 +12,7 @@ tags:
 journal: 'Lynx, n.s. (Praha)'
 year: 2015
 lang: en
-link: /media/005_017_Camlik (2).pdf
+link: /media/005_017_Camlik.pdf
 attachments:
   - {}
 ---
