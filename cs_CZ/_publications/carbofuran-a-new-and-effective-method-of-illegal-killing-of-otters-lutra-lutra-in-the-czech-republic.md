@@ -13,7 +13,7 @@ type: Článek v periodiku
 tags:
   - vydra říční
   - publikace pro odbornou veřejnost
-journal: IUCN Otter Spec. Group Bull.
+journal: IUCN Otter Specialist Group Bulletin
 year: 2010
 lang: en
 link: /media/Polednikova_et_al_2010.pdf
