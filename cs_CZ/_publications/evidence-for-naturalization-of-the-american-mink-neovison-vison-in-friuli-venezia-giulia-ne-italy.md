@@ -10,7 +10,7 @@ authors:
   - name: Marco Pavanello
   - name: Lukáš Poledník
   - name: Cristina Rieppi
-type: článek v periodiku
+type: Článek v periodiku
 tags:
   - norek americký
   - publikace pro odbornou veřejnost
