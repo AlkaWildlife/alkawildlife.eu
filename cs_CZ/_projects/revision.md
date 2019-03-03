@@ -28,7 +28,13 @@ contacts:
 species: |-
   invazní savci: norek americký, psík mývalovitý, mýval severní, nutrie
 
-  ohrožené původní druhy: racci, rybák obecný
+  ohrožené původní druhy: racci, rybák obecný, vodní ptactvo
+area: |-
+  PR Věstonická nádrž
+
+  NPR Lednické rybníky
+
+  Mutěnické rybníky
 tags:
   - norek americký
   - management
@@ -37,6 +43,7 @@ tags:
   - nutrie
 countries:
   - CZ
+description: "Projekt řeší vliv invazních savců (norka amerického, mývala severního, psíka mývalovitého a\_nutrie)\nna kolonie vodních ptáků hnízdící na ostrovech (zejména rybáky a racky). Na české straně se jedná o\_tři lokality na\njižní Moravě: PR Věstonická nádrž, NPR Lednické rybníky a\_Mutěnické rybníky. "
 ---
 # Cíl projektu
 
