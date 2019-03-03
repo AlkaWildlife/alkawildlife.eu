@@ -6,7 +6,7 @@ registration_no: TA04021269
 funding: |-
   Technologická agentura ČR (TAČR)
 
-  ![](/media/tačr_320.jpg)
+  ![](/media/logo_white_red_m.jpg)
 
   ![](/media/alfa_320.jpg)
 from: 2014-01
