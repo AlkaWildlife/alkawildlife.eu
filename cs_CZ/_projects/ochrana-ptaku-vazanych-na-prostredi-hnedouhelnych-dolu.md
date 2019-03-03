@@ -15,7 +15,8 @@ partners: Vršanská uhelná a.s.
 contacts:
   - name: Václav Beran
     role: vedoucí projektu
-species: 'linduška úhorní, bělořit šedý'
+species: 'linduška úhorní, bělořit šedý, strnad zahradní'
+area: severní Čechy
 tags:
   - linduška úhorní
   - bělořit šedý
