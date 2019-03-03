@@ -10,7 +10,7 @@ funding: |-
 
   ![](/media/alfa_320.jpg)
 from: 2014-01
-to: 2017-01
+to: 2017-12
 partners: Vršanská uhelná a.s.
 contacts:
   - name: Václav Beran
