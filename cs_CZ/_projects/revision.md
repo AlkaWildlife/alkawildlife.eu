@@ -4,9 +4,14 @@ published: true
 subtitle: >-
   Opatrenia pre zmiernenie dopadov inváznych živočíchov na Západnom Slovensku a
   južnej Morave
-funding: |-
-  Program: Interreg V-A Slovenská republika – Česká republika  
+funding: >-
+  Program: [Interreg V-A Slovenská republika – Česká
+  republika](https://www.sk-cz.eu/sk/)\
+
   Spoločne bez hraníc / Společně bez hranic
+
+
+  ![](/media/logo_irrva_2014-20_610.jpg)
 budget: "2\_286\_418,93 Kč"
 from: 2018-02
 to: 2020-01
