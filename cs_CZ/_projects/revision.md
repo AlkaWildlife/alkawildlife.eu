@@ -12,14 +12,17 @@ funding: >-
 
 
   ![](/media/logo_irrva_2014-20_610.jpg)
-budget: "2\_286\_418,93 Kč"
+budget: "Výše příspěvku z ERDF: 63 490,44 EUR\r\n\nVýše příspěvku ze státního rozpočtu ČR: 3 734,73 EUR"
 from: 2018-02
 to: 2020-01
 partners: |-
-  Slovenská ornitologická spoločnosť (vedoucí partner)  
-  Krok Kyjov, z.ú. (hlavní přeshraniční partner)  
-  ALKA Wildlife, o.p.s.  
-  Česká společnost ornitologická – Jihomoravská pobočka
+  [Slovenská ornitologická spoločnosť](http://www.vtaky.sk/) (vedoucí partner)
+
+  [Krok Kyjov, z.ú.](http://www.oskrok.cz/) (hlavní přeshraniční partner)
+
+  [ALKA Wildlife, o.p.s.](www.alkawildlife.eu)
+
+  [Česká společnost ornitologická – Jihomoravská pobočka](www.jmpcso.cz)
 contacts:
   - name: Lukáš Poledník
 tags:
