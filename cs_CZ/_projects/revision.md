@@ -25,8 +25,16 @@ partners: |-
   [Česká společnost ornitologická – Jihomoravská pobočka](www.jmpcso.cz)
 contacts:
   - name: Lukáš Poledník
+species: |-
+  invazní savci: norek americký, psík mývalovitý, mýval severní, nutrie
+
+  ohrožené původní druhy: racci, rybák obecný
 tags:
-  - norek americký; management; psík mývalovitý; mýval severní; nutrie
+  - norek americký
+  - management
+  - psík mývalovitý
+  - mýval severní
+  - nutrie
 countries:
   - CZ
 ---
