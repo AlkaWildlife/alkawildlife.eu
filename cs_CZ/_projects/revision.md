@@ -66,3 +66,7 @@ kde se některé druhy rychle šíří a je prokázán jejich negativní
 vliv. Např. populace rybáka obecného klesla za posledních 5 let o 70 %
 na Hrušovské zdrži na Dunaji, přičemž hlavní příčinou je jednoznačně
 norek americký.
+
+# Výstupy projektu
+
+[Norek americký - opravdový nepřítel?](/publications/norek-americký-opravdový-nepřítel.html) (článek v časopise Živa)
