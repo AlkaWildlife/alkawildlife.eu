@@ -6,7 +6,8 @@ subtitle: >-
   južnej Morave
 funding: >-
   Program: [Interreg V-A Slovenská republika – Česká
-  republika](https://www.sk-cz.eu/sk/)\
+  republika](https://www.sk-cz.eu/sk/)
+
 
   Spoločne bez hraníc / Společně bez hranic
 
