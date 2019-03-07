@@ -92,3 +92,15 @@ společností.
 [Certifikovaná metodika pro plánování managementových
  opatření a vytváření vhodných biotopů pro bělořita šedého
  v aktivních těžebních oblastech](/media/Certifikovana_metodika_belorit_fin.pdf)
+
+[Mapa aktuálního výskytu lindušky úhorní na území aktivních hnědouhelných těžebních lokalit Ústeckého kraje (zip; shp file)](/media/linduska_uhorni_vyskyt.zip)
+
+[Mapa aktuálního výskytu bělořita šedého na území aktivních hnědouhelných těžebních lokalit Ústeckého kraje (zip; shp file) ](/media/belorit_sedy_vyskyt.zip)
+
+[Mapa aktuálního výskytu strnada zahradního na území aktivních hnědouhelných těžebních lokalit Ústeckého kraje (zip; shp file) ](/media/strnad_zahradni_vyskyt.zip)
+
+[Mapa sledovaných vegetačních parametrů na území aktivních hnědouhelných těžebních lokalit Ústeckého kraje (zip; shp file) ](/media/vegetacni_parametry.zip)
+
+[Mapa typů prostředí na území aktivních hnědouhelných těžebních lokalit ústeckého kraje z hlediska vhodnosti pro hnízdní populace lindušky úhorní (zip; shp file)](/media/linduska_uhorni_habitat.zip)
+
+[Mapa typů prostředí na území aktivních hnědouhelných těžebních lokalit ústeckého kraje z hlediska vhodnosti pro hnízdní populace bělořita šedého (zip; shp file) ](/media/belorit_sedy_habitat.zip)
