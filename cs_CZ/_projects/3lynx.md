@@ -69,16 +69,22 @@ description: >-
   Cílem projektu je zlepšení mezinárodní spolupráce pro ochranu
   Česko-Bavorsko-Rakouské, Alpské a Dinárské populace rysa ostrovida.
 ---
-Návrat a obnova populace rysa ostrovida je snahou mnoha evropských států, včetně České republiky. Rysi potřebují k životu velké území, jejich populace často migrují a přesahují hranice několika států. K zajištění ochrany těchto krásných šelem je proto nutné mít komplexní informace o jejich životě a to z celého areálu výskytu dané populace, a podle toho sladit ochranářské úsilí ve všech zemích. Pro dlouhodobé přežití rysů je ale třeba zajistit mnohem více, usilovat o zastavení nelegálního lovu, omezit fragmentaci krajiny a snažit se tento stav napravit. Stejně důležitým bodem je snaha zajistit dobrou spolupráci a komunikaci všech zainteresovaných subjektů, od ochranářů přes lesníky a myslivce, širokou veřejnost až po státní správu a samosprávu. Cílem projektu 3lynx je zkoordinovat monitorování výskytu rysů ve 3 izolovaných populacích, které zasahují několik států. Srovnatelný sběr dat a jejich rychlé sdílení je předpokladem pro efektivní ochranu druhu. Dalším krokem bude schválení mezinárodní strategie pro ochranu česko-bavorsko-rakouské populace a příprava podkladů pro obdobnou strategii u dalších dvou oblastí. 
+# Proč
 
-## Cíle projektu
+Návrat a obnova populace rysa ostrovida je snahou mnoha evropských států, včetně České republiky. Rysi potřebují k životu velké území, jejich populace často migrují a přesahují hranice několika států. K zajištění ochrany těchto krásných šelem je proto nutné mít komplexní informace o jejich životě a to z celého areálu výskytu dané populace, a podle toho sladit ochranářské úsilí ve všech zemích. Pro dlouhodobé přežití rysů je ale třeba zajistit mnohem více, usilovat o zastavení nelegálního lovu, omezit fragmentaci krajiny a snažit se tento stav napravit. Stejně důležitým bodem je snaha zajistit dobrou spolupráci a komunikaci všech zainteresovaných subjektů, od ochranářů přes lesníky a myslivce, širokou veřejnost až po státní správu a samosprávu. 
+
+# Cíle projektu
+
+Cílem projektu 3lynx je zkoordinovat monitorování výskytu rysů ve 3 izolovaných populacích, které zasahují několik států. Srovnatelný sběr dat a jejich rychlé sdílení je předpokladem pro efektivní ochranu druhu. 
+
+Konkrétní cíle:
 
 * Zlepšení mezinárodní spolupráce jednotlivých zájmových skupin (státní ochrana přírody, myslivci, lesníci, neziskové organizace, vědci) při ochraně Česko-Bavorsko-Rakouské, Alpské a Dinárské populace rysa ostrovida 
-* Vytvoření společné strategie na ochranu rysa ostrovida v Česko-Bavorsko-Rakouské oblasti
+* Vytvoření společné mezinárodní strategie na ochranu rysa ostrovida v Česko-Bavorsko-Rakouské oblasti a příprava podkladů pro obdobnou strategii u dalších dvou oblastí
 * Nastavení komplexního monitoringu rysa ostrovida v centrální Evropě
 * Výměna dat mezi partnerskými organizacemi za účelem zefektivnění ochrany rysa ostrovida 
 
-## Obsah projektu
+# Obsah projektu
 
 Pro zlepšení spolupráce všech partnerů bude pořádána řada pracovních setkání, v rámci nichž bude hodnoceno zapojení klíčových stakeholderů (myslivci a lesníci) do ochrany rysa, společně budou analyzovány informace o stavu rysích populací a vytvářeny nástroje k analýze těchto dat, bude pořádána řada diskuzních setkání a workshopů k problematice pytláctví a ochrany rysa obecně. Společně bude připravována strategie.
 
@@ -86,7 +92,7 @@ Rysí populace budou sledovány ve dvou přeshraničních regionech (Česko - N�
 
 V rámci projektu bude také podporováno vyšetřování ilegálního lovu rysa ostrovida – u odlovených jedinců bude provedena pitva a případné další analýzy, případ bude řešen s policií a maximálně medializován.
 
-## Výstupy projektu
+# Výstupy projektu
 
 _Rysí mapa - mapa vytvořená v projektu Translynx, je v rámci projektu 3Lynx rozšiřována a doplňována o nově získaná data._
 
