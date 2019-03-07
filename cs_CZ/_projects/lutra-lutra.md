@@ -2,7 +2,15 @@
 title: Lutra lutra
 published: true
 registration_no: '100305303'
-funding: "ERDF (Evropský fond pro regionální rozvoj) \r\n\nProgram na podporu přeshraniční spolupráce mezi Českou republikou a Svobodným státem Sasko 2014–2020\n\n![](/media/spojene-loga_320.jpg)"
+funding: >-
+  ERDF (Evropský fond pro regionální rozvoj) 
+
+
+  Program na podporu přeshraniční spolupráce mezi Českou republikou a Svobodným
+  státem Sasko 2014–2020
+
+
+  ![](/media/spojene-loga_320.jpg)
 from: 2017-10
 to: 2020-09
 partners: "[AG Naturschutzinstitut Region Dresden e.V.](https://nsi-dresden.nabu-sachsen.de/) (vedoucí partner)\r\n\n[Alka Wlidlife o. p. s \r](www.alkawildlife.eu)\n\n[Muzeum města Ústí nad Labem ](http://www.muzeumusti.cz/)"
