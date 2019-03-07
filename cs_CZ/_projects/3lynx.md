@@ -97,5 +97,3 @@ V rámci projektu bude také podporováno vyšetřování ilegálního lovu rysa
 _Rysí mapa - mapa vytvořená v projektu Translynx, je v rámci projektu 3Lynx rozšiřována a doplňována o nově získaná data._
 
 [![](/media/map_translynx_eu.jpg "Interaktivní mapa fotografií z fotopastí")](http://map.translynx.eu/cs?specie=lynx-lynx&layers=3)
-
-#
