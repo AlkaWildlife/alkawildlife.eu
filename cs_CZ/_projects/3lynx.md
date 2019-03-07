@@ -73,7 +73,7 @@ description: >-
 
 Návrat a obnova populace rysa ostrovida je snahou mnoha evropských států, včetně České republiky. Rysi potřebují k životu velké území, jejich populace často migrují a přesahují hranice několika států. K zajištění ochrany těchto krásných šelem je proto nutné mít komplexní informace o jejich životě a to z celého areálu výskytu dané populace, a podle toho sladit ochranářské úsilí ve všech zemích. Pro dlouhodobé přežití rysů je ale třeba zajistit mnohem více, usilovat o zastavení nelegálního lovu, omezit fragmentaci krajiny a snažit se tento stav napravit. Stejně důležitým bodem je snaha zajistit dobrou spolupráci a komunikaci všech zainteresovaných subjektů, od ochranářů přes lesníky a myslivce, širokou veřejnost až po státní správu a samosprávu. 
 
-![](/media/cdy00018rys.jpg)
+![](/media/luděk_01_1116.jpg)
 
 # Cíle projektu
 
