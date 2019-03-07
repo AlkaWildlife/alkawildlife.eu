@@ -73,6 +73,8 @@ description: >-
 
 Návrat a obnova populace rysa ostrovida je snahou mnoha evropských států, včetně České republiky. Rysi potřebují k životu velké území, jejich populace často migrují a přesahují hranice několika států. K zajištění ochrany těchto krásných šelem je proto nutné mít komplexní informace o jejich životě a to z celého areálu výskytu dané populace, a podle toho sladit ochranářské úsilí ve všech zemích. Pro dlouhodobé přežití rysů je ale třeba zajistit mnohem více, usilovat o zastavení nelegálního lovu, omezit fragmentaci krajiny a snažit se tento stav napravit. Stejně důležitým bodem je snaha zajistit dobrou spolupráci a komunikaci všech zainteresovaných subjektů, od ochranářů přes lesníky a myslivce, širokou veřejnost až po státní správu a samosprávu. 
 
+![](/media/cdy00018rys.jpg)
+
 # Cíle projektu
 
 Cílem projektu 3lynx je zkoordinovat monitorování výskytu rysů ve 3 izolovaných populacích, které zasahují několik států. Srovnatelný sběr dat a jejich rychlé sdílení je předpokladem pro efektivní ochranu druhu. 
@@ -97,3 +99,13 @@ V rámci projektu bude také podporováno vyšetřování ilegálního lovu rysa
 _Rysí mapa - mapa vytvořená v projektu Translynx, je v rámci projektu 3Lynx rozšiřována a doplňována o nově získaná data._
 
 [![](/media/map_translynx_eu.jpg "Interaktivní mapa fotografií z fotopastí")](http://map.translynx.eu/cs?specie=lynx-lynx&layers=3)
+
+# V médiích
+
+[Na stopě rysa ostrovida (článek v časopise Venkov, pdf)](/media/Venkov_rys_2017.pdf)
+
+[Czech team up with other countries to protect endangered lynx ](https://www.radio.cz/en/section/panorama/czechs-team-up-with-other-countries-to-protect-endangered-lynx)\
+(Rádio Praha 31.8.2017: Rozhovor o projektu 3Lynx s Terezou Minárikovou)
+
+[Lepší ochrana pro rysa ostrovida](https://www.ceskatelevize.cz/ivysilani/10118379000-udalosti-v-regionech-praha/217411000140901-udalosti-v-regionech/obsah/565395-lepsi-ochrana-pro-rysa-ostrovida)\
+(Česká televize Události v regionech - Praha 1.9.2017: Reportáž o projekt a o fotopastech)
