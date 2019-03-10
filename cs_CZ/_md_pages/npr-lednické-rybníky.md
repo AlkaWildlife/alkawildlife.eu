@@ -2,6 +2,7 @@
 title: NPR Lednické rybníky
 published: true
 permalink: /projects/revision/lednické-rybníky
+image: /media/img_8981_600.jpg
 position: 1
 layout: two_columns_page
 lang_alternatives:
