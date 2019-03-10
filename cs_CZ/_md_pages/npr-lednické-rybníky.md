@@ -1,7 +1,7 @@
 ---
 title: NPR Lednické rybníky
 published: true
-permalink: /projects/revision.html/Lednicke_rybniky
+permalink: /projects/revision/lednické_rybníky
 position: 1
 layout: two_columns_page
 lang_alternatives:

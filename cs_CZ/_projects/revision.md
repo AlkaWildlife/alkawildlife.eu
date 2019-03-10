@@ -33,7 +33,7 @@ species: |-
 area: |-
   PR Věstonická nádrž
 
-  [NPR Lednické rybníky](/projects/revision.html/Lednicke_rybniky)
+  [NPR Lednické rybníky](/projects/revision/lednické_rybníky.html)
 
   Mutěnické rybníky
 tags:
