@@ -19,9 +19,7 @@ Web je určen pro laickou veřejnost, kromě informací o syslovi obecném v Če
 
 <div class="clearfix"></div>
 
-# Literatura
-
-Více si můžete přečíst v těchto [našich publikacích](/publications#category=sysel).
+# 
 
 # Projekty
 
