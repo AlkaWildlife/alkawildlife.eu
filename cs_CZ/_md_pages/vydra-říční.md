@@ -16,25 +16,15 @@ Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organiza
 
 Pro detailní informace o tomto druhu přejděte na webové stránky, kde se přímo vydře říční věnujeme:
 
-![](/media/vydryonline_300.jpg)
-
-{: .wysiwyg-float-left}www.vydryonline.cz 
+![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}www.vydryonline.cz 
 
 Web je určen pro odbornou veřejnost a pro rybáře obsahuje aktuální informace o tomto druhu v ČR, sekci ke škodám, které působí na rybách, sekci k mortalitě na silnicích, poradnu, fotogalerii, knihovnu a časopis Bulletin Vydra.
 
 <div class="clearfix"></div>
-{: .wysiwyg-float-left}
 
-![](/media/vydristezky_300.jpg)
-
-{: .wysiwyg-float-left}[www.vydristezky.cz](www.vydristezky.cz)
+![](/media/vydristezky_300.jpg){: .wysiwyg-float-left}www.vydristezky.cz
 
 Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydří stezce na Dyji a informace o vydře ve formě pro laickou veřejnost a děti.
-
-{: .wysiwyg-float-left}
-
-![](/media/vydrynasilnici_300.jpg)
-
-{: .wysiwyg-float-left}[www.vydrynasilnici.cz](www.vydrynasilnici.cz)
-
+<div class="clearfix"></div>
+![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}www.vydrynasilnici.cz
 Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
