@@ -31,11 +31,11 @@ species: |-
 
   ohrožené původní druhy: racci, rybák obecný, vodní ptactvo
 area: |-
-  PR Věstonická nádrž
+  [PR Věstonická nádrž](/projects/revision/vestonicka-nadrz)
 
   [NPR Lednické rybníky](/projects/revision/lednické-rybníky.html)
 
-  Mutěnické rybníky
+  [Mutěnické rybníky](/projects/revision/mutenicke-rybníky)
 tags:
   - norek americký
   - psík mývalovitý
