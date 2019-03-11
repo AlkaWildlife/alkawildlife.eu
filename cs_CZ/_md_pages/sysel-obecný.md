@@ -10,11 +10,12 @@ lang_alternatives:
   en_GB: {}
 ---
 Pro detailní informace o tomto druhu přejděte na webovou stránku, kde se syslům přímo věnujeme.
+
 <div class="clearfix"></div>
 
 ![](/media/syslinavinici.jpg){: .wysiwyg-float-left}[www.syslinavinici.cz](www.syslinavinici.cz)
 
-Web je určen pro laickou veřejnost, kromě informací o syslovi obecném v České republice se zde dozvíte také o vinařích a sadařích, kteří mu pomáhají a o našich známkách Sysli na vinici a Sysli v sadu.
+Web je určen pro laickou veřejnost, kromě informací o syslovi obecném v České republice se zde dozvíte také o vinařích a sadařích, kteří mu pomáhají a o našich známkách _Sysli na vinici_ a _Sysli v sadu_.
 
 <div class="clearfix"></div>
 
