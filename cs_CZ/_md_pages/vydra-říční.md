@@ -31,3 +31,11 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 ![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](www.vydrynasilnici.cz)
 
 Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
+
+# Literatura
+
+Více si můžete přečíst v těchto [našich publikacích](/publications#category=vydra).
+
+# Projekty
+
+Vydrou říční se zabýváme dlouhodobě, [seznam projektů zde](/projects#category=vydra).
