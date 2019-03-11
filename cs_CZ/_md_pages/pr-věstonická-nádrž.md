@@ -2,6 +2,7 @@
 title: PR Věstonická nádrž
 published: true
 permalink: /projects/revision/vestonicka-nadrz.html
+image: /media/dscn1003_610.jpg
 position: 3
 layout: two_columns_page
 lang_alternatives:
