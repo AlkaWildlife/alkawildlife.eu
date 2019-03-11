@@ -5,7 +5,7 @@ permalink: /zajmove-druhy
 description: 'Sekce se základními informacemi o druzích, kterým se věnujeme'
 listed: true
 position: 4
-layout: two_columns_page
+layout: one_column_page
 aside_title: druhy
 aside_links: 'základní informace o druzích živočichů, kterým se dlouhodobě věnujeme.'
 lang_alternatives:
