@@ -32,6 +32,8 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 
 Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
 
+<div class="clearfix"></div>
+
 # Literatura
 
 Více si můžete přečíst v těchto [našich publikacích](/publications#category=vydra).
