@@ -6,7 +6,7 @@ listing_thumbnail: /media/merunky_syslivsadu_274.jpg
 description: >-
   Vytvořili jsme novou známku „Sysli v sadu“ a hned máme i prvního sadaře a
   první meruňky!
-date: '2019-03-11'
+date: '2018-06-20'
 lang_alternatives:
   en_GB: {}
 category: news
