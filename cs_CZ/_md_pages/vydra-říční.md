@@ -27,6 +27,7 @@ Web je určen pro odbornou veřejnost a pro rybáře obsahuje aktuální informa
 Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydří stezce na Dyji a informace o vydře ve formě pro laickou veřejnost a děti.
 
 <div class="clearfix"></div>
-!\[](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](www.vydristezky.cz) 
+
+!\[](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](www.vydrynasilnici.cz) 
 
 Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
