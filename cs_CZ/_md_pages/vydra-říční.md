@@ -16,13 +16,19 @@ Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organiza
 
 Pro detailní informace o tomto druhu přejděte na webové stránky, kde se přímo vydře říční věnujeme:
 
+![](/media/vydryonline.jpg)
+
 [www.vydryonline.cz ](www.vydryonline.cz)
 
 Web je určen pro odbornou veřejnost a pro rybáře obsahuje aktuální informace o tomto druhu v ČR, sekci ke škodám, které působí na rybách, sekci k mortalitě na silnicích, poradnu, fotogalerii, knihovnu a časopis Bulletin Vydra.
 
+![](/media/vydristezky.jpg)
+
 [www.vydristezky.cz](www.vydristezky.cz)
 
 Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydří stezce na Dyji a informace o vydře ve formě pro laickou veřejnost a děti.
+
+![](/media/vydrynasilnici.jpg)
 
 [www.vydrynasilnici.cz](www.vydrynasilnici.cz)
 
