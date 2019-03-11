@@ -5,11 +5,25 @@ permalink: /zajmove-druhy/vydra-ricni
 image: /media/vydra-ricni-948a.jpg
 description: >-
   Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organizace. Vydra
-  je lasicovitá šelma, lovící zejména ryby. Proto jsou naše aktivity zaměřené
-  zejména na 
+  je lasicovitá šelma, lovící zejména ryby. 
+listed: true
 position: 2
 layout: two_columns_page
 lang_alternatives:
   en_GB: {}
 ---
-Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organizace. Vydra je lasicovitá šelma, lovící zejména ryby. Proto jsou naše aktivity zaměřené zejména na
+Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organizace. 
+
+Pro detailní informace o tomto druhu přejděte na webové stránky, kde se přímo vydře říční věnujeme:
+
+[www.vydryonline.cz ](www.vydryonline.cz)
+
+Web je určen pro odbornou veřejnost a pro rybáře obsahuje aktuální informace o tomto druhu v ČR, sekci ke škodám, které působí na rybách, sekci k mortalitě na silnicích, poradnu, fotogalerii, knihovnu a časopis Bulletin Vydra.
+
+[www.vydristezky.cz](www.vydristezky.cz)
+
+Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydří stezce na Dyji a informace o vydře ve formě pro laickou veřejnost a děti.
+
+[www.vydrynasilnici.cz](www.vydrynasilnici.cz)
+
+Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
