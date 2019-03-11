@@ -12,12 +12,10 @@ lang_alternatives:
 category: news
 layout: news
 ---
-Tisková zpráva organizace ALKA Wildlife, o.p.s. 
+Tisková zpráva ALKA Wildlife, o.p.s. 
 
-3. května 2016
+**Lidéřovice 3.května 2016 - Silniční doprava stále více ohrožuje chráněné vydry říční. Ročně je nalezeno kolem padesáti takto uhynulých zvířat a jejich počet stále stoupá. Na vině je zejména rostoucí intenzita dopravy a nevhodné stavební řešení dopravních komunikací, které neumožňuje vydrám jejich bezpečné překonání. Nová mapová aplikace **[**www.vydrynasilnici.cz**](www.vydrynasilnici.cz)** má pomoci při řešení tohoto problému.**
 
-**Silniční doprava stále více ohrožuje chráněné vydry říční. Ročně je nalezeno kolem padesáti takto uhynulých zvířat a jejich počet stále stoupá. Na vině je zejména rostoucí intenzita dopravy a nevhodné stavební řešení dopravních komunikací, které neumožňuje vydrám jejich bezpečné překonání. Nová mapová aplikace www.vydrynasilnici.cz má pomoci při řešení tohoto problému.
-**
 
 Stříbrná Skalice, Jelení u Bruntálu, Trstěnice u Moravského Krumlova, Slavětice, Úsilné u Českých Budějovic, Oleksovice, Třeštice, Koloděje nad Lužnicí, Obědovice – to vše jsou obce, kde jen od začátku roku 2016 bylo nalezeno na silnici tělo vydry říční. Odborníci přitom varují, že nárůst mortality může do budoucna vést až ke kolapsu celé vydří populace. „_Podle našich údajů je sice populace vydry nyní stabilní, v posledních letech ale zaznamenáváme velký nárůst úmrtnosti vyder na silnicích. Vezmeme-li navíc v úvahu prognózy dalšího nárůstu autodopravy v ČR, přežití vydří populace je autodopravou významně ohroženo_“ uvádí Kateřina Poledníková z ALKA Wildlife.
 
