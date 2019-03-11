@@ -10,9 +10,7 @@ description: >-
 listed: true
 position: 5
 layout: two_columns_page
-aside_links: >-
-  Norek americký je nepůvodní severoamerický druh, který se rozšířil v Evropě z
-  farmových chovů.
+aside_links: ''
 lang_alternatives:
   en_GB: {}
 ---
