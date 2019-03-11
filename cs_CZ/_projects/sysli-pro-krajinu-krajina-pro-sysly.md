@@ -103,3 +103,9 @@ demografický výzkum, osvěta zaměřená na vlastníky pozemků, vytvoření
 katalogu lokalit. Na Slovensku koncepční materiál zaměřený přímo na
 tento druh na národní úrovni neexistuje, ale výstupy projektu budou
 sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
+
+# Aktuality
+
+[Nová známka sysli v sadu](/news/nová-známka-sysli-v-sadu)
+
+[Infostánek se syslem ve Hnanicích](/news/infostanek-se-syslem-ve-hnanicich)
