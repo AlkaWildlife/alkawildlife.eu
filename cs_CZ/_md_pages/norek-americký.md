@@ -26,7 +26,7 @@ Stopa norka je jako u všech lasicovitých pětiprstá, někdy se ale první prs
 
 Trus norků je podobný vydřímu trusu, je však v průměru užší (0,5–1 cm), zapáchá norkem. Nepravidelně norci vytváří latríny, kde se mohou nacházet desítky kusů trusu. Na rozdíl od vydry, ale norek nijak výrazně neznačkuje a jeho trus je tedy velmi těžké najít. 
 
-![stopy norka amerického](/media/snimek-062a.jpg)
+![stopy norka amerického](/media/snimek-062a.jpg "stopy norka amerického")
 
 # Prostředí
 
