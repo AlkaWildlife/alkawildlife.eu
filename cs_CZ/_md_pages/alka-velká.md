@@ -11,6 +11,7 @@ description: >-
 listed: true
 position: 1
 layout: two_columns_page
+aside_links: 'Alka velká ale byla vyhubena.  Důvodem bylo nadměrný lov pro peří, maso a tuk.'
 ---
 {: .wysiwyg-float-left}Alku velkou (_Pinguinus impennis_) popsal v roce 1758 přírodovědec Karl Linnaeus. Původně se vyskytovala ve vzájemně izolovaných koloniích v obrovském území Severního Atlantiku od Kanady přes Grónsko, Island až po Velkou Británii. Ve známé historii hnízdily alky velké pouze na skalnatých ostrovech. Na přístupnějších hnízdištích byly pravděpodobně vyhubeny v ještě starší minulosti. Archeologické nálezy pochází i z evropského pobřeží od severního Ruska po Francii. Zimování bylo prokázáno ještě jižněji až na úrovni Španělska. 
 
