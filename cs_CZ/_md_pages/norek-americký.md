@@ -63,3 +63,7 @@ Jako zavlečený druh představuje norek potenciální nebezpečí pro původní
 # Literatura
 
 Více si můžete přečíst v těchto [našich publikacích](/publications#category=norek).
+
+# Projekty
+
+Norkem americkým se zabýváme dlouhodobě, [seznam projektů zde](/projects#category=norek).
