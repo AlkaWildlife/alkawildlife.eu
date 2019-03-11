@@ -4,7 +4,7 @@ published: true
 image: /media/img_5677.jpg
 listing_thumbnail: /media/img_5677_274.jpg
 description: V časopise Živa (2018/5) vyšel souhrnný článek o norkovi americkém.
-date: '2019-03-11'
+date: '2018-10-20'
 lang_alternatives:
   en_GB: {}
 category: news
