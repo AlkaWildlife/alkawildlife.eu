@@ -39,9 +39,7 @@ Domovské okrsky jedinců stejného pohlaví se obvykle nepřekrývají a vzhled
 
 Porovnání aktivních a neaktivních lokací v průběhu dne ukazuje, že samci jsou aktivní převážně v noci a za soumraku a jejich aktivita ve dne je minimální. Naopak rozložení aktivity samic je v průběhu dne rovnoměrné. 
 
-# 
-
-Potrava
+# Potrava
 
 Norek patří mezi potravní oportunisty. V jeho potravě se vyskytují jak bezobratlí, tak všechny skupiny obratlovců, vodní i suchozemští. 
 
