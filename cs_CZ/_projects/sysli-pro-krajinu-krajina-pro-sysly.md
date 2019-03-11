@@ -94,11 +94,11 @@ aplikace s výskytem sysla.
 
 Sysel obecný je dle české legislativy zvláště chráněným druhem
 v nejpřísnější kategorii kriticky ohrožený druh. Dle slovenské
-legislativy jde o chráněný druh evropského významu, který má status EN
+legislativy jde o chráněný druh evropského významu, který má status "EN"
 podle manuálu k péči o území NATURA 2000. V České republice se jedná
 o jeden z mála druhů, které mají schválený záchranný program (Záchranný
 program pro sysla obecného v České republice). Několik aktivit projektu
-přímo naplňuje plán opatření ZP - obnova lokalit s vhodným biotopem,
+přímo naplňuje plán opatření Záchranného programu- obnova lokalit s vhodným biotopem,
 demografický výzkum, osvěta zaměřená na vlastníky pozemků, vytvoření
 katalogu lokalit. Na Slovensku koncepční materiál zaměřený přímo na
 tento druh na národní úrovni neexistuje, ale výstupy projektu budou
