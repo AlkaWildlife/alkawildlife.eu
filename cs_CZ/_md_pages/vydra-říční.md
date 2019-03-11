@@ -28,6 +28,6 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 
 <div class="clearfix"></div>
 
-!\[](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}www.vydrynasilnici.cz
+![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](www.vydrynasilnici.cz)
 
 Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
