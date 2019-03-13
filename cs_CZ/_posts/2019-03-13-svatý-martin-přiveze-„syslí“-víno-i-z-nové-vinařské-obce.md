@@ -30,7 +30,7 @@ Ochranná známka Sysli na vinici má již dvouletou tradici. Oceňuje vinařstv
 
 Víno z Miroslavi od VÍNA PERK si můžete nakoupit buďto objednávkou přes jejich webové stránky ( www.perk.cz ), nebo přímo v AGRODRUŽSTVU či v Brně, v jejich prodejně Masová bedýnka, kde kromě masa z jejich chovu prodávají právě i víno z vlastních vinic. Víno se zlatou známkou Sysli na vinici od dalších vinařů také můžete v nejbližších dnech ochutnat na vinařských akcích spojených se svatomartinským a mladým vínem, a to ve Hnanicích v sobotu 10.11.2018 při Hnanickém koštování mladých vín nebo další víkend 17.11.2018 ve Svatomartinských otevřených sklepech ve Velkých Pavlovicích.
 
-![](/media/img_2793_610.jpg)
+![Miroslavské vinice](/media/img_2793_610.jpg "Miroslavské vinice")
 
 ## Poznámky:
 
