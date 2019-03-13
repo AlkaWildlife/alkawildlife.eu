@@ -7,7 +7,7 @@ description: >-
   Rybářského sdružení ČR včera prohlásili, že navrhují zahájit lov vyder a bobrů
   do „smrtících pastí“. Odborníci ale varují, že ač nebyl přesně uveřejněn typ,
   jedná se o pasti kruté a nehumánní, v civilizovaných zemích zakázané. 
-date: '2019-03-13'
+date: '2018-12-07'
 lang_alternatives:
   en_GB: {}
 category: news
