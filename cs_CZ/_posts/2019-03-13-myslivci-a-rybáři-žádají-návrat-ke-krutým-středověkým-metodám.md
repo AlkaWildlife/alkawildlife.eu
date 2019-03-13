@@ -3,10 +3,9 @@ title: Myslivci a rybáři žádají návrat ke krutým středověkým metodám
 published: true
 image: /media/hlaváč_železa_občinyhb_610.jpg
 description: >-
-  Zástupci Českomoravské myslivecké jednoty, Českého rybářského svazu a
-  Rybářského sdružení ČR včera prohlásili, že navrhují zahájit lov vyder a bobrů
-  do „smrtících pastí“. Odborníci ale varují, že ač nebyl přesně uveřejněn typ,
-  jedná se o pasti kruté a nehumánní, v civilizovaných zemích zakázané. 
+  Zástupci ČMMJ, ČRS a RS ČR včera prohlásili, že navrhují zahájit lov vyder a
+  bobrů do „smrtících pastí“. Odborníci ale varují, že se jedná o pasti kruté,
+  nehumánní, zakázané. 
 date: '2018-12-07'
 lang_alternatives:
   en_GB: {}
@@ -15,7 +14,7 @@ layout: news
 ---
 TISKOVÁ ZPRÁVA
 
-**Lidéřovice 7.12.2018: Zástupci Českomoravské myslivecké jednoty, Českého rybářského svazu a Rybářského sdružení ČR včera prohlásili, že navrhují zahájit lov vyder a bobrů do „smrtících pastí“. Odborníci ale varují, že ač nebyl přesně uveřejněn typ, jedná se o pasti kruté a nehumánní, v civilizovaných zemích zakázané. Navíc mohou velmi vážně zranit nebo v krajním případě i zabít člověka, určitě volně pobíhající psy. Budeme se teď muset bát projít podél rybníků či koupat se v řece?**
+**Lidéřovice 7.12.2018: Zástupci Českomoravské myslivecké jednoty, Českého rybářského svazu a Rybářského sdružení ČR včera prohlásili, že navrhují zahájit lov vyder a bobrů do „smrtících pastí“. Odborníci ale varují, že ač nebyl přesně uveřejněn typ, jedná se o pasti kruté a nehumánní, v civilizovaných zemích zakázané. Navíc mohou velmi vážně zranit nebo v krajním případě i zabít člověka, určitě volně pobíhající psy. Budeme se teď muset bát projít podél rybníků či koupat se v řece?**
 
 Zástupci Českomoravské myslivecké jednoty, Českého rybářského svazu a Rybářského sdružení tento týden prohlásili (1), že navrhují zahájit lov vyder a bobrů do „smrtících pastí“. V tiskovém prohlášení nebylo uvedeno, jaký typ smrtelných pastí je míněn. V úvahu přichází jen několik typů pastí, všechny nebezpečné, kruté a neselektivní. Buďto to mohou být typy pastí, kde zvíře vpluje, je uvězněno a pod vodou se utopí. Spíše ale v případě bobra byly myšleny tzv. conibear pasti, které uvolněním pružiny obrovskou silou sevřou zvíře, rozdrtí mu mordu, zlomí vaz. V případě vyder jsou to tzv. železa, v závislosti na velikosti zvíře rozdrtí či velmi brutálně zraní a zvíře v pasti trpí hodiny či dny. Obojí jsou pasti velmi nehumánní a kruté vůči zvířatům, která se do nich chytají. Jsou navíc neselektivní, to znamená, že se do nich chytí jak všichni jedinci předmětného druhu včetně mláďat, tak i jiné druhy živočichů, které se pohybují v daném prostředí, jak už volně žijící, tak například psi (2). Svou velikostí jsou nebezpečné i pro člověka. Jsou to typy pastí, které jsou u nás zakázané, a to jak Zákonem o myslivosti, tak Zákonem na ochranu zvířat proti týrání.
 
@@ -29,12 +28,12 @@ Václav Hlaváč, zoolog AOPK ČR ke stavu populací bobra a vydry v České rep
 
 Kateřina Poledníková pak celou situaci uzavírá: „_Návrat vydry a bobra do naší přírody vnímá většina lidí pozitivně a jejich příznivý dopad na naši přírodu je nezpochybnitelný, neměli bychom tedy ustupovat požadavku zájmových skupin, které požadují jejich lov. Mohlo by totiž velmi snadno dojít k jejich opětovnému vyhubení._“, přičemž Václav Hlaváč ji doplňuje se souhlasem všech: „_Myšlenku využití smrtících pastí považujeme za velice nebezpečnou a nedomyšlenou, a doufám, že se – i s ohledem na zdraví a bezpečnost obyvatel – nebude nikdy realizovat_.“ 
 
-1. zdroj: http://www.cmmj.cz/Aktuality/Aktuality/Tiskova-konference-na-tema--Ceska-krajina-s-bobrem.aspx
+1.zdroj: http://www.cmmj.cz/Aktuality/Aktuality/Tiskova-konference-na-tema--Ceska-krajina-s-bobrem.aspx
 
 https://www.pressreader.com/czech-republic/mf-dnes/20181206/281797105070409 
 
-2. zdroj: https://www.bristolpost.co.uk/news/bristol-news/owners-warning-after-dog-horrifically-1404838
+2.zdroj: https://www.bristolpost.co.uk/news/bristol-news/owners-warning-after-dog-horrifically-1404838
 
 https://jihlava.idnes.cz/pes-past-tyrani-zvire-lany-chotebor-vysocina-policie-pdd-/jihlava-zpravy.aspx?c=A180216_152102_jihlava-zpravy_mv 
 
-3. zdroj: https://olomouc.idnes.cz/muz-licil-sklapovaci-pasti-na-vydry-do-jedne-se-chytila-desetileta-divka-1ay-/olomouc-zpravy.aspx?c=A151201_165904_olomouc-zpravy_stk
+3.zdroj: https://olomouc.idnes.cz/muz-licil-sklapovaci-pasti-na-vydry-do-jedne-se-chytila-desetileta-divka-1ay-/olomouc-zpravy.aspx?c=A151201_165904_olomouc-zpravy_stk
