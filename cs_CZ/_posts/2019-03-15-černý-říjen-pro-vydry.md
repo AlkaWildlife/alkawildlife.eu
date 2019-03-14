@@ -7,7 +7,7 @@ description: >-
   Říjen 2018 bude zapsán černě do statistik odborníků, kteří sledují vydry. V
   tomto měsíci nalezli na silnicích celkem sedmnáct uhynulých vyder. Ukazuje se,
   že právě doprava je pro přežívání vyder zásadní faktor. 
-date: '2019-03-15'
+date: '2018-11-03'
 lang_alternatives:
   en_GB: {}
 category: news
