@@ -29,11 +29,23 @@ Jako dobře šplhající druh má mýval dlouhé drápy, jejichž otisk je znate
 
 # Prostředí
 
-Mýval obývá celou řadu biotopů, preferuje blízkost potoků, řek, jezer a mokřadů. Z dostupných údajů od nás zatím nebylo možno klasifikovat preferenci tohoto druhu, nevyhýbá se ani vyšším polohám a byl zaznamenán i v urbanizovaném prostředí.
+Mýval obývá celou řadu biotopů, preferuje blízkost potoků, řek, jezer a mokřadů. Často je zaznamenán i v urbanizovaném prostředí, v blízkosti měst.
 
 # Způsob života
 
-Převažuje samotářský způsob života, i když jsou případy, kdy bylo pozorováno více jedinců pohromadě. Dobře šplhá po stromech. Ukrývá se v dutinách nebo ve skalách, obsazuje i opuštěné úkryty po lišce nebo jezevcovi, rád k odpočinku vyhledává i hnízda dravců. Páří se v zimě, doba březosti trvá okolo 63 dní a ve vrhu mívá 3–7 mláďat. Osamostatňují se zhruba po půl roce, v přírodě se dožívají 6–8 let, v zajetí až 17 let (Anděra & Horáček 2005, Anděra & Gaisler 2012). Jedná se o soumračného a nočního živočicha. V chladných oblastech Severní Ameriky byl u tohoto druhu zaznamenán nepravý zimní spánek, kdy je mýval schopen po dobu několika týdnů, až měsíců neopouštět noru. Přitom se mu nereguluje počet tepů nebo teplota jako u jiných savců se zimním spánkem a během tohoto období ztrácí až 50 % hmotnosti těla (Wilson & Mittermeier 2009). Své jméno mýval (v latině – „lotor“, tedy umývač) získal podle toho, že si potravu před konzumací rád namáčí nebo „umývá“. Podstata tohoto chování však není doposud objasněna, předpokládá se však, že si spíše než potravu umývá vlastní kůži na packách a zlepšuje tak funkci tamních receptorů (Wilson & Mittermeier 2009).
+Převažuje samotářský způsob života, i když jsou případy, kdy bylo pozorováno více jedinců pohromadě. Dobře šplhá po stromech. Ukrývá se v dutinách nebo ve skalách, obsazuje i opuštěné úkryty po lišce nebo jezevcovi, rád k odpočinku vyhledává i hnízda dravců. Páří se v zimě, doba březosti trvá okolo dvou měsíců a ve vrhu mívá 3–7 mláďat. Mláďata se osamostatňují zhruba po půl roce, v přírodě se dožívají 6–8 let. Jedná se o soumračného a nočního živočicha. V chladných oblastech Severní Ameriky byl u tohoto druhu zaznamenán nepravý zimní spánek, kdy je mýval schopen po dobu několika týdnů, až měsíců neopouštět noru. Přitom se mu nereguluje počet tepů nebo teplota jako u jiných savců s pravým zimním spánkem. Své jméno mýval (v latině – „lotor“, tedy umývač) získal podle toho, že si potravu před konzumací rád namáčí nebo „umývá“. 
+
+# Potrava
+
+Jedná se o potravního oportunistu se schopností se velice dobře přizpůsobovat aktuálním podmínkám. V jeho jídelníčku nalezneme různé druhy rostlin a živočichů, často preduje snůšky ptáků, a to i vysoko v korunách stromů. Při hledání potravy využívá i velice dobře vytříbený čich a rovněž velice obratně zapojuje při dobývání potravy přední končetiny – například při krmení se v popelnicích.
+
+# Rozšíření
+
+Jeho areál se rozprostírá na severoamerickém kontinentu, přibližně od 56–58° s. š. na jih. Do evropských farem na kožešinu se dostal kolem roku 1927, nejprve do Německa (Hesensko). Počet zvířat v chovu i počet chovů rychle narůstal a v letech 1930–1935 již byli pozorováni první uprchlí jedinci ve volné přírodě na jihu a jihozápadě Německa. Místy byli mývalové vypouštěni do přírody záměrně a další se dostali do volné přírody během rozsáhlého bombardování na konci 2. světové války. Současná oblast výskytu pokrývá podstatnou část Německa a dle očekávání se šíří do okolních zemí. Mimo západní a střední Evropu byl záměrně vysazen např. v Rusku, Bělorusku, Ázerbájdžánu, Uzbekistánu, či Kyrgyzstánu.
+
+# Výskyt v ČR
+
+První mývalové byli ve volné přírodě zaznamenáni již ve 20.–30. letech minulého století, a to v Čechách i na Moravě. Bezesporu se však jednalo o jedince uniklé ze zajetí. Po 1. světové válce narůstal počet kožešinových farem a s tím souvisel i narůstající počet těchto živočichů v přírodě (Anděra & Gaisler 2012). Kromě rozšiřující se německé populace, úniků z chovů a lokálních pokusů o vysazení přispěl k rozšíření tohoto druhu na našem území také zánik většiny chovů u nás po 2. světové válce. Postup rozšiřování mývala na našem území není tak rychlý jako u norka amerického nebo psíka mývalovitého, zato lokálně mohou být populace velmi početné. 
 
 
 
@@ -41,10 +53,6 @@ Převažuje samotářský způsob života, i když jsou případy, kdy bylo pozo
 
 
 
- 
+Status a ochrana
 
-Foto: LexnGer
-
-Potrava
-
-Jedná se o potravního oportunistu se schopností se velice dobře přizpůsobovat aktuálním podmínkám. V jeho jídelníčku nalezneme různé typy rostlin a živočichů, často preduje snůšky ptáků, a to i vysoko v korunách stromů. Při hledání potravy využívá i velice dobře vytříbený čich a rovněž velice obratně zapojuje při dobývání potravy přední končetiny – například při krmení se v popelnicích (Wilson & Mittermeier 2009).
+Jako zavlečený invazivní druh představuje možné nebezpečí pro původní faunu. Jako velice dobrý lezec na stromy představuje potenciální hrozbu pro druhy ptáků hnízdící na stromech (dravci). Mýval severní nemá žádný ochranný statut z hlediska zákona o ochraně přírody. Podle myslivecké legislativy patří k druhům zavlečeným a v přírodě nežádoucím, které lze za určitých podmínek usmrcovat – tato činnost je v kompetenci myslivecké stráže a mysliveckého hospodáře.
