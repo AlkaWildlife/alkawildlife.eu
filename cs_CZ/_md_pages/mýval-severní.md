@@ -23,7 +23,7 @@ Délka těla dosahuje velikosti 44–62 cm, délka ocasu je 19–36 cm, hmotnost
 
 # Stopy a pobytové znaky
 
-Jako dobře šplhající druh má mýval dlouhé drápy, jejichž otisk je znatelný na otisknuté stopě. Šlépěje předních tlapek jsou kratší než zadní. Stopa zadní nohy mývala vypadá jako otisk lidské nohy, jen menší.  Velikost zadní stopy je 7–9 x 6–7 cm.
+Jako dobře šplhající druh má mýval dlouhé drápy, jejichž otisk je znatelný na otisknuté stopě. Šlépěje předních tlapek jsou kratší než zadní. Stopy mývala vypadají jako otisky lidské ruky a nohy, jen menší.  Velikost zadní stopy je 7–9 x 6–7 cm.
 
 ![](/media/stopy_mýval.jpg)
 
