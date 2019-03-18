@@ -47,12 +47,14 @@ Jeho areál se rozprostírá na severoamerickém kontinentu, přibližně od 56�
 
 První mývalové byli ve volné přírodě zaznamenáni již ve 20.–30. letech minulého století, a to v Čechách i na Moravě. Bezesporu se však jednalo o jedince uniklé ze zajetí. Po 1. světové válce narůstal počet kožešinových farem a s tím souvisel i narůstající počet těchto živočichů v přírodě (Anděra & Gaisler 2012). Kromě rozšiřující se německé populace, úniků z chovů a lokálních pokusů o vysazení přispěl k rozšíření tohoto druhu na našem území také zánik většiny chovů u nás po 2. světové válce. Postup rozšiřování mývala na našem území není tak rychlý jako u norka amerického nebo psíka mývalovitého, zato lokálně mohou být populace velmi početné. 
 
-
-
-
-
-
-
-Status a ochrana
+# Status a ochrana
 
 Jako zavlečený invazivní druh představuje možné nebezpečí pro původní faunu. Jako velice dobrý lezec na stromy představuje potenciální hrozbu pro druhy ptáků hnízdící na stromech (dravci). Mýval severní nemá žádný ochranný statut z hlediska zákona o ochraně přírody. Podle myslivecké legislativy patří k druhům zavlečeným a v přírodě nežádoucím, které lze za určitých podmínek usmrcovat – tato činnost je v kompetenci myslivecké stráže a mysliveckého hospodáře.
+
+# Literatura
+
+Více si můžete přečíst v těchto [našich publikacích](http://alka-wildlife-cs.netlify.com/publications#category=m%C3%BDval-severn%C3%AD).
+
+# Projekty
+
+Norkem americkým se zabýváme dlouhodobě, seznam [projektů zde](http://alka-wildlife-cs.netlify.com/projects#category=m%C3%BDval-severn%C3%AD).
