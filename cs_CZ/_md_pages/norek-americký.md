@@ -3,7 +3,9 @@ title: Norek americký
 published: true
 permalink: /zajmove-druhy/norek-americky
 image: /media/norek-americký.jpg
-description: 'Invazní šelma s negativním vlivem na naše původní druhy. '
+description: >-
+  Invazní lasicovitá šelma původem ze Severní Ameriky s negativním vlivem na
+  naše původní druhy. 
 listed: true
 position: 5
 layout: two_columns_page
