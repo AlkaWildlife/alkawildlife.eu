@@ -6,6 +6,7 @@ image: /media/tuz_9505a.jpg
 description: >-
   Raroh velký, sokolovitý dravec, je jedním z nejvzácnějších druhů ptáků
   hnízdící na území ČR. 
+listed: true
 position: 13
 layout: two_columns_page
 lang_alternatives:
