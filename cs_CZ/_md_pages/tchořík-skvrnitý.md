@@ -3,7 +3,7 @@ title: Tchořík skvrnitý
 published: true
 permalink: /zajmove-druhy/tchorik-skvrnity
 image: /media/vormela_toman.jpg
-description: Lasicovitá šelma žijící ve stepích Balkánu.
+description: Lasicovitá šelma žijící ve stepích Balkánu a Asie.
 listed: true
 position: 10
 layout: two_columns_page
