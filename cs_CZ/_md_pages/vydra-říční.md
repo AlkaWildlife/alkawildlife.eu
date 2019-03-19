@@ -3,9 +3,7 @@ title: Vydra říční
 published: true
 permalink: /zajmove-druhy/vydra-ricni
 image: /media/vydra-ricni-948a.jpg
-description: >-
-  Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organizace. Vydra
-  je lasicovitá šelma, lovící zejména ryby. 
+description: Lasicovitá šelma stojící na vrcholu potravního řetězce našich vod.
 listed: true
 position: 2
 layout: two_columns_page
