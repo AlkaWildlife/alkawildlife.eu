@@ -26,10 +26,10 @@ Raroh velký je mistr letových vlastností. V našem prostředí jsou jeho koř
 
 Raroh velký je rozšířen od České republiky, která tvoří jeho severozápadní hranici rozšíření, přes Rakousko, Slovensko, Maďarsko, Rumunsko až po Dálný Východ. Je to stepní druh, který v asijské části areálu žije ve stepích, případně na náhorních planinách stepního charakteru. V Evropě se přizpůsobil takzvaným kulturním stepím, tedy rozsáhlým agrocenózám, a podobnému prostředí. 
 
-V minulosti šlo o hojného dravce, kdy evropská populace představovala zlomek světové populace. Bohužel v posledních 30 letech došlo téměř ke krachu asijské populace. Dnes je raroh zařazen v červeném seznamu ohrožených druhů IUCN v kategorii ohrožených druhů (endangered). Ke krachu populace v Asii došlo především z důvodu trvale neudržitelného odlovu divokých rarohů velkých pro sokolnické účely. Především na Arabském poloostrově je stále obrovská poptávka po divokých jedincích, a to i přesto, že odchov stejně kvalitních rarohů v zajetí již dnes není nejmenším problémem. Některé země stále oficiálně povolují odlov až poloviny populace dospělců ročně, v jiných zemích kvete s rarohy velký černý obchod. Evropská populace tak kvůli negativnímu vývoji populace v Asii nabyla na významu prosperuje.
+V minulosti šlo o hojného dravce, kdy evropská populace představovala zlomek světové populace. Bohužel v posledních 30 letech došlo téměř ke krachu asijské populace. Dnes je raroh zařazen v červeném seznamu ohrožených druhů IUCN v kategorii ohrožených druhů (endangered).
+ Ke krachu populace v Asii došlo především z důvodu trvale neudržitelného odlovu divokých rarohů velkých pro sokolnické účely. Především na Arabském poloostrově je stále obrovská poptávka po divokých jedincích, a to i přesto, že odchov stejně kvalitních rarohů v zajetí již dnes není nejmenším problémem. Některé země stále oficiálně povolují odlov až poloviny populace dospělců ročně, v jiných zemích kvete s rarohy velký černý obchod.
+ Evropská populace tak kvůli negativnímu vývoji populace v Asii nabyla na významu prosperuje.
 
 # Výskyt v ČR
 
-V ČR hnízdí rarozi pouze na Moravě v počtu několika málo jedinců. Nejvýznamnějšími příčinami ohrožení v ČR je rušení v době hnízdění, pád hnízda a případně vykradení hnízda za účelem chovu či prodeje mláďat. 
-
-#
+V ČR hnízdí rarozi pouze na Moravě v počtu několika málo jedinců. Nejvýznamnějšími příčinami ohrožení v ČR je rušení v době hnízdění, pád hnízda a případně vykradení hnízda za účelem chovu či prodeje mláďat.
