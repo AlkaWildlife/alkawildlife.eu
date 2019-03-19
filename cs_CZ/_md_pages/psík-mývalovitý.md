@@ -46,9 +46,7 @@ Původně druh pochází z Dálného východu, včetně Japonska a jihovýchodn�
 
 První zprávy o psíkovi se u nás datují kolem poloviny dvacátého století. Hlavní vlna šíření směřovala patrně přes příhraniční oblasti s Polskem, jednotlivé údaje z jižní Moravy však naznačují i další možný směr šíření přes Slovensko, kde byl známý od roku 1943. Jak již bylo zmíněno, šíření napomohly úniky z chovů. Během následujících 20-30 let tak tento druh osídlil téměř celé naše území. Zatímco v 60. až 80. letech se vyskytoval na 5–10 % území, v 90. letech došlo k náhlému nárůstu obsazenosti na 39 %. Tento nárůst pokračuje i nadále, kdy k roku 2012 byla obsazenost na 90,1 % území. Navíc je možné, že ve zbylých kvadrátech mohl uniknout pozornosti (Anděra & Gaisler 2012). Jeho rozšíření je tak možné posoudit jako celoplošné. 
 
-# 
-
-Status a ochrana
+# Status a ochrana
 
 Jako zavlečený invazivní druh představuje možné nebezpečí pro původní faunu. Přímý negativní vliv na původní faunu ale na rozdíl od norka amerického nebyl zjištěn, respektive nebyl přiměřeně zkoumán. Psík mývalovitý nemá žádný ochranný statut z hlediska zákona o ochraně přírody. Podle myslivecké legislativy patří k druhům zavlečeným a v přírodě nežádoucím, které lze za určitých podmínek usmrcovat – tato činnost je v kompetenci myslivecké stráže a mysliveckého hospodáře.
 
