@@ -4,8 +4,8 @@ published: true
 permalink: /zajmove-druhy/myval-severni
 image: /media/cdy00027myval_vm.jpg
 description: >-
-  Mýval severní patří k nově se vyskytujícím druhům savců naší fauny. Druh
-  původně pochází ze Severní Ameriky a severní části Jižní Ameriky.
+  Invazní medvídkovitá šelma ze Severní Ameriky s negativním vlivem na naše
+  původní druhy. 
 listed: true
 position: 6
 layout: two_columns_page
