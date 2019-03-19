@@ -22,8 +22,6 @@ Norek evropský je vázaný na vodní prostředí, kde vyhledává především 
 
 Norek evropský je na rozdíl od norka amerického považován spíše za potravního specialistu. V jeho potravě hrají dominantní roli obojživelníci. Nicméně naše údaje z Dunajské delty tato tvrzení nepotvrzují a podzimní potrava norka byla odlišná v různých typech prostředí.
 
-
-
 # Rozšíření
 
 Původní areál norka evropského, jenž se kromě Evropy vyskytuje také v asijské části Ruska, zahrnoval pravděpodobně celou západní, střední a východní Evropu, ačkoliv historické záznamy výskytu nejsou časté. V současnosti se norek evropský vyskytuje v severní části Španělska, jihozápadní části Francie a v deltách velkých řek ústících do černého moře (Dunajská delta a delty řek Dněpru a Dněstru), situace na území bývalého Sovětského svazu je nejistá. Kromě těchto populací existuje v Evropě repatriované populace na ostrově Hiiumaa v Estonsku. 
@@ -33,3 +31,7 @@ O příčinách ústupu areálu norka v historických dobách lze jen spekulovat
 # Výskyt v ČR
 
 V České republice je norek evropský vyhynulý druh. Z našeho území existuje pouze několik údajů z 18. století, kdy patrně již masově ubýval, přičemž poslední ulovený norek evropský je datován rokem 1896 u Jindřichova Hradce (Anděra a Hanzal 1996).
+
+# Literatura
+
+Více si můžete přečíst v těchto [našich publikacích](/publications#category=norek-evropsk%C3%BD).
