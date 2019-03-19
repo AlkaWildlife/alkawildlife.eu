@@ -22,7 +22,7 @@ Web je určen pro laickou veřejnost, kromě informací o syslovi obecném v Če
 
 <div class="clearfix"></div>
 
-# 
+
 
 # Projekty
 
