@@ -3,10 +3,7 @@ title: Norek americký
 published: true
 permalink: /zajmove-druhy/norek-americky
 image: /media/norek-americký.jpg
-description: >-
-  Norek americký patří k nově se šířícím druhům savců naší fauny. Jako nepůvodní
-  severoamerický druh se značnou reprodukční kapacitou se rozšiřuje v návaznosti
-  na farmové chovy těchto významných kožešinových zvířat.
+description: 'Invazní šelma s negativním vlivem na naše původní druhy. '
 listed: true
 position: 5
 layout: two_columns_page
