@@ -3,6 +3,9 @@ title: Sysel obecný
 published: true
 permalink: /zajmove-druhy/sysel-obecny
 image: /media/sysel_jaro_2007-050.jpg
+description: >-
+  Kriticky ohrožený hlodavec, který doplatil na způsob hospodaření v naší
+  zemědělské krajině.
 listed: true
 position: 4
 layout: two_columns_page
