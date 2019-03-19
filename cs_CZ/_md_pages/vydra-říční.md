@@ -32,6 +32,8 @@ Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů o
 
 <div class="clearfix"></div>
 
+
+
 # Literatura
 
 Více si můžete přečíst v těchto [našich publikacích](/publications#category=vydra).
