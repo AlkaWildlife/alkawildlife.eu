@@ -53,8 +53,8 @@ Jako zavlečený invazivní druh představuje možné nebezpečí pro původní 
 
 # Literatura
 
-Více si můžete přečíst v těchto [našich publikacích](http://alka-wildlife-cs.netlify.com/publications#category=m%C3%BDval-severn%C3%AD).
+Více si můžete přečíst v těchto [našich publikacích](/publications#category=m%C3%BDval-severn%C3%AD).
 
 # Projekty
 
-Mývalem severním se okrajově zabýváme, seznam [projektů zde](http://alka-wildlife-cs.netlify.com/projects#category=m%C3%BDval-severn%C3%AD).
+Mývalem severním se okrajově zabýváme, seznam [projektů zde](/projects#category=m%C3%BDval-severn%C3%AD).
