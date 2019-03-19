@@ -18,7 +18,7 @@ lang_alternatives:
 
 Norek je lasicovitá šelma vyznačující se středně dlouhým až protáhlým tělem, zploštělou hlavou se špičatým čumákem a kratšími vousy a dlouhým ocasem. Chodidla jsou opatřena krátkou plovací blanou nedosahující na konec prstů. Normální zbarvení norka amerického je tmavohnědé až červenohnědé, pouze na spodním rtu a na bradě bílé. Různě velké světlé skvrny se objevují i na hrdle, hrudi, břiše i ve slabinách a umožňují tak individuální rozpoznání jedinců. V přírodě se nicméně vyskytují také jednici různých barev (např. stříbřitě modrá, světle šedý, či béžový odstín), což je výsledkem šlechtění norků na farmách (chová se téměř v 60 různých barevných formách). V oblasti původního areálu druhu – v Severní Americe – bývá odlišováno až 15 poddruhů (Wilson & Mittermeier 2009).
 
-Délka těla se pohybuje v rozmezí 35–55 cm, váha 0,4–1,5 kg, maximálně 2 kg. Samci bývají v dospělosti větší a těžší než samice, obecně bývají o 10 % delší a až o 100 % těžší (Wilson & Mittermeier 2009). 
+Délka těla se pohybuje v rozmezí 35–55 cm, váha 0,5– 2 kg. Samci bývají v dospělosti větší a těžší než samice, obecně bývají o 10 % delší a až o 100 % těžší (Wilson & Mittermeier 2009). 
 
 # Stopy a pobytové znaky
 
@@ -36,13 +36,13 @@ Norek je vázán na různé vodní ekosystémy (řeky, jezera, mořské pobřež
 
 Norek americký žije samotářsky, jen v období rozmnožování (konec zimy a začátek jara) samci vyhledávají samice pro páření. Norek má indukovanou ovulaci, ke které dochází 48 hodin po páření. Délka březosti se pohybuje v rozmezí 33–80 dní. Příčinou velkého rozptylu délky březosti je odložená implantace, kdy oplozené vajíčko zastavuje svůj vývoj a zůstává inaktivní až do doby, kdy dojde k jeho implantaci v děloze. O mláďata, jichž bývá ve vrhu nejčastěji pět, se stará výhradně samice.
 
-Domovské okrsky jedinců stejného pohlaví se obvykle nepřekrývají a vzhledem k velikosti norka dosahují zvláště u samců poměrně velikých hodnot (u samců 10 až 50 km2), u samic několikanásobně méně, okolo 2 km2). V době rozmnožování podnikají dospělí samci dlouhé cesty s cílem najít samice pro páření a v tuto dobu se nedrží jen ve svém domovském okrsku. 
+Domovské okrsky jedinců stejného pohlaví se obvykle nepřekrývají a vzhledem k velikosti norka dosahují zvláště u samců poměrně velikých hodnot (u samců 10 až 50 km2), u samic několikanásobně méně (okolo 2 km2). V době rozmnožování podnikají dospělí samci dlouhé cesty s cílem najít samice pro páření a v tuto dobu se nedrží jen ve svém domovském okrsku. 
 
 Porovnání aktivních a neaktivních lokací v průběhu dne ukazuje, že samci jsou aktivní převážně v noci a za soumraku a jejich aktivita ve dne je minimální. Naopak rozložení aktivity samic je v průběhu dne rovnoměrné. 
 
 # Potrava
 
-Norek patří mezi potravní oportunisty. V jeho potravě se vyskytují jak bezobratlí, tak všechny skupiny obratlovců, vodní i suchozemští. 
+Norek patří mezi potravní oportunisty. V jeho potravě se vyskytují jak bezobratlí, tak všechny skupiny obratlovců, vodní i suchozemští. Norci loví zejména podél břehů, ale jsou i zdatnými plavci a dovedou ulovit i vodní kořist, včetně různých druhů ryb.
 
 # Rozšíření
 
