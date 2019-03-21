@@ -18,7 +18,8 @@ Pořad Planetárium vysílá Český rozhlas Sever a Český rozhlas Liberec. Vy
 
 archiv rozhovoru:
 
-[http://prehravac.rozhlas.cz/audio/4001530](http://prehravac.rozhlas.cz/audio/4001530)
+[http://prehravac.rozhlas.cz/audio/4001530
+](http://prehravac.rozhlas.cz/audio/4001530)
 
 Rozhovor začíná v čase 5:38.
 
