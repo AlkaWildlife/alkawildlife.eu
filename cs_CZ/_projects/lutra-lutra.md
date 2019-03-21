@@ -10,7 +10,7 @@ funding: >-
   státem Sasko 2014–2020
 
 
-  ![](/media/spojene-loga_320.jpg)
+  ![](/media/spojene-loga_610.jpg)
 from: 2017-10
 to: 2020-09
 partners: "[AG Naturschutzinstitut Region Dresden e.V.](https://nsi-dresden.nabu-sachsen.de/) (vedoucí partner)\r\n\n[Alka Wlidlife o. p. s \r](www.alkawildlife.eu)\n\n[Muzeum města Ústí nad Labem ](http://www.muzeumusti.cz/)"
