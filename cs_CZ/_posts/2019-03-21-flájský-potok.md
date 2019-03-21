@@ -1,5 +1,5 @@
 ---
-title: Flájský potok
+title: Flájský potok 1
 published: true
 image: /media/a_dscn0245_1116.jpg
 gallery: /news/zaciname-vyzkum-vyder-v-krusnych-horach
