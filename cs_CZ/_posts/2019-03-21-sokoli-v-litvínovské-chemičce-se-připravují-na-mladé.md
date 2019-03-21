@@ -3,6 +3,10 @@ title: Sokoli v litvínovské chemičce se připravují na mladé
 published: true
 image: /media/cdy05307_tok_2019_610.jpg
 listing_thumbnail: /media/cdy05307_tok_2019_274.jpg
+description: >-
+  Budky na komínech litvínovské chemičky jsou opět po půl roce zabydlené. Dva
+  páry sokolů stěhovavých v Podkrušnohoří se opět připravují na hnízdění, aby
+  zde vyvedli své mladé.
 date: '2019-03-21'
 lang_alternatives:
   en_GB: {}
