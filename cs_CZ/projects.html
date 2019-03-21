@@ -19,7 +19,7 @@ layout: projects
           <dl class="item_info_dl">
             {% if project.tags and project.tags.size > 0 %}
             <dd>
-              <div class="item_category-name">
+              <div class="item_category-name js-project-categories">
                 {% for tag in project.tags %}
                   {% assign filterable_tag = site.filterable_tags |
                        where: "title", tag |
@@ -28,7 +28,7 @@ layout: projects
                   {% capture tag_slug -%}
                     {% include helpers/slug.html page=filterable_tag %}
                   {%- endcapture %}
-                  <a href="{{ "/projects" | relative_url }}#category={{ tag_slug }}" class="js-project-category">
+                  <a class="js-filter" data-filter-type="category" data-filter-val="{{ tag_slug }}" data-filter-ord="{{ filterable_tag.position }}">
                     {{ filterable_tag.title }}
                   </a>
                   {%- unless forloop.last %}&nbsp;{% endunless %}

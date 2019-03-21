@@ -45,251 +45,92 @@ layout: default
         </div>
         <!-- Right sidebar -->
         <div id="aside-right" class="span4">
-          <aside>
-            {% if filtered_tags and filtered_tags.size > 0 %}
-            <div class="moduletable ">
-              <h3 class="moduleTitle ">{{ site.data.projects.filter.by_tag }}</h3>
-              <ul class="categories-module">
-                <li id="filter_by_category_all" hidden>
-                  <p>
-                    <a href="{{ "/projects" | relative_url }}#">{{ site.data.projects.filter.all }}</a>
-                    <br/>
-                  </p>
-                </li>
-
-                {% for filtered_tag in filtered_tags %}
-                  {% capture tag_slug -%}
-                    {% include helpers/slug.html page=filtered_tag %}
-                  {%- endcapture %}
-                  <li>
-                    <a href="{{ "/projects" | relative_url }}#category={{ tag_slug }}">
-                      {{ filtered_tag.title }}
-                    </a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
-            {% if sorted_projects and sorted_projects.size > 0 %}
-            <div class="moduletable ">
-              <h3 class="moduleTitle ">{{ site.data.projects.filter.by_date }}</h3>
-
-              <ul class="archive-module">
-                <li id="filter_by_date_all" hidden>
-                  <p>
-                    <a href="{{ "/projects" | relative_url }}#">{{ site.data.projects.filter.all }}</a>
-                    <br/>
-                  </p>
-                </li>
-
-                {% assign oldest_project = sorted_projects |
-                     where_exp: "project", "project.from != null" |
-                     sort: "from" |
-                     first %}
-                {% assign first_year = oldest_project.from |
-                     split: "-" |
-                     first %}
-                {% assign newest_project = sorted_projects |
-                     where_exp: "project", "project.to != null" |
-                     sort: "to" |
-                     last %}
-                {% assign last_year = newest_project.to |
-                     split: "-" |
-                     first %}
-                {% for date in (first_year..last_year) reversed %}
-                <li>
-                  <a href="{{ "/projects" | relative_url }}#date={{ date }}">
-                    {{ date }}
-                  </a>
-                </li>
-                {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
-          </aside>
+          <aside></aside>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-{% if sorted_projects and sorted_projects.size > 0 %}
-<script>
-  (function(w, d) {
-    if (typeof [].forEach !== "function") return
-    if (typeof [].map !== "function") return
-    if (typeof [].reduce !== "function") return
-    if (typeof [].every !== "function") return
-    if (typeof Object.keys !== "function") return
-    if (!("onpopstate" in w)) return
+<script src="/assets/javascripts/listing-filter.js"></script>
+<script>listingFilter({
+  filterable: document.getElementsByClassName("js-project"),
+  notSupported: {{ site.data.projects.filter.not_supported | jsonify }},
+  reset: {{ site.data.projects.filter.reset | jsonify }},
+  types: [{
+    id: "category",
+    title: {{ site.data.projects.filter.by_tag | jsonify }},
+    match: function(projectEl, valIds) {
+      var categoriesEl =
+        projectEl.getElementsByClassName("js-project-categories")[0]
+      var categoryEls = categoriesEl ? categoriesEl.childNodes : []
+      var i, valId
+      for (i = 0; i < categoryEls.length; i += 1) {
+        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+        valId = categoryEls[i].getAttribute("data-filter-val")
+        if (valIds.indexOf(valId) >= 0) return true
+      }
 
-    function paramsFromHash(hash) {
-      return !hash ? {} : hash.
-        slice(1).
-        split("&").
-        map(function(rawPair) { return rawPair.split("=", 2) }).
-        reduce(function(params, pair) {
-          params[pair[0]] = pair.length === 2 ? pair[1] : true
-          return params
-        }, {})
-    }
+      return false
+    },
+    values: function(projectEl) {
+      var categories = []
+      var categoriesEl =
+        projectEl.getElementsByClassName("js-project-categories")[0]
+      var categoryEls = categoriesEl ? categoriesEl.childNodes : []
+      var i
+      for (i = 0; i < categoryEls.length; i += 1) {
+        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
 
-    function toggleShowAll(params) {
-      d.getElementById("filter_by_category_all").hidden = !params["category"]
-      d.getElementById("filter_by_date_all").hidden = !params["date"]
-    }
-
-    function ifFilterChanged(obj, cur, fn) {
-      var pre = obj.params || {}
-      var preKeys = Object.keys(pre).sort()
-      var curKeys = Object.keys(cur).sort()
-      var same = preKeys.length == curKeys.length &&
-        preKeys.every(function(k, i) { return curKeys[i] === k })
-
-      if (!same) fn()
-
-      obj.params = cur
-    }
-
-    function toArray(indexable) {
-      return Array.prototype.slice.call(indexable, 0)
-    }
-
-    function forEachProject(fn) {
-      toArray(d.getElementsByClassName("js-project")).forEach(fn)
-    }
-
-    function noFilter() {
-      forEachProject(function(p) { p.hidden = false })
-    }
-
-    function filterByCategory(filter) {
-      if (!filter) return
-
-      forEachProject(function(p) {
-        p.hidden = toArray(
-          p.getElementsByClassName("js-project-category")
-        ).every(function(a) {
-          var params = paramsFromHash("#" + a.href.split("#", 2)[1])
-          return filter !== params["category"]
+        categories.push({
+          id: categoryEls[i].getAttribute("data-filter-val"),
+          title: categoryEls[i].textContent.trim(),
+          order: categoryEls[i].getAttribute("data-filter-ord")
         })
-      })
-    }
-
-    function resetTime(date) {
-      var res = new Date(date)
-      res.setHours(0)
-      res.setMinutes(0)
-      res.setSeconds(0)
-      res.setMilliseconds(0)
-
-      return res
-    }
-
-    function firstMomentOfMonth(month) {
-      var parts = month.
-        split("-", 3).
-        map(function(p) { return p | 0 })
-
-      date = new Date()
-      date.setYear(parts[0])
-      date.setMonth(parts[1] - 1)
-      date.setDate(1)
-
-      return resetTime(date)
-    }
-
-    function lastMomentOfMonth(month) {
-      var date, day
-
-      for (day = 29; day <= 32; day += 1) {
-        date = new Date(firstMomentOfMonth(month))
-        date.setDate(day)
-        if (date.getMonth() !== firstMomentOfMonth(month).getMonth()) break
       }
-      date.setTime(date.getTime() - 1)
 
-      return date
-    }
+      return categories
+    },
+    sort: [
+      ['asc', function(val) { return val.order }],
+      ['asc', function(val) { return val.hasOwnProperty("title") ?
+                                val.title :
+                                val.id }]
+    ]
+  }, {
+    id: "date",
+    title: {{ site.data.projects.filter.by_date | jsonify }},
+    match: function(projectEl, valIds) {
+      var fromEl = projectEl.getElementsByClassName("js-project-from")[0]
+      var fromYear = +fromEl.getAttribute("datetime").split("-", 2)[0]
+      var toEl = projectEl.getElementsByClassName("js-project-to")[0]
+      var toYear = toEl ?
+        +toEl.getAttribute("datetime").split("-", 2)[0] :
+        (new Date()).getFullYear()
 
-    function rangeFromDate(date) {
-      switch (date.split("-").length) {
-      case 1:
-        return rangeFromYear(date)
-      default:
-        return rangeFromMonth(date)
-      }
-    }
-
-    function rangeFromYear(date) {
-      var range = {}
-      range.from = firstMomentOfMonth(date + "-01")
-      range.to = lastMomentOfMonth(date + "-12")
-
-      return range
-    }
-
-    function rangeFromMonth(date) {
-      var range = {}
-      range.from = firstMomentOfMonth(date)
-      range.to = lastMomentOfMonth(date)
-
-      return range
-    }
-
-    function rangeFromMonths(from, to) {
-      var range = {}
-
-      range.from = from ?
-        firstMomentOfMonth(from) :
-        Number.NEGATIVE_INFINITY
-
-      range.to = to ?
-        lastMomentOfMonth(to) :
-        Number.POSITIVE_INFINITY
-
-      return range
-    }
-
-    function hasIntersection(a, b) {
-      var st = a.from <= b.from ? a : b
-      var nd = st === a ? b : a
-
-      if (st.from < nd.from) {
-        return st.to >= nd.from
-      } else return true
-    }
-
-    function filterByDate(date) {
-      if (!date) return
-
-      var filter = rangeFromDate(date)
-      forEachProject(function(p) {
-        var fromEl = p.getElementsByClassName("js-project-from")[0]
-        var toEl = p.getElementsByClassName("js-project-to")[0]
-        var period = rangeFromMonths(
-          fromEl && fromEl.getAttribute("datetime"),
-          toEl && toEl.getAttribute("datetime")
-        )
-
-        p.hidden = !hasIntersection(filter, period)
+      return valIds.some(function(year) {
+        return fromYear <= year && year <= toYear
       })
-    }
+    },
+    values: function(projectEl) {
+      var fromEl = projectEl.getElementsByClassName("js-project-from")[0]
+      var fromYear = +fromEl.getAttribute("datetime").split("-", 2)[0]
+      var toEl = projectEl.getElementsByClassName("js-project-to")[0]
+      var toYear = toEl ?
+        +toEl.getAttribute("datetime").split("-", 2)[0] :
+        (new Date()).getFullYear()
 
-    function filter(ev) {
-      var params = paramsFromHash(ev.target.location.hash)
-      ifFilterChanged(filter, params, noFilter)
-      toggleShowAll(params)
-      filterByCategory(params["category"])
-      filterByDate(params["date"])
-    }
+      var years = [{ id: fromYear }]
+      while (years[years.length - 1].id < toYear) {
+        years.push({
+          id: years[years.length - 1].id + 1
+        })
+      }
 
-    w.addEventListener("popstate", filter, false)
-    w.addEventListener("load", filter, false)
-    d.addEventListener("DOMContentLoaded", function(ev) {
-      w.removeEventListener("load", filter, false)
-      filter(ev)
-    }, false)
-  }(window, document))
-</script>
-{% endif %}
+      return years
+    },
+    sort: [
+      ['desc', function(val) { return val.id }]
+    ]
+  }]
+})</script>
