@@ -12,8 +12,7 @@ layout: news
 ---
 Oslavte s námi Mezinárodní den rysů! 
 
-Přednáška: **Rysí příběhy
-**
+Přednáška: **Rysí příběhy**
 
 Kdy: 11. června od 18 hod
 
