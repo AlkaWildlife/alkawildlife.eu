@@ -109,6 +109,8 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 
 # Aktuality
 
+[Svatý Martin přiveze "syslí" víno i z nové vinařské obce](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
+
 [Nová známka sysli v sadu](/news/nová-známka-sysli-v-sadu)
 
 [Infostánek se syslem ve Hnanicích](/news/infostanek-se-syslem-ve-hnanicich)
