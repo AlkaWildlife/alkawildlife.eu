@@ -55,7 +55,7 @@ tel: 724 706 806
 * správce Facebooku společnosti
 * ekologie šelem
 * publicita, práce s veřejností a médii
-* profesní životopis, zkušenosti a dovednosti viz. profil na Linkedin
+* profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin](https://cz.linkedin.com/in/tereza-mináriková-a6382753)
 
 # Mgr. Václav Beran
 
