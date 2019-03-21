@@ -14,12 +14,15 @@ funding: >-
 from: 2018-02
 to: 2020-01
 partners: >-
-  ALKA Wildlife, o.p.s. (vedoucí partner)\
+  ALKA Wildlife, o.p.s. (vedoucí partner)
+
 
   [DAPHNE – Inštitút aplikovanej ekológie ](http://daphne.sk/)(hlavní
-  přeshraniční partner)\
+  přeshraniční partner)
 
-  [Ekocentrum Trkmanka, p.o.](https://www.ekocentrum-trkmanka.com/)\
+
+  [Ekocentrum Trkmanka, p.o.](https://www.ekocentrum-trkmanka.com/)
+
 
   [Národná zoologická záhrada Bojnice](https://zoobojnice.sk/)
 contacts:
