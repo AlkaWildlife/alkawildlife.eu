@@ -36,15 +36,13 @@ Vydra říční je šelma, která se po desítkách let navrací do naší pří
 * Posílení spolupráce aktérů z obou zemí 
 * Osvěta, informovanost široké i odborné veřejnosti 
 
-
-
 # Aktivity projektu
 
 ## Monitoring
 
 Realizován bude detailní monitoring výskytu vydry říční v cílovém území, jedná se o povodí přeshraničních řek Sapava (Zschopau) a její přítoky Polava a Přísečnice, Moldava (Freiberger Mulde) s přítoky a Divoká Bystřice (Wilde Weißeritz), horní povodí Flájského potoka s přítoky Černá, Svídnice, Načetínský potok a toky, odvádějící vodu z Krušných hor směrem do Ohře a Labe: Prunéřovský potok, Chumutovka, Bílina, Kundratický potok, Bouřlivec a Bystřice. 
 
-## Hodnocení potenciálu prostředí
+## Hodnocení potenciálu prostředí
 
 Předmětem výzkumu budou jednotlivé toky i vodní plochy, v jakém jsou stavu, jaký je jejich potenciál pro vydry a co zde vydry žerou. 
 
@@ -56,7 +54,7 @@ Pro zjištění genetického stavu populací, příbuzenství mezi subpopulacemi
 
 Na základě předběžných analýz bylo identifikováno celkem pět území, kde vydry mohou po souši překračovat povodí / hranice: region Vejprt, Hora Sv. Šebestiána, Hora Sv. Kateřiny, Český Jiřetín a Moldava. V těchto oblastech budou vyhledávány stopní dráhy vyder na sněhu za účelem zjištění přeshraničních migračních tras. Dále budou identifikovány také migrační trasy podél toků a zaznamenána všechna místa, která migraci vydry ztěžují – špatně konstruované mosty, propustky, nevhodně upravené toky v intravilánech atd.. 
 
-## Návrhy opatření pro ochranu vydry 
+## Návrhy opatření pro ochranu vydry
 
 Na základě zjištěných informací ohledně rizikových faktorů v oblasti budou navrženy opatření pro jejich odstranění či zmírnění. U rizikových míst na silnicích bude předložen návrh řešení, umožňující vydře bezpečný průchod. 
 
@@ -64,13 +62,11 @@ Na základě zjištěných informací ohledně rizikových faktorů v oblasti bu
 
 Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami na rybách proběhne osvětová kampaň. Pro uživatele rybářských vod bude zpracována informační publikace. Dohledány a kontaktovány budou rybářské subjekty i další relevantní subjekty a instituce s cílem zajistit pro vydry dlouhodobě stabilní vhodné prostředí. 
 
-
-
 # Aktuality
 
 Sněhem za vydří DNA
 
-O projektu Lutra lutra v Českém rozhlase
+O projektu Lutra lutra v Českém rozhlase
 
 Konference Lutra lutra
 
