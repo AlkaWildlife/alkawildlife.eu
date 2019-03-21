@@ -64,10 +64,10 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 # Aktuality
 
-Sněhem za vydří DNA
+[Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
 
-O projektu Lutra lutra v Českém rozhlase
+[O projektu Lutra lutra v Českém rozhlase](/news/o-projektu-lutra-lutra-v-českém-rozhlase)
 
-Konference Lutra lutra
+[Konference Lutra lutra](/news/konference-lutra-lutra)
 
 Začínáme výzkum vyder v Krušných horách a podkrušnohoří
