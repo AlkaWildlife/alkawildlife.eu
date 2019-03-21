@@ -66,8 +66,12 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 [Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
 
-[O projektu Lutra lutra v Českém rozhlase](/news/o-projektu-lutra-lutra-v-českém-rozhlase)
-
 [Konference Lutra lutra](/news/konference-lutra-lutra)
 
-Začínáme výzkum vyder v Krušných horách a podkrušnohoří
+[Začínáme výzkum vyder v Krušných horách a podkrušnohoří](/news/začínáme-výzkum-vyder-v-krušných-horách)
+
+# O projektu v médiích
+
+[Rozhovor s Václavem Beranem v Českém rozhlase](https://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
+
+[Vědci hledají cestu k Ohři pro německé vydry, aby se tu opět zabydlely](https://www.idnes.cz/usti/zpravy/vydra-ricni-populace-vedecky-projekt-krusne-hory-reka-ohre.A171215_370900_usti-zpravy_vac2) (idnes.cz, 18.12.2017)
