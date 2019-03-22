@@ -56,7 +56,6 @@ layout: default
 <script>listingFilter({
   filterable: document.getElementsByClassName("js-project"),
   notSupported: {{ site.data.projects.filter.not_supported | jsonify }},
-  reset: {{ site.data.projects.filter.reset | jsonify }},
   types: [{
     id: "category",
     title: {{ site.data.projects.filter.by_tag | jsonify }},

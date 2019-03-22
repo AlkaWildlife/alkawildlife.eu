@@ -119,41 +119,6 @@ function listingFilter(opts) {
     }, {})
   }
 
-  function showOrHideFilterResets(params) {
-    var optionsEls = document.getElementById("aside-right").
-      getElementsByTagName("UL")
-
-    if (optionsEls.length !== opts.types.length) {
-      throw "Unexpected number of filter option lists " +
-            "(" + optionsEls.length + ") " +
-            "instead of " + opts.types.length + " " +
-            "during filter reset showing/hiding"
-    }
-
-    opts.types.forEach(function(typeOpts, i) {
-      var optionsEl = optionsEls[i]
-      var firstOptionEl = optionsEl.getElementsByClassName("js-filter")[0]
-      var hasReset = !firstOptionEl.hasAttribute("data-filter-val")
-      var shouldHaveReset = params.hasOwnProperty(typeOpts.id)
-
-      var resetOptionEl, resetOptionAnchorEl
-      if (!hasReset && shouldHaveReset) {
-        resetOptionAnchorEl = document.createElement("A")
-        resetOptionAnchorEl.classList.add("js-filter")
-        resetOptionAnchorEl.setAttribute("data-filter-type", typeOpts.id)
-        resetOptionAnchorEl.textContent = opts.reset
-
-        resetOptionEl = document.createElement("LI")
-        resetOptionEl.classList.add("filter-reset")
-        resetOptionEl.appendChild(resetOptionAnchorEl)
-
-        optionsEl.insertBefore(resetOptionEl, optionsEl.firstChild)
-      } else if (hasReset && !shouldHaveReset) {
-        optionsEl.removeChild(optionsEl.firstChild)
-      }
-    })
-  }
-
   function markFilters(params) {
     var optionsEls = document.getElementById("aside-right").
       getElementsByTagName("UL")
@@ -192,16 +157,13 @@ function listingFilter(opts) {
         var typeId = el.getAttribute("data-filter-type")
         var valId = el.getAttribute("data-filter-val")
 
-        var isReset = !el.hasAttribute("data-filter-val")
         var isToggle = JSON.parse(el.getAttribute("data-filter-toggle"))
         var isActive = params.hasOwnProperty(typeId) &&
           params[typeId].indexOf(valId) >= 0
 
         var localParams = copyParams(params)
         if (!localParams.hasOwnProperty(typeId)) localParams[typeId] = []
-        if (isReset) {
-          delete localParams[typeId]
-        } else if (isToggle && isActive) {
+        if (isToggle && isActive) {
           localParams[typeId] = localParams[typeId].filter(function(param) {
             return valId !== param
           })
@@ -237,10 +199,8 @@ function listingFilter(opts) {
 
   function filter(ev) {
     var params = paramsFromHash(ev.target.location.hash)
-    showOrHideFilterResets(params)
     markFilters(params)
     updateFilterLinks(params)
-
     applyFilters(params)
   }
 

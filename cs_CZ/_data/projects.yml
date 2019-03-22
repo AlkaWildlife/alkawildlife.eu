@@ -3,7 +3,6 @@ filter:
   not_supported: >-
     V moderních webových prohlížečích je dostupné i filtrování
     projektů podle různých kritérií.
-  reset: Zrušit filtr
   by_tag: Kategorie
   by_date: Projekty probíhající v roce
 
