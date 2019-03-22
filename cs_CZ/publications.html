@@ -30,7 +30,7 @@ layout: publications
         {% capture type_slug -%}
           {% include helpers/slug.html page=publication_type %}
         {%- endcapture %}
-        <a href="#type={{ type_slug }}" class="js-publication-type">
+        <a class="js-filter js-publication-type" data-filter-type="type" data-filter-val="{{ type_slug }}" data-filter-ord="{{ publication_type.position }}">
           {{- publication.type -}}
         </a>
         {%- if publication.tags and publication.tags.size > 0 -%}
@@ -45,7 +45,7 @@ layout: publications
           {%- capture tag_slug -%}
             {% include helpers/slug.html page=filterable_tag %}
           {%- endcapture -%}
-          <a href="#category={{ tag_slug }}" class="js-publication-category">
+          <a class="js-filter js-publication-category" data-filter-type="category" data-filter-val="{{ tag_slug }}" data-filter-ord="{{ filterable_tag.position }}">
             {{- tag -}}
           </a>
           {%- unless forloop.last %}&nbsp;{% endunless %}

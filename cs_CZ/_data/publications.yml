@@ -1,10 +1,11 @@
 title: Publikace
 filter:
-  all: Zobrazit vše
+  not_supported: >-
+    V moderních webových prohlížečích je dostupné i filtrování
+    publikací podle různých kritérií.
   by_type: Typ publikace
   by_tag: Kategorie
   by_date: Publikace z roku
-  year: Rok
 
 authors:
   one: Autor

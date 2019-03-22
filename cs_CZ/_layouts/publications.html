@@ -78,198 +78,99 @@ layout: default
         </div>
         <!-- Right sidebar -->
         <div id="aside-right" class="span4">
-          <aside>
-            {% if filtered_types and filtered_types.size > 0 %}
-            <div class="moduletable ">
-              <h3 class="moduleTitle ">{{ site.data.publications.filter.by_type }}</h3>
-              <ul class="categories-module">
-                <li id="filter_by_type_all" hidden>
-                  <p>
-                    <a href="{{ "/publications" | relative_url }}#">{{ site.data.publications.filter.all }}</a>
-                    <br/>
-                  </p>
-                </li>
-
-                {% for filtered_type in filtered_types %}
-                  {% capture type_slug -%}
-                    {% include helpers/slug.html page=filtered_type %}
-                  {%- endcapture %}
-                  <li>
-                    <a href="{{ "/publications" | relative_url }}#type={{ type_slug }}">
-                      {{ filtered_type.title }}
-                    </a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
-            {% if filtered_tags and filtered_tags.size > 0 %}
-            <div class="moduletable ">
-              <h3 class="moduleTitle ">{{ site.data.publications.filter.by_tag }}</h3>
-              <ul class="categories-module">
-                <li id="filter_by_category_all" hidden>
-                  <p>
-                    <a href="{{ "/publications" | relative_url }}#">{{ site.data.publications.filter.all }}</a>
-                    <br/>
-                  </p>
-                </li>
-
-                {% for filtered_tag in filtered_tags %}
-                  {% capture tag_slug -%}
-                    {% include helpers/slug.html page=filtered_tag %}
-                  {%- endcapture %}
-                  <li>
-                    <a href="{{ "/publications" | relative_url }}#category={{ tag_slug }}">
-                      {{ filtered_tag.title }}
-                    </a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
-            {% if sorted_publications and sorted_publications.size > 0 %}
-            <div class="moduletable ">
-              <h3 class="moduleTitle ">{{ site.data.publications.filter.by_date }}</h3>
-
-              <ul class="archive-module">
-                <li id="filter_by_date_all" hidden>
-                  <p>
-                    <a href="{{ "/publications" | relative_url }}#">{{ site.data.publications.filter.all }}</a>
-                    <br/>
-                  </p>
-                </li>
-
-                {% for date in filterable_dates %}
-                <li>
-                  <a href="{{ "/publications" | relative_url }}#date={{ date }}">
-                    {{ date }}
-                  </a>
-                </li>
-                {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
-          </aside>
+          <aside></aside>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-{% if sorted_publications and sorted_publications.size > 0 %}
-<script>
-  (function(w, d) {
-    if (typeof [].forEach !== "function") return
-    if (typeof [].map !== "function") return
-    if (typeof [].reduce !== "function") return
-    if (typeof [].every !== "function") return
-    if (typeof [].some !== "function") return
-    if (typeof Object.keys !== "function") return
-    if (!("onpopstate" in w)) return
+<script src="/assets/javascripts/listing-filter.js"></script>
+<script>listingFilter({
+  filterable: document.getElementsByClassName("js-publication"),
+  notSupported: {{ site.data.publications.filter.not_supported | jsonify }},
+  types: [{
+    id: "type",
+    title: {{ site.data.publications.filter.by_type | jsonify }},
+    match: function(publicationEl, valIds) {
+      var typeEl =
+        publicationEl.getElementsByClassName("js-publication-type")[0]
 
-    function paramsFromHash(hash) {
-      return !hash ? {} : hash.
-        slice(1).
-        split("&").
-        map(function(rawPair) { return rawPair.split("=", 2) }).
-        reduce(function(params, pair) {
-          params[pair[0]] = pair.length === 2 ?
-            decodeURIComponent(pair[1]) :
-            true
+      return valIds.indexOf(typeEl.getAttribute("data-filter-val")) >= 0
+    },
+    values: function(publicationEl) {
+      var typeEl =
+        publicationEl.getElementsByClassName("js-publication-type")[0]
 
-          return params
-        }, {})
-    }
-
-    function toggleShowAll(params) {
-      if (d.getElementById("filter_by_type_all")) {
-        d.getElementById("filter_by_type_all").hidden = !params["type"]
+      return [{
+        id: typeEl.getAttribute("data-filter-val"),
+        title: typeEl.textContent,
+        order: +typeEl.getAttribute("data-filter-ord")
+      }]
+    },
+    sort: [
+      ['asc', function(val) { return val.order }],
+      ['asc', function(val) { return val.hasOwnProperty("title") ?
+                                val.title :
+                                val.id }]
+    ]
+  }, {
+    id: "category",
+    title: {{ site.data.publications.filter.by_tag | jsonify }},
+    match: function(publicationEl, valIds) {
+      var categoryEls =
+        publicationEl.getElementsByClassName("js-publication-category")
+      var i, valId
+      for (i = 0; i < categoryEls.length; i += 1) {
+        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+        valId = categoryEls[i].getAttribute("data-filter-val")
+        if (valIds.indexOf(valId) >= 0) return true
       }
-      if (d.getElementById("filter_by_category_all")) {
-        d.getElementById("filter_by_category_all").hidden = !params["category"]
+
+      return false
+    },
+    values: function(publicationEl) {
+      var categories = []
+      var categoryEls =
+        publicationEl.getElementsByClassName("js-publication-category")
+      var i
+      for (i = 0; i < categoryEls.length; i += 1) {
+        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+
+        categories.push({
+          id: categoryEls[i].getAttribute("data-filter-val"),
+          title: categoryEls[i].textContent.trim(),
+          order: +categoryEls[i].getAttribute("data-filter-ord")
+        })
       }
-      if (d.getElementById("filter_by_date_all")) {
-        d.getElementById("filter_by_date_all").hidden = !params["date"]
-      }
-    }
 
-    function ifFilterChanged(obj, cur, fn) {
-      var pre = obj.params || {}
-      var preKeys = Object.keys(pre).sort()
-      var curKeys = Object.keys(cur).sort()
-      var same = preKeys.length == curKeys.length &&
-        preKeys.every(function(k, i) { return curKeys[i] === k })
+      return categories
+    },
+    sort: [
+      ['asc', function(val) { return val.order }],
+      ['asc', function(val) { return val.hasOwnProperty("title") ?
+                                val.title :
+                                val.id }]
+    ]
+  }, {
+    id: "date",
+    title: {{ site.data.publications.filter.by_date | jsonify }},
+    match: function(publicationEl, valIds) {
+      var yearEl =
+        publicationEl.getElementsByClassName("js-publication-year")[0]
 
-      if (!same) fn()
+      return valIds.indexOf(yearEl.textContent) >= 0
+    },
+    values: function(publicationEl) {
+      var yearEl =
+        publicationEl.getElementsByClassName("js-publication-year")[0]
 
-      obj.params = cur
-    }
-
-    function toArray(indexable) {
-      return Array.prototype.slice.call(indexable, 0)
-    }
-
-    function forEachPublication(fn) {
-      toArray(d.getElementsByClassName("js-publication")).forEach(fn)
-    }
-
-    function noFilter() {
-      forEachPublication(function(p) { p.hidden = false })
-    }
-
-    function filterByType(type) {
-      if (!type) return
-
-      forEachPublication(function(p) {
-        p.hidden = toArray(
-          p.getElementsByClassName("js-publication-type")
-        ).every(function(a) {
-          var params = paramsFromHash("#" + a.href.split("#", 2)[1])
-          return type !== params["type"]
-        })
-      })
-    }
-
-    function filterByCategory(category) {
-      if (!category) return
-
-      forEachPublication(function(p) {
-        p.hidden = toArray(
-          p.getElementsByClassName("js-publication-category")
-        ).every(function(a) {
-          var params = paramsFromHash("#" + a.href.split("#", 2)[1])
-          return category !== params["category"]
-        })
-      })
-    }
-
-    function filterByDate(date) {
-      if (!date) return
-
-      forEachPublication(function(p) {
-        p.hidden = toArray(
-          p.getElementsByClassName("js-publication-year")
-        ).every(function(time) {
-          return date !== time.textContent
-        })
-      })
-    }
-
-    function filter(ev) {
-      var params = paramsFromHash(ev.target.location.hash)
-      ifFilterChanged(filter, params, noFilter)
-      toggleShowAll(params)
-      filterByType(params["type"])
-      filterByCategory(params["category"])
-      filterByDate(params["date"])
-    }
-
-    w.addEventListener("popstate", filter, false)
-    w.addEventListener("load", filter, false)
-    d.addEventListener("DOMContentLoaded", function(ev) {
-      w.removeEventListener("load", filter, false)
-      filter(ev)
-    }, false)
-  }(window, document))
-</script>
-{% endif %}
+      return [{
+        id: yearEl.textContent
+      }]
+    },
+    sort: [
+      ['desc', function(val) { return val.id }]
+    ]
+  }]
+})</script>
