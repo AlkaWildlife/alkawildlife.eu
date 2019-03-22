@@ -3,7 +3,9 @@ title:
   many: Odpovědi
 more: více
 filter:
-  all: Zobrazit vše
+  not_supported: >-
+    V moderních webových prohlížečích je dostupné i filtrování
+    otázek a odpovědí podle různých kritérií.
   by_tag: Kategorie
   by_date: Archiv
 form:

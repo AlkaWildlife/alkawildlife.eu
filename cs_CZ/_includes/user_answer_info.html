@@ -13,7 +13,7 @@
     {%- endif %}
     {% if include.user_answer.tags and include.user_answer.tags.size > 0 %}
     <dd>
-      <div class="item_category-name">
+      <div class="item_category-name js-user-answer-categories">
         {% for tag in include.user_answer.tags %}
           {% assign filterable_tag = site.filterable_tags |
                where: "title", tag |
@@ -22,7 +22,7 @@
           {% capture tag_slug -%}
             {% include helpers/slug.html page=filterable_tag %}
           {%- endcapture %}
-          <a href="{{ "/user-answers" | relative_url }}#category={{ tag_slug }}" class="js-user-answer-category">
+          <a class="js-filter" data-filter-type="category" data-filter-val="{{ tag_slug }}" data-filter-ord="{{ filterable_tag.position }}">
             {{ filterable_tag.title }}
           </a>
           {%- unless forloop.last %}&nbsp;{% endunless %}
