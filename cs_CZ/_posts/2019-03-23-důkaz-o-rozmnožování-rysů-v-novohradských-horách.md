@@ -14,19 +14,15 @@ layout: news
 ---
 TISKOVÁ ZPRÁVA ALKA Wildlife, o.p.s.
 
-
-
-## Fotopast přinesla první důkaz o rozmnožování rysa ostrovida v českých Novohradských horách 
+## Fotopast přinesla první důkaz o rozmnožování rysa ostrovida v českých Novohradských horách
 
 
 
 **Lidéřovice 30.11.2016 - Fotopast, kterou vědci nainstalovali na české straně Novohradských hor, zachytila rysí kočku Jiskru se dvěma koťaty. Tato unikátní fotografie, získaná organizací ALKA Wildlife v rámci dlouhodobého monitoringu rysa ostrovida, je prvním důkazem o rozmnožování rysa v českých Novohradských horách. **
 
+„_ Novohradských horách sledujeme rysa ostrovida od jara 2013, ale až nyní se nám podařilo zdokumentovat jeho rozmnožování. V minulosti tu docházelo k častému střídání zvířat, nějakou dobu jsme dokonce neměli žádní záznamy o výskytu rysa, o to větší radost teď máme_.“ uvádí Tereza Mináriková z ALKA Wildlife. 
 
-
-„_V Novohradských horách sledujeme rysa ostrovida od jara 2013, ale až nyní se nám podařilo zdokumentovat jeho rozmnožování. V minulosti tu docházelo k častému střídání zvířat, nějakou dobu jsme dokonce neměli žádní záznamy o výskytu rysa, o to větší radost teď máme_.“ uvádí Tereza Mináriková z ALKA Wildlife. 
-
-Thomas Engleder z rakouského projektu Luchsprojekt Osterreich Nordwest k tomu dodává „_České Novohradské hory a rakouský Freiwald tvoří dohromady jedno kompaktní lesnaté území, obývané rysy. Na rakouské straně ve Freiwaldu jsme zaznamenali v minulosti rysí rodinu, ta ale nebyla na české straně potvrzena. Díky dobré spolupráci s českými kolegy se nám ale podařilo v posledních letech prokázat, že většina rysů v této oblasti obývá jak rakouský Freiwald, tak české Novohradské hory. Toto zjištění není nijak překvapivé, divoká zvířata samozřejmě státní hranice nezajímají_. "
+Thomas Engleder z rakouského projektu Luchsprojekt Osterreich Nordwest k tomu dodává „_České Novohradské hory a rakouský Freiwald tvoří dohromady jedno kompaktní lesnaté území, obývané rysy. Na rakouské straně ve Freiwaldu jsme zaznamenali v minulosti rysí rodinu, ta ale nebyla na české straně potvrzena. Díky dobré spolupráci s českými kolegy se nám ale podařilo v posledních letech prokázat, že většina rysů v této oblasti obývá jak rakouský Freiwald, tak české Novohradské hory. Toto zjištění není nijak překvapivé, divoká zvířata samozřejmě státní hranice nezajímají_".
 
 K rozmnožování kočky Jiskry Engleder dodává „ _Jiskra s koťaty byla nejprve vyfocena na české straně a poté pozorována na rakouské straně Novohradských hor/Freiwaldu. Máme z tohoto zjištění velkou radost, jedná se totiž o první zdokumentovanou česko-rakouskou rysí rodinu_“.
 
