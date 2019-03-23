@@ -37,11 +37,11 @@ Rysí kocour Morris
 
 Zkuste si rozpoznat jedince rysů
 
-Rysice Jiskra má dvě koťata
+[Rysice Jiskra má dvě koťata](/news/rysice-jiskra-má-dvě-koťata)
 
-Jedinečná možnost pojmenovat rysí kočku! 
+[Jedinečná možnost pojmenovat rysí kočku! ](/news/jedinečná-možnost-pojmenovat-rysí-kočku)
 
-Rysí máma Michelle
+[Rysí máma Michelle](/news/rysí-máme-michelle)
 
 [Rys Jan z Novohradských hor](/news/rys-jan-z-novohradských-hor)
 
