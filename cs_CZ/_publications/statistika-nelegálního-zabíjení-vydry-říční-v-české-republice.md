@@ -8,7 +8,7 @@ authors:
   - name: Václav Beran
   - name: Václav Hlaváč
   - name: Andreas Kranz
-type: Ćlánek v periodiku
+type: Článek v periodiku
 tags:
   - vydra říční
   - publikace pro odbornou veřejnost
