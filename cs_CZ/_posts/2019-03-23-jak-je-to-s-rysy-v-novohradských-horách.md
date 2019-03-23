@@ -6,19 +6,19 @@ listing_thumbnail: /media/igor_274.jpg
 description: >-
   Od podzimu 2014 do podzimu 2015 došlo k podezřelé výměně všech rysích jedinců,
   kteří obývají Novohradské hory. Příčiny jsou předmětem diskuse.
-date: '2019-03-23'
+date: '2016-10-20'
 lang_alternatives:
   en_GB: {}
 category: news
 layout: news
 ---
-
-
-
-
 V některých oblastech, kde dlouhodobě probíhá monitoring rysa ostrovida pomocí fotopastí, monitorovaní jedinci nevratně předčasně "mizí". Nejlépe je to vidět na datech z Novohradských hor, kde fotomonitoring probíhá od jara 2013. Toto území se zdá být vhodné pro trvalé osídlení rysy, s kapacitou zhruba čtyř dospělých zvířat. Většinou se jedinci v této oblasti pohybují na české i na rakouské straně Novohradských hor, ve Freiwaldu. Prostředí Novohradských hor je z pohledu rysa ostrovida velice vhodné: je to území s vysokou lesnatostí, malou hustotou lidských sídel, bohaté na skály, rokle a sutiny. To potvrzuje i letošní doklad o rozmnožování rysů v této oblasti: zdokumentována byla kočka Jiskra s koťaty.
 
 Přesto se stalo, že po dobu 13 měsíců, téměř chybí záznamy. V období od srpna 2014 do září 2015 pochází pouhé dvě rysí fotografie, dvakrát zde z Rakouska zavítal rys Igor. Pak „zmizel“, stejně jako ostatní tři jedinci, kteří zde byli do léta 2014 sledováni. V průběhu zimy 2014/2015 probíhal intenzivní monitoring pobytových znaků na sněhu. Prošlo se přes 260 km stopovacích tratí, nebyla nalezena jediná stopa rysa ostrovida. Po této roční pauze, kdy původní jedinci - Bond, Igor, NN03, NN18, zmizeli, toto území osídlila úplně nová zvířata: rysi Luděk, Jiskra, Jan a Norah. Jestli je taková výměna přirozená, co je její příčinou – o tom právě probíhá diskuse na našem Facebooku. Můžete se připojit. 
+
+
+
+![Rys Bond](/media/bond_610.jpg "Rys Bond")
 
 ![Rys Igor](/media/igor_610.jpg "Rys Igor ")
 
@@ -33,6 +33,8 @@ Přesto se stalo, že po dobu 13 měsíců, téměř chybí záznamy. V období 
 ![Rysice Jiskra má koťata](/media/jiskra_610.jpg "Rysice Jiskra má koťata")
 
 ![Rys Luděk](/media/ludek_610.jpg "Rys Luděk")
+
+![Graf záznamů rysů v Novohradských horách](/media/graf_rysi_610.png)
 
 [Rysí příběhy](/projects/rysi-pribehy.html) vychází s grantovou podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska Ministerstva životního prostředí.
 
