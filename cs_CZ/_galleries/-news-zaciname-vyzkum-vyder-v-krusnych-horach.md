@@ -1,4 +1,4 @@
 ---
-title: /news/zaciname-vyzkum-vyder-v-krusnych-horach
+title: /news/začínáme-výzkum-vyder-v-krušných-horách
 ---
 
