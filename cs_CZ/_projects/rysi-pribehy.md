@@ -17,38 +17,35 @@ description: "Cílem projektu je přiblížit lidem život konkrétních rysů z
 ---
 Rys ostrovid je kriticky ohroženým a zároveň chráněným druhem, pro který je v současnosti připravován program péče. Faktorem, který rysa ostrovida u nás nejvíce ohrožuje, je pytláctví, které je částí veřejnosti stále tolerováno. O biologii rysa ostrovida navíc koluje řada nepravdivých fám a mýtů. Cílem projektu Rysí příběhy je přiblížit lidem život konkrétních rysů z jižních a západních Čech a tím je motivovat k ochraně tohoto druhu. Rysí příběhy byly publikovány formou FB postů a webových aktualit doplněných atraktivními fotografiemi a videy, nejlepší příběhy vyšly také jako tisková zpráva. Součástí projektu bylo i vylepšení[ Rysí mapy](map.translynx.eu/), spolupráce s veřejností na monitoringu rysa a komunikace s myslivci.
 
-
-
 # Rysí příběhy
 
-Spolupráce se vyplatila: nové video rysa, v nové lokalitě
+[Spolupráce se vyplatila: nové video rysa, v nové lokalitě](/news/spolupráce-se-vyplatila-video-rysa-v-nové-lokalitě)
 
-Rys Jan - další cestovatel 
+[Rys Jan - další cestovatel ](/news/rys-jan-další-cestovatel)
 
-Rys Joachim
+[Rys Joachim](/news/rys-joachim)
 
-Značkování rysů
+[Značkování rysů](/news/značkování-rysů)
 
-Jak je to s rysy v Novohradských horách? 
+[Jak je to s rysy v Novohradských horách? ](/news/jak-je-to-s-rysy-v-novohradských-horách)
 
-Pojmenujte rysího samce 
+[Pojmenujte rysího samce ](/news/pojmenujte-rysího-samce)
 
-Rysí kocour Morris
+[Rysí kocour Morris](/news/rysí-kocour-morris)
 
-Zkuste si rozpoznat jedince rysů
+[Zkuste si rozpoznat jedince rysů](/news/zkuste-si-rozpoznat-jedince-rysů)
 
-[Rysice Jiskra má dvě koťata](/news/rysice-jiskra-má-dvě-koťata)
+[Rysice Jiskra má dvě koťata](/news/rysice-jiskra-má-dvě-koťata)
 
-[Jedinečná možnost pojmenovat rysí kočku! ](/news/jedinečná-možnost-pojmenovat-rysí-kočku)
+[Jedinečná možnost pojmenovat rysí kočku! ](/news/jedinečná-možnost-pojmenovat-rysí-kočku)
 
-[Rysí máma Michelle](/news/rysí-máme-michelle)
+[Rysí máma Michelle](/news/rysí-máme-michelle)
 
-[Rys Jan z Novohradských hor](/news/rys-jan-z-novohradských-hor)
-
-
+[Rys Jan z Novohradských hor
+](/news/rys-jan-z-novohradských-hor)
 
 # Tiskové zprávy
 
-30.11.2016: Fotopast přinesla první důkaz o rozmnožování rysa ostrovida v českých Novohradských horách 
+[30.11.2016: Fotopast přinesla první důkaz o rozmnožování rysa ostrovida v českých Novohradských horách](/news/důkaz-o-rozmnožování-rysů-v-novohradských-horách) 
 
 [9.8.2016: Česko-bavorsko-rakouská rysí populace čítá 60-80 jedinců](/news/česko-rakousko-bavorská-rysí-populace-čítá-60-80-jedinců)
