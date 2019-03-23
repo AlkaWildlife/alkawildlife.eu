@@ -13,17 +13,14 @@ lang_alternatives:
 category: news
 layout: news
 ---
-TISKOVÁ ZPRÁVA ALKA Wildlife a Národního parku Šumava 
+TISKOVÁ ZPRÁVA ALKA WILDLIFE A NÁRODNÍHO PARKU ŠUMAVA
 
+## Česko-bavorsko-rakouská rysí populace čítá 60-80 jedinců, shodli se odborníci ze tří zemí
 
+**Vimperk 9.8.2016 Moderní technologie, jako jsou sledování pomocí GPS obojků a tzv. fotopastí, umožňují v současnosti provedení mnohem přesnějšího odhadu velikosti česko-bavorsko-rakouské rysí populace. Ta zahrnuje nejen rysy z centrální oblasti Národních parků Šumava a Bavorský les, ale i z navazujících území v ČR, Bavorsku a Rakousku, na severozápadě Český les/Oberpfälzer Wald, na východě Novohradské hory/Freiwald . Celá populace rysa čítá 60-80 dospělých jedinců, shodli se odborníci z těchto tří zemí.**
 
-## Česko-bavorsko-rakouská rysí populace čítá 60-80 jedinců, shodli se odborníci ze tří zemí 
-
-
-
-**Vimperk 9.8.2016 - Moderní technologie, jako jsou sledování pomocí GPS obojků a tzv. fotopastí, umožňují v současnosti provedení mnohem přesnějšího odhadu velikosti česko-bavorsko-rakouské rysí populace. Ta zahrnuje nejen rysy z centrální oblasti Národních parků Šumava a Bavorský les, ale i z navazujících území v ČR, Bavorsku a Rakousku, na severozápadě Český les/Oberpfälzer Wald, na východě Novohradské hory/Freiwald . Celá populace rysa čítá 60-80 dospělých jedinců, shodli se odborníci z těchto tří zemí.**
-
-Národní parky Šumava a Bavorský les spolupracují na výzkumu rysa ostrovida již od devadesátých let a od roku 2009 plošně využívají metodu tzv. fotomonitoringu – využití fotoaparátů s automatickou spouští, která umožňuje individuální rozeznání jedinců. Výsledky tohoto monitoringu v Národních parcích Šumava a Bavorský les v sezóně 2015/16 byly právě zveřejněny a jsou ke stažení na webových stránkách: [http://www.npsumava.cz/gallery/33/10133-monitoring_rysa_v_narodnich_parcich_sumava_a_bavorsky_les_2015_16.pdf](http://www.npsumava.cz/gallery/33/10133-monitoring_rysa_v_narodnich_parcich_sumava_a_bavorsky_les_2015_16.pdf)
+Národní parky Šumava a Bavorský les spolupracují na výzkumu rysa ostrovida již od devadesátých let a od roku 2009 plošně využívají metodu tzv. fotomonitoringu – využití fotoaparátů s automatickou spouští, která umožňuje individuální rozeznání jedinců. Výsledky tohoto monitoringu v Národních parcích Šumava a Bavorský les v sezóně 2015/16 byly právě zveřejněny a jsou ke stažení na webových stránkách: [http://www.npsumava.cz/gallery/33/10133-monitoring_rysa_v_narodnich_parcich_sumava_a_bavorsky_les_2015_16.pdf
+](http://www.npsumava.cz/gallery/33/10133-monitoring_rysa_v_narodnich_parcich_sumava_a_bavorsky_les_2015_16.pdf)
 
 „_Na základě výsledků našeho společného dlouhodobého monitoringu můžeme konstatovat, že počet jedinců vyfocených a zároveň identifikovaných na území obou národních parků se dlouhodobě zásadně nemění. Dospělý rysí kocour obývá teritorium o rozloze zhruba 350-450 km2, kočka pak 120-150 km2, hustota populace se pohybuje mezi 1-1,6 jedince/100km2,_“ uvádí zooložka Správy NP Šumava Elisa Belotti. 
 
