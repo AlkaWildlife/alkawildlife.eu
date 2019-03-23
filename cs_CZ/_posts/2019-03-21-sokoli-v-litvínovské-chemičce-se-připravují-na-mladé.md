@@ -1,5 +1,5 @@
 ---
-title: Sokoli v litvínovské chemičce se připravují na mladé
+title: Sokoli v Litvínově se připravují na mladé
 published: true
 image: /media/cdy05307_tok_2019_610.jpg
 listing_thumbnail: /media/cdy05307_tok_2019_274.jpg
