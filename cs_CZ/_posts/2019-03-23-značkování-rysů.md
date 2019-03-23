@@ -1,8 +1,8 @@
 ---
 title: Značkování rysů
 published: true
-image: /media/libor-a-pařez_610.jpg
-listing_thumbnail: /media/libor-a-pařez_v_274.jpg
+image: /media/libor_parez_610.jpg
+listing_thumbnail: /media/libor_parez_v_274.jpg
 description: >-
   Již delší dobu sledujeme fotopastmi jeden pařez na Prachaticku. Je mimořádně
   oblíbený u rysů.
