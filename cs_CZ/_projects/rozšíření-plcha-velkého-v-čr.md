@@ -38,7 +38,7 @@ description: >-
   projektu je také analýza stanovištních nároků druhu a zhodnocení současného
   stavu a perspektivy populace tohoto druhu na území ČR.
 ---
-# Cíl projektu 
+# Cíl projektu
 
 Plch velký je v Koncepci záchranných programů a programů péče zvláště chráněných druhů živočichů a rostlin v České republice zařazen mezi „Druhy vyžadující zvláštní zřetel “, tedy druhy ochranářsky velmi významné s nedostatečně známou biologií, ekologií, rozšířením, příčinami ohrožení nebo způsobů odstranění těchto příčin, což je znalost nezbytná pro plánování konkrétních ochranářských opatření.
 
@@ -50,7 +50,9 @@ Cílem projektu tedy bylo realizovat podrobný, velkoplošný monitoring na úze
 
 V prvních měsících projektu proběhly přípravné práce: výběr kontrolních bodů, příprava podkladů a proběhl pracovní seminář, kde byli všichni mapovatelé proškoleni. V průběhu letních měsíců 2015 a 2016 proběhlo mapování na celém území ČR. Celkově v rámci mapování poslechem v nočních hodinách bylo zkontrolováno 1830 bodů v rámci celé ČR. V průběhu celého projektu také probíhá sběr dat od veřejnosti. Díky informování veřejnosti se podařilo získat 345 záznamů plchů. Výskyt plcha velkého byl zjištěn v 188 faunistických kvadrátech (28% území). 
 
-## 2. Ověření stanovištních nároků a ekologie 
+## 
+
+2. Ověření stanovištních nároků a ekologie 
 
 Vytvořena je databáze odchytových dat plchů velkých z různých stanovišť z let 2007–2014 v Nízkém Jeseníku. Na jednotlivých stanovištích byla zjištěna druhová skladba hlavních dřevin. Z těchto dat byly vypočteny hustot a přežívání jedinců. Doplněna byla databáze historických nálezových dat. 
 
@@ -68,7 +70,7 @@ Tisková zpráva: Hledá se plch velký
 
 Za plchem k ledovým slujím
 
-Záznamy plchů od Vás – nádherné fotky i vzácný plch zahradní
+Záznamy plchů od Vás – nádherné fotky i vzácný plch zahradní
 
 Kde u nás žije plch velký?
 
@@ -76,16 +78,14 @@ Seminář k ochraně a výzkumu plcha velkého a sysla obecného
 
 Výzva! Pomozte mapovat výskyt plcha velkého
 
-
-
 # Publikované články
 
-Ptačí svět 2016: Máte plchy v ptačích budkách? 
+[Ptačí svět 2016: Máte plchy v ptačích budkách?](/publications/máte-plchy-v-ptačích-budkách) 
 
-Zahrádkář listopad 2015: Sedmispáči plši. Máte tyto vzácné noční "veverky" na zahradě? 
+[Zahrádkář listopad 2015: Sedmispáči plši. Máte tyto vzácné noční "veverky" na zahradě? ](/publications/sedmispáči-plši)
 
-Myslivost říjen 2015: Naši plši
+[Myslivost říjen 2015: Naši plši](/publications/naši-plši)
 
-Chatař a chalupář září 2015: Plši - vzácní, ale nevítaní 
+[Chatař a chalupář září 2015: Plši - vzácní, ale nevítaní](/publications/plši-vzácní-ale-nevítaní) 
 
-Včelařství září 2015: Plši - vzácní, ale nevítaní návštěvníci včelínů
+[Včelařství září 2015: Plši - vzácní, ale nevítaní návštěvníci včelínů](/publications/plši-vzácní-ale-nevítaní-návštěvníci-včelínů)
