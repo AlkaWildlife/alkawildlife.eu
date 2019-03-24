@@ -25,7 +25,7 @@ plch zahradní (autor: Jana Holá)
 
 Tentokrát jsme získali ještě větší vzácnost: fotografii plcha zahradního. V České republice je nejvzácnější z našich čtyř druhů plchů. Jeho výskyt na území ČR je dnes omezen pouze na západní Čechy a každý doložený nález má velkou hodnotu.
 
-Nadále sbíráme údaje o plchu velkém i v letošním roce. Proto pokud plcha velkého (či jiné plchy) zaznamenáte, dejte nám prosím vědět, pošlete nám fotku či video. 
+Nadále sbíráme údaje o plchu velkém i v letošním roce. Proto pokud plcha velkého (či jiné plchy) zaznamenáte, dejte nám prosím vědět, pošlete nám fotku či video. 
 
 Kontakty:
 
@@ -37,4 +37,8 @@ Kateřina Poledníková 606598903
 
 katerina.polednikova-zavinac-alkawildlife.eu
 
-Více o projektu zde.
+
+
+Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr). Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+
+![](/media/loga_mgs_stojato_mm.jpg)
