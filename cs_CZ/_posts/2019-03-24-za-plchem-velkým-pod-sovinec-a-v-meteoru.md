@@ -14,7 +14,7 @@ layout: news
 ---
 # Za plchy pod Sovinec
 
-Srdečně Vás zveme na setkání s plchy velkými: kontrola plchů v budkách a noční poslech jejich volání v lesích pod hradem Sovinec.
+Srdečně Vás zveme na setkání s plchy velkými: kontrola plchů v budkách a noční poslech jejich volání v lesích pod hradem Sovinec.
 
 Kdy: 19. 9. 2016 
 
@@ -32,13 +32,9 @@ Sraz: 16:45 Dlouhá Loučka první odbočka doprava na silnici mezi Dlouhou Lou�
 
 Pozvánka (pdf)
 
-
-
 # O plších v Meteoru
 
-Kdo nemůžete přijet do Dlouhé Loučky, poslechněte si rozhovor o plchu velkém s Petrem Adamíkem na stanici Český rozhlas Dvojka v pořadu Meteor tento víkend. Pořad Meteor se vysílá vždy v sobotu v 8:05 a v neděli v 02:00, případně pak v [archivu pořadu](https://prehravac.rozhlas.cz/dvojka/archiv).
-
-
+Kdo nemůžete přijet do Dlouhé Loučky, poslechněte si rozhovor o plchu velkém s Petrem Adamíkem na stanici Český rozhlas Dvojka v pořadu Meteor tento víkend. Pořad Meteor se vysílá vždy v sobotu v 8:05 a v neděli v 02:00, případně pak v [archivu pořadu](https://prehravac.rozhlas.cz/dvojka/archiv).
 
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska. 
 
