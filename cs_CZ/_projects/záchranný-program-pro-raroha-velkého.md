@@ -2,7 +2,27 @@
 title: 'Záchranný program pro raroha velkého '
 published: true
 registration_no: MGSII-26
-funding: "EHP fondy 2009-2014\n\nMalé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu CZ02\n\nMinisterstvo životního prostředí \n\nPodpořeno grantem z Islandu, Lichtenštejnska a Norska.\r\n\nTento web byl vytvořen za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.\n\n![](/media/loga_mgs_stojato_mm.jpg)"
+funding: >-
+  EHP fondy 2009-2014
+
+
+  Malé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu
+  CZ02
+
+
+  Ministerstvo životního prostředí 
+
+
+  Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+
+
+  Tento web byl vytvořen za finanční podpory EHP fondů 2009-2014 a Ministerstva
+  životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s.
+  a nelze jej v žádném případě považovat za názor donora nebo Ministerstva
+  životního prostředí.
+
+
+  ![](/media/loga_mgs_stojato_mm.jpg)
 budget: '1 095 440,88 Kč'
 from: 2015-02
 to: 2017-04
