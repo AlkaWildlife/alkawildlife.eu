@@ -20,8 +20,6 @@ Raroh velký tak stále patří mezi naše nejvzácnější pravidelně hnízdí
 
 ![](/media/a_dscn0655.jpg)
 
- 
-
 Naše společnost monitoring raroha velkého v České republice organizuje již několik let. V letošním roce je monitoring součástí projektu „Příprava záchranného programu pro raroha velkého (Falco cherrug)“ financovaného z EHP fondů. 
 
 ![](/media/loga_mgs_stojato_mm.jpg)
