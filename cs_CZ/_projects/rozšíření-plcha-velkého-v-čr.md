@@ -69,9 +69,9 @@ Byl uspořádán jeden informační seminář na Přírodovědecké fakultě Uni
 
 [TZ: Hledá se plch velký](/news/hledá-se-plch-velký)
 
-Za plchem k ledovým slujím
+[Za plchem k ledovým slujím](/news/za-plchem-k-ledovým-slujím)
 
-Záznamy plchů od Vás – nádherné fotky i vzácný plch zahradní
+[Záznamy plchů od Vás – nádherné fotky i vzácný plch zahradní](/news/záznamy-plchů-od-vás-nádherné-fotky-i-vzácný-plch-zahradní)
 
 Kde u nás žije plch velký?
 
