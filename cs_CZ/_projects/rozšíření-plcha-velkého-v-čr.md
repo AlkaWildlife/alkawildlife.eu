@@ -65,11 +65,11 @@ Byl uspořádán jeden informační seminář na Přírodovědecké fakultě Uni
 
 # Aktuality k projektu
 
-Výsledky mapování plcha velkého 
+[Výsledky mapování plcha velkého](/news/výsledky-mapování-plcha-velkého) 
 
-Za plchem velkým pod Sovinec a v Meteoru
+[Za plchem velkým pod Sovinec a v Meteoru](/news/za-plchem-velkým-pod-sovinec-a-v-meteoru)
 
-Tisková zpráva: Hledá se plch velký
+[TZ: Hledá se plch velký](/news/hledá-se-plch-velký)
 
 Za plchem k ledovým slujím
 
