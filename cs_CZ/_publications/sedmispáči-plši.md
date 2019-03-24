@@ -9,7 +9,7 @@ tags:
   - plch velký
   - publikace pro laickou veřejnost
 journal: Zahrádkář
-year: 2016
+year: 2015
 lang:
   - cs
 link: /media/Zahradkar_11_15.pdf
