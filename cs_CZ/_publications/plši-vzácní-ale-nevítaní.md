@@ -8,7 +8,7 @@ type: Článek v periodiku
 tags:
   - plch velký
   - publikace pro laickou veřejnost
-journal: Chalupář
+journal: Chatař a Chalupář
 year: 2015
 lang:
   - cs
