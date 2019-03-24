@@ -32,7 +32,7 @@ partners: |-
 
   ALKA Wildlife, o.p.s. (partner)
 contacts:
-  - email: lutra@email.cz
+  - email: ''
     name: Václav Beran
 species: raroh velký
 tags:
