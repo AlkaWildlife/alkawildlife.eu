@@ -30,7 +30,7 @@ Nutno s sebou: čelovou lampu nebo jiný zdroj světla
 
 Sraz: 16:45 Dlouhá Loučka první odbočka doprava na silnici mezi Dlouhou Loučkou a Valšovských Žlebem, 400 m od benzínky ZOD Agro (auta mohou parkovat přímo na místě setkání) 
 
-Pozvánka (pdf)
+[Pozvánka (pdf)](/media/pozvánka_DLoučka_201609.pdf)
 
 # O plších v Meteoru
 
