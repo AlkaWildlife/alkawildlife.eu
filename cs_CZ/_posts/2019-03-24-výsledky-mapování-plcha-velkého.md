@@ -20,11 +20,9 @@ Výskyt plcha velkého byl zjištěn ve 188 faunistických kvadrátech, což př
 
 A poznámka nakonec: Pokud jste propásli nádherný rozhovor s Peterem Adamíkem o tomto kouzelném obyvateli našich lesů, připomínáme rozhovor v [Českém rozhlase v pořadu Meteor](https://prehravac.rozhlas.cz/audio/3704874). 
 
-
-
 ![](/media/plch-velky-2015-a-2016-výsledky_podklad_610.jpg)
 
-Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr).
+Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr).
 
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
 
