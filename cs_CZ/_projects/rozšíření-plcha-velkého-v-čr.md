@@ -30,6 +30,9 @@ to: 2017-04
 contacts:
   - name: Peter Adamík
 species: plch velký
+tags:
+  - plch velký
+  - výzkum
 countries:
   - CZ
 description: >-
