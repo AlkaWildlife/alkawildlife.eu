@@ -18,9 +18,10 @@ description: >-
 
 Hlavním cílem průzkumu bylo zjistit ty druhy savců, které mohou predovat hnízda na zemi hnízdících ptáků, a to zejména v ptačích koloniích na ostrovech. Savčí predátoři mohou mít významný vliv na populaci hnízdících ptáků v koloniích, resp. na úspěšnost hnízdění za předpokladu, že:
 
-1) na daných ostrovech se vyskytuje stabilní populace savčích predátorů, která se v hnízdní době živí predací hnízd,
+1. na daných ostrovech se vyskytuje stabilní populace savčích predátorů, která se v hnízdní době živí predací hnízd,
+2. savčí predátoři jsou schopni se mezi ostrovy, případně mezi ostrovy a pevninou přesouvat a v době hnízdění ptáků se k tomuto dočasnému zdroji potravy dostat.
 
-2) savčí predátoři jsou schopni se mezi ostrovy, případně mezi ostrovy a pevninou přesouvat a v době hnízdění ptáků se k tomuto dočasnému zdroji potravy dostat.
+![Pohled na Věstonickou nádrž, střední nádrž díla Nové mlýny](/media/_igp3869.jpg "Věstonická nádrž")
 
 # Výsledky – souhrn
 
