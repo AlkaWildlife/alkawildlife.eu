@@ -12,14 +12,14 @@
   {%- if include.photo.author %}{% include helpers/author.html author=include.photo.author %} &ndash; {% endif -%}
   {{ include.photo.title }}
 {%- endcapture %}
-<li class="gallery-item firstItem isotope-item{{ tag_slugs }}">
+<li class="gallery-item firstItem isotope-item{{ tag_slugs | url_decode }}">
   <div class="item_img img-intro img-intro__left">
     <a class="zoom"
        href="{{ include.photo.image | relative_url }}"
        data-rel="lightcase:gallery"
        title="{{ photo_title }}"
        data-lc-title="{{ photo_title }}"
-       data-categories="{{ tag_slugs | lstrip }}">
+       data-categories="{{ tag_slugs | lstrip | url_decode }}">
       <img src="{{ include.photo.gallery_thumbnail | default: include.photo.image | relative_url }}"
            class="gallery__image object-fit-cover" data-object-fit="cover"
            alt="{{ include.photo.content | strip_html }}"/>

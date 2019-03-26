@@ -48,7 +48,7 @@ layout: contentpage
               {% include helpers/slug.html page=filtered_tag %}
             {%- endcapture %}
             <li class="inline-block p-left-1">
-              <a class="" href="#" data-filter=".{{ tag_slug }}">{{ filtered_tag.title }}</a>
+              <a class="" href="#" data-filter=".{{ tag_slug | url_decode }}">{{ filtered_tag.title }}</a>
             </li>
           {% endfor %}
         </ul>
