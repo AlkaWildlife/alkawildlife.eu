@@ -3,7 +3,14 @@ title: Regulace norka amerického v NP České Švýcarsko
 published: true
 subtitle: Regulace norka amerického v NP České Švýcarsko a jejím okolí
 registration_no: '1791163'
-funding: "Operační program životní prostředí\r\n\n(Evropská Unie a Ministerstvo životního prostředí České republiky\r)\n\n![](/media/banner-opzp_erdf_cmyk.jpg)\n\nPodporováno z Evropského fondu pro regionální rozvoj"
+funding: |-
+  Operační program životní prostředí
+
+  (Evropská Unie a Ministerstvo životního prostředí České republiky)
+
+  ![](/media/banner-opzp_erdf_cmyk.jpg)
+
+  Podporováno z Evropského fondu pro regionální rozvoj
 from: 2010-05
 to: 2012-12
 contacts:
