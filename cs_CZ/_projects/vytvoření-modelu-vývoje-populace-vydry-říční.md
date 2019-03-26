@@ -40,3 +40,7 @@ Větrovcová J., Poledníková K., Poledník L., Hájková P.., Zemanová B., Be
 Poledníková K., Větrovcová J., Poledník L., Hájková P.., Zemanová B., Beran V., Hlaváč V., Mináriková T. (2010): Životaschopnost populace vydry říční v České republice. Poster na konferenci Využití výzkumu a monitoringu pro ochranářský management, Olomouc. 
 
 Poledníková K., Poledník L., Hlaváč V., Maštera J., Mináriková T., Rešl D., Tomášková L., Šíma J., Toman A., Pacovská M., Kameníková M., Beňová M., Kratochvílová M., Beran V., Kadlečíková Z., Růžičková O., Hájková P. (2010): Metodika stanovení výše náhrad škod způsobených vydrou říční (_Lutra lutra_). Certifikovaná metodika (certifikační orgán: MŽP)
+
+Poledník L. (2010): Mapa úhynů vydry říční v České republice. Specializovaná mapa s odborných obsahem. 
+
+[Poledníková K., Větrovcová J., Poledník L., Hlaváč V. (2010): Carbofuran - a new and effective method of illegal killing of otters (Lutra lutra) in the Czech Republic. IUCN Otter Specialist Group Bulletin 27: 137-146.](/publications/carbofuran-a-new-and-effective-method-of-illegal-killing-of-otters-lutra-lutra-in-the-czech-republic)
