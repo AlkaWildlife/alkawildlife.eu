@@ -26,7 +26,8 @@ description: >-
 ---
 # Cíl projektu
 
-Norek americký (_Mustela vison _Schreber) patří k nově se šířícím druhům fauny savců na území České republiky. Jako zavlečený druh představuje norek potencionální nebezpečí pro původní faunu drobných a středních obratlovců Evropy. Na území České republiky byl již zjištěn silný predační tlak na řadu druhů živočichů: vysoká predace hnízd u skorce vodního, konipase horského a ledňáčka říčního, silný predační tlak na vodní ptactvo, predace užovky podplamaté i užovky obojkové, a také ještěrky zelené, vysoká predace raka kamenáče a raka říčního, predace obojživelníků (zejména skokani, ale také čolci).
+Norek americký (_Mustela vison _Schreber) patří k nově se šířícím druhům fauny savců na území České republiky. 
+Jako zavlečený druh představuje norek potencionální nebezpečí pro původní faunu drobných a středních obratlovců Evropy. Na území České republiky byl již zjištěn silný predační tlak na řadu druhů živočichů: vysoká predace hnízd u skorce vodního, konipase horského a ledňáčka říčního, silný predační tlak na vodní ptactvo, predace užovky podplamaté i užovky obojkové, a také ještěrky zelené, vysoká predace raka kamenáče a raka říčního, predace obojživelníků (zejména skokani, ale také čolci).
 
 Cílem projektu je snížení neúměrné predace řady ohrožených druhů živočichů norkem americkým a zabránit tak snižování biodiversity na dvou lokalitách v kraji Vysočina - PP Černíč a EVL Šlapanka a Zlatý potok. Vzhledem k tomu, že v České republice neexistuje doporučující metodika týkající se regulace či eradikace norka amerického, je tento projekt brán jako pilotní. Druhým cílem projektu tedy bude navrhnout na základě zjištěných zkušeností efektivní metodiku eradikace norka v podmínkách naší krajiny (metody odchytu, frekvence odchytu, minimální velikost oblasti, rychlost znovuobsazování lokality). 
 
@@ -46,9 +47,19 @@ Jedná se o rybník v údolí na soutoku Moravské Dyje a Myslůvky. Celá PP m�
 
 Regulace místní populace norků byla prováděna metodou opakovaných odchytů volně žijících zvířat. Pro odchyt byly použity živochytné sklopce. Živochytné pasti jsou designovány a instalovány tak, aby maximalizovaly odchyt norků a minimalizovaly odchyt jiných druhů živočichů. 
 
-## Monitoring
+## 
+
+![živochytná drátěná past pro odchyt norků umístěná na plovoucím raftu](/media/past.jpg "past pro odchyt norka amerického")
+
+
+
+## Monitoring
 
 Kromě odchytu byl výskyt norků v obou oblastech monitorován také pomocí monitorovacích raftů. Monitorovací rafty jsou plovoucí plochy, kde je umístěn měkký substrát, na kterém zvířata po přeběhnutí zanechají stopu a je možno je takto detekovat . Jedná se o neinvazivní metodu monitoringu používanou úspěšně ve Velké Británii (Reynolds a další 2004) a neohrožuje žádný druh živočicha. U nás je tato metoda používána poprvé. 
+
+![monitorovací raft se skládá z plovoucí desky a nádoby s vlhkým substrátem](/media/snímek-016.jpg "instalace monitorovacího raftu")
+
+
 
 # Výstupy projektu
 
