@@ -53,7 +53,7 @@ Cílem projektu tedy bylo realizovat podrobný, velkoplošný monitoring na úze
 
 V prvních měsících projektu proběhly přípravné práce: výběr kontrolních bodů, příprava podkladů a proběhl pracovní seminář, kde byli všichni mapovatelé proškoleni. V průběhu letních měsíců 2015 a 2016 proběhlo mapování na celém území ČR. Celkově v rámci mapování poslechem v nočních hodinách bylo zkontrolováno 1830 bodů v rámci celé ČR. V průběhu celého projektu také probíhá sběr dat od veřejnosti. Díky informování veřejnosti se podařilo získat 345 záznamů plchů. Výskyt plcha velkého byl zjištěn v 188 faunistických kvadrátech (28% území). 
 
-## 2.Ověření stanovištních nároků a ekologie 
+## 2.Ověření stanovištních nároků a ekologie
 
 Vytvořena je databáze odchytových dat plchů velkých z různých stanovišť z let 2007–2014 v Nízkém Jeseníku. Na jednotlivých stanovištích byla zjištěna druhová skladba hlavních dřevin. Z těchto dat byly vypočteny hustot a přežívání jedinců. Doplněna byla databáze historických nálezových dat. 
 
@@ -73,11 +73,11 @@ Byl uspořádán jeden informační seminář na Přírodovědecké fakultě Uni
 
 [Záznamy plchů od Vás – nádherné fotky i vzácný plch zahradní](/news/záznamy-plchů-od-vás-nádherné-fotky-i-vzácný-plch-zahradní)
 
-Kde u nás žije plch velký?
+[Kde u nás žije plch velký?](/news/kde-u-nás-žije-plch-velký)
 
-Seminář k ochraně a výzkumu plcha velkého a sysla obecného
+[Seminář k ochraně a výzkumu plcha velkého a sysla obecného](/news/seminář-k-ochraně-a-výzkumu-plcha-velkého-a-sysla-obecného)
 
-Výzva! Pomozte mapovat výskyt plcha velkého
+[Výzva! Pomozte mapovat výskyt plcha velkého](/news/výzva-pomozte-mapovat-výskyt-plcha-velkého)
 
 # Publikované články
 
