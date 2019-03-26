@@ -16,25 +16,23 @@ Srdečně Vás příští týden v úterý zveme na seminář k ochraně a výzk
 
 **Kdy:** 10.11.2015 15:00 – 16:25
 
-**Kde:** Karlova Universita, Přírodovědecká fakulta , Velká zoologická posluchárna  ( 2.p., Viničná 7, Praha 2)
-
-
+**Kde:** 
+Karlova Universita, Přírodovědecká fakulta , Velká zoologická posluchárna 
+ ( 2.p., Viničná 7, Praha 2)
 
 ## Program semináře:
 
-Kateřina Poledníková (ALKA Wildlife, o.p.s.):
+Kateřina Poledníková (ALKA Wildlife, o.p.s.):
 
 **Jak se financuje ochrana a výzkum zvláště chráněných druhů – plch a sysel jako příklad**
 
-Peter Adamík (Přírodovědecká fakulta, UP Olomouc a ALKA Wildlife, o.p.s.):
+Peter Adamík (Přírodovědecká fakulta, UP Olomouc a ALKA Wildlife, o.p.s.):
 
 **Mapovaní výskytu plcha velkého v České republice**
 
-Jan Matějů (Muzeum Karlovy Vary):
+Jan Matějů (Muzeum Karlovy Vary):
 
 **Sysel obecný - výzkum, monitoring, ochrana – úspěchy i prohry**
-
- 
 
 ![plch velký](/media/plch-velký-f7318_610.jpg "plch velký")
 
