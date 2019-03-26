@@ -39,7 +39,7 @@ Národní park České Švýcarsko se nachází v okrese Děčín v oblasti, kde
 
 V projektu byly použity ověřené metody, které jsme použili a testovali v předchozím projektu Regulace norka amerického na Vysočině, navíc používáme pro monitoring norků také fotopasti. 
 
-## Odchyt 
+## Odchyt 
 
 Regulace místní populace norků byla prováděna metodou opakovaných odchytů volně žijících zvířat. Pro odchyt byly použity živochytné sklopce. Živochytné pasti jsou designovány a instalovány tak, aby maximalizovaly odchyt norků a minimalizovaly odchyt jiných druhů živočichů. 
 
