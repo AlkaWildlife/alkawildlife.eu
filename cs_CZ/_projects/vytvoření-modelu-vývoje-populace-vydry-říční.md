@@ -43,4 +43,4 @@ Poledníková K., Poledník L., Hlaváč V., Maštera J., Mináriková T., Rešl
 
 Poledník L. (2010): Mapa úhynů vydry říční v České republice. Specializovaná mapa s odborných obsahem. 
 
-[Poledníková K., Větrovcová J., Poledník L., Hlaváč V. (2010): Carbofuran - a new and effective method of illegal killing of otters (Lutra lutra) in the Czech Republic. IUCN Otter Specialist Group Bulletin 27: 137-146.](/publications/carbofuran-a-new-and-effective-method-of-illegal-killing-of-otters-lutra-lutra-in-the-czech-republic)
+[Poledníková K., Větrovcová J., Poledník L., Hlaváč V. (2010): Carbofuran - a new and effective method of illegal killing of otters (Lutra lutra) in the Czech Republic. IUCN Otter Specialist Group Bulletin 27: 137-146.](/media/Polednikova_et_al_2010.pdf)
