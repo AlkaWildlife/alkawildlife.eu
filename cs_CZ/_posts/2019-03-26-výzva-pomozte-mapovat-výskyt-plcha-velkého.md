@@ -33,6 +33,8 @@ Plch velký je nenápadně zbarvený: svrchní strana stříbrně lesklá, šedo
 
 _plch velký (autor: Lubomír Hlásek)_
 
+
+
 Plch lesní je středně velký plch s huňatým ocasem bez koncové štětičky prodloužených chlupů. Zbarvení srsti je žlutohnědé či hnědožluté, břišní strana těla bývá bílá nebo slabě nažloutlá.
  Na hlavě se táhne od oka k ušnímu boltci tmavý, téměř černý pruh. Ušní boltce jsou malé a zakulacené. 
 
@@ -40,19 +42,25 @@ Plch lesní je středně velký plch s huňatým ocasem bez koncové štětičky
 
 _plch lesní (autor: Lubomír Hlásek)_
 
+
+
 Plch zahradní má z našich plchů nejnápadnější zabarvení. Základní barva hřbetu a hlavy je šedohnědá až hnědočervená, spodní strana těla bývá naopak čistě bílá a je ostře ohraničená.
- Ocas je pokrytý krátkou tmavohnědou srstí a zakončený černobílou štětičkou prodloužených chlupů.
- Po stranách hlavy se táhne od oka výrazný tmavý pruh, zasahující až ke krku. Oči i ušní boltce jsou poměrně velké.
+Ocas je pokrytý krátkou tmavohnědou srstí a zakončený černobílou štětičkou prodloužených chlupů.
+Po stranách hlavy se táhne od oka výrazný tmavý pruh, zasahující až ke krku. Oči i ušní boltce jsou poměrně velké.
 
 ![plch zahradní má šedohnědě zbarvenou srst, černou pásku přes oči a ocas není tak chlupatý, ale na jeho konci je černobílá štětička](/media/plch-zahradní-al7891.jpg "plch zahradní")
 
 _plch zahradní (autor: Lubomír Hlásek)_
+
+
 
 Plšík lískový je nejmenší zástupce plchů: zbarvení je jednotvárné: srst má rezavě okrovou, břicho světlejší. Ocas je dlouhý a huňatý.
 
 ![plšík lískový je rezavě zbarvený](/media/plšík-ae1486.jpg "plšík lískový")
 
 _plšík lískový (Lubomír Hlásek)_
+
+
 
 Pokud tedy plcha velkého (či jiné plchy) zaznamenáte, dejte nám vědět.
 
