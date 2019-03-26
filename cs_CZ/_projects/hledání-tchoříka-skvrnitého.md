@@ -26,7 +26,7 @@ Tchořík skvrnitý je vědci a ochranáři poměrně opomíjený druh. Všechny
 
 ![Tchořík skvrnitý](/media/007.jpg "tchořík skvrnitý (Vormella peregusna), autor: Aleš Toman")
 
-Oblast Dobrogea se nachází mezi řekou Dunaj a pobřežím Černého moře. Jedná se o jednu z mála oblastí v Evropě, kde jsou záznamy o výskytu tchoříka z 20. století. Od roku 2000 mají místní vědci a orgány ochrany přírody ale jen dva potvrzené záznamy tohoto druhu: jeden jedinec uhynulý na silnici a náhodná fotografie ornitologa. Oblast Dobrogea může svým charakterem a rozlohou poskytovat dostatečné množství vhodného prostředí pro stabilní populaci tohoto druhu. 
+Oblast Dobrogea se nachází mezi řekou Dunaj a pobřežím Černého moře. Jedná se o jednu z mála oblastí v Evropě, kde jsou záznamy o výskytu tchoříka z 20. století. Od roku 2000 mají místní vědci a orgány ochrany přírody ale jen dva potvrzené záznamy tohoto druhu: jeden jedinec uhynulý na silnici a náhodná fotografie ornitologa. Oblast Dobrogea může svým charakterem a rozlohou poskytovat dostatečné množství vhodného prostředí pro stabilní populaci tohoto druhu. 
 
 V projektu byly realizovány tři expedice do oblasti Dobrogea pohoří. Při těchto expedicích byly sbírány data o výskytu druhu a stavu prostředí. Použité metody: monitoring pomocí tunýlků, pozorování, sběr uhynulých jedinců na silnicích a dotazování pastevců a zemědělců. 
 
