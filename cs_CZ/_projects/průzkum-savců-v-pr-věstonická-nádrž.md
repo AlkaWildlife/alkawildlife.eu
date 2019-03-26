@@ -8,6 +8,9 @@ contacts:
   - name: Lukáš Poledník
 species: savci
 area: přírodní rezervace Věstonická nádrž (Jihomoravský kraj)
+tags:
+  - invazní savci
+  - průzkum
 countries:
   - CZ
 description: >-
