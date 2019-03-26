@@ -29,6 +29,14 @@ description: >-
 ---
 Vydra říční byla původně rozšířena po celém území České republiky. V důsledku lovu pro kožešinu, lovu, zhoršování kvality vody a potravní nabídky došlo ve 20. století k silnému poklesu početnosti. Z důvodu tohoto rapidního úbytku byla vydra zařazena mezi chráněné druhy. Od konce 80. let pak byl zaznamenán výrazný nárůst areálu rozšíření, který stále pokračuje. Tím však v současnosti narůstají pochybnosti o smyslu ochrany vydry a tvorby programu péče pro tento druh. Ale vydra říční je u nás stále vystavena významným rizikovým faktorům, jako je nárůst dopravy a nelegální lov. Z těchto důvodů je aktivní ochrana stále na místě. Cílem projektu bylo získat demografické údaje o populaci vydry říční u nás, které poslouží jako podklad pro kvantitativní modely životaschopnosti populace. Tyto údaje a modely pomohly porozumět fungování populace; ukázaly, kde jsou rizika pro populaci a jak jsou velká; ukázaly vývoj populace při simulovaných managementových opatření.
 
-Součástí projektu bylo také nastavení celorepublikového sběru uhynulých jedinců vydry říční, vytvoření informačních kanálů, protokolů a sítě spolupracujících organizací. 
+Součástí projektu bylo také nastavení celorepublikového sběru uhynulých jedinců vydry říční, vytvoření informačních kanálů, protokolů a sítě spolupracujících organizací. 
 
 # Výstupy projektu
+
+dotazník k uhynulé vydře
+
+Větrovcová J., Poledníková K., Poledník L., Hájková P.., Zemanová B., Beran V., Hlaváč V., Mináriková T. (2009): Viability of otter population in the Czech Republic. Poster na mezinárodní konferenci 2nd European Congress of Conservation Biology, Praha. 
+
+Poledníková K., Větrovcová J., Poledník L., Hájková P.., Zemanová B., Beran V., Hlaváč V., Mináriková T. (2010): Životaschopnost populace vydry říční v České republice. Poster na konferenci Využití výzkumu a monitoringu pro ochranářský management, Olomouc. 
+
+Poledníková K., Poledník L., Hlaváč V., Maštera J., Mináriková T., Rešl D., Tomášková L., Šíma J., Toman A., Pacovská M., Kameníková M., Beňová M., Kratochvílová M., Beran V., Kadlečíková Z., Růžičková O., Hájková P. (2010): Metodika stanovení výše náhrad škod způsobených vydrou říční (_Lutra lutra_). Certifikovaná metodika (certifikační orgán: MŽP)
