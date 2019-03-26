@@ -11,7 +11,7 @@ authors:
 type: Článek v periodiku
 tags:
   - vydra říční
-  - publikace pro laickou veřejnost
+  - publikace pro odbornou veřejnost
 journal: 'Lynx, n.s. (Praha)'
 year: 2011
 lang: en
