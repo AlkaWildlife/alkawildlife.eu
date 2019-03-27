@@ -44,3 +44,11 @@ Poledníková K., Poledník L., Hlaváč V., Maštera J., Mináriková T., Rešl
 Poledník L. (2010): Mapa úhynů vydry říční v České republice. Specializovaná mapa s odborných obsahem. 
 
 [Poledníková K., Větrovcová J., Poledník L., Hlaváč V. (2010): Carbofuran - a new and effective method of illegal killing of otters (Lutra lutra) in the Czech Republic. IUCN Otter Specialist Group Bulletin 27: 137-146.](/media/Polednikova_et_al_2010.pdf)
+
+Poledník L., Poledníková K. (2010): Aktuální odhadované hustoty populace vydry říční v České republice. Specializovaná mapa s odborným obsahem.
+
+Poledník L., Poledníková K. (2011): Population viability model for Eurasian otter Lutra lutra in the Czech Republic. Přednáška na mezinárodní konferenci Otter Colloquium v Padii (Itálie). 
+
+[Poledník L. Poledníková K., Větrovcová J., Hlaváč V., Beran V. (2011): Causes of deaths of Lutra lutra in the Czech Republic (Carnivora: Mustelidae). Lynx, n.s. (Praha) 42: 145-157.](/media/Lynx_2011_145-157_Poledník.pdf)
+
+[Poledník L., Poledníková K., Hlaváč V. (2012): Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech 2008 - 2012. Bulletin Vydra 15: 29-38.](/media/Polednik%20etal%2029_38.pdf)
