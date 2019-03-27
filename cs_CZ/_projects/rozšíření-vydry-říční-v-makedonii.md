@@ -8,6 +8,9 @@ contacts:
   - name: Lukáš Poledník
 species: vydra říční
 area: Makedonie
+tags:
+  - vydra říční
+  - průzkum
 countries:
   - MK
 description: >-
