@@ -27,6 +27,8 @@ description: >-
   Cílem projektu bylo získat demografické údaje o populaci vydry říční u nás a
   následně realizovat analýzu životaschopnosti populace.
 ---
+# Cíl projektu
+
 Vydra říční byla původně rozšířena po celém území České republiky. V důsledku lovu pro kožešinu, lovu, zhoršování kvality vody a potravní nabídky došlo ve 20. století k silnému poklesu početnosti. Z důvodu tohoto rapidního úbytku byla vydra zařazena mezi chráněné druhy. Od konce 80. let pak byl zaznamenán výrazný nárůst areálu rozšíření, který stále pokračuje. Tím však v současnosti narůstají pochybnosti o smyslu ochrany vydry a tvorby programu péče pro tento druh. Ale vydra říční je u nás stále vystavena významným rizikovým faktorům, jako je nárůst dopravy a nelegální lov. Z těchto důvodů je aktivní ochrana stále na místě. Cílem projektu bylo získat demografické údaje o populaci vydry říční u nás, které poslouží jako podklad pro kvantitativní modely životaschopnosti populace. Tyto údaje a modely pomohly porozumět fungování populace; ukázaly, kde jsou rizika pro populaci a jak jsou velká; ukázaly vývoj populace při simulovaných managementových opatření.
 
 Součástí projektu bylo také nastavení celorepublikového sběru uhynulých jedinců vydry říční, vytvoření informačních kanálů, protokolů a sítě spolupracujících organizací. 
