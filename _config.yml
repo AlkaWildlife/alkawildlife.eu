@@ -7,8 +7,10 @@ collections:
     permalink: /:categories/:title
   projects:
     output: true
+    permalink: /projects/:title
   publications:
     output: true
+    permalink: /publications/:title
   publication_types: {}
   showcases: {}
   filterable_tags: {}
