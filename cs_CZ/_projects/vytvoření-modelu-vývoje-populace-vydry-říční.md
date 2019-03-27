@@ -33,8 +33,6 @@ Součástí projektu bylo také nastavení celorepublikového sběru uhynulých 
 
 # Výstupy projektu
 
-dotazník k uhynulé vydře
-
 Větrovcová J., Poledníková K., Poledník L., Hájková P.., Zemanová B., Beran V., Hlaváč V., Mináriková T. (2009): Viability of otter population in the Czech Republic. Poster na mezinárodní konferenci 2nd European Congress of Conservation Biology, Praha. 
 
 Poledníková K., Větrovcová J., Poledník L., Hájková P.., Zemanová B., Beran V., Hlaváč V., Mináriková T. (2010): Životaschopnost populace vydry říční v České republice. Poster na konferenci Využití výzkumu a monitoringu pro ochranářský management, Olomouc. 
