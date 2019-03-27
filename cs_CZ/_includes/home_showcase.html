@@ -59,8 +59,8 @@ jQuery(document).ready(function() {
     slicedRows: 4, //if 0 the same value of rows
     // slideOn        : "", //next, prev, random: decide if the transition effect will be applied to the current (prev) or the next slide
     thumbnails: false,
-    time: 7000, //milliseconds between the end of the sliding effect and the start of the nex one
-    transPeriod: 800 //lenght of the sliding effect in milliseconds
+    time: {{ site.data.home.showcases.time }}, //milliseconds between the end of the sliding effect and the start of the nex one
+    transPeriod: {{ site.data.home.showcases.trans_period }} //lenght of the sliding effect in milliseconds
         // onEndTransition    : function() {  },  //this callback is invoked when the transition effect ends
         // onLoaded         : function() {  },  //this callback is invoked when the image on a slide has completely loaded
         // onStartLoading   : function() {  },  //this callback is invoked when the image on a slide start loading

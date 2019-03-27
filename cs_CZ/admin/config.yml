@@ -1154,8 +1154,24 @@ collections:
     label: Home page
     file: cs_CZ/_data/home.yml
     fields:
+    - name: showcases
+      label: Showcase section (top)
+      widget: object
+      fields:
+      - name: time
+        label: Period during which one showcase is presented (milliseconds)
+        widget: number
+        valueType: int
+        min: 0
+        step: 100
+      - name: trans_period
+        label: Period during which one showcase transitions into next (milliseconds)
+        widget: number
+        valueType: int
+        min: 0
+        step: 100
     - name: news
-      label: News section (top)
+      label: News section (top middle)
       widget: object
       fields:
       - name: following
@@ -1165,7 +1181,7 @@ collections:
         label: Button label showing all news
         widget: string
     - name: links
-      label: Links section with 5 items (middle)
+      label: Links section with 5 items (bottom middle)
       widget: list
       fields:
       - name: title

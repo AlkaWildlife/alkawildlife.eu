@@ -1,3 +1,6 @@
+showcases:
+  time: 12000
+  trans_period: 800
 news:
   all: Všechny zprávy
   following: Další zprávy
