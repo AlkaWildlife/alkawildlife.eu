@@ -9,7 +9,7 @@ layout: user_answers
   <div class="span12">
     {% assign user_answer_posts = site.posts |
          where_exp: "post", "post.categories contains 'user-answers'" %}
-    {% for user_answer in user_answer_posts reversed %}
+    {% for user_answer in user_answer_posts %}
       <div class="item column-1 m-bottom-4 js-user-answer">
         <div class="item_header">
           <h4 class="item_title">
