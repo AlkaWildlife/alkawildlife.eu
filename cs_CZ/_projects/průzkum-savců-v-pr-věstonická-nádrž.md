@@ -32,4 +32,4 @@ V PR Věstonická nádrž proběhl v období říjen – listopad 2009 monitorin
 
 # Výstupy projektu
 
-[Čamlík, Poledníková, Poledník (2015) Populace savců na ostrovech přírodní rezervace Věstonická nádrž, jižní Morava. Lynx, n.s. 46: 5-17.](/publications/populace-savců-na-ostrovech-přírodní-rezervace-věstonická-nádrž-jižní-morava)
+[Čamlík, Poledníková, Poledník (2015) Populace savců na ostrovech přírodní rezervace Věstonická nádrž, jižní Morava. Lynx, n.s. 46: 5-17.](/media/005_017_Camlik.pdf)
