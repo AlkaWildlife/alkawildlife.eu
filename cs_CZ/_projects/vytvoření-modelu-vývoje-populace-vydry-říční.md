@@ -52,3 +52,11 @@ Poledník L., Poledníková K. (2011): Population viability model for Eurasian o
 [Poledník L. Poledníková K., Větrovcová J., Hlaváč V., Beran V. (2011): Causes of deaths of Lutra lutra in the Czech Republic (Carnivora: Mustelidae). Lynx, n.s. (Praha) 42: 145-157.](/media/Lynx_2011_145-157_Poledník.pdf)
 
 [Poledník L., Poledníková K., Hlaváč V. (2012): Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech 2008 - 2012. Bulletin Vydra 15: 29-38.](/media/Polednik%20etal%2029_38.pdf)
+
+Poledník L., Poledníková K., Hájková P. (2012): The use of genetic data in the conservation of Eurasian otter. Přednáška na konferenci Possibilities and limits of using genetic data in practical conservation, Zvolen.
+
+Poledníková K., Poledník L. (2012): Stav, vývoj a životaschopnost populace vydry říční v ČR. Přednáška na konferenci Zoologické dny, Brno.
+
+Poledník L., Poledníková K., Větrovcová J., Hlaváč V. (2012): Intentional poisoning of piscivorous species and other wildlife with carbofuran in the Czech Republic. Kapitola v knize Carbofuran and Wildlife Poisoning. Global Perspectives and Forensic Approaches.
+
+[Poledníková K. Poledník L., Kranz A., Beran V., Čamlík G. (2013): Vydra říční na Dačicku. Dačický vlastivědný sborník VII.](/media/Dačicko_11_polednikova_vydra.pdf)
