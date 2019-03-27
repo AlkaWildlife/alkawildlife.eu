@@ -36,6 +36,8 @@ Vydra říční je šelma, která se po desítkách let navrací do naší pří
 * Posílení spolupráce aktérů z obou zemí 
 * Osvěta, informovanost široké i odborné veřejnosti 
 
+![](/media/a_dscn4833_610.jpg)
+
 # Aktivity projektu
 
 ## Monitoring
@@ -63,6 +65,8 @@ Na základě zjištěných informací ohledně rizikových faktorů v oblasti bu
 Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami na rybách proběhne osvětová kampaň. Pro uživatele rybářských vod bude zpracována informační publikace. Dohledány a kontaktovány budou rybářské subjekty i další relevantní subjekty a instituce s cílem zajistit pro vydry dlouhodobě stabilní vhodné prostředí. 
 
 # Aktuality
+
+[Mýval severní v Krušných horách](/news/mýval-severní-v-krušných-horách)
 
 [Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
 
