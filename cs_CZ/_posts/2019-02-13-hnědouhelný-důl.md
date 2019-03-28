@@ -6,7 +6,7 @@ description: ''
 author: Kateřina Poledníková
 tags:
   - ''
-gallery: /projects/ochrana-ptaku-vazanych-na-prostredi-hnedouhelnych-dolu.html
+gallery: /projects/ochrana-ptaku-vazanych-na-prostredi-hnedouhelnych-dolu
 lang_alternatives:
   en_GB: {}
 date: '2019-02-13 22:59:04 +0100'
