@@ -27,6 +27,8 @@ description: >-
 
 • U těch druhů vybraných šelem, kde se potvrdí trvalý a plošný výskyt v rámci sledovaného území, pak odhadnout potravní spektrum (analýzou trusu), odhadnout jejich vliv na společenstva v rámci NP a v případě evropsky významných druhů zhodnotit jejich potřeby.
 
+![Kvetoucí řeka Dyji v kaňonu NP Podyjí](/media/a_img_1382.jpg "Řeka Dyje v NP Podyjí")
+
 # Národní park Podyjí
 
 Národní park Podyjí je rozlohou nejmenším národním parkem v ČR - 63 km². Založen byl v roce 1991 přehlášením z kategorie chráněné krajinné oblasti. NP Podyjí je situován mezi Znojmem a Vranovem nad Dyjí při státní hranici se sousedním Rakouskem. V roce 2000 byl vyhlášen také Národní park Thayatal na pravém rakouském břehu Dyje, čímž vzniklo jedinečné bilaterární území evropského významu. 
