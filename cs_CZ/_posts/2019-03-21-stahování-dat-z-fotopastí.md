@@ -2,7 +2,7 @@
 title: Stahování dat z fotopastí
 published: true
 image: /media/dscn4570.jpg
-gallery: /projects/3lynx.html
+gallery: /projects/3lynx
 lang_alternatives:
   en_GB: {}
 date: '2019-03-21 00:00:00 +0100'
