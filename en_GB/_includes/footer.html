@@ -1,0 +1,57 @@
+<div id="push"></div>
+<div id="footer-wrapper">
+  <div class="footer-wrapper-inner p-top-1 p-bottom-1">
+    <div id="copyright-row">
+      <div class="row-container">
+        <div class="container-fluid">
+          <div class="flex flex--small-wrap space-between">
+            <div id="copyright">
+              <span class="siteName">
+                {%- include helpers/author.html author=site.author -%}
+              </span>
+              <span class="copy">&copy;</span>
+              <span>{{ site.time | date: '%Y' }}</span>
+              {% for fund in site.data.footer.funded_by %}
+                {% unless fund.description.size > 0 %}
+                  {% continue %}
+                {% endunless %}
+                <p class="f-10{% if forloop.first %} m-top-2{% endif %}">
+                  {% for description in fund.description %}
+                    {% unless forloop.first %}<br>{% endunless %}
+                    <span lang="{{ description.lang }}">{{ description.body }}</span>
+                  {% endfor %}
+                </p>
+              {% endfor %}
+            </div>
+            {% if site.data.footer.funded_by.size > 0 %}
+              <div class="flex flex--wrap flex--centered flex--even">
+              {% for fund in site.data.footer.funded_by %}
+                {% unless fund.logos.size > 0 %}
+                  {% continue %}
+                {% endunless %}
+                {% for logo in fund.logos %}
+                  {% assign style = "" |
+                       append: "object-fit: contain !important; " |
+                       append: "width: auto; " |
+                       append: "height: " |
+                       append: logo.height |
+                       append: "px; " |
+                       append: "margin: " |
+                       append: logo.margin_top_bottom |
+                       append: "px " |
+                       append: logo.margin_left_right |
+                       append: "px;" %}
+                  <img src="{{ logo.image | relative_url }}" style="{{ style }}">
+                {% endfor %}
+              {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="back-top">
+  <a href="#"><span></span></a>
+</div>

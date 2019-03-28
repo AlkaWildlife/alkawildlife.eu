@@ -1,0 +1,12 @@
+{%- if include.item.description -%}
+  {{- include.item.description -}}
+{%- elsif include.markdownify -%}
+  {{- include.item.content |
+        markdownify |
+        strip_html |
+        truncatewords: include.words -}}
+{%- else -%}
+  {{- include.item.content |
+        strip_html |
+        truncatewords: include.words -}}
+{%- endif -%}

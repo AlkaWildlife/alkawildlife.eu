@@ -1,0 +1,130 @@
+---
+layout: publications
+---
+{%- capture site_lang -%}
+    {%- include helpers/language.html locale=site.lang -%}
+{%- endcapture -%}
+{%- if page.lang and page.lang != site_lang -%}
+  {%- assign has_foreign_lang = true -%}
+{%- else -%}
+  {%- assign has_foreign_lang = false -%}
+{%- endif -%}
+
+<div class="item_fulltext">
+  {% if page.authors and page.authors.size > 0 %}
+    <h4{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>
+      {%- if page.authors and page.authors.size > 1 -%}
+        {{ site.data.publications.authors.many }}
+      {%- else -%}
+        {{ site.data.publications.authors.one }}
+      {%- endif -%}
+    </h4>
+    <p>
+      {%- for author in page.authors -%}
+        {%- unless forloop.first %}, {% endunless -%}
+        {{- author.name -}}
+      {%- endfor -%}
+    </p>
+  {% endif %}
+
+  {% if page.publisher %}
+    <h4{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>{{ site.data.publications.publisher }}</h4>
+    <p>{{ page.publisher }}</p>
+  {% endif %}
+
+  {% if page.journal %}
+    <h4{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>{{ site.data.publications.journal }}</h4>
+    <p>{{ page.journal }}</p>
+  {% endif %}
+
+  {% if page.year %}
+    <h4{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>{{ site.data.publications.year }}</h4>
+    <p{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}><time>{{ page.year }}</time></p>
+  {% endif %}
+
+  {{ content }}
+
+  {%- assign last_path_segment = page.link |
+        split: "/" |
+        last -%}
+  {%- assign extension = last_path_segment |
+        split: "." |
+        last -%}
+  {%- assign normalized_extension = extension | upcase -%}
+  {%- if extension.size > 0 and
+         last_path_segment != extension and
+         normalized_extension != "HTML" -%}
+    {%- assign has_extension = true -%}
+  {%- else -%}
+    {%- assign has_extension = false -%}
+  {%- endif -%}
+
+  <p{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>
+    {%- if page.public -%}
+      <a href="{{ page.link }}"{% if has_foreign_lang %} hreflang="{{ page.lang }}"{% endif %}>
+        {%- if has_foreign_lang -%}
+          {{ site.data.publications.download |
+               replace: "%@", '<span lang="%!">%@</span>' |
+               replace: "%!", page.lang |
+               replace: "%@", page.title }}
+        {%- else -%}
+          {{ site.data.publications.download |
+               replace: "%@", page.title }}
+        {%- endif -%}
+      </a>
+      {%- if has_foreign_lang or has_extension -%}
+        {{- " " -}}
+        (
+        {%- if has_foreign_lang -%}
+          {%- include helpers/cldr.html name="languages"
+                                        type=page.lang -%}
+        {%- endif -%}
+        {%- if has_foreign_lang and has_extension %}, {% endif -%}
+        {%- if has_extension -%}
+          {{ normalized_extension }}
+        {%- endif -%}
+        )
+      {%- endif -%}
+    {%- else -%}
+      {{- site.data.publications.request -}}</a>
+    {%- endif -%}
+  </p>
+
+  {% if page.attachments and page.attachments.size > 0 %}
+    <h4{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>{{ site.data.publications.attachments }}</h4>
+    <ul>
+      {%- for attachment in page.attachments -%}
+        {%- assign last_path_segment = attachment.link |
+              split: "/" |
+              last -%}
+        {%- assign extension = last_path_segment |
+              split: "." |
+              last -%}
+        {%- assign normalized_extension = extension | upcase -%}
+        {%- if extension.size > 0 and
+               last_path_segment != extension and
+               normalized_extension != "HTML" -%}
+          {%- assign has_extension = true -%}
+        {%- else -%}
+          {%- assign has_extension = false -%}
+        {%- endif -%}
+
+        <li>
+          {%- if attachment.title -%}
+            <a href="{{ attachment.link }}">{{ attachment.title }}</a>
+          {%- else -%}
+            <a href="{{ attachment.link }}">{{ last_path_segment }}</a>
+          {%- endif -%}
+          {%- if has_extension -%}
+            {{- " " -}}
+            {%- if has_foreign_lang %}<span lang="{{ site.lang }}">{% endif -%}
+            ({{ normalized_extension }})
+            {%- if has_foreign_lang %}</span>{% endif -%}
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {% endif %}
+</div>
+
+{% include content_gallery.html %}

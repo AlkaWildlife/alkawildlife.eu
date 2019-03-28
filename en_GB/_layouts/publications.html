@@ -1,0 +1,180 @@
+---
+layout: default
+---
+{% unless sorted_publications %}
+  {% include sorted_publications.html %}
+{% endunless %}
+
+{% for publication in sorted_publications %}
+  {% assign tags = tags | concat: publication.tags | uniq %}
+{% endfor %}
+{% assign types = sorted_publications | map: "type" | uniq %}
+
+{% assign filterable_types = site.publication_types | sort: "position" %}
+{% for filterable_type in filterable_types %}
+  {% unless types contains filterable_type.title %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_types = site.publication_types |
+       where: "id", filterable_type.id %}
+  {% assign filtered_types = filtered_types | concat: matching_types %}
+{% endfor %}
+
+{% assign filterable_tags = site.filterable_tags | sort: "position" %}
+{% for filterable_tag in filterable_tags %}
+  {% unless tags contains filterable_tag.title %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_tags = site.filterable_tags |
+       where: "id", filterable_tag.id %}
+  {% assign filtered_tags = filtered_tags | concat: matching_tags %}
+{% endfor %}
+
+{% assign filterable_dates = sorted_publications | map: "year" | uniq %}
+
+{%- capture site_lang -%}
+    {%- include helpers/language.html locale=site.lang -%}
+{%- endcapture -%}
+{%- if page.lang and page.lang != site_lang -%}
+    {%- assign has_foreign_lang = true -%}
+{%- else -%}
+    {%- assign has_foreign_lang = false -%}
+{%- endif -%}
+
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <!-- Left sidebar -->
+        <div id="component" class="span8">
+
+          <div class="page-blog page-blog__">
+            <div class="page_header">
+              <h3>
+                <span class="item_title_part0">{{ page.title }}</span>
+                {%- if page.subtitle -%}
+                <br><small>{{ page.subtitle }}</small>
+                {%- endif -%}
+                {%- if page.type -%}
+                <br><small{% if has_foreign_lang %} lang="{{ site.lang }}"{% endif %}>{{ page.type }}</small>
+                {%- endif -%}
+              </h3>
+            </div>
+            {{ content }}
+          </div>
+        </div>
+        <!-- Right sidebar -->
+        <div id="aside-right" class="span4">
+          <aside></aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/assets/javascripts/listing-filter.js"></script>
+<script>listingFilter({
+  filterable: document.getElementsByClassName("js-publication"),
+  notSupported: {{ site.data.publications.filter.not_supported | jsonify }},
+  types: [{
+    id: "type",
+    title: {{ site.data.publications.filter.by_type | jsonify }},
+    match: function(publicationEl, valIds) {
+      var typeEl =
+        publicationEl.getElementsByClassName("js-publication-type")[0]
+
+      return valIds.indexOf(typeEl.getAttribute("data-filter-val")) >= 0
+    },
+    values: function(publicationEl) {
+      var typeEl =
+        publicationEl.getElementsByClassName("js-publication-type")[0]
+
+      return [{
+        id: typeEl.getAttribute("data-filter-val"),
+        title: typeEl.textContent,
+        order: +typeEl.getAttribute("data-filter-ord")
+      }]
+    },
+    sort: [
+      ['asc', function(val) { return val.order }],
+      ['asc', function(val) { return val.hasOwnProperty("title") ?
+                                val.title :
+                                val.id }]
+    ]
+  }, {
+    id: "category",
+    title: {{ site.data.publications.filter.by_tag | jsonify }},
+    match: function(publicationEl, valIds) {
+      var categoryEls =
+        publicationEl.getElementsByClassName("js-publication-category")
+
+      return valIds.every(function(valId) {
+        var i
+        for (i = 0; i < categoryEls.length; i += 1) {
+          if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+          if (valId === categoryEls[i].getAttribute("data-filter-val")) {
+            return true
+          }
+        }
+
+        return false
+      })
+    },
+    values: function(publicationEl) {
+      var categories = []
+      var categoryEls =
+        publicationEl.getElementsByClassName("js-publication-category")
+      var i
+      for (i = 0; i < categoryEls.length; i += 1) {
+        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+
+        categories.push({
+          id: categoryEls[i].getAttribute("data-filter-val"),
+          title: categoryEls[i].textContent.trim(),
+          order: +categoryEls[i].getAttribute("data-filter-ord")
+        })
+      }
+
+      return categories
+    },
+    sort: [
+      ['asc', function(val) { return val.order }],
+      ['asc', function(val) { return val.hasOwnProperty("title") ?
+                                val.title :
+                                val.id }]
+    ]
+  }, {
+    id: "date",
+    title: {{ site.data.publications.filter.by_date | jsonify }},
+    match: function(publicationEl, valIds) {
+      var yearEl =
+        publicationEl.getElementsByClassName("js-publication-year")[0]
+
+      return valIds.indexOf(yearEl.textContent) >= 0
+    },
+    values: function(publicationEl) {
+      var yearEl =
+        publicationEl.getElementsByClassName("js-publication-year")[0]
+
+      return [{
+        id: yearEl.textContent
+      }]
+    },
+    sort: [
+      ['desc', function(val) { return val.id }]
+    ]
+  }]
+})</script>

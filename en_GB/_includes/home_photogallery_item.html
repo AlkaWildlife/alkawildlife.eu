@@ -1,0 +1,11 @@
+<div class="span6 item item_num{{ forloop.index0 }} item__module">
+  <div class="item_img img-intro img-intro__none img-intro__homepage">
+    <a href="{{ "/gallery" | relative_url }}">
+      <img src="{{ include.photo.home_thumbnail | default: include.photo.image | relative_url }}">
+    </a>
+  </div>
+  <div class="item_content">
+    <div class="item_introtext"></div>
+  </div>
+  <div class="clearfix"></div>
+</div>

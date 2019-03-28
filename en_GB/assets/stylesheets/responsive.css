@@ -1,0 +1,392 @@
+.clearfix {
+  *zoom: 1; }
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0; }
+
+.clearfix:after {
+  clear: both; }
+
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0; }
+
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/*== 1200px and beyond ===================================================
+========================================================================*/
+/* Large desktop */
+/*== Up to 1200px =====================================================
+========================================================================*/
+/* Large desktop */
+@media (max-width: 1200px) {
+  #contact_map {
+    height: 376px; }
+
+  ul.gallery {
+    margin-left: -20px; }
+
+  ul.gallery .gallery-item {
+    padding-left: 20px; }
+
+  .navigation ul.sf-menu > li > a,
+  .navigation ul.sf-menu > li > span {
+    padding: 0 28px; }
+
+  body .row-container {
+    padding: 0 20px; }
+
+  #maintop-row .animals .item {
+    margin: 0 20px 0 0;
+    width: 21%; }
+
+  .img-intro__left {
+    margin: 0 18px 9px 0; }
+
+  .img-intro__right {
+    margin: 0 9px 0 18px; }
+
+  #mainbottom-row .projects {
+    padding: 0 10px 0 0; }
+
+  #mainbottom-row .projects .item {
+    width: 43%;
+    margin: 0 20px 8px 0; }
+
+  #mainbottom-row .vision,
+  #mainbottom-row .whyus {
+    padding: 0 10px 0 0; }
+
+  #copyright-row #copyright {
+    width: 31%; }
+
+  #content-bottom-row .team .img-intro__left {
+    margin: 5px 18px 0 0; }
+
+  .img-full {
+    margin: 0 20px 9px 0; } }
+/*== Up to 980px ======================================================
+========================================================================*/
+/* Narrow desktop */
+@media (max-width: 980px) {
+  .thumbnails {
+    margin-left: -12px; }
+
+  .thumbnails > li {
+    margin-left: 12px; }
+
+  /*footer*/
+  #back-top {
+    display: none !important; }
+
+  ul.gallery {
+    margin-left: -12px; }
+
+  ul.gallery .gallery-item {
+    padding-left: 12px; }
+
+  .navigation ul.sf-menu > li > a,
+  .navigation ul.sf-menu > li > span {
+    padding: 0 15px; }
+
+  #header-row .search-block {
+    margin: 10px 0 0; }
+
+  .img-full__left {
+    margin: 0 10px 9px 0;
+    float: none; } }
+/*== Up to 980px and beyond 768px ======================================
+========================================================================*/
+/* Portrait tablet to landscape and desktop */
+/*== Up to 767px ======================================================
+========================================================================*/
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  body {
+    padding: 0; }
+
+  #wrapper {
+    margin: 0; }
+
+  #footer-wrapper {
+    height: auto; }
+
+  #push {
+    display: none; }
+
+  #logo {
+    text-align: center; }
+
+  #logo a {
+    margin: 0; }
+
+  .nav.menu.pull-right.nav-pills {
+    float: none;
+    text-align: center; }
+
+  .nav.menu.pull-right.nav-pills li {
+    float: none;
+    display: inline-block; }
+
+  .social {
+    text-align: center;
+    padding: 0 0 10px; }
+
+  /*navigation*/
+  .select-menu {
+    display: block;
+    width: 100%; }
+
+  .sf-menu {
+    display: none; }
+
+  /*content*/
+  .item-image.blog-image {
+    float: none;
+    margin: 0 0 20px 0; }
+
+  .row-fluid [class*="itemSpan"] {
+    display: block;
+    float: none;
+    margin-left: 0;
+    width: auto; }
+
+  /*gallery*/
+  .page-gallery ul.gallery {
+    margin-left: 0; }
+
+  .page-gallery ul.gallery .gallery-item {
+    padding-left: 0;
+    float: none; }
+
+  .page-gallery ul.gallery .gallery-item .item_img {
+    float: left;
+    margin: 0 19px 19px 0 !important; }
+
+  /*contact*/
+  .contact_details .contact_details_item {
+    width: 30%;
+    float: left; }
+
+  /*Modules*/
+  /*search*/
+  .mod-search__aside .mod-search_searchword {
+    width: 50%; }
+
+  /*login*/
+  .mod-login__aside .mod-login_username,
+  .mod-login__aside .mod-login_passwd {
+    width: 50%; }
+
+  #back-top {
+    display: none !important; }
+
+  #top-row .row-fluid .navigation {
+    padding: 15px 20px 0; }
+
+  #header-row .search-block {
+    margin: 30px auto 0;
+    float: none; }
+
+  #feature-row .moduletable {
+    clear: both;
+    margin: 0 0 40px; }
+
+  #feature-row .moduletable .img-intro {
+    float: none;
+    margin: 0 9px 9px 0; }
+
+  #mainbottom-row .moduletable {
+    clear: both;
+    margin: 0 0 30px; }
+
+  #maintop-row .endangered {
+    margin: 0 0 40px; }
+
+  #maintop-row .animals .item {
+    margin: 0 20px 0 0;
+    width: 22%;
+    float: left; }
+
+  #mainbottom-row .projects {
+    padding: 0 10px 0 0; }
+
+  #mainbottom-row .projects .row-fluid {
+    float: left;
+    width: 50%; }
+
+  #mainbottom-row .projects .item {
+    width: 24%;
+    margin: 0 28% 8px 0;
+    float: left; }
+
+  #copyright-row #copyright {
+    width: 100%;
+    text-align: center; }
+
+  #aside-right {
+    margin: 40px 0 0; }
+
+  .conservation .item {
+    margin-bottom: 35px; } }
+/*== Up to 640px ==================================================
+====================================================================*/
+@media (max-width: 640px) {
+  /*contact*/
+  .contact_details {
+    margin-bottom: 19px; }
+
+  .contact_details .contact_details_item {
+    width: 100%;
+    float: none; }
+
+  #maintop-row .animals .item {
+    margin: 0 20px 0 0;
+    width: 21%;
+    float: left; }
+
+  #mainbottom-row .projects .row-fluid {
+    width: 100%; }
+
+  #mainbottom-row .projects .item {
+    width: 24%;
+    margin: 0 20% 8px 0; } }
+/*== Up to 480px ==================================================
+====================================================================*/
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  /*contact*/
+  .contact_form {
+    width: 100%; }
+
+  /*registration*/
+  .page-registration form input,
+  .page-remind form input,
+  .page-reset form input,
+  .page-login form input,
+  .page-login form input,
+  .page-profile__edit form input,
+  .page-registration form select,
+  .page-remind form select,
+  .page-reset form select,
+  .page-login form select,
+  .page-login form select,
+  .page-profile__edit form select {
+    width: 100%; }
+
+  .page-registration form label,
+  .page-remind form label,
+  .page-reset form label,
+  .page-login form label,
+  .page-login form label,
+  .page-profile__edit form label {
+    display: inline-block; }
+
+  .pagination ul li {
+    display: none; }
+
+  .pagination ul li.pagination-prev,
+  .pagination ul li.pagination-next {
+    display: inline-block; }
+
+  /*gallery*/
+  .page-gallery .item_img.img-intro {
+    float: none;
+    margin: 0 0 19px 0; }
+
+  .page-gallery ul.gallery .gallery-item {
+    text-align: center; }
+
+  .page-gallery ul.gallery .gallery-item .item_img {
+    float: none;
+    margin: 0 0 19px 0 !important;
+    display: inline-block; }
+
+  .img-full__left.span5 {
+    width: 100%;
+    margin-right: 0; }
+
+  /*blog*/
+  .page-blog .item_img.img-intro {
+    float: none;
+    margin: 0 0 19px 0; }
+
+  /*archive*/
+  .page-archive_filters select {
+    display: block;
+    width: 100%; }
+
+  /*contact*/
+  .contact_details .contact_details_item {
+    width: 100%;
+    float: none; }
+
+  /*Modules*/
+  /*search*/
+  .mod-search__aside .mod-search_searchword {
+    width: 100%; }
+
+  /*login*/
+  .mod-login__aside .mod-login_userdata {
+    width: 100%;
+    overflow: hidden; }
+
+  .mod-login__aside .mod-login_username,
+  .mod-login__aside .mod-login_passwd {
+    width: 100%; }
+
+  div.modal {
+    position: absolute; }
+
+  #maintop-row .animals .item {
+    margin: 0 20px 0 0;
+    width: 42%;
+    float: left; }
+
+  #mainbottom-row .projects {
+    padding: 0 10px 0 0; }
+
+  #mainbottom-row .projects .row-fluid {
+    float: left;
+    width: 100%; }
+
+  #mainbottom-row .projects .item {
+    width: 44%;
+    margin: 0 10% 8px 0;
+    float: left; }
+
+  .page-category .img-intro {
+    float: none; } }
+/*== Up to 340px =====================================================
+========================================================================*/
+/* Portrait phones */
+@media (max-width: 340px) {
+  #maintop-row .animals .item {
+    margin: 0;
+    width: 100%;
+    float: left; }
+
+  #mainbottom-row .projects .item {
+    width: 30%;
+    margin: 0 10% 8px 0; }
+
+  .page-gallery .img-intro img,
+  .page-item__gallery .img-intro img,
+  .page-gallery .img-full img,
+  .page-item__gallery .img-full img {
+    border: none; }
+
+  .page-gallery ul.gallery .gallery-item .item_img {
+    display: block; } }

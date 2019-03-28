@@ -1,0 +1,16 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CLDR Languages v{{ site.data.languages.cldr_release }}</title>
+  </head>
+  <body>
+    <ul id="languages">
+      {%- for language in site.data.languages.en -%}
+        <li id="{{ language.type }}">{{ language.name }}</li>
+      {%- endfor -%}
+    </ul>
+  </body>
+</html>

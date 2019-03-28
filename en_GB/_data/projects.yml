@@ -1,0 +1,24 @@
+more: More
+filter:
+  not_supported: >-
+    You can filter user questions and answers by different criteria in
+    modern browsers.
+  by_tag: Categories
+  by_date: Projects active in year
+
+partners: Partners
+funding: Funding
+budget: Budget
+registration_no: Registration №
+web: Website
+period:
+  only_from: Started
+  from_to: Date
+  to_today: today
+contacts:
+  one: Contact
+  many: Contacts
+species: Target species
+area: Target area
+countries: Countries
+default_country: CZ

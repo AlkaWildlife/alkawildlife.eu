@@ -1,0 +1,38 @@
+showcases:
+  time: 12000
+  trans_period: 800
+news:
+  all: Latest news
+links:
+  - image: /media/syslinavinici.jpg
+    title: Sysli na vinici
+    url: 'https://www.syslinavinici.cz'
+  - image: /media/vydryonline.jpg
+    title: Vydry online
+    url: 'https://www.vydryonline.cz'
+  - image: /media/vydrynasilnici.jpg
+    title: Vydry na silnici
+    url: 'http://www.vydrynasilnici.cz'
+  - image: /media/vydristezky.jpg
+    title: Vydří stezka
+    url: 'https://www.vydristezky.cz'
+  - image: /media/map_translynx_eu.jpg
+    title: Rysí mapa
+    url: 'http://map.translynx.eu/cs'
+mission:
+  body: "# Mise\n\nNašim posláním je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
+gallery:
+  title: Photogallery
+appeal:
+  body: >-
+    # Výzva
+
+
+    Z celé ČR pro účely výzkumu a ochrany námi sledovaných druhů sbíráme
+    kadávery či data o vybraných druzích. Pomozte nám a dejte nám vědět o svém
+    nálezu. Instrukce ke sběru a hlášení zde.
+other:
+  body: |
+    # Facebook
+
+    [![](/media/facebook.jpg)](https://www.facebook.com/AlkaWildlife)

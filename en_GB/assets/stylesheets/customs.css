@@ -1,0 +1,194 @@
+/* Customize homepage */
+.body__home h4 {
+  height: 36px; }
+
+article {
+  max-width: 40rem; }
+
+.object-fit-cover {
+  object-fit: cover; }
+
+.home__news-image {
+  height: 8rem;
+  width: 100%; }
+
+.logo {
+  max-height: 120px;
+  width: auto !important; }
+
+.flex {
+  display: flex; }
+
+.block {
+  display: block; }
+
+.error {
+  color: red; }
+
+.gallery .item_author {
+  margin-top: 5px; }
+.gallery__image {
+  width: 15rem;
+  height: 9.375rem; }
+
+.user-question__message {
+  height: 10rem; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.breadcrumb {
+  padding: 0;
+  background-color: transparent; }
+  .breadcrumb__item {
+    padding: 0 5px; }
+
+.navigation ul.sf-menu > li > a {
+  font-size: 1rem;
+  padding: 0 1.5rem; }
+
+.img-full {
+  margin-bottom: 2rem; }
+
+.item_fulltext {
+  line-height: 1.5em; }
+  .item_fulltext ul {
+    margin-bottom: 1em; }
+    .item_fulltext ul li {
+      line-height: 1.5em;
+      list-style-type: disc; }
+
+.search-term, .search-results {
+  font-size: 1rem; }
+
+.search-results {
+  line-height: 1.4em;
+  margin-top: 2rem; }
+  .search-results__item {
+    border-bottom: 1px solid rgba(94, 138, 27, 0.24);
+    margin-top: 1rem;
+    padding-bottom: 1rem; }
+
+#header-row .row-container .row-fluid,
+#top-row .row-fluid .navigation {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%; }
+
+#showcase-row .showcase {
+  height: 25vw; }
+  #showcase-row .showcase:before, #showcase-row .showcase:after {
+    content: "";
+    background: #617b00;
+    opacity: .57;
+    width: 100%;
+    height: 7px;
+    position: absolute;
+    display: block;
+    margin: 0;
+    left: 0;
+    z-index: 2; }
+  #showcase-row .showcase img {
+    width: 100%;
+    height: 100%; }
+
+#footer-wrapper {
+  background: none; }
+
+.separator {
+  border-bottom: 2px solid rgba(97, 123, 0, 0.57); }
+
+.locomotive-editable-text ul {
+  list-style: none;
+  float: left; }
+.locomotive-editable-text .item_content {
+  float: left; }
+
+.article-gallery-list {
+  list-style: none;
+  margin: 0; }
+
+.article-gallery-item {
+  display: inline-block; }
+
+.article-gallery-item + .article-gallery-item {
+  margin-left: 10px; }
+
+.article-gallery-link {
+  display: inline-block; }
+  .article-gallery-link img {
+    border: 5px solid #dab77f; }
+
+.navigation ul.sf-menu > li.lastItem a {
+  background: none; }
+
+#header-row .search-block {
+  margin-top: 42px; }
+
+#claim {
+  text-align: center;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+@media (max-width: 767px) {
+  #claim {
+    display: none; } }
+ul.gallery .gallery-item {
+  padding-bottom: 30px; }
+  ul.gallery .gallery-item p {
+    display: inline; }
+
+.remove-all-the-styles * {
+  font-size: 13px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  display: inline !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  color: #617277 !important;
+  background: none !important;
+  text-decoration: none !important;
+  text-transform: none !important;
+  border: none !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
+.remove-all-the-styles h1::before, .remove-all-the-styles h2::before, .remove-all-the-styles h3::before, .remove-all-the-styles h4::before, .remove-all-the-styles h5::before, .remove-all-the-styles h6::before {
+  content: " " !important; }
+.remove-all-the-styles h1::after, .remove-all-the-styles h2::after, .remove-all-the-styles h3::after, .remove-all-the-styles h4::after, .remove-all-the-styles h5::after, .remove-all-the-styles h6::after {
+  content: ". " !important; }
+.remove-all-the-styles br {
+  content: "" !important;
+  display: inline-block !important;
+  width: 0.2rem; }
+.remove-all-the-styles hr, .remove-all-the-styles img {
+  display: none !important; }
+
+@media (max-width: 767px) {
+  .animals .flex {
+    display: block !important; }
+
+  .animals .item {
+    width: 28% !important; }
+
+  img {
+    object-fit: cover !important;
+    width: 100%; } }
+@media (max-width: 435px) {
+  .animals .item {
+    width: 44% !important; } }
+@media (max-width: 320px) {
+  .animals .item {
+    width: 100% !important;
+    margin: 0; }
+
+  img {
+    height: 120px; }
+
+  #mainbottom-row .projects .item {
+    width: 45%; } }
+p:empty, div:empty, span:empty {
+  display: none; }
+
+#push {
+  display: block !important; }

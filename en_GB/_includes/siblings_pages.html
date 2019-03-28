@@ -1,0 +1,63 @@
+{% capture page_url -%}
+  {% include helpers/pretty_url.html page=page %}
+{%- endcapture %}
+{% assign url_parts = page_url | split: "/" %}
+{% assign url_prefix = "" %}
+{% for url_part in url_parts %}
+  {% if forloop.last == true and forloop.first == false %}
+    {% continue %}
+  {% elsif forloop.last == true and forloop.first == true %}
+    {% assign url_prefix = "/" %}
+    {% continue %}
+  {% endif %}
+  {% assign url_prefix = url_prefix |
+       append: url_part |
+       append: "/" %}
+{% endfor %}
+
+{% assign sibling_pages = site.pages |
+     concat: site.md_pages |
+     where_exp: "p", "p.url contains url_prefix" |
+     sort: "position" %}
+{% for sibling in sibling_pages %}
+
+  {% if sibling.url == page.url %}{% continue %}{% endif %}
+
+  {% capture sibling_url -%}
+    {% include helpers/pretty_url.html page=sibling %}
+  {%- endcapture %}
+
+  {% assign url_parts_size_check = sibling_url | split: "/" | size %}
+  {% if url_parts_size_check > url_parts.size %}
+    {% continue %}
+  {% endif %}
+
+  <div class="items-row cols-1 row-0 row-fluid">
+    <div class="span12">
+      <div class="item column-1">
+
+        {% if sibling.image and false %}
+          <div class="item_img img-intro img-intro__left">
+            <a href="{{ sibling_url | relative_url }}">
+              <img src="{{ sibling.related_thumbnail | default: sibling.image | relative_url }}">
+            </a>
+          </div>
+        {% endif %}
+
+        <div class="item_header">
+          <h4 class="item_title">
+            {% if sibling.long_title %}
+              <a href="{{ sibling_url | relative_url }}">{{ sibling.long_title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+            {% else %}
+              <a href="{{ sibling_url | relative_url }}">{{ sibling.title }}</a>
+            {% endif %}
+          </h4>
+        </div>
+        <div class="item_introtext">
+          {% include helpers/description.html item=sibling words=22
+                                              markdownify=true %}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}

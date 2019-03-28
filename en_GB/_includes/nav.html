@@ -1,0 +1,76 @@
+<div id="top-row">
+  {% if site.lang_alternatives and site.lang_alternatives.size > 0 %}
+    <div class="language-switch">
+      {% for alt in site.lang_alternatives %}
+        {% if page.lang_alternatives[alt.lang] %}
+          <a href="{{ alt.url | append: page.lang_alternatives[alt.lang].permalink }}" hreflang="{{ alt.lang | replace: "_", "-" }}" lang="{{ alt.lang | replace: "_", "-" }}" title="{{ alt.title | replace: "%@", page.lang_alternatives[alt.lang].title }}">
+            <img alt="{{ alt.label }}" src="{{ alt.icon | relative_url }}">
+          </a>
+        {% else %}
+          <a href="{{ alt.url }}" hreflang="{{ alt.lang | replace: "_", "-" }}" lang="{{ alt.lang | replace: "_", "-" }}">
+            <img alt="{{ alt.label }}" src="{{ alt.icon | relative_url }}">
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
+  <div class="row-container">
+    <div class="container-fluid">
+      <div id="top" class="row-fluid">
+        <div class="moduletable navigation  span12">
+          <ul class="sf-menu">
+            {% assign listable_pages = site.pages |
+                 concat: site.md_pages |
+                 where: "listed", true |
+                 sort: "position" %}
+            {% include nav_items.html pages=listable_pages %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+// initialise plugins
+jQuery(function() {
+  jQuery('ul.sf-menu')
+
+  .superfish({
+    hoverClass: 'sfHover',
+    pathClass: 'overideThisToUse',
+    pathLevels: 1,
+    delay: 500,
+    animation: {
+        opacity: 'show',
+        height: 'show'
+    },
+    speed: 'normal',
+    speedOut: 'fast',
+    autoArrows: false,
+    disableHI: false,
+    useClick: 0,
+    easing: "swing",
+    onInit: function() {},
+    onBeforeShow: function() {},
+    onShow: function() {},
+    onHide: function() {},
+    onIdle: function() {}
+  });
+});
+
+jQuery(function() {
+  jQuery('.sf-menu').mobileMenu({
+    defaultText: 'Navigate to...',
+    className: 'select-menu',
+    subMenuClass: 'sub-menu'
+  });
+})
+
+jQuery(function() {
+  var ismobile = navigator.userAgent.match(/(iPhone)|(iPod)|(android)|(webOS)/i)
+  if (ismobile) {
+    jQuery('.sf-menu').sftouchscreen({});
+  }
+})
+</script>

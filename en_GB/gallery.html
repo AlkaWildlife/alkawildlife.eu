@@ -1,0 +1,167 @@
+---
+title: Photos
+published: true
+listed: false
+position: 4
+layout: contentpage
+---
+{% assign photo_posts = site.posts |
+     where_exp: "post", "post.categories contains 'gallery'" %}
+{% for photo in photo_posts %}
+  {% assign tags = tags | concat: photo.tags | uniq %}
+{% endfor %}
+
+{% assign filterable_tags = site.filterable_tags | sort: "position" %}
+{% for filterable_tag in filterable_tags %}
+  {% unless tags contains filterable_tag.title %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_tags = site.filterable_tags |
+       where: "id", filterable_tag.id %}
+  {% assign filtered_tags = filtered_tags | concat: matching_tags %}
+{% endfor %}
+
+<div class="page-gallery page-gallery__gallery">
+  <div class="page_header">
+    <h3>{{ site.data.gallery.long_title | markdownify | remove: "<p>" | remove: "</p>" }}</h3>
+    {{ site.data.gallery.body | markdownify }}
+  </div>
+  {% if filtered_tags.size > 0 %}
+    <!-- Filter -->
+    <div id="filters" class="filters">
+      <div class="m-bottom-1">
+        <a href="#" data-filter="*" class="selected">
+          {{ site.data.gallery.filter.all }}
+        </a>
+      </div>
+      <div>
+        <b>{{ site.data.gallery.filter.by_tag }}:</b>
+        <ul class="inline-block m-left-0 p-left-0">
+          {% for filtered_tag in filtered_tags %}
+            {% capture tag_slug -%}
+              {% include helpers/slug.html page=filtered_tag %}
+            {%- endcapture %}
+            <li class="inline-block p-left-1">
+              <a class="" href="#" data-filter=".{{ tag_slug | url_decode }}">{{ filtered_tag.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endif %}
+  <div class="row-fluid">
+    <ul id="isotopeContainer" class="gallery items-row cols-4 isotope">
+      {% for photo in photo_posts %}
+        {% include gallery_item.html photo=photo %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<script>
+jQuery(function() {
+  var $ = jQuery
+
+  var $cols = 4;
+  var $container = $('#isotopeContainer');
+
+  $item = $('.gallery-item')
+  $item.outerWidth(Math.floor($container.width() / $cols));
+
+  $container.isotope({
+    animationEngine: 'best-available',
+    animationOptions: {
+      queue: false,
+      duration: 800
+    },
+    containerClass: 'isotope',
+    containerStyle: {
+      position: 'relative',
+      overflow: 'hidden'
+    },
+    hiddenClass: 'isotope-hidden',
+    itemClass: 'isotope-item',
+    resizable: true,
+    resizesContainer: true,
+    transformsEnabled: !$.browser.opera // disable transforms in Opera
+  });
+
+  if ($container.width() <= '767') {
+    $item.outerWidth($container.width());
+    $item.addClass('straightDown');
+    $container.isotope({
+      layoutMode: 'straightDown'
+    });
+  } else {
+    $item.removeClass('straightDown');
+    $container.isotope({
+      layoutMode: 'fitRows'
+    });
+  }
+
+  $(window).resize(function() {
+    $item.outerWidth(Math.floor($container.width() / $cols));
+    if ($container.width() <= '767') {
+      $item.outerWidth($container.width());
+      $item.addClass('straightDown');
+      $container.isotope({
+        layoutMode: 'straightDown'
+      });
+    } else {
+      $item.outerWidth(Math.floor($container.width() / $cols));
+      $item.removeClass('straightDown');
+      $container.isotope({
+        layoutMode: 'fitRows'
+      });
+    }
+  });
+
+  var $container = $('#isotopeContainer');
+
+  // filter items when filter link is clicked
+  $('#filters a').click(function() {
+    var selector = $(this).attr('data-filter');
+    $container.isotope({
+      filter: selector
+    });
+    return false;
+  });
+
+  var $optionSets = $('#filters li'),
+    $optionLinks = $optionSets.find('a');
+
+  $optionLinks.click(function() {
+    var $this = $(this);
+    // don't proceed if already selected
+    if ($this.hasClass('selected')) {
+      return false;
+    }
+    var $optionSet = $this.parents('#filters');
+    $optionSet.find('.selected').removeClass('selected');
+    $this.addClass('selected');
+
+    // make option object dynamically, i.e. { filter: '.my-filter-class' }
+    var options = {},
+      key = $optionSet.attr('data-option-key'),
+      value = $this.attr('data-option-value');
+    // parse 'false' as false boolean
+    value = value === 'false' ? false : value;
+    options[key] = value;
+    if (key === 'layoutMode' && typeof changeLayoutMode === 'function') {
+      // changes in layout modes need extra logic
+      changeLayoutMode($this, options)
+    } else {
+      // otherwise, apply new options
+      $container.isotope(options);
+    }
+
+    return false;
+  })
+});
+</script>

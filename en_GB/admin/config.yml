@@ -1,0 +1,1523 @@
+backend:
+  name: github
+  repo: AlkaWildlife/alkawildlife.eu
+
+media_folder: media
+
+collections:
+- name: md_pages
+  label: Content pages
+  label_singular: Page
+  description: >-
+    Simple pages with single- or two-columns layout. The pages form a
+    hierarchy with created from their addresses. The top-most page in
+    the hierarchy is home page with address “/”. Its children are News
+    (“/news”), Gallery (“/gallery”) and Search (“/search”). Previously
+    named pages are special – do not create page with their addresses
+    or their children yourself. Anythis else is up to you… You can for
+    example create About Us page (“/about”) and then its child page
+    Our Team (“/about/team”). This hierarchy is used to generate
+    navigation menu, sibling pages (in the right column) and child
+    pages (under page content).
+  folder: en_GB/_md_pages
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: published
+    label: Published (publicly available under the following address)
+    widget: boolean
+    required: false
+    default: true
+  - name: permalink
+    label: Address (creates hierarchy—e.g., “/about/team” is a child of “/about” which is a child of “/”; shouldn’t contain white-space characters like space)
+    widget: string
+  - name: image
+    label: Image (610 × 358 px)
+    widget: image
+    required: false
+  - name: long_title
+    label: >-
+      Long title (heading right above content, you can wrap phrases
+      with * to emphasize them; defaults to plain title)
+    widget: string
+    required: false
+  - name: subtitle
+    label: Subtitle (optional small heading under long title)
+    widget: string
+    required: false
+  # - name: related_thumbnail
+  #   label: Thumbnail for listing in related pages (240 × 135 px)
+  #   widget: image
+  #   required: false
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
+  - name: body
+    label: Content
+    widget: markdown
+  - name: listed
+    label: Show in the navigation menu
+    widget: boolean
+    required: false
+  - name: position
+    label: Position among siblings in listings
+    widget: number
+    valueType: int
+    min: 1
+  - name: layout
+    label: Layout
+    widget: relation
+    collection: layouts
+    valueField: ref
+    searchFields:
+    - title
+  - name: aside_title
+    label: Heading for aside
+    widget: string
+    required: false
+  - name: aside_links
+    label: Content for aside above sibling pages listing
+    widget: markdown
+    required: false
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    required: false
+    fields:
+    - name: cs_CZ
+      label: Czech
+      widget: object
+      fields:
+      - name: title
+        label: Title in Czech
+        widget: string
+      - name: permalink
+        label: Address on Czech site
+        widget: string
+
+- name: special_pages
+  label: Special pages
+  description: >-
+    Pages created and maintained by developers which can be slightly
+    customized either here or in Site settings.
+  create: false
+  delete: false
+  files:
+
+  - name: index
+    label: Home
+    file: en_GB/index.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    meta:
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: news
+    label: News
+    file: en_GB/news.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+      required: false
+      default: true
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: gallery
+    label: Gallery
+    file: en_GB/gallery.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+      required: false
+      default: true
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: projects
+    label: Projects
+    file: en_GB/projects.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+      required: false
+      default: true
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: publications
+    label: Publications
+    file: en_GB/publications.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+      required: false
+      default: true
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: user_answers
+    label: User answers
+    file: en_GB/user-answers.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: published
+      label: Enabled
+      widget: boolean
+      required: false
+      default: true
+    - name: listed
+      label: Show in the navigation menu
+      widget: boolean
+      required: false
+    - name: position
+      label: Position among siblings in listings
+      widget: number
+      valueType: int
+      min: 1
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: search
+    label: Search
+    file: en_GB/search.html
+    format: frontmatter
+    extension: html
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+
+  - name: "404"
+    label: Page not found
+    file: en_GB/404.md
+    format: frontmatter
+    extension: md
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: shout
+      label: Shout (succinct message saying page wasn’t found)
+      widget: string
+    - name: shout_style
+      label: Shout style
+      widget: select
+      options:
+      - muted
+      - primary
+      - success
+      - info
+      - warning
+      - danger
+    - name: body
+      label: Body
+      widget: markdown
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+
+- name: galleries
+  label: Galleries
+  label_singular: Gallery
+  description: >-
+    Photo galleries linked to any content via its address. Gallery
+    photos are displayed under the content.
+  folder: en_GB/_galleries
+  create: true
+  fields:
+  - name: title
+    label: Page address (copy and paste from web browser address bar, and remove https:// and domain)
+    widget: string
+
+- name: news
+  label: News
+  folder: en_GB/_posts
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  filter:
+    field: category
+    value: news
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: published
+    label: Published
+    widget: boolean
+    required: false
+    default: true
+  - name: image
+    label: Image
+    widget: image
+  - name: listing_thumbnail
+    label: Optional thumbnail for news listing (274 × 175 px)
+    widget: image
+    required: false
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
+  - name: body
+    label: Content
+    widget: markdown
+  - name: date
+    label: "\U00002757 Published at (change with caution)"
+    widget: date
+    format: YYYY-MM-DD
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    required: false
+    fields:
+    - name: cs_CZ
+      label: Czech
+      widget: object
+      fields:
+      - name: title
+        label: Title in Czech
+        widget: string
+      - name: permalink
+        label: Address on Czech site
+        widget: string
+  - name: category
+    label: "\U0001F6AB Post type (do not change)"
+    widget: string
+    default: news
+  - name: layout
+    label: "\U0001F6AB Layout (do not change)"
+    widget: string
+    default: news
+
+- name: projects
+  label: Projects
+  label_singular: Project
+  description: Structured searchable projects.
+  folder: en_GB/_projects
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: published
+    label: Published
+    widget: boolean
+    required: false
+    default: true
+  - name: subtitle
+    label: Subtitle (optional small heading under long title)
+    widget: string
+    required: false
+  - name: registration_no
+    label: Registration number
+    widget: string
+    required: false
+  - name: funding
+    label: Financial resource
+    widget: markdown
+    required: false
+  - name: budget
+    label: Budget
+    widget: markdown
+    required: false
+  - name: from
+    label: >-
+      From (day is not significant, only month and year are applied;
+      if not set considered long-term)
+    widget: date
+    format: YYYY-MM
+    default: ""
+    required: false
+  - name: to
+    label: >-
+      To (day is not significant, only month and year are applied;
+      if not set considered currently active)
+    widget: date
+    format: YYYY-MM
+    default: ""
+    required: false
+  - name: partners
+    label: Partners
+    widget: markdown
+    required: false
+  - name: web
+    label: Website
+    widget: string
+    required: false
+  - name: contacts
+    label: Contacts
+    widget: list
+    required: false
+    fields:
+    - name: name
+      label: Name
+      widget: string
+    - name: role
+      label: Role
+      widget: string
+      required: false
+    - name: email
+      label: Email
+      widget: string
+      required: false
+    - name: tel_primary
+      label: >-
+        Phone (primary, e.g. landline; internation format, e.g. +420
+        777 555 333)
+      widget: string
+      required: false
+    - name: tel_secondary
+      label: >-
+        Phone (secondary, e.g. cell; internation format, e.g. +420 777
+        555 333)
+      widget: string
+      required: false
+  - name: species
+    label: Target species
+    widget: markdown
+    required: false
+  - name: area
+    label: Target area
+    widget: markdown
+    required: false
+  - name: tags
+    label: Categories (to make them filterable, see Categories collection)
+    widget: list
+    required: false
+  - name: countries
+    label: Countries
+    widget: territories
+    multiple: true
+    priority:
+    - CZ
+    - DE
+    - AT
+    - SK
+    - PL
+    default:
+    - CZ
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
+  - name: body
+    label: Content
+    widget: markdown
+
+- name: publications
+  label: Publications
+  label_singular: Publication
+  description: Structured searchable publications.
+  folder: en_GB/_publications
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: published
+    label: Published
+    widget: boolean
+    required: false
+    default: true
+  - name: public
+    label: Public (whether to display download link directly on the site)
+    widget: boolean
+    required: false
+  - name: authors
+    label: Authors
+    widget: list
+    required: false
+    fields:
+    - name: name
+      label: Name
+  - name: type
+    label: >-
+      Publication Type (manage in separate collection Publication
+      Types)
+    widget: relation
+    collection: publication_types
+    searchFields:
+    - name
+    valueField: name
+  - name: tags
+    label: Categories (to make them filterable, see Categories collection)
+    widget: list
+    required: false
+  - name: publisher
+    label: Publisher
+    widget: string
+    required: false
+  - name: journal
+    label: Journal
+    widget: string
+    required: false
+  - name: year
+    label: Year
+    widget: number
+    valueType: int
+    default: 2018
+  - name: lang
+    label: Language
+    widget: languages
+    priority:
+    - cs
+    - sk
+    - en
+    - de
+    - pl
+    default:
+    - cs
+  - name: body
+    label: Abstract
+    widget: markdown
+  - name: link
+    label: URL (relative address referencing a PDF)
+    widget: string
+    required: false
+  - name: attachments
+    label: Attachments
+    widget: list
+    required: false
+    fields:
+    - name: title
+      label: Title or short description
+      widget: string
+    - name: link
+      label: URL (relative address referencing a PDF)
+      widget: string
+
+- name: publication_types
+  label: Publication Types
+  label_singular: Publication Type
+  description: Types assignable to publications.
+  folder: en_GB/_publication_types
+  create: true
+  fields:
+  - name: title
+    label: Name
+    widget: string
+  - name: position
+    label: Position
+    widget: number
+    valueType: int
+
+- name: showcases
+  label: Showcases
+  label_singular: Showcase
+  description: Big photos that are displayed on the homepage.
+  folder: en_GB/_showcases
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: image
+    label: Image
+    widget: image
+  - name: position
+    label: Position defining order in which showcases rotate
+    widget: number
+    valueType: int
+    min: 1
+
+- name: user_answers
+  label: User answers
+  label_singular: User answer
+  description: >-
+    Answers to questions submitted by site visitors. These questions
+    are sent via email. The email address can be set in Netlify site
+    administration on app.netlify.com in Setting → Build & deploy →
+    Build environment variables → QUESTION_FORM_TO.
+  folder: en_GB/_posts
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  filter:
+    field: category
+    value: user-answers
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: published
+    label: Published
+    widget: boolean
+    required: false
+    default: true
+  - name: author
+    label: Author
+    widget: string
+  - name: description
+    label: >-
+      Description (a short text displayed as a preview of the
+      following content; defaults to truncated content)
+    widget: text
+    required: false
+  - name: body
+    label: Content
+    widget: markdown
+  - name: tags
+    label: >-
+      Categories (separated by commas; to make them filterable, see
+      Categories collection)
+    widget: list
+    required: false
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    required: false
+    fields:
+    - name: cs_CZ
+      label: Czech
+      widget: object
+      fields:
+      - name: title
+        label: Title in Czech
+        widget: string
+      - name: permalink
+        label: Address on Czech site
+        widget: string
+  - name: date
+    label: "\U00002757 Published at (change with caution)"
+    widget: datetime
+    format: YYYY-MM-DD HH:mm:ss ZZ
+  - name: category
+    label: "\U0001F6AB Post type (do not change)"
+    widget: string
+    default: user-answers
+  - name: layout
+    label: "\U0001F6AB Layout (do not change)"
+    widget: string
+    default: user_answer
+
+- name: filterable_tags
+  label: Categories
+  label_singular: Category
+  description: >-
+    Categorization and filtering of photos, projects and
+    publications. Arbitrary categories can be added to content items
+    (i.e., project categories don’t have to defined here). But if you
+    want a category to appear as a filter option on listing pages, you
+    have to define it here with exactly the same name as you use on
+    content item.
+  folder: en_GB/_filterable_tags
+  create: true
+  fields:
+  - name: title
+    label: Name
+    widget: string
+  - name: position
+    label: Position in filter options
+    widget: number
+    valueType: int
+    min: 1
+
+- name: photos
+  label: Photos
+  label_singular: Photo
+  description: >-
+    Photos in linked to galleries. All photos are displayed on global
+    photo gallery.
+  folder: en_GB/_posts
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  filter:
+    field: category
+    value: gallery
+  create: true
+  fields:
+  - name: title
+    label: Title
+    widget: string
+  - name: published
+    label: Published
+    widget: boolean
+    required: false
+    default: true
+  - name: image
+    label: Image (about one or two megapixels)
+    widget: image
+  - name: home_thumbnail
+    label: Optional thumbnail for home page (113 × 103 px)
+    widget: image
+    required: false
+  - name: gallery_thumbnail
+    label: Optional thumbnail for gallery (250 × 250 px)
+    widget: image
+    required: false
+  - name: content_thumbnail
+    label: Optional thumbnail for gallery as part of a page (200 × 200 px)
+    widget: image
+    required: false
+  - name: description
+    label: >-
+      Short description (up to 10 words displayed as a preview of the
+      following body; defaults to truncated photo description)
+    widget: text
+    required: false
+  - name: body
+    label: Description
+    widget: markdown
+    required: false
+  - name: author
+    label: Author
+    widget: string
+    required: false
+  - name: tags
+    label: >-
+      Categories (separated by commas; to make them filterable, see
+      Categories collection)
+    widget: list
+    required: false
+  - name: gallery
+    label: Gallery
+    widget: relation
+    collection: galleries
+    searchFields:
+    - title
+    valueField: title
+    required: false
+  - name: lang_alternatives
+    label: Localized alternatives
+    widget: object
+    required: false
+    fields:
+    - name: cs_CZ
+      label: Czech
+      widget: object
+      fields:
+      - name: title
+        label: Title in Czech
+        widget: string
+      - name: permalink
+        label: Address on Czech site
+        widget: string
+  - name: date
+    label: "\U00002757 Published at (change with caution)"
+    widget: datetime
+    format: YYYY-MM-DD HH:mm:ss ZZ
+  - name: category
+    label: "\U0001F6AB Post type (do not change)"
+    widget: string
+    default: gallery
+  - name: layout
+    label: "\U0001F6AB Layout (do not change)"
+    widget: string
+    default: photo
+
+- name: settings
+  label: Site Settings
+  description: Content of special pages like titles, button labels etc.
+  create: false
+  delete: false
+  files:
+  - name: config
+    label: Global config
+    file: en_GB/_config.yml
+    fields:
+    - name: title
+      label: >-
+        Title (part of every page’s title visible on browser tab,
+        search engine results or when shared on social media)
+      widget: string
+    - name: description
+      label: Description (succinct description of this website)
+      widget: text
+    - name: url
+      label: URL
+      widget: string
+    - name: logo
+      label: Logo
+      widget: image
+    - name: lang
+      label: Language
+      widget: string
+    - name: lang_alternatives
+      label: Language alternatives
+      widget: list
+      required: false
+      fields:
+      - name: lang
+        label: Language
+        widget: string
+      - name: label
+        label: Label (general label for switching in target language)
+        widget: string
+      - name: title
+        label: >-
+          Title (label for switching particular page in target
+          language; special character sequence “%@” will be replace
+          with target document’s title)
+        widget: string
+      - name: url
+        label: URL
+        widget: string
+      - name: icon
+        label: Icon (URL to image representing target language)
+        widget: string
+    - name: author
+      label: >-
+        Author (default author of posts on this site; name or
+        identifier from _data/authors.yml file on GitHub)
+      widget: string
+    - name: facebook
+      label: Facebook settings
+      widget: object
+      fields:
+      - name: app_id
+        label: App ID
+        widget: string
+      - name: publisher
+        label: Publisher
+        widget: string
+      - name: admins
+        label: Admin
+        widget: string
+    - name: social
+      label: Social media presence
+      widget: object
+      fields:
+      - name: name
+        label: Name
+        widget: string
+      - name: links
+        label: Links to social profiles (separated by commas)
+        widget: list
+    - name: webmaster_verifications
+      label: Webmaster tools verifications
+      widget: object
+      fields:
+      - name: google
+        label: Google
+        widget: string
+    - name: google_analytics
+      label: Google Analytics property ID
+      widget: string
+    meta:
+    - name: baseurl
+      label: Base URL
+      widget: string
+    - name: collections
+      label: Collections
+      widget: object
+      fields:
+      - name: md_pages
+        label: Content pages
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+      - name: galleries
+        label: Galleries
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+      - name: posts
+        label: Posts (news, photos and user answers)
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+      - name: projects
+        label: Projects
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+      - name: publications
+        label: Publications
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+      - name: publication_types
+        label: Publication Types
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+      - name: showcases
+        label: Showcases
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+      - name: filterable_tags
+        label: Categories
+        widget: object
+        fields:
+        - name: permalink
+          label: URL template
+          widget: string
+          default: /:collection/:path
+          required: false
+        - name: output
+          label: Generate individual documents
+          widget: boolean
+          required: false
+    - name: defaults
+      label: Defaults for collections
+      widget: list
+      required: false
+      fields:
+      - name: scope
+        label: Scope
+        widget: object
+        fields:
+        - name: path
+          label: Path
+          widget: string
+        - name: type
+          label: Type
+          widget: string
+      - name: values
+        label: Values
+        widget: object
+        fields:
+        - name: layout
+          label: Layout
+          widget: string
+    - name: markdown
+      label: Markdown engine
+      widget: string
+    - name: kramdown
+      label: Kramdown settings
+      widget: object
+      fields:
+      - name: smart_quotes
+        label: >-
+          Unicode code points separated by commas for smart
+          quote replacement of opening single quote, closing
+          single quote, opening double quote and closing double
+          quote
+        widget: string
+      - name: header_offset
+        label: Generated heading lever offset
+        widget: number
+        valueType: int
+        min: 1
+        max: 6
+    - name: plugins
+      label: Plugins
+      widget: list
+    - name: exclude
+      label: Files and directories excluded from generation
+      widget: list
+    - name: keep_files
+      label: Files kept from clobbering
+      widget: list
+
+  - name: header
+    label: Global header
+    file: en_GB/_data/header.yml
+    fields:
+    - name: logo
+      label: Logo
+      widget: image
+    - name: claim
+      label: Claim
+      widget: string
+    - name: search
+      label: Search field placeholder
+      widget: string
+
+  - name: footer
+    label: Global footer
+    file: en_GB/_data/footer.yml
+    fields:
+    - name: funded_by
+      label: Funding institutions
+      widget: list
+      fields:
+      - name: logos
+        label: Logos
+        widget: list
+        fields:
+        - name: image
+          label: Image
+          widget: file
+        - name: height
+          label: Height (in pixels; width is computed to maintain proportions)
+          widget: number
+          valueType: int
+          min: 1
+        - name: margin_top_bottom
+          label: Vertical space around the image (in pixels)
+          widget: number
+          valueType: int
+          min: 1
+        - name: margin_left_right
+          label: Horizontal space around the image (in pixels)
+          widget: number
+          valueType: int
+          min: 1
+      - name: description
+        label: Description (or some mandatory text)
+        widget: list
+        fields:
+        - name: lang
+          label: Language
+          widget: languages
+          priority:
+          - cs
+          - sk
+          - en
+          - de
+          - pl
+          default:
+          - cs
+        - name: body
+          label: Content
+          widget: string
+
+  - name: aside
+    label: Right column
+    file: en_GB/_data/aside.yml
+    fields:
+    - name: title
+      label: Default title
+      widget: string
+
+  - name: home
+    label: Home page
+    file: en_GB/_data/home.yml
+    fields:
+    - name: showcases
+      label: Showcase section (top)
+      widget: object
+      fields:
+      - name: time
+        label: Period during which one showcase is presented (milliseconds)
+        widget: number
+        valueType: int
+        min: 0
+        step: 100
+      - name: trans_period
+        label: Period during which one showcase transitions into next (milliseconds)
+        widget: number
+        valueType: int
+        min: 0
+        step: 100
+    - name: news
+      label: News section (top middle)
+      widget: object
+      fields:
+      - name: following
+        label: Heading introducing news following the most recent ones
+        widget: string
+      - name: all
+        label: Button label showing all news
+        widget: string
+    - name: links
+      label: Links section with 5 items (bottom middle)
+      widget: list
+      fields:
+      - name: title
+        label: Title
+        widget: string
+      - name: url
+        label: Link Address (use relative address)
+        widget: string
+      - name: image
+        label: Image (165 × 117 px)
+        widget: file
+    - name: mission
+      label: Mission section (1st bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+    - name: gallery
+      label: Gallery section (2nd bottom)
+      widget: object
+      fields:
+      - name: title
+        label: Title
+        widget: string
+    - name: appeal
+      label: Appeal section (3rd bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+    - name: other
+      label: Other section (4th bottom)
+      widget: object
+      fields:
+      - name: body
+        label: Content
+        widget: markdown
+
+  - name: news
+    label: News
+    file: en_GB/_data/news.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: more
+      label: Show more button label on news listing
+      widget: string
+
+  - name: gallery
+    label: Gallery
+    file: en_GB/_data/gallery.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: body
+      label: Description
+      widget: markdown
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Show all photos
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+    - name: content_gallery_title
+      label: Content gallery title
+      widget: string
+
+  - name: projects
+    label: Projects
+    file: en_GB/_data/projects.yml
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+      - name: month
+        label: Month label
+        widget: string
+      - name: year
+        label: Year label
+        widget: string
+    - name: partners
+      label: Partners label
+      widget: string
+    - name: funding
+      label: Funding label
+      widget: string
+    - name: budget
+      label: Budget label
+      widget: string
+    - name: registration_no
+      label: Registration no. label
+      widget: string
+    - name: web
+      label: Web label
+      widget: string
+    - name: period
+      label: Period
+      widget: object
+      fields:
+      - name: only_from
+        label: Label if only start date is set
+      - name: from_to
+        label: Label if both start and finish date
+      - name: to_today
+        label: Placeholder if there’s no to-date (i.e., the project is long-term)
+    - name: contacts
+      label: Contacts
+      widget: object
+      fields:
+      - name: one
+        label: Label for one person
+      - name: many
+        label: Label for many people
+    - name: species
+      label: Species label
+      widget: string
+    - name: area
+      label: Area label
+      widget: string
+    - name: countries
+      label: Countries label
+      widget: string
+    - name: default_country
+      label: Default Country (not displayed when set as only country)
+      widget: string
+
+  - name: publications
+    label: Publications
+    file: en_GB/_data/publications.yml
+    fields:
+    - name: title
+      label: Title
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_type
+        label: By publication type
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+      - name: year
+        label: By year
+        widget: string
+    - name: authors
+      label: Authors
+      widget: object
+      fields:
+      - name: one
+        label: One (a publication with only one author)
+        widget: string
+      - name: many
+        label: Many (a publication with more than one author)
+        widget: string
+    - name: publisher
+      label: Publisher
+      widget: string
+    - name: journal
+      label: Journal
+      widget: string
+    - name: year
+      label: Publishing year
+      widget: string
+    - name: download
+      label: Download (use %@ as a placeholder for publication title)
+      widget: string
+    - name: request
+      label: Request info (for non-public publications)
+      widget: string
+    - name: attachments
+      label: Attachments
+      widget: string
+
+  - name: user_answers
+    label: User answers
+    file: en_GB/_data/user_answers.yml
+    fields:
+    - name: title
+      label: Title
+      widget: object
+      fields:
+      - name: one
+        label: One (only one answer is published)
+        widget: string
+      - name: many
+        label: Many (more than one answer is published)
+        widget: string
+    - name: more
+      label: Show more button label on user answer listing
+      widget: string
+    - name: filter
+      label: Filter
+      widget: object
+      fields:
+      - name: all
+        label: Display everything (cancel filter)
+        widget: string
+      - name: by_type
+        label: By publication type
+        widget: string
+      - name: by_tag
+        label: By tag
+        widget: string
+      - name: by_date
+        label: By date
+        widget: string
+    - name: form
+      label: User question form
+      widget: object
+      fields:
+      - name: title
+        label: Title
+        widget: string
+      - name: fields
+        label: Field labels
+        widget: object
+        fields:
+        - name: name
+          label: Name
+          widget: string
+        - name: email
+          label: Email
+          widget: string
+        - name: question
+          label: Message
+          widget: string
+        - name: honeypot
+          label: Honeypot (mention that humans shouldn’t fill this in)
+          widget: string
+        - name: submit
+          label: Submit
+          widget: string
+      - name: consent
+        label: Consent (note about data handling)
+        widget: string
+      - name: results
+        label: Possible results of form submission
+        widget: list
+        fields:
+        - name: id
+          label: ID
+          widget: string
+        - name: type
+          label: Type
+          widget: select
+          options:
+          - success
+          - info
+          - warning
+          - danger
+        - name: message
+          label: Message
+          widget: string
+
+  - name: search
+    label: Search
+    file: en_GB/_data/search.yml
+    fields:
+    - name: long_title
+      label: Title (you can wrap phrases with * to emphasize them)
+      widget: string
+    - name: phrase
+      label: Phrase
+      widget: string
+    - name: loading
+      label: Loading
+      widget: string
+
+- name: layouts
+  label: "\U0001F6AB"
+  description: >-
+    Layouts to be references from pages. Do not delete nor edit in any
+    way.
+  create: false
+  delete: false
+  files:
+  - name: single_column_page
+    label: Single-column page
+    file: en_GB/_layouts/single_column_page.html
+    fields:
+    - name: title
+      label: "\U0001F6AB Title (do not change)"
+      widget: string
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: ref
+      label: Reference
+      widget: string
+    - name: body
+      label: Body
+      widget: text
+  - name: two_columns_page
+    label: Two-columns page
+    file: en_GB/_layouts/two_columns_page.html
+    fields:
+    - name: title
+      label: "\U0001F6AB Title (do not change)"
+      widget: string
+    meta:
+    - name: layout
+      label: Layout
+      widget: string
+    - name: ref
+      label: Reference
+      widget: string
+    - name: body
+      label: Body
+      widget: text

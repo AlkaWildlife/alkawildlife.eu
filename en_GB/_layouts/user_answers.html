@@ -1,0 +1,140 @@
+---
+layout: default
+---
+{% assign user_answer_posts = site.posts |
+     where_exp: "post", "post.categories contains 'user-answers'" %}
+{% for user_answer in user_answer_posts %}
+  {% assign tags = tags | concat: user_answer.tags | uniq %}
+{% endfor %}
+
+{% assign filterable_tags = site.filterable_tags | sort: "position" %}
+{% for filterable_tag in filterable_tags %}
+  {% unless tags contains filterable_tag.title %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_tags = site.filterable_tags |
+       where: "id", filterable_tag.id %}
+  {% assign filtered_tags = filtered_tags | concat: matching_tags %}
+{% endfor %}
+
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <!-- Left sidebar -->
+        <div id="component" class="span8">
+
+          <div class="page-blog page-blog__">
+            <div class="page_header">
+              <h3>
+                {% assign url_parts = page.url | split: "/" %}
+                {% if url_parts.size <= 2 %}
+                  {% assign cardinatlity = 'many' %}
+                {% else %}
+                  {% assign cardinatlity = 'one' %}
+                {% endif %}
+                <span class="item_title_part0">{{ site.data.user_answers.title[cardinatlity] }}</span>
+              </h3>
+            </div>
+            {{ content }}
+          </div>
+        </div>
+        <!-- Right sidebar -->
+        <div id="aside-right" class="span4">
+          <aside>
+            <div class="moduletable aside">
+              {% include question_form.html %}
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/assets/javascripts/listing-filter.js"></script>
+<script>listingFilter({
+  filterable: document.getElementsByClassName("js-user-answer"),
+  notSupported: {{ site.data.user_answers.filter.not_supported | jsonify }},
+  types: [{
+    id: "category",
+    title: {{ site.data.user_answers.filter.by_tag | jsonify }},
+    match: function(userAnswerEl, valIds) {
+      var categoriesEl =
+        userAnswerEl.getElementsByClassName("js-user-answer-categories")[0]
+      var categoryEls = categoriesEl ? categoriesEl.childNodes : []
+
+      return valIds.every(function(valId) {
+        var i
+        for (i = 0; i < categoryEls.length; i += 1) {
+          if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+          if (valId === categoryEls[i].getAttribute("data-filter-val")) {
+            return true
+          }
+        }
+
+        return false
+      })
+    },
+    values: function(userAnswerEl) {
+      var categories = []
+      var categoriesEl =
+        userAnswerEl.getElementsByClassName("js-user-answer-categories")[0]
+      var categoryEls = categoriesEl ? categoriesEl.childNodes : []
+      var i
+      for (i = 0; i < categoryEls.length; i += 1) {
+        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+
+        categories.push({
+          id: categoryEls[i].getAttribute("data-filter-val"),
+          title: categoryEls[i].textContent.trim(),
+          order: categoryEls[i].getAttribute("data-filter-ord")
+        })
+      }
+
+      return categories
+    },
+    sort: [
+      ['asc', function(val) { return val.order }],
+      ['asc', function(val) { return val.hasOwnProperty("title") ?
+                                val.title :
+                                val.id }]
+    ]
+  }, {
+    id: "date",
+    title: {{ site.data.user_answers.filter.by_date | jsonify }},
+    match: function(userAnswerEl, valIds) {
+      var dateEl = userAnswerEl.getElementsByClassName("js-user-answer-date")[0]
+      var month = dateEl.getAttribute("datetime").
+        split("-", 3).
+        slice(0, 2).
+        join("-")
+
+      return valIds.some(function(valId) {
+        return month === valId
+      })
+    },
+    values: function(userAnswerEl) {
+      var dateEl = userAnswerEl.getElementsByClassName("js-user-answer-date")[0]
+      var dateParts = dateEl.getAttribute("datetime").
+        split("-", 3).
+        slice(0, 2)
+      var date = new Date(+dateParts[0], +dateParts[1])
+
+      return [{
+        id: dateParts.join("-"),
+        title: "" + (date.getMonth() + 1) + "/" + date.getFullYear()
+      }]
+    },
+    sort: [
+      ['desc', function(val) { return val.id }]
+    ]
+  }]
+})</script>

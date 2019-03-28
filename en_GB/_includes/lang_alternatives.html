@@ -1,0 +1,7 @@
+{%- for alt in site.lang_alternatives -%}
+  {%- if page.lang_alternatives[alt.lang] -%}
+    <link rel="alternate" href="{{ alt.url | append: page.lang_alternatives[alt.lang].permalink }}" hreflang="{{ alt.lang | replace: "_", "-" }}" lang="{{ alt.lang | replace: "_", "-" }}" title="{{ alt.title | replace: "%@", page.lang_alternatives[alt.lang].title }}">
+  {%- elsif page.url == "/" -%}
+    <link rel="alternate" href="{{ alt.url }}" hreflang="{{ alt.lang | replace: "_", "-" }}">
+  {%- endif -%}
+{%- endfor -%}

@@ -1,0 +1,13 @@
+<div class=" item item_num0 item__module">
+  <div class="item_content">
+    <div class="item_published">
+      {{ include.news.date | date: "%e. %-m. %Y" }}
+    </div>
+    <h6 class="item_title item_title__news">
+      <a href="{{ include.news.url | relative_url }}">
+        {{ include.news.title }}
+      </a>
+    </h6>
+  </div>
+  <div class="clearfix"></div>
+</div>

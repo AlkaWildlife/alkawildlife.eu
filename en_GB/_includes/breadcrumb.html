@@ -1,0 +1,55 @@
+{% if page.url != "/" %}
+  <div class="breadcrumb m-bottom-3">
+    {% capture page_url -%}
+      {% include helpers/pretty_url.html page=page %}
+    {%- endcapture %}
+
+    {% assign item_url = "" %}
+    {% assign url_parts = page_url | split: "/" %}
+    {% for url_part in url_parts %}
+
+      {% if item_url != "/" %}
+        {% assign item_url = item_url | append: "/" %}
+      {% endif %}
+      {% assign item_url = item_url | append: url_part %}
+
+      {% if item_url == "/" %}
+        {% assign complete_item_url = item_url %}
+      {% else %}
+        {% assign complete_item_url = item_url | append: ".html" %}
+      {% endif %}
+      {% assign item = site.pages |
+           where: "url", complete_item_url |
+           first %}
+
+      {% unless item %}
+        {% for collection in site.collections %}
+          {% assign item = site[collection.label] |
+               where: "url", item_url |
+               first %}
+          {% if item %}{% break %}{% endif %}
+          {% assign item = site[collection.label] |
+               where: "url", complete_item_url |
+               first %}
+          {% if item %}{% break %}{% endif %}
+        {% endfor %}
+      {% endunless %}
+
+      {% if item.url == "/" %}
+        <a href="{{ item_url | relative_url }}" class="breadcrumb__item uppercase">
+          {{ site.title }}
+        </a>
+        &gt;
+      {% elsif item.url != page.url %}
+        <a href="{{ item_url | relative_url }}" class="breadcrumb__item">
+          {{ item.title }}
+        </a>
+        &gt;
+      {% else %}
+        <span class="breadcrumb__item">
+          {{ item.title }}
+        </span>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}

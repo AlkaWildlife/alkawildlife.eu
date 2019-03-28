@@ -1,0 +1,63 @@
+{% capture page_url -%}
+  {% include helpers/pretty_url.html page=page %}
+{%- endcapture %}
+{% assign url_parts_count = page_url | split: "/" | size %}
+
+{% assign url_prefix = page_url | append: "/" %}
+{% assign related_pages = site.pages |
+     concat: site.md_pages |
+     where_exp: "p", "p.url contains url_prefix" |
+     sort: "position" %}
+{% if related_pages.size > 0 %}
+
+  {% assign opened = false %}
+
+  {% for child in related_pages %}
+
+    {% capture child_url -%}
+      {% include helpers/pretty_url.html page=child %}
+    {%- endcapture %}
+
+    {% assign url_parts_size_check = child_url |
+         split: "/" |
+         size |
+         minus: 1 %}
+    {% if url_parts_size_check > url_parts_count %}
+      {% continue %}
+    {% endif %}
+
+    {% unless opened %}
+      <hr class="separator m-top-3 m-bottom-3">
+      {% assign opened = true %}
+    {% endunless %}
+
+    <div class="items-row cols-1 row-0 row-fluid">
+      <div class="span12">
+        <div class="item column-1 m-bottom-2">
+
+          {% if child.image and false %}
+            <div class="item_img img-intro img-intro__left">
+              <a href="{{ child_url | relative_url }}">
+                <img src="{{ child.related_thumbnail | default: child.image | relative_url }}">
+              </a>
+            </div>
+          {% endif %}
+
+          <div class="item_header">
+            <h4 class="item_title">
+              {% if child.long_title %}
+                <a href="{{ child_url | relative_url }}">{{ child.long_title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+              {% else %}
+                <a href="{{ child_url | relative_url }}">{{ child.title }}</a>
+              {% endif %}
+            </h4>
+          </div>
+          <div class="item_introtext remove-all-the-styles">
+            {% include helpers/description.html item=child words=50
+                                                markdownify=true %}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+{% endif %}

@@ -1,0 +1,16 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CLDR Territories v{{ site.data.territories.cldr_release }}</title>
+  </head>
+  <body>
+    <ul id="territories">
+      {%- for territory in site.data.territories.en -%}
+        <li id="{{ territory.type }}">{{ territory.name }}</li>
+      {%- endfor -%}
+    </ul>
+  </body>
+</html>

@@ -1,0 +1,34 @@
+<div id="header-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      <header>
+        <div class="row-fluid">
+          <div id="logo" class="span2">
+            <a href="{{ "/" | relative_url }}">
+              <img alt="vydryonline" class="logo" src="{{ site.data.header.logo }}">
+            </a>
+          </div>
+
+          <div id="claim" class="span7">
+            <h3>{{ site.data.header.claim }}</h3>
+          </div>
+
+          <div class="moduletable search-block  span3">
+              <div class="mod-search mod-search__search-block">
+                <form action="{{ "/search" | relative_url }}" method="get" class="navbar-form">
+                  <label for="searchword" class="element-invisible">
+                    {% capture search_label -%}
+                      {{ site.data.header.search }}
+                    {%- endcapture %}
+                    {{ search_label }}
+                  </label>
+                  <input id="searchword" name="searchword" maxlength="20" class="inputbox mod-search_searchword" type="text" size="20" value="{{ search_label }}" onblur="if (this.value=='') this.value='{{ search_label }}';" onfocus="if (this.value=='{{ search_label }}') this.value='';">
+                  <input type="image" value="Search" class="buttonsearch-block" src="{{ "/assets/images/searchButton.png" | relative_url }}" onclick="this.form.searchword.focus();">
+                </form>
+              </div>
+          </div>
+        </div>
+      </header>
+    </div>
+  </div>
+</div>

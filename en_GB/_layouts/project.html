@@ -1,0 +1,131 @@
+---
+layout: default
+---
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <!-- Left sidebar -->
+        <div id="component" class="span8">
+
+          <div class="page-blog page-blog__">
+            <div class="page_header">
+              <h3>
+                  <span class="item_title_part0">{{ page.subtitle | default: page.title }}</span>
+              </h3>
+            </div>
+            <div class="item_fulltext">
+              {% if page.registration_no %}
+                <h4>{{ site.data.projects.registration_no }}</h4>
+                <p>{{ page.registration_no }}</p>
+              {% endif %}
+
+              {% if page.funding %}
+                <h4>{{ site.data.projects.funding }}</h4>
+                {{ page.funding | markdownify }}
+              {% endif %}
+
+              {% if page.budget %}
+                <h4>{{ site.data.projects.budget }}</h4>
+                {{ page.budget | markdownify }}
+              {% endif %}
+
+              {% if page.from %}
+                <h4>
+                  {%- if page.to -%}
+                    {{- site.data.projects.period.from_to -}}
+                  {%- else -%}
+                    {{- site.data.projects.period.only_from -}}
+                  {%- endif -%}
+                </h4>
+                <p>
+                  <time datetime="{{ page.from | date: "%Y-%m-%d" }}">{{ page.from | append: "-01" | date: "%-m/%Y" }}</time>
+                  {%- if page.to %}
+                    &ndash;
+                    <time datetime="{{ page.to | date: "%Y-%m-%d" }}">{{ page.to | append: "-01" | date: "%-m/%Y" }}</time>
+                  {%- endif -%}
+                </p>
+              {% endif %}
+
+              {% if page.partners %}
+                <h4>{{ site.data.projects.partners }}</h4>
+                {{ page.partners | markdownify }}
+              {% endif %}
+
+              {% if page.web %}
+                <h4>{{ site.data.projects.web }}</h4>
+                <p><a href="{{ page.web }}">{{ page.web | replace_first: "https://", "" | replace_first: "http://", "" }}</a></p>
+              {% endif %}
+
+              {% if page.contacts and page.contacts.size > 0 %}
+                <h4>
+                  {%- if page.contacts.size > 1 -%}
+                    {{ site.data.projects.contacts.many }}
+                  {%- else -%}
+                    {{ site.data.projects.contacts.one }}
+                  {%- endif -%}
+                </h4>
+                <p>
+                {%- for contact in page.contacts -%}
+                  {%- if forloop.first != true -%}<br>{%- endif -%}
+                  <span itemscope itemtype="http://microformats.org/profile/hcard">
+                  <span itemprop="fn">{{- contact.name -}}</span>
+                  {%- if contact.role %} ({{ contact.role }}){% endif -%}
+                  {%- if contact.email or contact.tel_primary or contact.tel_secondary %}:{% endif -%}
+                  {%- assign divide = false -%}
+                  {%- if contact.email %}
+                    <a itemprop="email" href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+                  {%- endif -%}
+                  {%- if contact.email -%}{%- assign divide = true -%}{%- endif -%}
+                  {%- if divide and contact.tel_primary -%},{%- endif -%}
+                  {%- if contact.tel_primary %}
+                    {% include helpers/tel.html tel=contact.tel_primary hcard=true -%}
+                  {%- endif -%}
+                  {%- if contact.tel_primary -%}{%- assign divide = true -%}{%- endif -%}
+                  {%- if divide and contact.tel_secondary -%},{%- endif %}
+                  {%- if contact.tel_secondary %}
+                    {% include helpers/tel.html tel=contact.tel_secondary hcard=true -%}
+                  {%- endif %}
+                  </span>
+                {%- endfor -%}
+                </p>
+              {% endif %}
+
+              {% if page.species %}
+                <h4>{{ site.data.projects.species }}</h4>
+                {{ page.species | markdownify }}
+              {% endif %}
+
+              {% if page.area %}
+                <h4>{{ site.data.projects.area }}</h4>
+                {{ page.area | markdownify }}
+              {% endif %}
+
+              {% if page.countries and page.countries.size > 0 %}
+                {% if page.countries.size > 1 or
+                      page.countries.first != site.data.projects.default_country %}
+                  <h4>{{ site.data.projects.countries }}</h4>
+                  <p>
+                    {%- for country in page.countries -%}
+                      {%- unless forloop.first -%}, {% endunless -%}
+                      {%- include helpers/cldr.html name="territories" type=country -%}
+                    {%- endfor -%}
+                  </p>
+                {% endif %}
+              {% endif %}
+
+              {{ content }}
+            </div>
+
+            {% include content_gallery.html %}
+          </div>
+        </div>
+        <!-- Right sidebar -->
+        <div id="aside-right" class="span4">
+          <aside></aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

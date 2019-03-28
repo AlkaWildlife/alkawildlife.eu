@@ -1,0 +1,19 @@
+<div class="moduletable vision">
+  <h4 class="moduleTitle ">
+    <a href="{{ include.news.url | relative_url }}">
+      {{ include.news.title | truncate: 60 }}
+    </a>
+  </h4>
+  <div class="mod-article-single mod-article-single__vision">
+    <div class="item__module">
+      <div class="item_img img-intro img-intro__">
+        <a href="{{ include.news.url | relative_url }}">
+          <img src="{{ include.news.image }}" class="home__news-image object-fit-cover" data-object-fit="cover">
+        </a>
+      </div>
+      <div class="item_introtext">
+        {% include helpers/description.html item=include.news words=22 %}
+      </div>
+    </div>
+  </div>
+</div>

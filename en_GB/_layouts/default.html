@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | replace: "_", "-" }}">
+  {%- include head.html -%}
+  <body class="com_content view-featured task- itemid-101{% if page.url == '/' %} body__home{% endif %}">
+    <div id="wrapper">
+      <div class="wrapper-inner">
+        {% include nav.html %}
+        {% include header.html %}
+
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{ "/assets/javascripts/lib/polyfill.object-fit.js" | relative_url }}"></script>
+  </body>
+</html>

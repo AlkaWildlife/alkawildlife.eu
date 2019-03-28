@@ -1,0 +1,118 @@
+.clearfix {
+  *zoom: 1; }
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0; }
+
+.clearfix:after {
+  clear: both; }
+
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0; }
+
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.page-blog .item > .kmt-readon {
+  display: none; }
+
+#section-kmt {
+  margin: 0;
+  padding: 40px 0 0; }
+
+#section-kmt #kmt-form .kmt-title {
+  font-size: 18px;
+  line-height: 21px;
+  margin: 0;
+  padding: 0 0 10px;
+  font-family: inherit;
+  font-weight: bold;
+  color: inherit;
+  background: none;
+  text-decoration: none;
+  text-transform: none; }
+
+#section-kmt .kmt-author {
+  font: inherit !important;
+  text-transform: none !important;
+  font-weight: bold !important;
+  margin-bottom: 0 !important;
+  border: none !important;
+  padding: 0 !important;
+  height: auto !important; }
+
+#section-kmt .kmt-author a {
+  height: auto !important; }
+
+#section-kmt .kmt-avatar {
+  width: 48px; }
+
+#section-kmt .kmt-avatar a {
+  width: 48px; }
+
+#section-kmt #kmt-fame {
+  margin: 0; }
+
+#section-kmt + div {
+  padding: 0 !important;
+  margin: 0;
+  text-align: right !important; }
+
+#section-kmt + div > a {
+  font-size: 10px; }
+
+#section-kmt .kmt-head {
+  height: auto !important;
+  padding-right: 35px !important; }
+
+#section-kmt .float-wrapper > span {
+  vertical-align: top;
+  float: none;
+  margin: 5px 5px 0 0 !important;
+  height: auto;
+  background-position: left 2px; }
+
+#section-kmt .float-wrapper > span + span {
+  background-position: left 2px; }
+
+#section-kmt .kmt-form-content .kmt-form-addon > div {
+  max-width: 90%; }
+
+#section-kmt .kmt-form-content .kmt-form-addon > div b {
+  margin-bottom: 10px !important; }
+
+#section-kmt .kmt-form-content .kmt-form-addon > div .input.kmt-location {
+  max-width: 100%; }
+
+#section-kmt .input[type="checkbox"] {
+  margin-top: 0; }
+
+#section-kmt .radio input[type="radio"],
+#section-kmt .checkbox input[type="checkbox"] {
+  margin-left: 0;
+  margin-right: 15px; }
+
+#section-kmt .radio,
+#section-kmt .checkbox {
+  padding: 0;
+  border: none !important;
+  background: none !important; }
+
+#section-kmt .kmt-profile-avatar {
+  width: 60px; }
+
+#section-kmt .kmt-profile-activity li {
+  padding: 15px 10px !important;
+  min-width: 0 !important; }

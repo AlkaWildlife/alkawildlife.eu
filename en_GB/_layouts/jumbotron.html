@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="jumbotron">
+    <h1{% if page.shout_style %} class="text-{{ page.shout_style }}"{% endif %}>{{ page.shout }}</h1>
+    {{ content }}
+  </div>
+</div>

@@ -1,0 +1,17 @@
+---
+title: News
+published: true
+listed: false
+position: 2
+layout: contentpage
+---
+<div class="page-blog page-blog__">
+  <div class="page_header">
+    <h3>{{ site.data.news.long_title | markdownify | remove: "<p>" | remove: "</p>" }}</h3>
+  </div>
+  {% assign news_posts = site.posts |
+       where_exp: "post", "post.categories contains 'news'" %}
+  {% for news in news_posts %}
+    {% include news_item.html news=news %}
+  {% endfor %}
+</div>

@@ -1,0 +1,139 @@
+---
+layout: default
+---
+{% include sorted_projects.html %}
+
+{% for project in sorted_projects %}
+  {% assign tags = tags | concat: project.tags | uniq %}
+{% endfor %}
+
+{% assign filterable_tags = site.filterable_tags | sort: "position" %}
+{% for filterable_tag in filterable_tags %}
+  {% unless tags contains filterable_tag.title %}
+    {% continue %}
+  {% endunless %}
+  {% comment %}
+    The filter concat works only with array (at least that’s what
+    Liquid documentation says). That is why filterable_tag cannot be
+    used. So, we find the same tag again but keep it in array, so it
+    can be concatenated.
+  {% endcomment %}
+  {% assign matching_tags = site.filterable_tags |
+       where: "id", filterable_tag.id %}
+  {% assign filtered_tags = filtered_tags | concat: matching_tags %}
+{% endfor %}
+
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <!-- Left sidebar -->
+        <div id="component" class="span8">
+
+          <div class="page-blog page-blog__">
+            <div class="page_header">
+              <h3>
+                <span class="item_title_part0">{{ page.title }}</span>
+                {%- if page.subtitle -%}
+                <br><small>{{ page.subtitle }}</small>
+                {%- endif -%}
+              </h3>
+            </div>
+            {{ content }}
+          </div>
+        </div>
+        <!-- Right sidebar -->
+        <div id="aside-right" class="span4">
+          <aside></aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/assets/javascripts/listing-filter.js"></script>
+<script>listingFilter({
+  filterable: document.getElementsByClassName("js-project"),
+  notSupported: {{ site.data.projects.filter.not_supported | jsonify }},
+  types: [{
+    id: "category",
+    title: {{ site.data.projects.filter.by_tag | jsonify }},
+    match: function(projectEl, valIds) {
+      var categoriesEl =
+        projectEl.getElementsByClassName("js-project-categories")[0]
+      var categoryEls = categoriesEl ? categoriesEl.childNodes : []
+
+      return valIds.every(function(valId) {
+        var i
+        for (i = 0; i < categoryEls.length; i += 1) {
+          if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+          if (valId === categoryEls[i].getAttribute("data-filter-val")) {
+            return true
+          }
+        }
+
+        return false
+      })
+    },
+    values: function(projectEl) {
+      var categories = []
+      var categoriesEl =
+        projectEl.getElementsByClassName("js-project-categories")[0]
+      var categoryEls = categoriesEl ? categoriesEl.childNodes : []
+      var i
+      for (i = 0; i < categoryEls.length; i += 1) {
+        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+
+        categories.push({
+          id: categoryEls[i].getAttribute("data-filter-val"),
+          title: categoryEls[i].textContent.trim(),
+          order: categoryEls[i].getAttribute("data-filter-ord")
+        })
+      }
+
+      return categories
+    },
+    sort: [
+      ['asc', function(val) { return val.order }],
+      ['asc', function(val) { return val.hasOwnProperty("title") ?
+                                val.title :
+                                val.id }]
+    ]
+  }, {
+    id: "date",
+    title: {{ site.data.projects.filter.by_date | jsonify }},
+    match: function(projectEl, valIds) {
+      var fromEl = projectEl.getElementsByClassName("js-project-from")[0]
+      var fromYear = +fromEl.getAttribute("datetime").split("-", 2)[0]
+      var toEl = projectEl.getElementsByClassName("js-project-to")[0]
+      var toYear = toEl ?
+        +toEl.getAttribute("datetime").split("-", 2)[0] :
+        (new Date()).getFullYear()
+
+      return valIds.some(function(year) {
+        return fromYear <= year && year <= toYear
+      })
+    },
+    values: function(projectEl) {
+      var fromEl = projectEl.getElementsByClassName("js-project-from")[0]
+      var fromYear = +fromEl.getAttribute("datetime").split("-", 2)[0]
+      var toEl = projectEl.getElementsByClassName("js-project-to")[0]
+      var toYear = toEl ?
+        +toEl.getAttribute("datetime").split("-", 2)[0] :
+        (new Date()).getFullYear()
+
+      var years = [{ id: fromYear }]
+      while (years[years.length - 1].id < toYear) {
+        years.push({
+          id: years[years.length - 1].id + 1
+        })
+      }
+
+      return years
+    },
+    sort: [
+      ['desc', function(val) { return val.id }]
+    ]
+  }]
+})</script>

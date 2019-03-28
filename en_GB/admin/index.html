@@ -1,0 +1,428 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Content Management</title>
+  </head>
+  <body>
+    <a href="{{ "/admin/thumbnails" | relative_url }}" class="css-1cq49t8 e16dayda3 js-thumbnails-menu-button" style="display: none; position: fixed; z-index: 400; top: 2px; left: 266px;">
+      <span class="ei6fm2r1 css-afs41i ei6fm2r0">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+          <path d="M88.231,71.062c0,0-0.001,0-0.001,0h-7.263V23.959h-0.051c0.003-0.07,0.021-0.135,0.021-0.206
+                   c0-2.635-2.137-4.772-4.772-4.772l0,0H28.99v-7.068h0c0-1.487-1.205-2.692-2.693-2.693h-4.571c-1.488,0-2.693,1.205-2.693,2.693
+                   c0,0,0,0,0,0.001v7.067h-7.263c0,0-0.001,0-0.001,0c-1.487,0-2.692,1.205-2.693,2.693v4.571c0,1.488,1.205,2.693,2.693,2.693
+                   c0,0,0.001,0,0.001,0h7.263v47.103h0.052c-0.003,0.07-0.021,0.135-0.021,0.206c0,2.635,2.137,4.772,4.772,4.772l0,0H71.01v7.068
+                   c0,1.487,1.205,2.692,2.693,2.693h4.571c1.488,0,2.693-1.205,2.693-2.693v-7.068h7.263c0,0,0,0,0.001,0
+                   c1.487,0,2.692-1.205,2.693-2.693v-4.571C90.923,72.267,89.719,71.062,88.231,71.062z M28.99,71.063V28.937h42.02v42.125H28.99z"/>
+        </svg>
+      </span>
+      Thumbnails
+    </a>
+    <script>
+      // Class name of the first child of the element behind global header.
+      // This element holds a collection browsing UI. When this is
+      // displayed, global header with navigation buttons is displayed
+      // as well.
+      var COLLECTION_PAGE_CLASS = "css-z5yy97";
+      setInterval(function() {
+        if (document.querySelector("." + COLLECTION_PAGE_CLASS)) {
+          document.querySelector(".js-thumbnails-menu-button").style.display =
+            null
+        } else {
+          document.querySelector(".js-thumbnails-menu-button").style.display =
+            "none"
+        }
+      }, 100)
+    </script>
+    <script src="{{ "/assets/javascripts/netlify-cms.js" | relative_url }}"></script>
+    <script>{% raw %}
+      /** @typedef {string} */
+      var CldrType
+
+      /**
+       * @typedef {{
+       *   type: CldrType,
+       *   name: string
+       * }}
+       */
+      var CldrData
+
+      /** @typedef {!Array<CldrType>} */
+      var CldrDataTypes
+
+      /** @typedef {(undefined|CldrType|CldrDataTypes)} */
+      var ControlValue
+
+      /**
+       * @typedef {{
+       *   value: ControlValue,
+       *   onChange: function(CldrDataTypes=),
+       *   setActiveStyle: function()
+       *   setInActiveStyle: function()
+       *   classNameWrapper: string
+       *   forID: string,
+       *   field: !Immutable.Map
+       * }}
+       */
+      var ControlProps
+    {% endraw %}</script>
+    <script>{% raw %}
+      function loadCldrList(name) {
+        var ret = []
+        var client = new XMLHttpRequest()
+        client.onload = function() {
+          if (this.status !== 200) {
+            alert('Cannot load ' + name + ' list')
+            if (Object.freeze) Object.freeze(ret)
+            return
+          }
+
+          var list = Array.prototype.slice.call(
+            this.response.getElementById(name).children, 0
+          ).map(function(dataEl) {
+            return {
+              type: dataEl.id,
+              name: dataEl.textContent
+            }
+          })
+          if (Object.freeze) list.forEach(Object.freeze)
+
+          // External documents uses different sorting algorithm (if
+          // any). Use language of that document and sort CLDR data
+          // list by name.
+          var lang = this.response.firstElementChild.lang
+          var compare
+          if (lang && typeof Intl !== 'undefined' && Intl.Collator) {
+            compare = new Intl.Collator(lang).compare
+            list.sort(function(a, b) {
+              return compare(a.name, b.name)
+            })
+          }
+
+          ret.splice.apply(ret, [0, ret.length].concat(list))
+          if (Object.freeze) Object.freeze(ret)
+        }
+        client.open(
+          'GET',
+          '{% endraw %}{{ "/data/@@.html" | relative_url }}{% raw %}'.
+            replace('@@', name)
+        )
+        client.responseType = 'document'
+        client.send()
+
+        return ret
+      }
+    {% endraw %}</script>
+    <script>{% raw %}
+      /**
+       * Returns immutable collection as array.
+       *
+       * If given value has a method `toJS`, it’ll be
+       * called. Otherwise, returns the value itself.
+       *
+       * @param {?} value
+       * @return {*}
+       */
+      function immutableToJs(value) {
+        return (typeof value === 'object') && value.toJS ? value.toJS() : value
+      }
+
+      /**
+       * Returns default value from props.
+       *
+       * If there’s none set, it either return an empty array if props
+       * allows multiple values to be set or `null`.
+       *
+       * @param {!ControlProps} props
+       * @return {!ControlValue}
+       */
+      function defaultCldrValue(props) {
+        if (props.field.has('default')) {
+          return immutableToJs(props.field.get('default'))
+        }
+
+        return props.field.get('multiple') ? [] : undefined
+      }
+
+      /**
+       * Returns value from props as array of CLDR types.
+       *
+       * @param {!ControlProps} props
+       * @return {!CldrDataTypes}
+       */
+      function valueAsCldrTypes(props) {
+        return props.field.get('multiple') ?
+          (immutableToJs(props.value) || []) :
+          (props.value ? [props.value] : [])
+      }
+    {% endraw %}</script>
+    <script>{% raw %}
+      function generateCldrWidgetControl(cldrList) {
+        /**
+         * Netlify CMS widget control to set multiple CLDR data items.
+         *
+         * It renders a select element for each value and additional one
+         * to set additional CLDR data. Each value can be removed using
+         * “-” button next to associated select element.
+         *
+         * @param {!ControlProps} props
+         * @return {!React.ReactNode}
+         */
+        function cldrWidgetControl(props) {
+          /**
+           * Change set CLDR data items.
+           *
+           * @param {number} idx position in set CLDR data items to
+           * change
+           * @param {Event} ev event’s target has new value
+           */
+          function onChange(idx, ev) {
+            var newValue = valueAsCldrTypes(props).slice(0)
+            newValue[idx] = ev.target.value
+            setNewValue(newValue)
+          }
+
+          /**
+           * Remove one position from set CLDR data items.
+           *
+           * @param {number} idx position in set CLDR data items to
+           * change
+           */
+          function onRemove(idx) {
+            var newValue = valueAsCldrTypes(props).slice(0)
+            newValue.splice(idx, 1)
+            setNewValue(newValue)
+          }
+
+          /**
+           * Sets a new value by calling an onChange from props.
+           *
+           * @param {!Array<!CldrData>} newValue
+           */
+          function setNewValue(newValue) {
+            var val =
+              props.field.get('multiple') ? newValue : newValue[0]
+            var notEmpty =
+              props.field.get('multiple') ? newValue.length > 0 : !!val
+            if (notEmpty) props.onChange(val)
+            else props.onChange()
+          }
+
+          /**
+           * Moves prioritized CLDR data items to the begging.
+           *
+           * @param {!Array<!CldrData>} cldrItems CLDR date items
+           * @param {!Immutable.List<CldrType>} priorities CLDR data types
+           * @return {!Array<!CldrData>}
+           */
+          function prioritizeCldrItems(cldrItems, priorities) {
+            return priorities.
+               // Find exact CLDR data items to move to the top
+               map(function(type) {
+                 var idx
+                 for (idx = 0; idx < cldrItems.length; idx += 1) {
+                   if (cldrItems[idx].type === type) return cldrItems[idx]
+                 }
+                 return null
+               }, []).
+               filter(function(cldrData) { return cldrData !== null  }).
+               reverse().
+               // Find exact CLDR data items to move to the top
+               reduce(function(ts, cldrData, i) {
+                 if (i === 0) ts.unshift(null)
+
+                 var idx = ts.indexOf(cldrData);
+                 ts.splice(idx, 1)
+                 ts.unshift(cldrData)
+
+                 return ts
+               }, cldrItems.slice(0))
+          }
+
+          /**
+           * Returns a select element with CLDR data items as options.
+           *
+           * If no CLDR data is selected, add additional first option
+           * which is disabled and selected. On the other hand, if some
+           * CLDR data is selected, add a “-” button to remove this
+           * select and its value from the whole widget.
+           *
+           * @param {number} idx position in set CLDR data items
+           * @param {CldrType} selectedType CLDR data type
+           * @param {?Immutable.Map<CldrType>} priorities prioritized
+           * CLDR data types
+           * @param {object=} attrs additional attributes for the select
+           * element
+           * @return {!Array<!React.ReactNode>}
+           */
+          function cldrDataSelectElement(idx, selectedType,
+                                         priorities, attrs) {
+            var cldrItems = priorities ?
+              prioritizeCldrItems(cldrList, priorities) :
+              cldrList
+
+            if (selectedType === null) cldrItems.unshift(null)
+
+            if (!attrs) attrs = {}
+            if (!attrs.value) attrs.value = selectedType
+            if (!attrs.onChange) attrs.onChange = onChange.bind(null, idx)
+            if (!attrs.onFocus) attrs.onFocus = props.setActiveStyle
+            if (!attrs.onBlur) attrs.onBlur = props.setInactiveStyle
+
+            var els = [h(
+              'select',
+              attrs,
+              cldrItems.map(function(cldrData, i) {
+                return cldrData !== null ?
+                  h('option', { value: cldrData.type }, cldrData.name) :
+                  h('option', { disabled: true, selected: i === 0 })
+              })
+            )]
+
+            if (props.field.get('multiple') && selectedType !== null) {
+              els.push(h(
+                'button',
+                { type: 'button',
+                  onClick: function(_ev) { onRemove(idx) } },
+                '-'
+              ))
+            }
+
+            return els
+          }
+
+          var children = valueAsCldrTypes(props).
+            /* 1. Get SELECT element for each CLDR item received as
+             *    value. SELECT elements are separated by BR
+             *    element.
+             */
+            map(function(code, idx) {
+              return (
+                idx > 0 ? [h('br')] : []
+              ).concat(
+                cldrDataSelectElement(idx, code, props.field.get('priority'))
+              )
+            }).
+            /* 2. Flatten the result of previous step. Previous step
+             *    creates structure like this:
+             *    [[SELECT], [BR, SELECT], …, [BR, SELECT]].
+             */
+            reduce(function(flat, els) { return flat.concat(els) }, [])
+
+          if (props.field.get('multiple') &&
+              valueAsCldrTypes(props).length >= 0) {
+            /* 3. Divide SELECT carrying control value from empty one.
+             *    This is necessary as a separate step to support
+             *    multiple as an option – otherwise it would be
+             *    simpler and done in the first step.
+             */
+            children = children.concat([h('br')])
+          }
+
+          if (props.field.get('multiple') ||
+              valueAsCldrTypes(props).length <= 0) {
+            /* 4. Append empty SELECT so that user can set new CLDR
+             *    item as control value, or append it if multiple
+             *    options are allowed.
+             */
+            children = children.concat(
+              cldrDataSelectElement(valueAsCldrTypes(props).length,
+                                    null,
+                                    props.field.get('priority'), {
+                                      id: props.forID
+                                    })
+            )
+          }
+
+          return h(
+            'div',
+            { className: props.classNameWrapper },
+            children
+          )
+        }
+
+        //XXX Netlify CMS breaks when custom widget has stateless
+        // control components (netlify/netlify-cms#1346).
+        return createClass({
+          render: function() {
+            return cldrWidgetControl(this.props)
+          }
+        })
+      }
+     {% endraw %}</script>
+    <script>{% raw %}
+      function generateCldrWidgetPreview(cldrList) {
+        /**
+         * Netlify CMS widget preview translating CLDR data types to
+         * names.
+         *
+         * @param {!{value: ControlValue, field: !Immutable.Map}}
+         * props
+         * @return {!React.ReactNode}
+         */
+        return function cldrWidgetPreview(props) {
+          return h(
+            'div',
+            {},
+            valueAsCldrTypes(props).
+              map(function(type) {
+                var idx
+                for (idx = 0; idx < cldrList.length; idx += 1) {
+                  if (cldrList[idx].type === type) {
+                    return cldrList[idx].name
+                  }
+                }
+
+                return type
+              }).
+              join(', ')
+          )
+        }
+      }
+    {% endraw %}</script>
+    <script>{% raw %}
+      /**
+       * A list of territories loaded from external document.
+       *
+       * @const {Array<!CldrData>}
+       */
+      TERRITORIES = loadCldrList('territories')
+      CMS.registerWidget(
+        'territories',
+        generateCldrWidgetControl(TERRITORIES),
+        generateCldrWidgetPreview(TERRITORIES)
+      )
+    {% endraw %}</script>
+    <script>{% raw %}
+      /**
+       * A list of languages loaded from external document.
+       *
+       * @const {Array<!CldrData>}
+       */
+      LANGUAGES = loadCldrList('languages')
+      CMS.registerWidget(
+        'languages',
+        generateCldrWidgetControl(LANGUAGES),
+        generateCldrWidgetPreview(LANGUAGES)
+      )
+    {% endraw %}</script>
+    <script>{% raw %}CMS.registerEditorComponent({
+      id: "clearfix",
+      label: "Clearfix",
+      fields: [],
+      pattern: /^<div\s+class=(['"])clearfix\1\s+><\/div>$/,
+      fromBlock: function(_match) {
+        return {}
+      },
+      toBlock: function(_obj) {
+        return '<div class="clearfix"></div>'
+      },
+      toPreview: function(_obj) {
+        return '<div class="clearfix"></div>'
+      }
+    }){% endraw %}</script>
+  </body>
+</html>

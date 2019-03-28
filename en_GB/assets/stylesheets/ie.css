@@ -1,0 +1,57 @@
+.clearfix {
+  *zoom: 1; }
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0; }
+
+.clearfix:after {
+  clear: both; }
+
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0; }
+
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+#section-kmt .kmt-form-content .kmt-form-addon > div .input.kmt-location {
+  max-width: 1000px !important; }
+
+#showcase-row #camera-slideshow {
+  outline: 7px solid #617b00;
+  outline-offset: -7px; }
+
+#showcase-row #camera-slideshow:before,
+#showcase-row #camera-slideshow:after {
+  display: none; }
+
+#maintop-row,
+#aside-right .testimonials blockquote p {
+  border: 1px solid #ddd2a4;
+  background: #eedaa5; }
+
+.pagination {
+  border-top: 1px solid #ddd2a4; }
+
+#aside-right.testimonials blockquote p {
+  border-bottom: none; }
+
+#aside-right .testimonials blockquote small {
+  background: url(../images/blockbotie.png) no-repeat; }
+
+#header-row {
+  border-bottom: 7px solid #a2ac4f; }
+
+.body__home.view-article #header-row {
+  border-bottom: 7px solid #a2ac4f; }

@@ -1,0 +1,18 @@
+---
+layout: user_answers
+---
+<div class="item_header">
+  <h4 class="item_title">{{ page.title }}</h4>
+</div>
+
+{% include user_answer_info.html user_answer=page %}
+
+{% if page.image %}
+  <div class="item_img img-full img-full__none item-image">
+    <img src="{{ page.image | relative_url }}">
+  </div>
+{% endif %}
+
+<div class="item_fulltext">
+  {{ content }}
+</div>
