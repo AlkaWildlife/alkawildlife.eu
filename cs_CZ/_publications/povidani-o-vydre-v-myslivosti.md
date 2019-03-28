@@ -2,7 +2,7 @@
 title: "Povídání o\_vydře a\_norkovi"
 published: true
 public: true
-type: Článek pro veřejnost
+type: Článek v periodiku
 tags:
   - vydra říční
   - norek americký
