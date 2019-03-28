@@ -6,7 +6,7 @@ content_thumbnail: /media/dscn4767_320.jpg
 description: Rysí monitoring probíhá také na sněhu.
 tags:
   - ''
-gallery: /projects/3lynx.html
+gallery: /projects/3lynx
 date: '2018-06-14 20:20:22 +0200'
 category: gallery
 layout: photo
