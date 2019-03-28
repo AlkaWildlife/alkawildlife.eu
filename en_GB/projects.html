@@ -12,7 +12,7 @@ layout: projects
       <div class="item column-1 m-bottom-4 js-project">
         <div class="item_header">
           <h4 class="item_title">
-            <a href="{{ project.url }}">{{ project.title }}</a>
+            <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
           </h4>
         </div>
         <div class="item_info m-bottom-1">
@@ -63,7 +63,7 @@ layout: projects
         <div class="item_introtext">
           <p>{% include helpers/description.html item=project words=60 %}</p>
         </div>
-        <a class="btn btn-info" href="{{ project.url }}">
+        <a class="btn btn-info" href="{{ project.url | relative_url }}">
           <span>{{ site.data.projects.more }}</span>
         </a>
       </div>
