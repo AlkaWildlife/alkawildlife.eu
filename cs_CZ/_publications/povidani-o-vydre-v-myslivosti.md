@@ -2,6 +2,10 @@
 title: "Povídání o\_vydře a\_norkovi"
 published: true
 public: true
+authors:
+  - name: Kateřina Poledníková
+  - name: Lukáš Poledník
+  - name: Václav Beran
 type: Článek v periodiku
 tags:
   - vydra říční
