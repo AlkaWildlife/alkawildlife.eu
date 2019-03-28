@@ -27,9 +27,7 @@ description: >-
 
 • U těch druhů vybraných šelem, kde se potvrdí trvalý a plošný výskyt v rámci sledovaného území, pak odhadnout potravní spektrum (analýzou trusu), odhadnout jejich vliv na společenstva v rámci NP a v případě evropsky významných druhů zhodnotit jejich potřeby.
 
-
-
-# Národní park Podyjí 
+# Národní park Podyjí
 
 Národní park Podyjí je rozlohou nejmenším národním parkem v ČR - 63 km². Založen byl v roce 1991 přehlášením z kategorie chráněné krajinné oblasti. NP Podyjí je situován mezi Znojmem a Vranovem nad Dyjí při státní hranici se sousedním Rakouskem. V roce 2000 byl vyhlášen také Národní park Thayatal na pravém rakouském břehu Dyje, čímž vzniklo jedinečné bilaterární území evropského významu. 
 
@@ -38,3 +36,5 @@ Národní park reprezentuje výjimečně zachovalou ukázku krajiny říčního 
 Celé údolí je takřka souvisle porostlé přirozenými a přírodě blízkými lesy. V západní části najdeme zbytky původních podhorských bučin s jedlí a tisem, které východním směrem střídají dubohabrové porosty. Mimo běžné lesní druhy dřevin se setkáme i se vzácnějšími a pro Podyjí charakteristickými druhy. Například višní mahalebkou, dřínem obecným, skalníkem celokrajným a jalovcem obecným. V inverzních polohách roste klokoč zpeřený, růže alpská a javor klen. V teplejší jihovýchodní části parku se vyskytuje kalina tušalaj, lýkovec vonný, dub žlutavý, růže bedrníkolistá a galská. Pouze v Podyjí se vyskytuje endemický jeřáb muk hardeggský. 
 
 # Výstupy
+
+časopis Priorita: [Výzkum sledoval výskyt malých šelem v Národním parku Podyjí](/media/Priorita_2_2018_Podyji.pdf)
