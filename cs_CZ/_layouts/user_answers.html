@@ -70,14 +70,18 @@ layout: default
       var categoriesEl =
         userAnswerEl.getElementsByClassName("js-user-answer-categories")[0]
       var categoryEls = categoriesEl ? categoriesEl.childNodes : []
-      var i, valId
-      for (i = 0; i < categoryEls.length; i += 1) {
-        if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
-        valId = categoryEls[i].getAttribute("data-filter-val")
-        if (valIds.indexOf(valId) >= 0) return true
-      }
 
-      return false
+      return valIds.every(function(valId) {
+        var i
+        for (i = 0; i < categoryEls.length; i += 1) {
+          if (categoryEls[i].nodeType !== Node.ELEMENT_NODE) continue
+          if (valId === categoryEls[i].getAttribute("data-filter-val")) {
+            return true
+          }
+        }
+
+        return false
+      })
     },
     values: function(userAnswerEl) {
       var categories = []
