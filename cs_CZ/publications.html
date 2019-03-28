@@ -18,11 +18,9 @@ layout: publications
         {%- assign has_foreign_lang = false -%}
       {%- endif -%}
 
-      <p class="js-publication"{% if has_foreign_lang %} lang="{{ publication.lang }}"{% endif %}><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a>
+      <p class="js-publication"{% if has_foreign_lang %} lang="{{ publication.lang }}"{% endif %}><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a><br>
 
         {%- if has_foreign_lang %}<span lang="{{ site.lang }}">{% endif -%}
-
-        {{- " | " -}}
 
         {%- assign publication_type = site.publication_types |
               where: "title", publication.type |
