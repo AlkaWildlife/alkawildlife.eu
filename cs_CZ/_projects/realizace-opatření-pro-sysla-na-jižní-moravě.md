@@ -5,7 +5,15 @@ subtitle: >-
   Realizace vybraných opatření Záchranného programu pro sysla obecného na jižní
   Moravě
 registration_no: MGSII-26
-funding: "Malé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu CZ02\r\n\nPodpořeno grantem z Islandu, Lichtenštejnska a Norska.\r Tento web byl vytvořen za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.\n\n![](/media/loga_mgs_stojato_mm.jpg)"
+funding: >-
+  Malé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu
+  CZ02
+
+
+  Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+   Tento web byl vytvořen za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+
+  ![](/media/loga_mgs_stojato_mm.jpg)
 budget: '1 169 954,77 Kč'
 from: 2015-12
 to: 2017-04
