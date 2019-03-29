@@ -44,6 +44,8 @@ Sysel obecný patřil na našem území v minulosti k běžným druhům savců n
 
 Cílem projektu bylo realizovat čtyři klíčová opatření ZP se zaměřením na jižní Moravu: monitoring nad rámec běžného každoročního monitoringu, demografická studie vybrané syslí populace, analýza životaschopnosti populací, osvěta veřejnosti.
 
+![sysel ve vinici](/media/img_1168.jpg "sysel ve vinici")
+
 # Oblast jižní Morava
 
 Projekt byl zaměřen na oblast jižní Moravy a to ze dvou důvodů: a) jižní Moravě byla dosud věnována jen malá pozornost v rámci realizace ZP. Část lokalit je jen obtížně postižitelná v rámci stávajícího pravidelného monitoringu, který je uzpůsoben spíše pro přehledné plochy letišť apod., proto i samotný monitoring, který zde sice probíhá dle standardní metodiky, je nedostatečný; b) díky charakteru využívání krajiny (funkční zemědělská krajina) a vzdálenosti k hlavnímu areálu výskytu sysla (Slovensko, Rakousko a dále na jih a východ) a tedy možnostem vytvoření funkční metapopulace je oblast jižní Moravy jednou z nejpříznivějších oblastí v rámci celé ČR a podle indicií posledních let se zdá, že by mohla být pro zachování sysla v ČR naprosto klíčová.
