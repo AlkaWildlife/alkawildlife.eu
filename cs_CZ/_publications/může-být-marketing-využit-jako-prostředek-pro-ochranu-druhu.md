@@ -1,0 +1,22 @@
+---
+title: 'Může být marketing využit jako prostředek pro ochranu druhu? '
+published: true
+public: true
+authors:
+  - name: Kateřina Poledníková
+  - name: Lukáš Poledník
+  - name: Jan Matějů
+  - name: Jitka Větrovcová
+  - name: Tereza Mináriková
+type: Článek v periodiku
+tags:
+  - sysel obecný
+journal: Fórum ochrany přírody
+year: 2017
+lang:
+  - cs
+link: /media/11_marketing_ochrana_druhu.pdf
+attachments:
+  - {}
+---
+Publikace shrnuje vývoj známky Sysli na vinici a hodnotí pozitiva a negativa tohoto nástroje v ochraně ohroženého druhu živočicha.
