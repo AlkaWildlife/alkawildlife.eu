@@ -18,6 +18,7 @@ area: |-
   EVL Vranovický a Plačkův les
 tags:
   - průzkum
+  - ptáci
 countries:
   - CZ
 description: >-
