@@ -52,24 +52,22 @@ Projekt byl zaměřen na oblast jižní Moravy a to ze dvou důvodů: a) jižní
 
 Daleko více o projektu si můžete přečíst na webu [www.syslinavinici.cz](www.syslinavinici.cz)
 
-
-
 # Výstupy projektu
 
-1) Ochranná známka _Sysli na vinici_
+## Ochranná známka _Sysli na vinici_
 
 Známka registrovaná u Úřadu průmyslového vlastnictví. Je udělována vinařům, kteří mají sysla obecného na své vinici.
 
-2) Webové stránky [www.syslinavinici.cz ](www.syslinavinici.cz)
+## Webové stránky [www.syslinavinici.cz ](www.syslinavinici.cz)
 
-kompletní web o syslovi, o známce Sysli na vinici, o vinařích, aktuality, články, televizní reportáže, videa atd. 
+kompletní web o syslovi, o známce Sysli na vinici, o vinařích, aktuality, články, televizní reportáže, videa atd. 
 
-3) Leták Sysel obecný - pomozte nám jej zachránit! (pdf)
+## Letáky
 
-4) Leták Nákupem vína se známkou pomáháte chránit sysly (pdf)
+[Leták Sysel obecný - pomozte nám jej zachránit! (pdf)](/media/letak_sysel_Pomozte_chranit.pdf)
 
-
+[Leták Nákupem vína se známkou pomáháte chránit sysly (pdf)](/media/letak_sysel_znamka.pdf)
 
 # Publikované články
 
-Fórum ochrany přírody 1/2017: Může být marketing využit jako prostředek pro ochranu druhu? (pdf)
+[Fórum ochrany přírody 1/2017: Může být marketing využit jako prostředek pro ochranu druhu? (pdf)](/media/11_marketing_ochrana_druhu.pdf)
