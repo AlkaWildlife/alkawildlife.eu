@@ -12,6 +12,7 @@ species: 'kočka divoká, vydra říční, tchoř stepní, norek americký, psí
 area: NP Podyjí
 tags:
   - výzkum
+  - savci
 countries:
   - CZ
 description: >-
