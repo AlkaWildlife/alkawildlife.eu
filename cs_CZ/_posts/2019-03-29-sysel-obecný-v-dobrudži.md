@@ -3,6 +3,8 @@ title: Sysel obecný v Dobrudži
 published: true
 image: /media/img_8787.jpg
 author: Marco Pavanello
+tags:
+  - sysel obecný
 gallery: /projects/hledání-tchoříka-skvrnitého
 lang_alternatives:
   en_GB: {}
