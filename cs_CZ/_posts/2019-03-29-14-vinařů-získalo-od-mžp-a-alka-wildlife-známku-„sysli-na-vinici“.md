@@ -51,10 +51,8 @@ Předání prvních známek 14 vinařstvím z Velkých Pavlovic se dnes konalo i
 * Vinařství V & M Zborovský, v.o.s.
 * Miroslava Balounová
 
-
-
 ![Různé lahve vína se zlatou známkou Sysli na vinici](/media/img_3037.jpg "Víno se známkou Sysli na vinici")
 
-Více o projektu Realizace opatření ZP sysla obecného na jižní Moravě. Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí. 
+Realizováno v rámci projektu [Realizace opatření ZP sysla obecného na jižní Moravě](/projects/realizace-opatření-pro-sysla-na-jižní-moravě).  Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí. 
 
 ![](/media/loga_mgs_stojato_mm.jpg)
