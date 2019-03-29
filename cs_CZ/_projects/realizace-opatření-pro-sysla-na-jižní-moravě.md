@@ -50,17 +50,7 @@ Cílem projektu bylo realizovat čtyři klíčová opatření ZP se zaměřením
 
 Projekt byl zaměřen na oblast jižní Moravy a to ze dvou důvodů: a) jižní Moravě byla dosud věnována jen malá pozornost v rámci realizace ZP. Část lokalit je jen obtížně postižitelná v rámci stávajícího pravidelného monitoringu, který je uzpůsoben spíše pro přehledné plochy letišť apod., proto i samotný monitoring, který zde sice probíhá dle standardní metodiky, je nedostatečný; b) díky charakteru využívání krajiny (funkční zemědělská krajina) a vzdálenosti k hlavnímu areálu výskytu sysla (Slovensko, Rakousko a dále na jih a východ) a tedy možnostem vytvoření funkční metapopulace je oblast jižní Moravy jednou z nejpříznivějších oblastí v rámci celé ČR a podle indicií posledních let se zdá, že by mohla být pro zachování sysla v ČR naprosto klíčová.
 
-# Aktuality k projektu
-
-O syslovi ve Velkých Pavlovicích
-
-14 vinařů získalo od MŽP a Alka Wildlife známku „Sysli na vinici
-
-Známka sysli na vinici je registrovaná
-
-Seminář k ochraně a výzkumu plcha velkého a sysla obecného
-
-Pozvánka na seminář k ochraně a výzkumu sysla obecného
+Daleko více o projektu si můžete přečíst na webu [www.syslinavinici.cz](www.syslinavinici.cz)
 
 
 
@@ -72,7 +62,7 @@ Známka registrovaná u Úřadu průmyslového vlastnictví. Je udělována vina
 
 2) Webové stránky [www.syslinavinici.cz ](www.syslinavinici.cz)
 
-nové webové stránky o syslovi, o známce Sysli na vinici, o vinařích
+kompletní web o syslovi, o známce Sysli na vinici, o vinařích, aktuality, články, televizní reportáže, videa atd. 
 
 3) Leták Sysel obecný - pomozte nám jej zachránit! (pdf)
 
