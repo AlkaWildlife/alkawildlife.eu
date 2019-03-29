@@ -7,7 +7,7 @@ to: 2014-12
 partners: "Turda Zoo\r\n\nPlzeňská ZOO\r\n\nDanube Delta Museum\r\n\nMacin National Park\r\n\nNational Institute for Research in the Danube Delta"
 contacts:
   - name: Andreas Kranz
-species: tchořík skvrnitý (Vormella peregusna)
+species: '[tchořík skvrnitý (Vormella peregusna)](/zajmove-druhy/tchorik-skvrnity)'
 area: Dobrogea (Rumunsko)
 tags:
   - tchořík skvrnitý
@@ -20,7 +20,7 @@ description: >-
 ---
 # Cíl projektu
 
-Tchořík skvrnitý (_Vormela peregusna peregusna_) je považován za ohrožený a vzácný druh evropské fauny. Bohužel o aktuálním stavu populací tchoříka v Evropě jsou jen minimální informace. Cílem projektu je provést základní průzkum v jedné z oblastí areálu výskytu - v Dobrogea pohoří na jihu Rumunska. 
+[Tchořík skvrnitý (_Vormela peregusna peregusna_)](/zajmove-druhy/tchorik-skvrnity) je považován za ohrožený a vzácný druh evropské fauny. Bohužel o aktuálním stavu populací tchoříka v Evropě jsou jen minimální informace. Cílem projektu je provést základní průzkum v jedné z oblastí areálu výskytu - v Dobrogea pohoří na jihu Rumunska. 
 
 Tchořík skvrnitý je vědci a ochranáři poměrně opomíjený druh. Všechny informace o distribuci tohoto druhu v Evropě jsou desítky let staré. Aktuální informace pochází jen z náhodných pozorování nebo neověřených zdrojů.
 
