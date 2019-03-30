@@ -3,7 +3,18 @@ title: Realizace opatření pro vydru říční v ČR
 published: true
 subtitle: Realizace vybraných opatření Programu péče pro vydru říční v ČR
 registration_no: MGSII-42
-funding: "Malé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu CZ02\r\n\nPodpořeno grantem z Islandu, Lichtenštejnska a Norska. Tento web byl vytvořen za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.\n\n![](/media/loga_mgs_stojato_mm.jpg)"
+funding: >-
+  Malé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu
+  CZ02
+
+
+  Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Tento web byl vytvořen
+  za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za
+  jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze jej v žádném
+  případě považovat za názor donora nebo Ministerstva životního prostředí.
+
+
+  ![](/media/loga_mgs_stojato_mm.jpg)
 budget: '2 286 418,93 Kč'
 from: 2015-01
 to: 2017-04
