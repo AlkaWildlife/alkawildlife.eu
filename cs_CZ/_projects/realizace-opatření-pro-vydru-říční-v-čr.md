@@ -18,8 +18,7 @@ funding: >-
 budget: '2 286 418,93 Kč'
 from: 2015-01
 to: 2017-04
-partners: >-
-  [www.vydryonline.cz](www.vydryonline.cz)[www.vydryonline.cz](www.vydryonline.cz)
+partners: ''
 web: www.vydryonline.cz
 contacts:
   - name: Lukáš Poledník
