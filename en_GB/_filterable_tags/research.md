@@ -1,5 +1,5 @@
 ---
-title: výzkum
+title: Research
 position: 22
 ---
 
