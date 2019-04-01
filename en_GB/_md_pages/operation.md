@@ -1,7 +1,7 @@
 ---
-title: Contacts
+title: Operation
 published: true
-permalink: /about-uk/contacts
+permalink: /about-us/operation
 description: 'poslání společnosti, činnost, status, orgány společnosti'
 listed: true
 position: 1
