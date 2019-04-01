@@ -1,7 +1,7 @@
 ---
-title: Vydra říční
+title: Eurasian otter
 published: true
-permalink: /zajmove-druhy/vydra-ricni
+permalink: /zajmove-druhy/eurasian-otter
 image: /media/vydra-ricni-948a.jpg
 description: Lasicovitá šelma stojící na vrcholu potravního řetězce našich vod.
 listed: true
