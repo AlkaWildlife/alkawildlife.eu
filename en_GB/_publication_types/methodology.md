@@ -1,5 +1,5 @@
 ---
-title: Metodika
+title: Methodology
 position: 5
 ---
 
