@@ -1,5 +1,5 @@
 ---
-title: osvěta
+title: Publicity
 position: 24
 ---
 
