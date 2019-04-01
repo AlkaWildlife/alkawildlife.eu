@@ -1,5 +1,5 @@
 ---
-title: O nás
+title: About us
 published: true
 permalink: /about-us
 description: >-
