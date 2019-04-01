@@ -1,5 +1,5 @@
 ---
-title: kočka divoká
+title: Wild cat
 position: 11
 ---
 
