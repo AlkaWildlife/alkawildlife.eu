@@ -1,5 +1,5 @@
 ---
-title: koncepce
+title: Concept
 position: 25
 ---
 
