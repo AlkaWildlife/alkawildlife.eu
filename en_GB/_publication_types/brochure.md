@@ -1,5 +1,5 @@
 ---
-title: Brožura
+title: Brochure
 position: 4
 ---
 
