@@ -1,5 +1,5 @@
 ---
-title: průzkum
+title: Long term
 position: 21
 ---
 
