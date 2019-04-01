@@ -1,7 +1,7 @@
 ---
-title: Norek americký
+title: Amercian mink
 published: true
-permalink: /zajmove-druhy/norek-americky
+permalink: /zajmove-druhy/american-mink
 image: /media/norek-americký.jpg
 description: >-
   Invazní lasicovitá šelma původem ze Severní Ameriky s negativním vlivem na
