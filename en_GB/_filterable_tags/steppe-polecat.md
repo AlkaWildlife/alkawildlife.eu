@@ -1,5 +1,5 @@
 ---
-title: tchoř stepní
+title: Steppe polecat
 position: 10
 ---
 
