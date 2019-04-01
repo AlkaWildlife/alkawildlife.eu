@@ -1,7 +1,7 @@
 ---
-title: Kontakty
+title: Contacts
 published: true
-permalink: /o-nas/kontakty
+permalink: /about-us/contacts
 description: kontakty na společnost a jednotlivé pracovníky
 listed: true
 position: 2
