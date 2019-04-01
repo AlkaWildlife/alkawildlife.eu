@@ -1,7 +1,7 @@
 ---
-title: Činnost
+title: Contacts
 published: true
-permalink: /o-nas/cinnost
+permalink: /about-uk/contacts
 description: 'poslání společnosti, činnost, status, orgány společnosti'
 listed: true
 position: 1
