@@ -1,5 +1,5 @@
 ---
-title: rys ostrovid
+title: Eurasian lynx
 position: 2
 ---
 
