@@ -96,11 +96,3 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 [2011: časopis Ochrana Přírody 1/2011: Návrat sokola stěhovavého](/media/OP_8-11.pdf)
 
 2010: Český rozhlas Sever, Planetárium: Sokol stěhovavý se vrací
-
-
-
-## Monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí/2017/MŽP
-
-V roce 2017 byl monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí financován Ministerstvem životního prostředí v rámci Programu na podporu projektů NNO. Celkem bylo v průběhu hnízdní doby zkontrolováno 92 vhodných průmyslových či městských objektů. Celkově byli sokoli zjištěni na 34 objektech. Hnízdění bylo prokázáno na 19 objektech. 
-
-Projekt byl podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.
