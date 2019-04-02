@@ -99,13 +99,11 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 2010: Český rozhlas Sever, Planetárium: Sokol stěhovavý se vrací
 
-
-
 ## Lokality
 
-Objekty ČEZ
+[Objekty ČEZ](/projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-ČEZ)
 
-Chempark Záluží
+[Chempark Záluží](/projects/sokol-stehovavy-v-prumyslovych-arealech/chempark-zaluzi)
 
 Cementárna Čížkovice
 
