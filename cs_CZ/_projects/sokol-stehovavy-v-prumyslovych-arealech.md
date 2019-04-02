@@ -6,10 +6,23 @@ funding: >-
   areálech České republiky je financováno z různých zdrojů:
 
 
+  ## Monitoring 
+
+
   Monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí
   (Program na podporu projektů NNO pro rok 2017, č.r. 60/32/17; projekt byl
   podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat
-  stanoviska MŽP)
+  stanoviska MŽP).
+
+
+  V ostatních letech je monitoring sokolů financován z vlastních prostředků či z
+  prostředků jednotlivých firem, kde byly budky instalovány, seznam viz níže.
+
+
+  ## Instalace hnízdních budek
+
+
+  Nákup a instalace je zpravidla financováno vlastníkem objektu:
 
 
   ČEZ a.s.
