@@ -18,4 +18,4 @@ Financování těchto aktivit je zajištěno ze soukromých zdrojů, většinou 
 
 První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té doby každý rok přibude několik dalších míst.
 
-Obsazenost budek a případná hnízdní úspěšnost, počty vyvedených mláďat, značení rodičů a další detaily ze života hnízdících párů jsou pravidelně každoročně monitorovány. Od roku 2016 poběží také on-line sledování průběhu hnízdění na jednom z objektů ČEZu.
+Obsazenost budek a případná hnízdní úspěšnost, počty vyvedených mláďat, značení rodičů a další detaily ze života hnízdících párů jsou pravidelně každoročně monitorovány.
