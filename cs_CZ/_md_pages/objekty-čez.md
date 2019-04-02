@@ -22,36 +22,36 @@ Na objektech firmy ČEZ a.s. je instalováno již 10 hnízdních budek, někter�
 
 2017: tisková zpráva ČEZ: Dobří sokoli se vracejí, první tokání nad elektrárnami 
 
-2016: krajskelisty.cz: Velikonoční zajíce nahradily v elektrárnách snůškou vajec sokolí samice. Samci svým dámám podstrojují nejlahodnější pamlsky a na komíně teplárny v Trmicích už sedí na vejcích
+[2016: krajskelisty.cz: Velikonoční zajíce nahradily v elektrárnách snůškou vajec sokolí samice. Samci svým dámám podstrojují nejlahodnější pamlsky a na komíně teplárny v Trmicích už sedí na vejcích](https://www.krajskelisty.cz/ustecky-kraj/okres-usti-nad-labem/12637-velikonocni-zajice-nahradily-v-elektrarnach-snuskou-vajec-sokoli-samice-samci-svym-damam-podstrojuji-nejlahodnejsi-pamlsky-a-na-kominu-teplarny-v-trmicich-uz-sedi-na-vejcich.htm)
 
-2016: iuhli.cz:Sokoli se opět zahnízdili v elektrárnách
+[2016: iuhli.cz:Sokoli se opět zahnízdili v elektrárnách](http://iuhli.cz/sokoli-se-opet-zahnizdili-v-elektrarnach/)
 
-2015: iuhli.cz: Komíny sokolům pomáhají
+[2015: iuhli.cz: Komíny sokolům pomáhají](http://iuhli.cz/kominy-sokolum-pomahaji/)
 
-2015: tisková zpráva ČEZ: Další elektrárenský komín Skupiny ČEZ napomáhá k záchraně sokola stěhovavého
+[2015: tisková zpráva ČEZ: Další elektrárenský komín Skupiny ČEZ napomáhá k záchraně sokola stěhovavého](https://www.cez.cz/cs/pro-media/tiskove-zpravy/5328.html)
 
-2015: bydletcz: Vzácný sokol stěhovavý si oblíbil elektrárenské komíny a chladící věže
+[2015: bydletcz: Vzácný sokol stěhovavý si oblíbil elektrárenské komíny a chladící věže](https://www.bydlet.cz/392023-vzacny-sokol-stehovavy-si-oblibil-elektrarenske-kominy-achladici-veze/)
 
-2015: rozhlas.cz: Dukovany chtějí přilákat sokoly, úkryt jim skýtají budky na komínech elektrárny
+[2015: rozhlas.cz: Dukovany chtějí přilákat sokoly, úkryt jim skýtají budky na komínech elektrárny](https://www.irozhlas.cz/veda-technologie_priroda/dukovany-chteji-prilakat-sokoly-ukryt-jim-skytaji-budky-na-kominech-elektrarny-_201511061705_mkopp)
 
 2015:tisková zpráva: Dukovany se připravují na zahnízdění sokola stěhovavého 
 
-2015: regiony24.cz: Elektrárna Tisová přivítala jaro společně s párem vzácných sokolů 
+[2015: regiony24.cz: Elektrárna Tisová přivítala jaro společně s párem vzácných sokolů ](http://sokolov.regiony24.cz/11-212367-elektrarna-tisova-privitala-jaro-spolecne-s-parem-vzacnych-sokolu-)
 
-2015: iuhli.cz: Sokoli hnízdí na elektrárně Tisová
+[2015: iuhli.cz: Sokoli hnízdí na elektrárně Tisová](http://iuhli.cz/sokoli-hnizdi-na-elektrarne-tisova/)
 
-2011: Český rozhlas Sever: Sokol stěhovavý
+[2011: Český rozhlas Sever: Sokol stěhovavý](https://www.rozhlas.cz/teens/poznavej/_zprava/sokol-stehovavy--841853)
 
 2011: alkawildlife.eu: Sokoli úspěšně vyhnízdili v instalovaných budkách
 
-2011: Idnes.cz:Věž tušimické elektrárny si oblíbili sokoli, budky jim pomohou zahnízdit
+[2011: Idnes.cz:Věž tušimické elektrárny si oblíbili sokoli, budky jim pomohou zahnízdit](https://www.idnes.cz/usti/zpravy/vez-tusimicke-elektrarny-si-oblibili-sokoli-budky-jim-pomohou-zahnizdit.A110114_1514878_usti-zpravy_alh)
 
-2011: Cez.cz :Tušimičtí sokoli dostali od Skupiny ČEZ novoroční dárek, nyní mají dvě speciální budky k zahnízdění
+[2011: Cez.cz :Tušimičtí sokoli dostali od Skupiny ČEZ novoroční dárek, nyní mají dvě speciální budky k zahnízdění](https://www.cez.cz/cs/pro-media/tiskove-zpravy/3211.html)
 
-2011: denik.cz: Sokoli dostali na elektrárně další budku
+[2011: denik.cz: Sokoli dostali na elektrárně další budku](https://www.denik.cz/regiony/sokoli-dostali-na-elektrarne-dalsi-budku20110113.html)
 
 2010: Amic.cz: Místo demoličního bagru se na elektrárenském komínu uhnízdil chráněný sokol stěhovavý
 
-2010: cez.cz: Sokolí pár všechny překvapil, sám si našel místo, kde bude mít pro příští zahnízdění připravenu budku
+[2010: cez.cz: Sokolí pár všechny překvapil, sám si našel místo, kde bude mít pro příští zahnízdění připravenu budku](https://www.cez.cz/cs/pro-media/tiskove-zpravy/2932.html)
 
-2010: cez.cz: Ornitolog a energetici vybírali další místa pro sokolí budky, tentokráte v Elektrárně Prunéřov II
+[2010: cez.cz: Ornitolog a energetici vybírali další místa pro sokolí budky, tentokráte v Elektrárně Prunéřov II](https://www.cez.cz/cs/pro-media/tiskove-zpravy/2944.html)
