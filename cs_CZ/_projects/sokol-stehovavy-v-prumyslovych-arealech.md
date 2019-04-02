@@ -69,4 +69,16 @@ hnízdění. Někdy vyberou špatně, hnízdění je pak neúspěšné či kompl
 
 Na chladící věže, komíny a jiné výškové objekty postupně ve spolupráci s vlastníky/provozovateli instalujeme velmi odolné hliníkové budky. Začínali jsme v severních Čechách, ale postupně se oblast rozšiřuje na území celé ČR.
 
-První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té doby každý rok přibude několik dalších míst. Obsazenost budek a případná hnízdní úspěšnost, počty vyvedených mláďat, značení rodičů a další detaily ze života hnízdících párů jsou pravidelně každoročně monitorovány.
+První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té doby každý rok přibude několik dalších míst. Obsazenost budek a případná hnízdní úspěšnost, počty vyvedených mláďat, značení rodičů a další detaily ze života hnízdících párů jsou pravidelně každoročně monitorovány. 
+
+## Souhrnné články o hnízdění sokolů v průmyslových areálech
+
+[2015: tzb-info.cz: Komíny tepláren pomáhají při záchraně sokola stěhovavého](https://energetika.tzb-info.cz/teplarenstvi/13022-kominy-teplaren-pomahaji-pri-zachrane-sokola-stehovaveho)
+
+[2015: moderniobec.cz: Komíny tepláren pomáhají vzácným dravcům ](https://www.moderniobec.cz/kominy-teplaren-pomahaji-vzacnym-dravcum/)
+
+[2014:tzb-info.cz: Komíny tepláren zachraňují populaci ohroženého sokola stěhovavého](https://www.tzb-info.cz/rozhovory-komentare/11572-kominy-teplaren-zachranuji-populaci-ohrozeneho-sokola-stehovaveho) 
+
+[2011: časopis Ochrana Přírody 1/2011: Návrat sokola stěhovavého](/media/OP_8-11.pdf)
+
+2010: Český rozhlas Sever, Planetárium: Sokol stěhovavý se vrací
