@@ -57,4 +57,4 @@ Více si můžete přečíst v těchto [našich publikacích](/publications#cate
 
 # Projekty
 
-Mývalem severním se okrajově zabýváme, seznam [projektů zde](/projects#category=m%C3%BDval-severn%C3%AD).
+Realizované projekty zaměřené na mývala severního [zde](/projects#category=m%C3%BDval-severn%C3%AD).
