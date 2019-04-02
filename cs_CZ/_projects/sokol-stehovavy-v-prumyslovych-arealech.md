@@ -6,7 +6,7 @@ funding: >-
   areálech České republiky je financováno z různých zdrojů:
 
 
-  ## Monitoring 
+  ## Monitoring
 
 
   Monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí
@@ -25,40 +25,10 @@ funding: >-
   Nákup a instalace je zpravidla financováno vlastníkem objektu:
 
 
-  ČEZ a.s.
-
-
-  Nadace ČEZ
-
-
-  Unipetrol RPA s.r.o.
-
-
-  Lafarge Cement a.s.
-
-
-  United Energy a.s. 
-
-
-  Škoda Energo a.s. 
-
-
-  AGC processing Teplice a.s.
-
-
-  Thermo Děčín a.s.
-
-
-  Spolana a.s.
-
-
-  MVV Energie CZ
-
-
-  Pražská Teplárenská
-
-
-  Zevo Malešice Praha
+  ČEZ a.s. / Nadace ČEZ / Unipetrol RPA s.r.o. / Lafarge Cement a.s. / United
+  Energy a.s.  / Škoda Energo a.s.  / AGC processing Teplice a.s. / Thermo Děčín
+  a.s. / Spolana a.s. / MVV Energie CZ / Pražská Teplárenská  / Zevo Malešice
+  Praha
 from: 2010-01
 to: 2019-04
 contacts:
@@ -87,7 +57,9 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 ![Mladí sokoli v budce](/media/čtyřka_mělník_2018_610.jpg)
 
-## Souhrnné články o hnízdění sokolů v průmyslových areálech
+
+
+# Souhrnné články o hnízdění sokolů v průmyslových areálech
 
 [2015: tzb-info.cz: Komíny tepláren pomáhají při záchraně sokola stěhovavého](https://energetika.tzb-info.cz/teplarenstvi/13022-kominy-teplaren-pomahaji-pri-zachrane-sokola-stehovaveho)
 
@@ -97,9 +69,9 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 [2011: časopis Ochrana Přírody 1/2011: Návrat sokola stěhovavého](/media/OP_8-11.pdf)
 
-2010: Český rozhlas Sever, Planetárium: Sokol stěhovavý se vrací
 
-## Lokality
+
+# Lokality
 
 [Objekty ČEZ](/projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-ČEZ)
 
