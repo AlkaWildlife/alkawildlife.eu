@@ -18,8 +18,12 @@ Tchořík skvrnitý je menší lasicovitá šelma. Má nápadné pestré zbarven
 
 Páření probíhá v dubnu až červnu a samice rodí jedno až osm mláďat. U tchoříka se setkáváme s opožděnou implantací oplodněného vajíčka, takže i když samotná doba březosti trvá 23 až 45 dní, mláďata se rodí až za 8-11 měsíců od páření. Tato adaptace umožňuje tchoříkovi posunout porod mláďat do nejpříznivějšího ročního období, což je jaro. 
 
-Tchořík je nejaktivnější během ranních a večerních hodin, kdy pomocí dobře vyvinutého čichu vyhledává kořist. Nejčastější kořistí jsou křečci, sysli, jiní hlodavci, drobní ptáci, žáby, plazi a hmyz. 
+Tchořík je nejaktivnější během ranních a večerních hodin, kdy pomocí dobře vyvinutého čichu vyhledává kořist. Nejčastější kořistí jsou křečci, sysli, jiní hlodavci, drobní ptáci, žáby, plazi a hmyz. 
 
 Tchořík skvrnitý obývá především suché pouštní, polopouštní a stepní biotopy, zemědělsky využívané prostředí, např. pastviny. Původní rozšíření druhu zasahuje od jihovýchodní Evropy po Rusko a západní Čínu. V Evropě žije nominotypický poddruh _Vormela peregusna peregusna_, který zasahuje pravděpodobně na území Srbska, Černé Hory, Makedonie, Bulharska, jižního Rumunska, severovýchodního Řecka, možná Albánie a západní Turecko. V ostatních oblastech areálu rozšíření bylo popsáno alespoň pět dalších poddruhů, nicméně jejich taxonomický status je nejistý. 
 
 Tchořík skvrnitý je zařazen v červeném seznamu ohrožených druhů IUCN v kategorii zranitelný (VU). Jako nejvýraznější faktory ohrožení jsou zmiňovány především ničení přirozeného prostředí, používání rodenticidů v zemědělství, snižování přirozené potravní základy a pronásledování kvůli možným škodám na drůbeži.
+
+## Projekty
+
+Realizované projekty zaměřené na tchoříka skvrnitého [zde](/projects#category=tcho%C5%99%C3%ADk-skvrnit%C3%BD).
