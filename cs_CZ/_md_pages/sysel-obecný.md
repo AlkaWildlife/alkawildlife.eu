@@ -26,4 +26,4 @@ Web je určen pro laickou veřejnost, kromě informací o syslovi obecném v Če
 
 # Projekty
 
-Vydrou říční se zabýváme dlouhodobě, [seznam projektů zde](/projects#category=sysel).
+Realizované projekty zaměřené na sysla obecného[ zde](/projects#category=sysel).
