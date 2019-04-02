@@ -57,8 +57,6 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 ![Mladí sokoli v budce](/media/čtyřka_mělník_2018_610.jpg)
 
-
-
 # Souhrnné články o hnízdění sokolů v průmyslových areálech
 
 [2015: tzb-info.cz: Komíny tepláren pomáhají při záchraně sokola stěhovavého](https://energetika.tzb-info.cz/teplarenstvi/13022-kominy-teplaren-pomahaji-pri-zachrane-sokola-stehovaveho)
@@ -73,7 +71,7 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 # Lokality
 
-[Objekty ČEZ](/projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-ČEZ)
+[Objekty ČEZ](/projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-CEZ)
 
 [Chempark Záluží](/projects/sokol-stehovavy-v-prumyslovych-arealech/chempark-zaluzi)
 
