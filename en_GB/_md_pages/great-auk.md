@@ -1,7 +1,7 @@
 ---
 title: Great Auk
 published: true
-permalink: /zajmove-druhy/great-auk
+permalink: /species-of-interest/great-auk
 image: /media/alka_obrazek.jpg
 description: >-
   Alka velká se vyskytovala na území Severního Atlantiku, ale byla člověkem
