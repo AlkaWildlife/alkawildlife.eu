@@ -10,7 +10,9 @@ listed: true
 position: 6
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    title: Mýval severní
+    permalink: /zajmove-druhy/myval-severni
 ---
 Mýval severní patří k nově se vyskytujícím druhům savců naší fauny. Druh původně pochází ze Severní Ameriky a severní části Jižní Ameriky. Do naší přírody se dostal z kožešinových farem nebo vlivem záměrného vypouštění. Jako nepůvodní druh se značnou reprodukční kapacitou se jak u nás, tak v celé Evropě rozšiřuje. Jedná se o všežravce obývajícího širokou škálu různých biotopů, místy s vazbou na mokřadní lokality.
 
