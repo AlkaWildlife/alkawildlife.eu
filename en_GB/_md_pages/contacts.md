@@ -21,7 +21,7 @@ lang_alternatives:
 
 **Data box ID**: gypmz9w
 
-**Public company announcement:** [vhodne-uverejneni.cz/profil/28064933 ](vhodne-uverejneni.cz/profil/28064933)
+**Public company announcement:** [vhodne-uverejneni.cz/profil/28064933](vhodne-uverejneni.cz/profil/28064933)
 
 **Website:** [alkawildlife.eu](www.alkawildlife.eu)
 
