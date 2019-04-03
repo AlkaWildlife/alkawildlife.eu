@@ -7,12 +7,11 @@ description: Lasicovitá šelma stojící na vrcholu potravního řetězce naši
 listed: true
 position: 2
 layout: two_columns_page
-lang_alternatives:
-  en_GB: {}
+lang_alternatives: {}
 ---
-Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organizace. 
+The Eurasian otter (Lutra lutra) is our flag species. We have dedicated our time into researching them since the organisation was founded. 
 
-Pro detailní informace o tomto druhu přejděte na webové stránky, kde se přímo vydře říční věnujeme:
+Further detailed information about the otter can be found on our dedicated otter specific:
 
 ![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](www.vydryonline.cz) 
 
@@ -31,8 +30,6 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
 
 <div class="clearfix"></div>
-
-
 
 # Literatura
 
