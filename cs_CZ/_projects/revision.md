@@ -21,9 +21,9 @@ partners: |-
 
   [Krok Kyjov, z.ú.](http://www.oskrok.cz/) (hlavní přeshraniční partner)
 
-  [ALKA Wildlife, o.p.s.](www.alkawildlife.eu)
+  [ALKA Wildlife, o.p.s.](http://www.alkawildlife.eu)
 
-  [Česká společnost ornitologická – Jihomoravská pobočka](www.jmpcso.cz)
+  [Česká společnost ornitologická – Jihomoravská pobočka](http://www.jmpcso.cz)
 contacts:
   - name: Lukáš Poledník
 species: |-
