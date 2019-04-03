@@ -11,7 +11,9 @@ position: 5
 layout: two_columns_page
 aside_links: ''
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: American mink
+    permalink: /species-of-interest/american-mink
 ---
 # Popis
 
