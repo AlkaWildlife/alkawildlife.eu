@@ -1,7 +1,7 @@
 ---
-title: Mýval severní
+title: Northern raccoon
 published: true
-permalink: /zajmove-druhy/myval-severni
+permalink: /species-of-interest/northern-raccoon
 image: /media/cdy00027myval_vm.jpg
 description: >-
   Invazní medvídkovitá šelma ze Severní Ameriky s negativním vlivem na naše
