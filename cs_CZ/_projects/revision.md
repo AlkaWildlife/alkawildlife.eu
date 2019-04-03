@@ -54,7 +54,7 @@ description: "Projekt řeší vliv invazních savců (norka amerického, mývala
 
 Projekt REVISION navazuje na monitoring invazních živočichů a management
 ptačích ostrovů v přeshraničním území ČR a SR, které byly realizovány
-v minulých letech v rámci projektů NEOVISION a NEOVISION II. Cílem
+v minulých letech v rámci projektů [NEOVISION](/projects/neovision) a [NEOVISION II](/projects/neovision-ii). Cílem
 projektu je přehodnotit aktuální stav vybraných invazivních živočichů
 ([norka amerického](/zajmove-druhy/norek-americky), [mývala severního](/zajmove-druhy/myval-severni), [psíka mývalovitého](/zajmove-druhy/psik-myvalovity) a nutrie)
 a aktivním odlovem snížit jejich stavy z důvodu ochrany našich původních
