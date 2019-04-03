@@ -53,7 +53,7 @@ lang_alternatives:
 
 ## **Mgr. Tereza Mináriková**
 
-**Tel:** 724 706 806 **Email:** tereza.minarikova@alkawildlife.eu **LinkedIn: **[linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-mináriková-a6382753)
+**Tel:** 724 706 806 **Email:** tereza.minarikova@alkawildlife.eu **LinkedIn:** [linkedin.com/in/tereza-mináriková](linkedin.com/in/tereza-mináriková-a6382753)
 
 * Project manager
 * Researcher
@@ -62,7 +62,7 @@ lang_alternatives:
 
 ## **Mgr. Václav Beran**
 
-**Tel: **731 407 839 **Email: **lutra@email.cz **LinkedIn:** [linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran-5709705a)
+**Tel:** 731 407 839 **Email:** lutra@email.cz **LinkedIn:** [linkedin.com/in/václav-beran](linkedin.com/in/václav-beran-5709705a)
 
 * Project manager
 * Researcher
@@ -70,7 +70,7 @@ lang_alternatives:
 
 ## **Mgr. Fernando Mateos-González PH.D.**
 
-**Email: **fernandomateos@gmail.com **LinkedIn: **[linkedin.com/in/fernandomateosgonzalez](linkedin.com/in/fernandomateosgonzalez)
+**Email:** fernandomateos@gmail.com **LinkedIn:** [linkedin.com/in/fernandomateosgonzalez](linkedin.com/in/fernandomateosgonzalez)
 
 * Researcher
 * Data analyst 
@@ -78,7 +78,7 @@ lang_alternatives:
 
 ## **Hannah Findlay**
 
-**Email: **hannah.findlay14@gmail.com **LinkedIn:** [linkedin.com/in/hannah-findlay](linkedin.com/in/hannah-findlay)
+**Email:** hannah.findlay14@gmail.com **LinkedIn:** [linkedin.com/in/hannah-findlay](linkedin.com/in/hannah-findlay)
 
 * Researcher
 * Social media
