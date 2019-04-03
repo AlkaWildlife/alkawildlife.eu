@@ -23,7 +23,7 @@ lang_alternatives:
 
 **Public company announcement: **[vhodne-uverejneni.cz/profil/28064933 ](vhodne-uverejneni.cz/profil/28064933)
 
-**Web: **[alkawildlife.eu](www.alkawildlife.eu)
+**Website: **[alkawildlife.eu](www.alkawildlife.eu)
 
 **Facebook: **[facebook.com/AlkaWildlife](facebook.com/AlkaWildlife)
 
@@ -53,7 +53,7 @@ lang_alternatives:
 
 ## **Mgr. Tereza Mináriková**
 
-**Tel: **724 706 806 **Email:** tereza.minarikova@alkawildlife.eu **LinkedIn: **[linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-mináriková-a6382753)
+**Tel:** 724 706 806 **Email:** tereza.minarikova@alkawildlife.eu **LinkedIn: **[linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-mináriková-a6382753)
 
 * Project manager
 * Researcher
@@ -62,7 +62,7 @@ lang_alternatives:
 
 ## **Mgr. Václav Beran**
 
-**Tel: **731 407 839 **Email: **lutra@email.cz **LinkedIn: **[linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran-5709705a)
+**Tel: **731 407 839 **Email: **lutra@email.cz **LinkedIn:** [linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran-5709705a)
 
 * Project manager
 * Researcher
