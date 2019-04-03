@@ -41,7 +41,7 @@ Alka Wildlife, ops has been **accredited** by the Central Commission for Animal 
 
 ALKA Wildlife, ops is on the Ministry of Education, Youth and Sports **list of research organisations.**
 
-# **BOARD MEMBERS**
+# BOARD MEMBERS
 
 ## **DIRECTOR:**
 
