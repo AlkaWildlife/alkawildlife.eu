@@ -2,35 +2,34 @@
 title: Support us
 published: true
 permalink: /about-us/support-us
-long_title: Jak nás můžete podpořit?
+long_title: How can you support us?
+description: >-
+  If you are interested in our activities, we welcome and appreciate your
+  support. 
 listed: true
 position: 3
 layout: two_columns_page
+lang_alternatives:
+  cs_CZ:
+    title: Podpořte nás
+    permalink: /o-nas/podporte-nas
 ---
-Pokud Vás naše činnost zaujala a je Vám sympatická, můžete nás
-podpořit. V řadě případů je u dotačních titulů podmínka spoluúčasti
-žadatele. Proto musíme na dané projekty zajistit peníze i jinde než
-u hlavního poskytovatele. Také finance na samotný provoz společnosti se
-špatně zajišťují. Proto podporu z Vaší strany velmi uvítáme a oceníme.
+If you are interested in our activities, we welcome and appreciate your support. 
 
-Podpora z Vaší strany může být buďto:
+Usually, funding is conditional on the applicant's participation. For some projects, it is necessary for us to secure additional money. Donations are a greatly appreciated source of funding for us to be able to continue our work.
 
-* **věcná** (např. ve formě kancelářského materiálu či vybavení)
-* **obecná finanční podpora** (finance budou použity podle potřeby na
-  provoz společnosti nebo i na konkrétní projekty)
-* **finanční podpora konkrétního projektu** (v případě že budete chtít
-  podporovat jeden konkrétní projekt)
+Your support may be in the form of:
 
-Pokud nás zamýšlíte podpořit, obraťte se na ředitelku společnosti.
+•	**Equipment** such as office material or fieldwork supplies 
 
-U všech forem podpory s Vámi uzavřeme odpovídající smlouvu, případně
-vystavíme potvrzení o přijetí daru.
+•	**General donation** which would provide financial support for the company or specific projects
 
-Fyzická osoba si může hodnotu darů odečíst od základu daně, pokud jejich
-úhrnná hodnota ve zdaňovacím období přesáhne 2 % ze základu daně,
-resp. činí alespoň 1000 Kč. Celkem lze odečíst maximálně 10 % ze základu
-daně.
+•	**Project donation** where you would provide financial support for a project of your choosing
 
-Právnická osoba si může hodnotu darů odečíst od základu daně, pokud
-jejich úhrnná hodnota ve zdaňovacím období činí alespoň 2000 Kč. Celkem
-lze odečíst maximálně 5 % ze základu daně.
+If you intend to support us, please contact the _company director_.
+
+For all forms of support, we will conclude an appropriate contract with you, or we will issue a receipt of the gift.
+
+Individuals can deduct the value of gifts from their tax payments if their total value in the tax period exceeds 2%, or it is at least 1000 CZK. In total, a maximum 10% can be deducted.
+
+Companies may deduct the value of financial gifts from their tax payments if the total value in the tax period is at least CZK 2,000. In total, a maximum of 5% can be deducted.
