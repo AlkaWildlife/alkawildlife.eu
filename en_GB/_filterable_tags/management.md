@@ -1,5 +1,5 @@
 ---
-title: management
+title: Management
 position: 23
 ---
 
