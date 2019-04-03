@@ -9,6 +9,8 @@ layout: single_column_page
 aside_title: druhy
 aside_links: 'základní informace o druzích živočichů, kterým se dlouhodobě věnujeme.'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Species of interest
+    permalink: /species-of-interest
 ---
 V této sekci naleznete základní informace o alce velké (symbolu naší společnosti) a o druzích živočichů, kterým se dlouhodobě věnujeme.
