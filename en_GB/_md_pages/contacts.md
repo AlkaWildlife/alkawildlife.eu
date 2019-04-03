@@ -21,11 +21,11 @@ lang_alternatives:
 
 **Data box ID**: gypmz9w
 
-**Public company announcement: **[_vhodne-uverejneni.cz/profil/28064933_](https://www.vhodne-uverejneni.cz/profil/28064933)****
+**Public company announcement: **[vhodne-uverejneni.cz/profil/28064933 ](vhodne-uverejneni.cz/profil/28064933)
 
-**Website: **[_alkawildlife.eu_](alkawildlife.eu)****
+**Web: **[alkawildlife.eu](www.alkawildlife.eu)
 
-**Facebook: **[_facebook.com/AlkaWildlife_](facebook.com/AlkaWildlife)
+**Facebook: **[facebook.com/AlkaWildlife](facebook.com/AlkaWildlife)
 
 # OUR STAFF
 
@@ -85,7 +85,7 @@ lang_alternatives:
 
 ## **Štěpán Zápotočný**
 
-**Email: **stepan.zapotocny@alkawildlife.eu
+**Email:** stepan.zapotocny@alkawildlife.eu
 
 * Researcher
 
