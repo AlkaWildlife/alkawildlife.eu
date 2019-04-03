@@ -1,7 +1,7 @@
 ---
-title: Zájmové druhy
+title: Species of interest
 published: true
-permalink: /zajmove-druhy
+permalink: /species-of-interest
 description: 'Sekce se základními informacemi o druzích, kterým se věnujeme'
 listed: true
 position: 4
