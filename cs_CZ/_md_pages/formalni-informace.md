@@ -7,7 +7,7 @@ listed: true
 position: 2
 layout: two_columns_page
 ---
-ALKA Wildlife o.p.s.
+## ALKA Wildlife o.p.s.
 
 **Sídlo**: Lidéřovice 62, 380 01  Peč 
 
