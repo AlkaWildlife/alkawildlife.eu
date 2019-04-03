@@ -21,17 +21,17 @@ lang_alternatives:
 
 **Data box ID**: gypmz9w
 
-**Public company announcement: **[_vhodne-uverejneni.cz/profil/28064933_](https://www.vhodne-uverejneni.cz/profil/28064933)
+**Public company announcement: **[_vhodne-uverejneni.cz/profil/28064933_](https://www.vhodne-uverejneni.cz/profil/28064933)****
 
-**Website: **[_alkawildlife.eu_](alkawildlife.eu)
+**Website: **[_alkawildlife.eu_](alkawildlife.eu)****
 
-**Facebook:** [_facebook.com/AlkaWildlife_](facebook.com/AlkaWildlife)
+**Facebook: **[_facebook.com/AlkaWildlife_](facebook.com/AlkaWildlife)
 
 # OUR STAFF
 
 ## **Mgr. Kateřina Poledníková**
 
-Tel: 606 598 903                                                                                                                                            Email: kateřina.poledníková@alkawildlife.eu 
+**Tel:** 606 598 903 **Email:** katerina.polednikova@alkawildlife.eu 
 
 * Director
 * Project and finance manager
@@ -42,9 +42,7 @@ Tel: 606 598 903                                                              
 
 ## **Mgr. Lukáš Poledník, Ph.D.**
 
-Tel: 721 113 973
-
-Email: lukáš.poledník@alkawildlife.eu 
+**Tel:** 721 113 973 **Email:** lukas.polednik@alkawildlife.eu 
 
 * Senior researcher
 * Student supervision
@@ -55,11 +53,7 @@ Email: lukáš.poledník@alkawildlife.eu
 
 ## **Mgr. Tereza Mináriková**
 
-Tel: 724 706 806
-
-Email: tereza.minarikova@alkawildlife.eu 
-
-LinkedIn: [linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-mináriková-a6382753)
+**Tel: **724 706 806 **Email:** tereza.minarikova@alkawildlife.eu **LinkedIn: **[linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-mináriková-a6382753)
 
 * Project manager
 * Researcher
@@ -68,11 +62,7 @@ LinkedIn: [linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-
 
 ## **Mgr. Václav Beran**
 
-Tel: 731 407 839
-
-Email: lutra@email.cz 
-
-LinkedIn: [linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran-5709705a)
+**Tel: **731 407 839 **Email: **lutra@email.cz **LinkedIn: **[linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran-5709705a)
 
 * Project manager
 * Researcher
@@ -80,9 +70,7 @@ LinkedIn: [linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran
 
 ## **Mgr. Fernando Mateos-González PH.D.**
 
-Email: fernandomateos@gmail.com 
-
-LinkedIn: [linkedin.com/in/fernandomateosgonzalez](linkedin.com/in/fernandomateosgonzalez)
+**Email: **fernandomateos@gmail.com **LinkedIn: **[linkedin.com/in/fernandomateosgonzalez](linkedin.com/in/fernandomateosgonzalez)
 
 * Researcher
 * Data analyst 
@@ -90,20 +78,20 @@ LinkedIn: [linkedin.com/in/fernandomateosgonzalez](linkedin.com/in/fernandomateo
 
 ## **Hannah Findlay**
 
-Email: hannah.findlay14@gmail.com 
-
-LinkedIn: [linkedin.com/in/hannah-findlay](linkedin.com/in/hannah-findlay)
+**Email: **hannah.findlay14@gmail.com **LinkedIn:** [linkedin.com/in/hannah-findlay](linkedin.com/in/hannah-findlay)
 
 * Researcher
 * Social media
 
 ## **Štěpán Zápotočný**
 
+**Email: **stepan.zapotocny@alkawildlife.eu
+
 * Researcher
 
 ## **Ing. Jan Horáček**
 
-Tel: 724 299 225
+**Tel:** 724 299 225
 
 * Economist
 * Financial manager
