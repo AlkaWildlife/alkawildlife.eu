@@ -21,9 +21,9 @@ lang_alternatives:
 
 **Data box ID**: gypmz9w
 
-**Public company announcement: **[_vhodne-uverejneni.cz/profil/28064933_](https://www.vhodne-uverejneni.cz/profil/28064933)****
+**Public company announcement: **[_vhodne-uverejneni.cz/profil/28064933_](https://www.vhodne-uverejneni.cz/profil/28064933)
 
-**Website: **[_alkawildlife.eu_](alkawildlife.eu)****
+**Website: **[_alkawildlife.eu_](alkawildlife.eu)
 
 **Facebook:** [_facebook.com/AlkaWildlife_](facebook.com/AlkaWildlife)
 
@@ -31,8 +31,7 @@ lang_alternatives:
 
 ## **Mgr. Kateřina Poledníková**
 
-Tel: 606 598 903
-
+Tel: 606 598 903\
 Email: kateřina.poledníková@alkawildlife.eu 
 
 * Director
@@ -42,7 +41,7 @@ Email: kateřina.poledníková@alkawildlife.eu
 * Communications
 * Specialty: Demography, PVA
 
-# **Mgr. Lukáš Poledník, Ph.D.**
+## **Mgr. Lukáš Poledník, Ph.D.**
 
 Tel: 721 113 973
 
@@ -55,7 +54,7 @@ Email: lukáš.poledník@alkawildlife.eu
 * IUCN Otter Specialist Group member
 * Specialty: Diet analysis, GIS analysis
 
-## Mgr. Tereza Mináriková
+## **Mgr. Tereza Mináriková**
 
 Tel: 724 706 806
 
@@ -68,7 +67,7 @@ LinkedIn: [linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-
 * Publicity and social media manager
 * Specialty: Large carnivore ecology
 
-## Mgr. Václav Beran
+## **Mgr. Václav Beran**
 
 Tel: 731 407 839
 
@@ -80,7 +79,7 @@ LinkedIn: [linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran
 * Researcher
 * Specialty: Ornithology, vertebrate stocktaking surveys
 
-## Mgr. Fernando Mateos-González PH.D.
+## **Mgr. Fernando Mateos-González PH.D.**
 
 Email: fernandomateos@gmail.com 
 
@@ -90,7 +89,7 @@ LinkedIn: [linkedin.com/in/fernandomateosgonzalez](linkedin.com/in/fernandomateo
 * Data analyst 
 * Specialty: Animal behaviour
 
-## Hannah Findlay
+## **Hannah Findlay**
 
 Email: hannah.findlay14@gmail.com 
 
@@ -99,11 +98,11 @@ LinkedIn: [linkedin.com/in/hannah-findlay](linkedin.com/in/hannah-findlay)
 * Researcher
 * Social media
 
-## Štěpán Zápotočný
+## **Štěpán Zápotočný**
 
 * Researcher
 
-## Ing. Jan Horáček
+## **Ing. Jan Horáček**
 
 Tel: 724 299 225
 
