@@ -1,5 +1,5 @@
 ---
-title: wheatear
+title: Wheatear
 position: 6
 ---
 
