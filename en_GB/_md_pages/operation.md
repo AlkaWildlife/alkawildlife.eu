@@ -2,62 +2,75 @@
 title: Operation
 published: true
 permalink: /about-us/operation
-description: 'poslání společnosti, činnost, status, orgány společnosti'
+description: 'Company initiatives, status and board members'
 listed: true
 position: 1
 layout: two_columns_page
+lang_alternatives:
+  cs_CZ:
+    title: Činnost
+    permalink: /o-nas/cinnost
 ---
-Společnost ALKA Wildlife o.p.s. byla založena v roce 2007 skupinou šesti odborníků zabývajících se ekologií obratlovců a ochranou přírody.
+# COMPANY INITIATIVES:
 
-# Společnost poskytuje veřejnosti obecně prospěšné služby ve formě:
+•	To conduct **research projects** in the field of biology, ecology and wildlife protection
 
-* realizace **výzkumných projektů** v oblasti biologie, ekologie a ochrany volně žijících živočichů
-* zpracovávání **odborných analýz, studií**, stanovisek a **inventarizačních průzkumů** týkajících se volně žijících živočichů 
-* informační **podpora rozhodování** v oblasti ochrany volně žijících druhů živočichů a ochrany biodiverzity 
-* **vedení odborných prací** studentů středních a vysokých škol v oblasti ekologie živočichů 
-* vzdělávání, **osvěta** a práce s veřejností v oblasti ekologie živočichů, ochrany volně žijících druhů zvířat a ochrany biodiverzity 
-* **vývoj, testování a realizace opatření** v oblasti managementu druhů a krajiny 
-* zpracování **koncepčních dokumentů** v ochraně přírody 
-* **pořádání konferencí**, pracovních setkání, výukových programů a přednášek 
+•	To provide **expert analyses, opinions** and c**atalogue surveys** of wildlife
 
-# Společnost může také vykonávat doplňkovou činnost ve formě:
+•	To **support ‘in the field’ decision-making** by **recommending actions** for wildlife and biodiversity conservation 
 
-* zpracování odborných posudků v oblasti škod způsobovaných zvláště chráněnými živočichy
+•	To be the **lead on professional works** of secondary and university students in animal ecology
 
-# Poslání společnosti
+•	To produce **educational information** and maintain public relations in the field of animal ecology, conservation of wild animal species and protection of biodiversity
 
-Získávat, šířit a aplikovat informace týkající se biologie a ekologie živočichů tak, aby došlo k jejich efektivní, vědecky podložené ochraně a managementu
+•	To **develop, test and implement** species and landscape **management measures**
 
-# Status
+•	To advance **conceptual documents** in nature protection
 
-Společnost ALKA Wildlife, o.p.s. je obecně prospěšná společnost založená dle zákona č. 248/1995 Sb., o obecně prospěšných společnostech, ve znění pozdějších předpisů.
+•	To **organise conferences**, workshops, tutorials and lectures
 
-Společnosti ALKA Wildlife, o.p.s. byla udělena **akreditace** od Ústřední komise pro ochranu zvířat podle zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů. Na základě této akreditace má společnost povolení pro provádění pokusů na zvířatech s cílem ověřování vědecké domněnky a získávání vědeckých poznatků a zkoumání reakcí zvířete včetně jeho metodického sledování ve volné přírodě. 
+# ADDITIONAL INITIATIVES:
 
-Společnost ALKA Wildlife, o.p.s. je na **seznamu výzkumných organizací** MŠMT.
+•	To **elaborate on expert opinions** regarding damage caused by protected species
 
-# Statutární orgán společnosti - ředitel
+# STATUS
 
-Mgr. Kateřina Poledníková\
-Ředitel je oprávněn jednat jménem společnosti. 
+Alka Wildlife, ops is a public benefit corporation established under Act No. 248/1995 Coll., On Public Benefit Companies, as amended.
 
-# Správní rada:
+Alka Wildlife, ops has been **accredited** by the Central Commission for Animal Welfare pursuant to Act No. 246/1992 Coll., On the protection of animals against cruelty, as amended. Based on this accreditation, the company is authorised to conduct experiments to verify scientific beliefs and to acquire scientific knowledge. They are also authorised to investigate animal reactions including methodological observations in the wild.
 
-Mgr. Aleš Jelínek (předseda správní rady)\
-Zdeněk Hron \
+ALKA Wildlife, ops is on the Ministry of Education, Youth and Sports **list of research organisations.**
+
+## DIRECTOR:
+
+Mgr. Kateřina Poledníková
+
+## BOARD OF DIRECTORS:
+
+Mgr. Aleš Jelínek (Chairman)
+
+Zdeněk Hron 
+
 Ing. Václav Křivan
 
-# Dozorčí rada:
+## SUPERVISORY BOARD:
 
-Jaroslava Musilová (předseda dozorčí rady)\
-Jindra Jelínková, Dis.\
-Miloslava Král’ová
+Jaroslava Musilová (Chairman)
 
-# Zakladatelé společnosti:
+Jindra Jelínková, Dis. 
 
-Mgr. Václav Beran\
-Ing. Václav Hlaváč\
-Dr. Andreas Kranz\
-Mgr. Lukáš Poledník, Ph.D.\
-Mgr. Kateřina Poledníková\
+Miloslava Král'ová
+
+## COMPANY FOUNDERS:
+
+Mgr. Václav Beran 
+
+Ing. Václav Hlaváč 
+
+Dr. Andreas Kranz 
+
+Mgr. Lukáš Poledník, Ph.D. 
+
+Mgr. Kateřina Poledníková 
+
 RNDr. Aleš Toman
