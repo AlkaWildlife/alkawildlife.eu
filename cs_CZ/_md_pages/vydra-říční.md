@@ -8,7 +8,9 @@ listed: true
 position: 2
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Eurasian otter
+    permalink: /species-of-interest/eurasian-otter
 ---
 Vydra říční je náš vlajkový druh. Věnujeme se jí od založení organizace. 
 
