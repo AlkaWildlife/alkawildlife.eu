@@ -4,21 +4,23 @@ published: true
 permalink: /species-of-interest/great-auk
 image: /media/alka_obrazek.jpg
 description: >-
-  Alka velká se vyskytovala na území Severního Atlantiku, ale byla člověkem
-  vyhubena.
+  The Great Auk occurred in the North Atlantic but became extinct in the 19th
+  century.
 listed: true
 position: 1
 layout: two_columns_page
 aside_links: ''
+lang_alternatives:
+  cs_CZ:
+    title: Alka velká
+    permalink: /zajmove-druhy/alka-velka
 ---
-Alku velkou (_Pinguinus impennis_) popsal v roce 1758 přírodovědec Karl Linnaeus. Původně se vyskytovala ve vzájemně izolovaných koloniích v obrovském území Severního Atlantiku od Kanady přes Grónsko, Island až po Velkou Británii. Ve známé historii hnízdily alky velké pouze na skalnatých ostrovech. Na přístupnějších hnízdištích byly pravděpodobně vyhubeny v ještě starší minulosti. Archeologické nálezy pochází i z evropského pobřeží od severního Ruska po Francii. Zimování bylo prokázáno ještě jižněji až na úrovni Španělska. 
+In 1758, the natural scientist Karl Linnaeus described the Great Auk (_Pinguinus impennis_). It was originally found in isolated colonies in the vast North Atlantic, from Canada through Greenland, Iceland to Great Britain. In the well-known history, the Auks only nested on these rocky islands. In the more accessible nesting sites, they were probably driven to extinction much earlier than we know. Some archaeological findings show the Great Auk from the European coast on France to northern Russia. Wintering has also been proven in south of Spain.
 
-Alka velká byla vyhubena kvůli nadměrnému lovu pro peří, maso a tuk. Vzhledem k nelétavosti se stávala lehkou obětí často zbytečného vybíjení. Vymírání ještě urychlila sběratelská touha. Čím vzácnější alky velké byly, tím větší byl zájem o vypreparované jedinci či vejce. Poslední prokazatelné pozorování hnízdícího páru pochází z roku 1844 z ostrovu Eldey u Islandu, kdy byly dva dospělí jedinci utlučeni holemi a vejce byla rozšlápnuta. Poslední žijící jedinec byl spatřen v roce 1852 u Newfoundlandu. Od té doby patří alka velká k vyhubeným živočichům a nadále se s ní můžete setkat pouze v muzeích nebo na ilustracích. Po celém světě se v muzeích zachovalo pouze 75 vajec, 24 kompletních vycpanin a 81 kožek. V Národním muzeu v Praze mají dvě alky velké – jednu dospělou a jedno odrostlé mládě. 
+The Great Auk went extinct due to excessive hunting for feathers, flesh and fat. Due to flightlessness, they became the victim of often unnecessary exploitation. Their extinction was further accelerated by the desires of collectors. Rare, larger animals were subject to greater interest and suffered higher capture rates to be stuffed or for their eggs. The last observation of a nesting pair dates back to 1844 from Eldey Island near Iceland, when two adult individuals were beaten by sticks and their eggs were smashed. The last living individual was spotted in 1852 near Newfoundland. Since then, the Great Auk has been extinct and can now only be found in museums or illustrations. Only 75 eggs, 24 stuffed specimens and 81 skins have been preserved in museums around the world. In the National Museum in Prague they have two Great Auk - one adult and one immature adult.
 
-Na základě studií mitochondriální DNA, morfologie i biogeografie bylo potvrzeno, že alka velká byla blízce příbuzná dnes žijící alce malé a alkounovi malému. Dříve byla řazena do rodu _Alca_, což se ovšem i přes blízkou příbuznost s alkou malou ukázalo jako neopodstatněné. 
+Based on studies of mitochondrial DNA, morphology and biogeography it has been confirmed that the Great Auk was closely related to the still surviving little auk. Previously it was included in the genus Alca, which, despite the close relationship with the little auk, proved to be unfounded.
 
-Na výšku dosahovala alka velká 75-85 cm a vážila až 5 kg. Zakrnělá křídla dosahovala délky pouhých 17-20 cm a nejdelší pera dorůstala 10 cm. 
+The Great Auk was around 75-85cm tall and weighed up to 5kg. The stunted wings were only 17-20 cm long and the longest feathers were around 10cm. They were excellent swimmers, however, with their wings helping them under the surface to swim and to hunt for prey. Adults were predominantly fish-eating and mainly fed on fish of 15-20 cm in size, with chicks probably feeding on plankton. Each year, the females would lay one egg on bare ground, yet both parents would care for it. Eggs were yellow-white and around 12.4 cm in size. 
 
-Alky velké byly výborní plavci. Pod hladinou jim k plavání a při pronásledování kořisti pomáhala i křídla. Dospělé alky byly rybožravé a živily se především rybami o velikosti 15-20 cm, mláďata se živila pravděpodobně planktonem. Alky kladly každoročně pouze jedno vejce, které leželo přímo na holé zemi. Vejce bylo žlutobílé o velikosti 12,4 cm. O mládě pečovali oba rodiče. 
-
-S alkou velkou se dnes můžete setkat v názvu prestižního severoamerického ornitologického časopisu Auk (Auk=alka velká), který byl pojmenován na její počest . Odkazy na alku velkou naleznete i v několika povídkách, románech, písních a dokonce i v baletním představení. Živou alku velkou si však prohlédnout není kde.
+Today, the Great Auk is represented in the name of the prestigious North American ornithological magazine, The Auk, which was named in its honour. Also, the Great Auk is immortalised in several short stories, novels, songs and even ballet shows. Sadly, however, you’ll never be able to see a Great Auk again.
