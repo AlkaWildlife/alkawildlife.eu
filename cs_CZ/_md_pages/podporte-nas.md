@@ -6,6 +6,10 @@ long_title: Jak nás můžete podpořit?
 listed: true
 position: 3
 layout: two_columns_page
+lang_alternatives:
+  en_GB:
+    title: Support us
+    permalink: /about-us/support-us
 ---
 Pokud Vás naše činnost zaujala a je Vám sympatická, můžete nás
 podpořit. V řadě případů je u dotačních titulů podmínka spoluúčasti
