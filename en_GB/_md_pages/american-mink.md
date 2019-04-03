@@ -61,8 +61,8 @@ In recent years, increased attention has been paid to tackling invasive species 
 
 # LITERATURE
 
-You can read more about the American mink in our publications page [here](http://alka-wildlife-cs.netlify.com/publications#category=norek).
+You can read more about the American mink in our publications page [here](/publications#category=mink).
 
 # PROJECTS
 
-We are engaged in a long-term project with the American mink. You can find out more information on our projects page [here.](http://alka-wildlife-cs.netlify.com/projects#category=norek)
+We are engaged in a long-term project with the American mink. You can find out more information on our projects page [here.](/projects#category=mink)
