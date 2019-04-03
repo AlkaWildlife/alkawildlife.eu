@@ -2,13 +2,15 @@
 title: Species of interest
 published: true
 permalink: /species-of-interest
-description: 'Sekce se základními informacemi o druzích, kterým se věnujeme'
+description: Information on our species of interest
 listed: true
 position: 4
 layout: single_column_page
-aside_title: druhy
-aside_links: 'základní informace o druzích živočichů, kterým se dlouhodobě věnujeme.'
+aside_title: Species of interest
+aside_links: Information on our species of interest
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    title: Zájmové druhy
+    permalink: /zajmove-druhy
 ---
-V této sekci naleznete základní informace o alce velké (symbolu naší společnosti) a o druzích živočichů, kterým se dlouhodobě věnujeme.
+In this section you will find basic information about the Great Auk, the symbol of our company, and the other species we focus on.
