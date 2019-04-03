@@ -11,7 +11,7 @@ lang_alternatives:
     title: Kontakty
     permalink: /o-nas/kontakty
 ---
-## **ALKA Wildlife o.p.s.**
+# ALKA Wildlife o.p.s.
 
 **Headquarters**: Lidéřovice 62, 380 01  Peč, Czechia 
 
