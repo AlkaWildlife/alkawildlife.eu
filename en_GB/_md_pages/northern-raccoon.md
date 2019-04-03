@@ -4,8 +4,8 @@ published: true
 permalink: /species-of-interest/northern-raccoon
 image: /media/cdy00027myval_vm.jpg
 description: >-
-  Invazní medvídkovitá šelma ze Severní Ameriky s negativním vlivem na naše
-  původní druhy. 
+  An invasive mammal from North America with a negative impact on our native
+  species.
 listed: true
 position: 6
 layout: two_columns_page
@@ -14,49 +14,50 @@ lang_alternatives:
     title: Mýval severní
     permalink: /zajmove-druhy/myval-severni
 ---
-Mýval severní patří k nově se vyskytujícím druhům savců naší fauny. Druh původně pochází ze Severní Ameriky a severní části Jižní Ameriky. Do naší přírody se dostal z kožešinových farem nebo vlivem záměrného vypouštění. Jako nepůvodní druh se značnou reprodukční kapacitou se jak u nás, tak v celé Evropě rozšiřuje. Jedná se o všežravce obývajícího širokou škálu různých biotopů, místy s vazbou na mokřadní lokality.
+The Northern raccoon (_Procyon lotor_) belongs to the group of newly occurring, invasive mammal species of our fauna. The species originally comes from North America and the northern part of South America. They were introduced to the Czech Republic through fur farms or by deliberate release. As a non-native species with substantial reproductive capacity, it is expanding both in the Czech Republic and throughout Europe. They are omnivores inhabiting a wide range of different habitats, sometimes linked to wetland sites.
 
-# Popis
+# Description
 
-Středně velká medvídkovitá šelma s krátkým tělem, delším úzkým ocasem, hustou srstí a s nápadně pohyblivými prsty zvláště na předních končetinách. Má nevýrazné šedohnědé zbarvení a charakteristickou černobílou masku na hlavě a tmavě pruhovaný ocas (obvykle 7 pruhů). Pro mývala je typický i postoj s vyklenutými zády.
-Bývá zaměňován s psíkem mývalovitým. 
+Northern raccoon are a medium-sized mammal with a short body, a long narrow tail, thick hair and strikingly dexterous fingers, especially on the forelegs. The body length is 45-60 cm and the weight ranges from 3-10 kg. They are a faint grey-brown coat and have a characteristic black-and-white mask over the eyes and a dark striped tail, usually 7 stripes. The raccoon is also characterised by an arched back. They can sometimes be confused with a raccoon dog, an unrelated animal you can find more information on here.
 
-Délka těla dosahuje velikosti 45–60 cm, hmotnost se pohybuje v rozmezí 3 –10 kg.
+# Tracks and signs
 
-# Stopy a pobytové znaky
-
-Jako dobře šplhající druh má mýval dlouhé drápy, jejichž otisk je znatelný na otisknuté stopě. Šlépěje předních tlapek jsou kratší než zadní. Stopy mývala vypadají jako otisky lidské ruky a nohy, jen menší.  Velikost zadní stopy je 7–9 x 6–7 cm.
+The raccoon’s long claws, an excellent adaptation for climbing trees, are noticeable in their tracks. Also, the footprints of the front paws are shorter than the back. The raccoon traces look like human hand and foot prints, only smaller. The size of the back track is 7–9 x 6–7 cm.
 
 ![](/media/stopy_mýval.jpg)
 
-# Prostředí
+# Environment
 
-Mýval obývá celou řadu biotopů, preferuje blízkost potoků, řek, jezer a mokřadů. Často je zaznamenán i v urbanizovaném prostředí, v blízkosti měst.
+The raccoon occupies a wide range of habitats, preferring the proximity of streams, rivers, lakes and wetlands. It can also be found in urban areas, close to cities.
 
 # Způsob života
 
 Převažuje samotářský způsob života, i když jsou případy, kdy bylo pozorováno více jedinců pohromadě. Dobře šplhá po stromech. Ukrývá se v dutinách nebo ve skalách, obsazuje i opuštěné úkryty po lišce nebo jezevcovi, rád k odpočinku vyhledává i hnízda dravců. Páří se v zimě, doba březosti trvá okolo dvou měsíců a ve vrhu mívá 3–7 mláďat. Mláďata se osamostatňují zhruba po půl roce, v přírodě se dožívají 6–8 let. Jedná se o soumračného a nočního živočicha. V chladných oblastech Severní Ameriky byl u tohoto druhu zaznamenán nepravý zimní spánek, kdy je mýval schopen po dobu několika týdnů, až měsíců neopouštět noru. Přitom se mu nereguluje počet tepů nebo teplota jako u jiných savců s pravým zimním spánkem. Své jméno mýval (v latině – „lotor“, tedy umývač) získal podle toho, že si potravu před konzumací rád namáčí nebo „umývá“. 
 
-# Potrava
+# Food
 
-Jedná se o potravního oportunistu se schopností se velice dobře přizpůsobovat aktuálním podmínkám. V jeho jídelníčku nalezneme různé druhy rostlin a živočichů, často preduje snůšky ptáků, a to i vysoko v korunách stromů. Při hledání potravy využívá i velice dobře vytříbený čich a rovněž velice obratně zapojuje při dobývání potravy přední končetiny – například při krmení se v popelnicích.
+It is a food opportunist with the ability to adapt very well to their immediate environments. In their diet, we find species from invertebrates, plants and vertebrates. It also will eat fruits and nuts if available. They have a very refined sense of smell which is very important when searching for food.
 
-# Rozšíření
+# Behaviour
 
-Jeho areál se rozprostírá na severoamerickém kontinentu, přibližně od 56–58° s. š. na jih. Do evropských farem na kožešinu se dostal kolem roku 1927, nejprve do Německa (Hesensko). Počet zvířat v chovu i počet chovů rychle narůstal a v letech 1930–1935 již byli pozorováni první uprchlí jedinci ve volné přírodě na jihu a jihozápadě Německa. Místy byli mývalové vypouštěni do přírody záměrně a další se dostali do volné přírody během rozsáhlého bombardování na konci 2. světové války. Současná oblast výskytu pokrývá podstatnou část Německa a dle očekávání se šíří do okolních zemí. Mimo západní a střední Evropu byl záměrně vysazen např. v Rusku, Bělorusku, Ázerbájdžánu, Uzbekistánu, či Kyrgyzstánu.
+For raccoons, the solitary way of life prevails, although there are cases where more individuals have been observed together. They spend a lot of the time in trees as they are adept climbers, but they are also known to hide in hollows or rocks. They’ll also occupy abandoned fox shelters or badgers sets and relax in bird of prey nests. Mating happens in winter and pregnancy lasts about two months. Usually females will have 3–7 pups in the litter. Males do not contribute to the rearing of the cubs, who become independent after about half a year. On average, wild raccoons will live 6–8 years. They are twilight and nocturnal animals. In the cold regions of North America, a false winter sleep has been reported in this species, with raccoon being unable to leave it for several weeks or months. At the same time, however, he can’t regulate the number of heartbeats or temperature as in other mammals who truly hibernation. The scientific name, Procyon lotor, is given so due to one aspect of the raccoons behaviour. In Latin, "lotor" means “washer” which is in line with their perceived act of soaking or washing their food before eating. Most of the time, however, they are feeling in the water for food and using their high dexterity to remove unwanted parts.
 
-# Výskyt v ČR
+# Introduction outside of North America
 
-První mývalové byli ve volné přírodě zaznamenáni již ve 20.–30. letech minulého století, a to v Čechách i na Moravě. Bezesporu se však jednalo o jedince uniklé ze zajetí. Po 1. světové válce narůstal počet kožešinových farem a s tím souvisel i narůstající počet těchto živočichů v přírodě (Anděra & Gaisler 2012). Kromě rozšiřující se německé populace, úniků z chovů a lokálních pokusů o vysazení přispěl k rozšíření tohoto druhu na našem území také zánik většiny chovů u nás po 2. světové válce. Postup rozšiřování mývala na našem území není tak rychlý jako u norka amerického nebo psíka mývalovitého, zato lokálně mohou být populace velmi početné. Současný výskyt je roztroušený, větší souvislejší výskyt je na Karlovarsku a Olomoucku.
+The raccoon is indigenous to the North American continent, approximately 56–58 ° N. They came to European fur farms in around 1927, firstly in Hessen, Germany. The number of animals in these farms and the number of breeds quickly grew, and by 1930 –1935, the first reports of escapees in the wild, in south and southwest of Germany, were being reported. At times, the raccoons were deliberately released into the wild, and others were released into the wild during a massive bombing at the end of World War II. The current area of occurrence covers a substantial part of Germany and is expected to spread to neighbouring countries. Outside Western and Central Europe, it was deliberately released in, for example, Russia, Belarus, Azerbaijan, Uzbekistan, and Kyrgyzstan.
 
-# Status a ochrana
+# Occurrence in the Czech Republic
 
-Jako zavlečený invazivní druh představuje možné nebezpečí pro původní faunu. Jako velice dobrý lezec na stromy představuje potenciální hrozbu pro druhy ptáků hnízdící na stromech (dravci). Mýval severní nemá žádný ochranný statut z hlediska zákona o ochraně přírody. Podle myslivecké legislativy patří k druhům zavlečeným a v přírodě nežádoucím, které lze za určitých podmínek usmrcovat – tato činnost je v kompetenci myslivecké stráže a mysliveckého hospodáře.
+The first raccoons were recorded in the wild as early as the twenties and thirties, in the Czech Republic and Moravia. Undoubtedly, these were individuals escaped from captivity. After the First World War, the number of fur farms increased, and the number of wild animals increased accordingly (Anděra & Gaisler 2012). In addition to the expanding wild population of Germany, escapes from breeding and local attempts of releasing captive animals, also contributed to the spread of this species in our country. The distribution of the raccoon has not been as fast as other invasive mammals such as the American mink or raccoon dog, but in some areas, you can find high local populations. The current occurrence is scattered, the large occurrences in the Karlovy Vary and Olomouc regions.
 
-# Literatura
+# Status and protection
 
-Více si můžete přečíst v těchto [našich publikacích](/publications#category=m%C3%BDval-severn%C3%AD).
+As an introduced invasive species, it represents a potential danger to the native fauna. As an adept tree climber, it poses a potential threat to tree dwelling species such as nesting birds. The Northern Raccoon has no protective status in terms of the Nature Conservation Act. According to hunting legislation, it is one of the species introduced and undesirable in nature, which can be killed under certain conditions - this activity is the responsibility of hunting guards and hunting management.
 
-# Projekty
+# Literature
 
-Mývalem severním se okrajově zabýváme, seznam [projektů zde](/projects#category=m%C3%BDval-severn%C3%AD).
+You can read more about the raccoon in our publications [here](http://alka-wildlife-cs.netlify.com/publications#category=m%C3%BDval-severn%C3%AD).
+
+# Projects
+
+We are actively monitoring the raccoon presence, find out more information on our projects [here](http://alka-wildlife-cs.netlify.com/projects#category=m%C3%BDval-severn%C3%AD).
