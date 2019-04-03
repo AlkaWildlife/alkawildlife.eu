@@ -6,19 +6,22 @@ funding: >-
   2008 jej organizuje naše společnost a to z různých finančních zdrojů:
 
 
-  2008 - 2010 projekt [Zjištění chybějících údajů o biologii a ekologii vydry
-  říční: vytvoření modelu vývoje
+  2008 - 2010         projekt [Zjištění chybějících údajů o biologii a ekologii
+  vydry říční: vytvoření modelu vývoje
   populace](/projects/vytvoření-modelu-vývoje-populace-vydry-říční)
 
 
-  2011, 2012, 2017, 2018 AOPK ČR a vlastní prostředky
+  2011, 2012           AOPK ČR a vlastní prostředky
 
 
-  2013, 2014 vlastní prostředky
+  2013, 2014           vlastní prostředky
 
 
-  2015 - 04/2017 Realizace vybraných opatření programu péče pro vydru říční v
+  2015 - 04/2017    Realizace vybraných opatření programu péče pro vydru říční v
   České republice
+
+
+  05/2017, 2018      AOPK ČR a vlastní prostředky
 from: 2008-01
 to: 2019-12
 partners: >-
@@ -38,7 +41,7 @@ partners: >-
   Policie ČR - vyšetřování nelegálního zabití vyder
 
 
-  Muzeum Ústí nad Labem - základní pitvy, archivace vzorků
+  Muzeum města Ústí nad Labem - základní pitvy, archivace vzorků
 
 
   ÚBO AV ČR  - genetické analýzy vzorků
@@ -54,6 +57,9 @@ contacts:
     tel_primary: '606598903'
 species: vydra říční
 area: celá Česká republika
+tags:
+  - vydra říční
+  - výzkum
 countries:
   - CZ
 description: >-
