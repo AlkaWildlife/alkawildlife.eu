@@ -2,87 +2,121 @@
 title: Contacts
 published: true
 permalink: /about-us/contacts
-description: kontakty na společnost a jednotlivé pracovníky
+description: Company contacts and our staff
 listed: true
 position: 2
 layout: two_columns_page
+lang_alternatives:
+  cs_CZ:
+    title: Kontakty
+    permalink: /o-nas/kontakty
 ---
-ALKA Wildlife o.p.s.
+# **ALKA Wildlife o.p.s.**
 
-**Sídlo**: Lidéřovice 62, 380 01  Peč 
+**Headquarters**: Lidéřovice 62, 380 01  Peč, Czechia 
 
-**IČO**: 280 64 933
+**Company ID**: 280 64 933
 
-**DIČ**: CZ28064933, je plátcem DPH
+**Tax ID**: CZ28064933, je plátcem DPH
 
-**ID datové schránky**: gypmz9w
+**Data box ID**: gypmz9w
 
-_[profil zadavatele](https://www.vhodne-uverejneni.cz/profil/28064933)_
+**Public company announcement: **[_vhodne-uverejneni.cz/profil/28064933_](https://www.vhodne-uverejneni.cz/profil/28064933)****\
+****\
+**Website: **[_alkawildlife.eu_](alkawildlife.eu)\
+\
+**Facebook:** [_facebook.com/AlkaWildlife_](facebook.com/AlkaWildlife)
 
-_Web: [www.alkawildlife.eu](https://www.alkawildlife.eu)_
+## Mgr. Kateřina Poledníková
 
-Facebook:
-[facebook.com/AlkaWildlife](https://www.facebook.com/AlkaWildlife)
+Tel: 606 598 903\
+Email: kateřina.poledníková@alkawildlife.eu 
 
-E-mailové adresy pro všechny níže uvedené osoby jsou ve tvaru: jmeno.primeni@alkawildlife.eu
+•	Director\
+•	Project and finance manager\
+•	Researcher\
+•	Webmaster\
+•	Communications\
+•	Specialty: Demography, PVA
 
-# Mgr. Kateřina Poledníková
+## Mgr. Lukáš Poledník, Ph.D.
 
-tel: 606 598 903
+Tel: 721 113 973\
+Email: lukáš.poledník@alkawildlife.eu 
 
-* ředitelka společnosti
-* projektový a finanční manažer, vědecký pracovník
-* správce webových stránek
-* komunikace
-* specializace: demografie, analýzy životaschopnosti populace
+•	Senior researcher
+\
+•	Student supervision
+\
+•	Otter damage calculation
+\
+•	Mustelid ecology
+\
+•	IUCN Otter Specialist Group member
+\
+•	Specialty: Diet analysis, GIS analysis
 
-# Mgr. Lukáš Poledník, Ph.D.
+## Mgr. Tereza Mináriková
 
-tel: 721 113 973
+Tel: 724 706 806\
+Email: tereza.minarikova@alkawildlife.eu 
+\
+LinkedIn: [linkedin.com/in/tereza-mináriková-a6382753](linkedin.com/in/tereza-mináriková-a6382753)
 
-* vedoucí vědecký pracovník
-* odborné vedení studentů
-* posudky na škody způsobené vydrou říční
-* ekologie lasicovitých šelem
-* člen IUCN Otter Specialist Group
-* specializace: potravní analýzy, zpracování gis dat
+•	Project manager
+\
+•	Researcher
+\
+•	Publicity and social media manager
+\
+•	Specialty: Large carnivore ecology
 
-# Mgr. Tereza Mináriková
+## Mgr. Václav Beran
 
-tel: 724 706 806
+Tel: 731 407 839
+\
+Email: lutra@email.cz 
+\
+LinkedIn: [linkedin.com/in/václav-beran-5709705a](linkedin.com/in/václav-beran-5709705a)
 
-* projektový manažer, vědecký pracovník
-* správce Facebooku společnosti
-* ekologie šelem
-* publicita, práce s veřejností a médii
-* profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin](https://cz.linkedin.com/in/tereza-mináriková-a6382753)
+•	Project manager
+\
+•	Researcher
+\
+•	Specialty: Ornithology, vertebrate stocktaking surveys
 
-# Mgr. Václav Beran
+## Mgr. Fernando Mateos-González PH.D.
 
-tel: 731 407 839
+Email: fernandomateos@gmail.com 
+\
+LinkedIn: [linkedin.com/in/fernandomateosgonzalez](linkedin.com/in/fernandomateosgonzalez)
 
-* projektový manažer, vědecký pracovník
-* specializace: ornitologie, inventarizační průzkumy obratlovců
-* profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin ](https://www.linkedin.com/in/václav-beran-5709705a)
+•	Researcher
+\
+•	Data analyst 
+\
+•	Specialty: Animal behaviour
 
-# Fernando Mateos-González
+## Hannah Findlay
 
-* vědecký pracovník
-* zpracování dat
-* specializace: chování živočichů
+Email: hannah.findlay14@gmail.com 
+\
+LinkedIn: [linkedin.com/in/hannah-findlay](linkedin.com/in/hannah-findlay)
 
-# Hannah Findlay
+•	Researcher
+\
+•	Social media
 
-* vědecký pracovník
-* správce Instagramu společnosti
+## Štěpán Zápotočný
 
-# Štěpán Zápotočný
+•	Researcher
 
-* vědecký pracovník
+## Ing. Jan Horáček
 
-# Ing. Jan Horáček
+Tel: 724 299 225
 
-tel: 724 299 225
-
-* ekonom, finanční manažer
-* administrativa
+•	Economist
+\
+•	Financial manager
+\
+•	Administrator
