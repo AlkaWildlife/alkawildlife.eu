@@ -1,7 +1,7 @@
 ---
-title: Podpořte nás
+title: Support us
 published: true
-permalink: /o-nas/podporte-nas
+permalink: /about-us/support-us
 long_title: Jak nás můžete podpořit?
 listed: true
 position: 3
