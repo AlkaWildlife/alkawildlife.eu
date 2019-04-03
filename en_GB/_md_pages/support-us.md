@@ -14,17 +14,13 @@ lang_alternatives:
     title: Podpořte nás
     permalink: /o-nas/podporte-nas
 ---
-If you are interested in our activities, we welcome and appreciate your support. 
-
-Usually, funding is conditional on the applicant's participation. For some projects, it is necessary for us to secure additional money. Donations are a greatly appreciated source of funding for us to be able to continue our work.
+If you are interested in our activities, we welcome and appreciate your support. Usually, funding is conditional on the applicant's participation. For some projects, it is necessary for us to secure additional money. Donations are a greatly appreciated source of funding for us to be able to continue our work.
 
 Your support may be in the form of:
 
-•	**Equipment** such as office material or fieldwork supplies 
-
-•	**General donation** which would provide financial support for the company or specific projects
-
-•	**Project donation** where you would provide financial support for a project of your choosing
+* **Equipment** such as office material or fieldwork supplies 
+* **General donation** which would provide financial support for the company or specific projects
+* **Project donation** where you would provide financial support for a project of your choosing
 
 If you intend to support us, please contact the [_company director_](http://alka-wildlife-en.netlify.com/about-us/contacts).
 
