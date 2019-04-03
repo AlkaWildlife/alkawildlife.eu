@@ -3,19 +3,26 @@ title: About us
 published: true
 permalink: /about-us
 description: >-
-  Posláním ALKA Wildlife je přispět objektivním výzkumem k efektivní, kvalitními
-  odbornými znalostmi podložené ochraně a péči o volně žijící druhy živočichů.
+  The mission of ALKA Wildlife is to contribute to the protection and
+  conservation of wildlife species through objective research and high-quality
+  expertise, across the Czech Republic.
 listed: true
 position: 5
 layout: single_column_page
 aside_links: ''
+lang_alternatives:
+  cs_CZ:
+    title: O nás
+    permalink: /o-nas
 ---
 ![]()
 
-Symbol naší společnosti - alka velká - je černobílý pták vzhledem připomínající známé tučňáky. Bohužel alka velká, stejně jako řada jiných druhů, vyhynula vlivem člověka. Poslední jedinec byl zabit v roce 1844.
+ALKA Wildlife, o.p.s. is a non-profit, non-governmental company from the Czech Republic. It was founded in 2007 by a group of six experts in vertebrate ecology and nature conservation.
 
-Jsme o přibližně 160 let dále, na začátku nového tisíciletí. Ochrana druhů a biodiversity je již součástí řady lidských aktivit. Ale vlivem člověka stále mizí další druhy: lokálně, regionálně i globálně. 
+OUR SYMBOL
 
-Posláním neziskové nestátní společnosti ALKA Wildlife, o.p.s. je přispět svými aktivitami proti tomuto trendu. Posláním společnosti je získávat, šířit a aplikovat informace týkající se biologie a ekologie živočichů tak, aby došlo k jejich efektivní, vědecky podložené ochraně a managementu.
+Our symbol is the Great Auk, a black and white birds similar to penguins. The Great Auk, like many species, became extinct in 1844, due to human activity. Now, 160 years on, there is and increasing trent of species extinction, on a local, regional and global level. This is still due to influence of man. We can be part of the change though, by protecting our species and biodiversity.
 
-Vítáme Vás na našich stránkách.
+COMPANY MISSION
+
+To acquire, disseminate and apply information related to animal biology and ecology in order to protect species by providing effective, scientifically-based protection and management.
