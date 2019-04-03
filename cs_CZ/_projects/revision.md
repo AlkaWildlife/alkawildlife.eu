@@ -26,8 +26,11 @@ partners: |-
   [Česká společnost ornitologická – Jihomoravská pobočka](http://www.jmpcso.cz)
 contacts:
   - name: Lukáš Poledník
-species: |-
-  invazní savci: norek americký, psík mývalovitý, mýval severní, nutrie
+species: >-
+  invazní savci: [norek americký](/zajmove-druhy/norek-americky), [psík
+  mývalovitý](/zajmove-druhy/psik-myvalovity), [mýval
+  severní](/zajmove-druhy/myval-severni), nutrie
+
 
   ohrožené původní druhy: racci, rybák obecný, vodní ptactvo
 area: |-
@@ -53,12 +56,12 @@ Projekt REVISION navazuje na monitoring invazních živočichů a management
 ptačích ostrovů v přeshraničním území ČR a SR, které byly realizovány
 v minulých letech v rámci projektů NEOVISION a NEOVISION II. Cílem
 projektu je přehodnotit aktuální stav vybraných invazivních živočichů
-(norka amerického, mývala severního, psíka mývalovitého a nutrie)
+([norka amerického](/zajmove-druhy/norek-americky), [mývala severního](/zajmove-druhy/myval-severni), [psíka mývalovitého](/zajmove-druhy/psik-myvalovity) a nutrie)
 a aktivním odlovem snížit jejich stavy z důvodu ochrany našich původních
 druhů živočichů, zejména ochránit kolonie vodních ptáků hnízdící na
 ostrovech (rybáky, racky). Na české straně se jedná o tři lokality na
-jižní Moravě: PR Věstonická nádrž, NPR Lednické rybníky a Mutěnické
-rybníky.
+jižní Moravě: [PR Věstonická nádrž](/projects/revision/vestonicka-nadrz), [NPR Lednické rybníky](/projects/revision/lednické-rybníky) a [Mutěnické
+rybníky](/projects/revision/mutenicke-rybníky).
 
 Některé druhy invazních živočichů se stávají stále větším problémem
 z hlediska ochrany původních druhů, a to se týká i projektového území,
