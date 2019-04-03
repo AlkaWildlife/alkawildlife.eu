@@ -41,11 +41,13 @@ Alka Wildlife, ops has been **accredited** by the Central Commission for Animal 
 
 ALKA Wildlife, ops is on the Ministry of Education, Youth and Sports **list of research organisations.**
 
-## DIRECTOR:
+# **BOARD MEMBERS**
+
+## **DIRECTOR:**
 
 Mgr. Kateřina Poledníková
 
-## BOARD OF DIRECTORS:
+## **BOARD OF DIRECTORS:**
 
 Mgr. Aleš Jelínek (Chairman)
 
@@ -53,7 +55,7 @@ Zdeněk Hron
 
 Ing. Václav Křivan
 
-## SUPERVISORY BOARD:
+## **SUPERVISORY BOARD:**
 
 Jaroslava Musilová (Chairman)
 
@@ -61,7 +63,7 @@ Jindra Jelínková, Dis.
 
 Miloslava Král'ová
 
-## COMPANY FOUNDERS:
+## **COMPANY FOUNDERS:**
 
 Mgr. Václav Beran 
 
