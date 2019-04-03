@@ -1,5 +1,5 @@
 ---
-title: Operation
+title: Operations
 published: true
 permalink: /about-us/operation
 description: 'Company initiatives, status and board members'
