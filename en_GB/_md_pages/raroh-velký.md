@@ -10,7 +10,9 @@ listed: true
 position: 13
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    title: Raroh velký
+    permalink: /zajmove-druhy/raroh-velky
 ---
 Raroh velký (Falco cherrug, J. E. Gray 1834) je jedním z nejvzácnějších druhů ptáků hnízdící na území ČR. I přesto, že je větší než sokol stěhovavý, nemá o jeho existenci většina Čechů a Moravanů vůbec tušení. 
 
