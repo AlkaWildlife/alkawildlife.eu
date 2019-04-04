@@ -65,7 +65,7 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 [2015: moderniobec.cz: Komíny tepláren pomáhají vzácným dravcům ](https://www.moderniobec.cz/kominy-teplaren-pomahaji-vzacnym-dravcum/)
 
-[2014:tzb-info.cz: Komíny tepláren zachraňují populaci ohroženého sokola stěhovavého](https://www.tzb-info.cz/rozhovory-komentare/11572-kominy-teplaren-zachranuji-populaci-ohrozeneho-sokola-stehovaveho) 
+[2014: tzb-info.cz: Komíny tepláren zachraňují populaci ohroženého sokola stěhovavého](https://www.tzb-info.cz/rozhovory-komentare/11572-kominy-teplaren-zachranuji-populaci-ohrozeneho-sokola-stehovaveho) 
 
 [2011: časopis Ochrana Přírody 1/2011: Návrat sokola stěhovavého](/media/OP_8-11.pdf)
 
