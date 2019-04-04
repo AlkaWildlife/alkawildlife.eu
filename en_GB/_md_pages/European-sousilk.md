@@ -1,7 +1,7 @@
 ---
-title: Sysel obecný
+title: European souslik
 published: true
-permalink: /zajmove-druhy/sysel-obecny
+permalink: /species-of-interest/European-souslik
 image: /media/sysel_jaro_2007-050.jpg
 description: >-
   Kriticky ohrožený hlodavec, který doplatil na způsob hospodaření v naší
