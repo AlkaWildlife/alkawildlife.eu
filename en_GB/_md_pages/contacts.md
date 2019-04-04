@@ -31,7 +31,7 @@ lang_alternatives:
 
 ## **Mgr. Kateřina Poledníková**
 
-**Tel:** 606 598 903 **Email:** katerina.polednikova@alkawildlife.eu 
+**Tel:** 606 598 903 **Email:** [katerina.polednikova@alkawildlife.eu](katerina.polednikova@alkawildlife.eu) 
 
 * Director
 * Project and finance manager
