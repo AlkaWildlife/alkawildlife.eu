@@ -62,6 +62,8 @@ species: rys ostrovid
 tags:
   - rys ostrovid
   - koncepce
+  - osvěta
+  - výzkum
 countries:
   - CZ
 description: >-
