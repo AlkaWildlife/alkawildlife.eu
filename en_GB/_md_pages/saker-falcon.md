@@ -4,8 +4,8 @@ published: true
 permalink: /species-of-interest/saker-falcon
 image: /media/tuz_9505a.jpg
 description: >-
-  Raroh velký, sokolovitý dravec, je jedním z nejvzácnějších druhů ptáků
-  hnízdící na území ČR. 
+  A master of the air, it is one of the rarest bird species nesting in the Czech
+  Republic.
 listed: true
 position: 13
 layout: two_columns_page
@@ -14,24 +14,22 @@ lang_alternatives:
     title: Raroh velký
     permalink: /zajmove-druhy/raroh-velky
 ---
-Raroh velký (Falco cherrug, J. E. Gray 1834) je jedním z nejvzácnějších druhů ptáků hnízdící na území ČR. I přesto, že je větší než sokol stěhovavý, nemá o jeho existenci většina Čechů a Moravanů vůbec tušení. 
+The Saker falcon (_Falco cherrug_) is one of the rarest bird species nesting in the Czech Republic. Even though it is larger than the Peregrine falcon, most Czechs and Moravians have no idea of its existence. It is one of the most endangered species in the Czech Republic, listed by IUCN in the category EN (endangered species).
 
-# Popis
+# Description
 
-Raroh velký je hnědě zbarvený, pouze nohy a ozobí má v dospělosti žluté. V rozpětí křídel dosahuje až 130 cm. Je to univerzální lovec schopný lovit ve vzduchu i na zemi.
+The Saker falcon is a brown-coloured bird of prey, with yellow legs and beak in adulthood. The wingspan is up to 130 cm. It is a universal hunter capable of hunting both in the air and on the ground.
 
-# Potrava a chování
+# Food and behaviour 
 
-Raroh velký je mistr letových vlastností. V našem prostředí jsou jeho kořistí především ptáci, nejčastěji holubi, ale v asijské části areálu tvoří většinu kořisti drobní savci, nejčastěji sysli. Při lovu dosahuje vysokých rychlostí, útočí střemhlav a kořist většinou odnáší na klidné místo, kde ji oškube a trhá. Hnízdí v hnízdech starých dravců, případně na skalách a v posledních letech také na sloupech velmi vysokého napětí v hnízdech krkavcovitých nebo na umělých podložkách. V sousedním Slovensku a v Maďarsku se většina populace přesunula do náhradních hnízdišť – do budek na sloupech velmi vysokého napětí. Jejich výhodou je především snadná kontrola, malé rušení a minimální pravděpodobnost pádu hnízda. V ČR zatím hnízdí většina párů v přirozených hnízdech. 
+The Saker is a master of the skies. In Europe, it preys on birds, mostly pigeons, but in the Asian part of its territory, it’s more likely to be preying on small mammals such as squirrels. They hunt at high speeds, attacking head-on and usually carry their prey to a quiet place, where it will pluck and tear at its preys’ skin to eat it. It used old, bird of prey nests for its own but can also be seen nesting on rocks. In recent years, it has also been seen nesting on high-voltage poles in ravens nests or on artificial mats. In neighbouring Slovakia and Hungary, most of the population has moved to artificial nesting sites in next boxes on these high-voltage poles. The advantage of these is they are easy control, it allows low human interference but provides the falcon with a smaller probability of the nest falling. In the Czech Republic, however, most couples are still in natural nests. 
 
-# Rozšíření
+# Distribution
 
-Raroh velký je rozšířen od České republiky, která tvoří jeho severozápadní hranici rozšíření, přes Rakousko, Slovensko, Maďarsko, Rumunsko až po Dálný Východ. Je to stepní druh, který v asijské části areálu žije ve stepích, případně na náhorních planinách stepního charakteru. V Evropě se přizpůsobil takzvaným kulturním stepím, tedy rozsáhlým agrocenózám, a podobnému prostředí. 
+The Saker Falcon is distributed from the Czech Republic, which forms its north-western border, through Austria, Slovakia, Hungary, Romania to the Far East. It is a steppe species that lives in the steppic habitats of Asia. In Europe, it has adapted to the so-called cultural steppes such as large agrocenosis, and a similar environment.
 
-V minulosti šlo o hojného dravce, kdy evropská populace představovala zlomek světové populace. Bohužel v posledních 30 letech došlo téměř ke krachu asijské populace. Dnes je raroh zařazen v červeném seznamu ohrožených druhů IUCN v kategorii ohrožených druhů (endangered).
- Ke krachu populace v Asii došlo především z důvodu trvale neudržitelného odlovu divokých rarohů velkých pro sokolnické účely. Především na Arabském poloostrově je stále obrovská poptávka po divokých jedincích, a to i přesto, že odchov stejně kvalitních rarohů v zajetí již dnes není nejmenším problémem. Některé země stále oficiálně povolují odlov až poloviny populace dospělců ročně, v jiných zemích kvete s rarohy velký černý obchod.
- Evropská populace tak kvůli negativnímu vývoji populace v Asii nabyla na významu prosperuje.
+In the past, it was an abundant predator when the European population was a fraction of the world's population. Unfortunately, in the last 30 years the Asian population has almost collapsed. Today, the Saker is included in the IUCN Red List of Endangered Species. The collapse of the population in Asia was mainly due to the persistent unsustainable captured of wild Saker for falconry. This is still apparent in the major areas of distribution, especially the Arabian Peninsula, where there is still a huge demand for wild individuals, even though there are established breeding programmes in captivity. In some countries, Saker capture is still officially allowed and in some countries up to half of the adult population per year are caught. In others, the movement of individuals through the black market is high. Subsequently, this has put increased pressure to support the European population due to the negative status in Asia.
 
-# Výskyt v ČR
+# Occurrence in the Czech Republic
 
-V ČR hnízdí rarozi pouze na Moravě v počtu několika málo jedinců. Nejvýznamnějšími příčinami ohrožení v ČR je rušení v době hnízdění, pád hnízda a případně vykradení hnízda za účelem chovu či prodeje mláďat.
+In the Czech Republic, Sakers are only found nesting in Moravia, and even here, there are only a few individuals. The major threats to them are disturbance during nesting, instability of nesting sites leading to the nest falling and poaching of nest for either breeding or selling of young individuals.
