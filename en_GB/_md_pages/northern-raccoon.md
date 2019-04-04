@@ -30,10 +30,6 @@ The raccoon’s long claws, an excellent adaptation for climbing trees, are noti
 
 The raccoon occupies a wide range of habitats, preferring the proximity of streams, rivers, lakes and wetlands. It can also be found in urban areas, close to cities.
 
-# Způsob života
-
-Převažuje samotářský způsob života, i když jsou případy, kdy bylo pozorováno více jedinců pohromadě. Dobře šplhá po stromech. Ukrývá se v dutinách nebo ve skalách, obsazuje i opuštěné úkryty po lišce nebo jezevcovi, rád k odpočinku vyhledává i hnízda dravců. Páří se v zimě, doba březosti trvá okolo dvou měsíců a ve vrhu mívá 3–7 mláďat. Mláďata se osamostatňují zhruba po půl roce, v přírodě se dožívají 6–8 let. Jedná se o soumračného a nočního živočicha. V chladných oblastech Severní Ameriky byl u tohoto druhu zaznamenán nepravý zimní spánek, kdy je mýval schopen po dobu několika týdnů, až měsíců neopouštět noru. Přitom se mu nereguluje počet tepů nebo teplota jako u jiných savců s pravým zimním spánkem. Své jméno mýval (v latině – „lotor“, tedy umývač) získal podle toho, že si potravu před konzumací rád namáčí nebo „umývá“. 
-
 # Food
 
 It is a food opportunist with the ability to adapt very well to their immediate environments. In their diet, we find species from invertebrates, plants and vertebrates. It also will eat fruits and nuts if available. They have a very refined sense of smell which is very important when searching for food.
