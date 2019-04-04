@@ -6,10 +6,10 @@ authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
   - name: Václav Beran
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - norek americký
-  - publikace pro laickou veřejnost
+  - American mink
+  - Publication for the general public
 journal: Živa
 year: 2018
 lang:
@@ -18,5 +18,8 @@ link: /media/norek-americky-opravdovy-nepritel.pdf
 attachments:
   - {}
 ---
-Norek americký ( Neovison vison ) je částí odborné veřejnosti považován za velmi nebezpečného invazního savce, na druhou stranu jiní přítomnost tohoto druhu v naší přírodě považují za skutečnost, která se nedá nebo není potřeba změnit. Co o norkovi víme a jaká rizika představuje pro původní evropskou faunu?
- Na tuto otázku odpovídá souhrnně tato publikace.
+The project ‘Measures to mitigate the impact of invasive animals in Western Slovakia and South Moravia’ is focussed on reassessing the status of the American mink and reducing this by actively catching them, to protect our native animal species.
+
+In Živa magazine (2018/5), we published a summary article on the American mink. It contains basic information about this species, its population status and its impact on European fauna.
+
+Download article [here](/media/norek-americky-opravdovy-nepritel.pdf).
