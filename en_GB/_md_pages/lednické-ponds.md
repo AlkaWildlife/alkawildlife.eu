@@ -3,6 +3,7 @@ title: Lednické Ponds National Nature Reserve
 published: true
 permalink: /projects/revision/lednické-ponds
 image: /media/img_8981_600.jpg
+description: Lednické ponds are a national nature reserve consisting of five ponds.
 position: 1
 layout: two_columns_page
 lang_alternatives:
