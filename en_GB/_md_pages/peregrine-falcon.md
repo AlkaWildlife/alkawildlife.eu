@@ -4,22 +4,32 @@ published: true
 permalink: /species-of-interest/peregrine-falcon
 image: /media/sokol.jpg
 description: >-
-  Sokol stěhovavý je jedním z mála druhů, který v České republice zcela vyhynul
-  a který se do naší přírody úspěšně navrátil.
+  The Peregrine falcon is one of the few species that after previously declared
+  extinct in the Czech Republic, has returned and is breeding here again.
 listed: true
 position: 14
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    title: Sokol stěhovavý
+    permalink: /zajmove-druhy/sokol-stehovavy
 ---
-Sokol stěhovavý je druhem, který se již od středověku těšil mimořádnému zájmu člověka. Byl často využíván k sokolnictví, což mu na jedné straně přinášelo úctu, uznání a ochranu, ale na druhé straně i ohrožení populací vybíráním mláďat pro tyto účely. 
+The Peregrine Falcon (_Falco peregrinus_) is native to the Czech Republic and was also a breeding species here until the 1960s. Here, it nests mainly on high rocks with the nest usually placed in rock niches. A new phenomenon for the Peregrine is to nest in human buildings favouring places such as church towers, high motorway bridges, cooling towers, power plant chimneys, etc.
 
+# DESCRIPTION
 
-Sokol stěhovavý (_Falco peregrinus_) je na území ČR původním a až do 60. let 20. století také pravidelně hnízdícím druhem. V našich zemích hnízdí především na vysokých skalách. Samotné hnízdo je umístěné zpravidla ve skalních výklencích. Novodobým fenoménem je také hnízdění na lidských stavbách, zejména na věžích kostelů, vysokých dálničních mostech, chladicích věžích, komínech elektráren apod.
+It is a medium to large sized bird, body length ranging from 38 to 51cm. The females are significantly larger than the males. They are one of the strongest falcons in relation to their size with a bulky body and chest heavy. The adults a slate grey above, white with grey barred underparts. They have a distinct broad moustache. The wingspan is up to 100cm. 
 
- Sokol se živí převážně ptáky ulovenými ve vzduchu (holubi, pěvci, dlouhokřídlí atd.).
+It hunts from the air and is renowned for its high speed, reaching over 320km/h during hunting dives!
 
+# FOOD 
 
-Sokol stěhovavý je původní druh naší krajiny. Ve 20. století zaznamenaly stavy sokolů v ČR výrazné změny. Po roce 1900 byl odhadován stav hnízdící populace cca na 20–30 párů. V souvislosti s uzákoněním ochrany ve dvacátých letech 20. století stavy sokolů stoupaly a svého vrcholu dosáhly koncem čtyřicátých let, kdy byl stav populace odhadován cca na 50–60 párů. Poté následoval prudký zlom a v šedesátých letech už sokoli hnízdili v Čechách jen nepravidelně, v některých letech vůbec (Hudec a kol. 1977). Ústup sokola měl v ČR nepochybně přímou souvislost s celosvětovým
- kolapsem sokolí populace. Po zákazu používání látek s obsahem DDT, uzákonění přísné ochrany a zahájení programů pro aktivní podporu druhu došlo k pozitivnímu obratu a populace sokola stěhovavého se začala postupně vracet na svá historická hnízdiště. Od konce 80. let se u nás opět začínají objevovat první údaje o výskytu a následně také o hnízdění
- sokolů. Pozitivní trend pokračuje až do současnosti. Za hlavní faktory ohrožení sokola jsou považovány sloupy elektrického vedení, rušení na hnízdních lokalitách v důsledku turistiky a horolezectví, nezákonné vybírání mláďat, přímé pronásledování a vypouštění mláďat neověřeného původu a nechtěné úlety mezidruhových kříženců ze sokolnických chovů do přírody.
+Peregrine falcons feed mainly on small to medium sized birds such as pigeons and songbirds, which are caught in the air. They often hunt at dusk and dawn and like the Saker falcon, will pluck their prey before eating.
+
+# OCCURRENCE IN THE CZECH REPUBLIC
+
+The Peregrine Falcon has always been of great interest to humans, with interactions between them dating back to at least the Middle Ages. It’s been exploited for falconry which on one hand brought them respect, appreciation and protection, but on the other hand created a real threat to their population status through selection chicks for these purposes.
+
+Whilst a native species to the Czech Republic, in the 20th century the number of falcons significantly changed. After 1900, the nesting population was estimated to be as little as 20-30 pairs. Following the implementation of protection plans in the 1920s, however, the number of falcons increased and reached its peak at the end of the 1940s, when the population was estimated to be around 50–60 pairs. Unfortunately, in the 1960s, there was a sudden shift and falcons were infrequently nesting Bohemia, and in some years, not at all (Hudec et al, 1977). The decline of the Peregrine in the Czech Republic was undoubtedly, directly related to their worldwide collapse. Following the ban on the use of DDT-containing substances, the implementation of strict protection and the launch of active species promotion programs, a positive impact was made and from the 1980s the falcon population gradually returned to its historic breeding grounds. Following these measures, observations of peregrines started to occur again in the Czech Republic and subsequently, they started to nest here again. This positive trend will only continue if we maintain the strict conservation methods put in place. 
+
+Currently, the main threats to the falcon are power lines, disturbances in nesting sites due to hiking and mountaineering, illegal chick poaching, direct persecution and release of offspring and unwanted crossbreeds from falconry into the wild.
