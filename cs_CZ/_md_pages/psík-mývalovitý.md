@@ -10,7 +10,9 @@ listed: true
 position: 7
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Raccoon dog
+    permalink: /species-of-interest/raccoon-dog
 ---
 Psík mývalovitý patří k nově se vyskytujícím druhům naší fauny savců. Druh původně pochází z Dálného východu, z introdukovaných populací na Sibiři a z evropské části bývalého Sovětského svazu se šířil dál na západ. Navíc unikal z chovů kožešinových zvířat. Jako nepůvodní druh se značnou reprodukční kapacitou se jak u nás, tak v celé Evropě rozšiřuje. Jedná se o všežravce obývajícího širokou škálu různých biotopů, místy s vazbou na mokřadní lokality. 
 
