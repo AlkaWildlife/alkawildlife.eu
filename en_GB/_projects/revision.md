@@ -31,12 +31,15 @@ partners: |-
 contacts:
   - name: Lukáš Poledník
 species: "Invasive species: American mink, Raccoon dog, Northern raccoon, Nutria (coypu)\r\n\nEndangered native species: Gulls, Terns, Waterfowl"
-area: |-
-  [PR Věstonická nádrž](/projects/revision/vestonicka-nadrz)
+area: >-
+  [Věstonická Resvervoir Nature
+  Reserve](/projects/revision/vestonicka-reservoir.html)
 
-  [NPR Lednické rybníky](/projects/revision/lednické-rybníky.html)
 
-  [Mutěnické rybníky](/projects/revision/mutenicke-rybníky)
+  [Lednické Ponds National Nature Reserve](/projects/revision/lednické-ponds)
+
+
+  [Mutěnické Ponds](/projects/revision/mutěnické-ponds)
 tags:
   - Amercian mink
   - Raccoon dog
