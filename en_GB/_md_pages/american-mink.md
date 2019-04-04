@@ -15,7 +15,7 @@ lang_alternatives:
     title: Norek americký
     permalink: /zajmove-druhy/norek-americky
 ---
-The American mink (Neovison vison) is a semi-aquatic mustelid, non-native to the Czech Republic. 
+The American mink (_Neovison vison_) is a semi-aquatic mustelid, non-native to the Czech Republic. 
 
 # DESCRIPTION
 
