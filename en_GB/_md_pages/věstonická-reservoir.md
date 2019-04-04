@@ -1,5 +1,5 @@
 ---
-title: PR Věstonická nádrž
+title: Věstonická Resvervoir Nature Reserve
 published: true
 permalink: /projects/revision/vestonicka-nadrz.html
 image: /media/dscn1003_610.jpg
