@@ -34,6 +34,8 @@ Otters will mate throughout the year, but females generally give birth from May-
 
 The composition of an otter's diet varies during the seasons and across habitats. In general, fish make up (on average) about three quarters of the diet, but in some areas where fish are less abundant, otters will also feed on amphibians, reptiles, small mammals, birds, crustaceans and insects.
 
+# Websites
+
 Further detailed information about the otter can be found on our dedicated otter specific:
 
 ![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](www.vydryonline.cz) 
