@@ -1,7 +1,7 @@
 ---
 title: Lednické Ponds National Nature Reserve
 published: true
-permalink: /projects/revision/lednické-rybníky
+permalink: /projects/revision/lednické-ponds
 image: /media/img_8981_600.jpg
 position: 1
 layout: two_columns_page
