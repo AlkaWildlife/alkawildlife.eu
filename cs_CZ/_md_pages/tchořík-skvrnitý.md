@@ -8,7 +8,9 @@ listed: true
 position: 10
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Marbled polecat
+    permalink: /species-of-interest/marbled-polecat
 ---
 Tchořík skvrnitý (_Vormela peregusna _Güldenstädt, 1770) je menší lasicovitá šelma obývající suché pouštní, polopouštní a stepní biotopy. Latinský název je odvozen od německého slova Würmlein = červíček a ukrajinského pereguznya = tchoř. Nejblíže k nám se nachází v zemích bývalé Jugoslávie.
 
