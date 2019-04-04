@@ -1,5 +1,5 @@
 ---
-title: NPR Lednické rybníky
+title: Lednické Ponds National Nature Reserve
 published: true
 permalink: /projects/revision/lednické-rybníky
 image: /media/img_8981_600.jpg
