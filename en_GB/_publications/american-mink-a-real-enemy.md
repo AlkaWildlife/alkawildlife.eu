@@ -14,7 +14,7 @@ journal: Živa
 year: 2018
 lang:
   - cs
-link: /media/norek-americky-opravdovy-nepritel.pdf
+link: ''
 attachments:
   - title: American mink - a real enemy?
     link: /media/norek-americky-opravdovy-nepritel.pdf
