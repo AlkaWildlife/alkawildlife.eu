@@ -3,26 +3,26 @@ title: Raccoon dog
 published: true
 permalink: /species-of-interest/raccoon-dog
 image: /media/psik_myvalovity_at.jpg
-description: >-
-  Invazní psovitá šelma původem z Asie s negativním vlivem na naše původní
-  druhy. 
+description: An invasive mammal from Asia with a negative impact on our native species.
 listed: true
 position: 7
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    title: Psík mývalovitý
+    permalink: /zajmove-druhy/psik-myvalovity
 ---
-Psík mývalovitý patří k nově se vyskytujícím druhům naší fauny savců. Druh původně pochází z Dálného východu, z introdukovaných populací na Sibiři a z evropské části bývalého Sovětského svazu se šířil dál na západ. Navíc unikal z chovů kožešinových zvířat. Jako nepůvodní druh se značnou reprodukční kapacitou se jak u nás, tak v celé Evropě rozšiřuje. Jedná se o všežravce obývajícího širokou škálu různých biotopů, místy s vazbou na mokřadní lokality. 
+The raccoon dog (_Nyctereutes procyonoides_) is another additional species to our environment. This species originally comes from the Far East, indigenous to East Asia. It was introduced in Siberia and it has now spread westward from the European part of the former Soviet Union. In addition to this, there have also been escapees from fur farms. As a non-native species with considerable reproductive capacity, it is expanding in both the Czech Republic and throughout Europe. They are omnivores inhabiting a wide range of different habitats, sometimes linked to wetland sites.
 
-# Popis
+# Description
 
-Jedná se o psovitou šelmu dosahující až velikosti lišky. Má zavalité tělo, krátké nohy a malé zaoblené boltce neznatelně vystupující ze srsti. Zbarvením připomíná spíše jezevce nebo mývala (s nímž bývá často zaměňován). Dlouhá neuspořádána srst má v zimě hustou podsadu a na lících vytváří licousy. Základní je šedohnědé zbarvení s tmavým žíháním, od černých pesíků přechází zejména na břiše do žlutohnědého odstínu, nohy jsou téměř černé, ocas je tmavý a bez příčného pruhování. Na hlavě je typická černobílá kresba. V letní srsti bývá zbarvení celkově světlejší, někdy s nádechem do rezava. Psík váží 4 – 11 kg.
+The raccoon dog is part of the Canidae family, reaching up to the size of a fox, of which it is a close relative. They have a stocky body, short legs, and small rounded ears, noticeably protruding from the coat. Their coat colouring is similar to that of a badger or raccoon, with which they are often confused but not related. Its long, untidy coat, with a base grey-brown colour has a thick undercoat in winter. Its fur is also black tipped and has a particularly yellowish-brown hue. The legs are almost black, the tail is dark and without striations. The head is typically similar to the rest of the body with black eyes and pale nose with whiskers on the cheeks. In summer, the colour is generally lighter, sometimes with a hint of rufous. On average, raccoon dogs weigh from 4 to 11kg, fluctuating with the seasons.
 
-# Stopy a pobytové znaky
+# Tracks and signs
 
-Otisk tlapek má po čtyřech prstech s oválnými bříšky a drápy. Stopa je poměrně široká a má velké meziprostory. Je podobná stopám psa nebo lišky, s nimiž je snadné tento druh zaměnit. Velikost zadní stopy je 4 – 5 x 5 – 6 cm. Stopy předních tlap jsou okrouhlé, stopy zadních stop jsou více oválné a připomínají liščí stopy. Ve stopní dráze jsou stopy kladeny často vedle sebe po dvojicích. 
+The Raccoon dog track has four toes, an oval belly and claws. The track is quite wide and has large interspaces. It is commonly confused with dog or fox tracks as it is rather similar. The size of the back track is 4-5 x 5-6cm. The appearance of the front track is much more rounded than the oval hind paw. When looking at multiple tracks, they are often placed side by side in pairs.
 
-Trus psíka má druhově charakteristický zápach. Tvar je však velice různý podle složení potravy. Může připomínat trus jiných šelem (např. liška, jezevec, vlk). V blízkosti nor mají tendenci vytvářet „latríny“ s hromadou trusu.
+Dog droppings have a species-specific odour. However, the shape varies greatly depending on the composition of the food. It may resemble droppings of other carnivores like fox, badger, wolf. They tend to form "latrines" with piles of droppings.
 
 ![](/media/stopy_psík.jpg)
 
