@@ -83,9 +83,9 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 [Sklárna Teplice](/projects/sokol-stehovavy-v-prumyslovych-arealech/sklarna-teplice)
 
-Teplárna v Děčíně
+[Teplárna v Děčíně](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-decin)
 
-Spolana Neratovice
+[Spolana Neratovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/spolana-neratovice)
 
 Teplárna v Liberci
 
