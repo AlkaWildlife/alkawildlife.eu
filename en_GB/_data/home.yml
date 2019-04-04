@@ -5,32 +5,39 @@ news:
   all: Latest news
 links:
   - image: /media/syslinavinici.jpg
-    title: Sysli na vinici
+    title: Souslik friendly Vineyard
     url: 'https://www.syslinavinici.cz'
   - image: /media/vydryonline.jpg
-    title: Vydry online
+    title: Otters online
     url: 'https://www.vydryonline.cz'
   - image: /media/vydrynasilnici.jpg
-    title: Vydry na silnici
+    title: Otters on the road
     url: 'http://www.vydrynasilnici.cz'
   - image: /media/vydristezky.jpg
-    title: Vydří stezka
+    title: Otter trail
     url: 'https://www.vydristezky.cz'
   - image: /media/map_translynx_eu.jpg
-    title: Rysí mapa
+    title: Lynx map
     url: 'http://map.translynx.eu/cs'
 mission:
-  body: "# Mise\n\nNašim posláním je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
+  body: >-
+    # Our Mission
+
+
+    Our mission is to acquire, disseminate and apply information related to
+    animal biology and ecology in order to protect species by providing
+    effective, scientifically-based protection and management plans.
 gallery:
-  title: Photogallery
+  title: Gallery
 appeal:
   body: >-
-    # Výzva
+    # Help us!
 
 
-    Z celé ČR pro účely výzkumu a ochrany námi sledovaných druhů sbíráme
-    kadávery či data o vybraných druzích. Pomozte nám a dejte nám vědět o svém
-    nálezu. Instrukce ke sběru a hlášení zde.
+    We collect animal carcasses and other data on selected species throughout
+    the Czech Republic, for the purposes of species research and protection.
+    Help us and let us know about your findings. Collection and reporting
+    instructions here.
 other:
   body: |
     # Facebook
