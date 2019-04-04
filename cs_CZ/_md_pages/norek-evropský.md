@@ -8,7 +8,9 @@ listed: true
 position: 9
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: European mink
+    permalink: /species-of-interest/european-mink
 ---
 Norek evropský (_Mustela lutreola_, Linné 1761) patří spolu s rysem pardálovým (_Lynx pardina_) a tuleněm středomořským (_Monachus monachus_) mezi tři nejohroženější šelmy Evropy.
 
