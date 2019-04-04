@@ -42,6 +42,6 @@ other:
   body: |-
     # Follow us
 
-    [![](/media/facebook_logo.png)] (https://www.facebook.com/alkawildlife)
+    [![](/media/facebook_logo.png)](https://www.facebook.com/alkawildlife)
 
     [![](/media/instagram-icon.png)](https://www.instagram.com/alkawildlife)
