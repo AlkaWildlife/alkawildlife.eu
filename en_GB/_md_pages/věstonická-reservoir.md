@@ -1,7 +1,7 @@
 ---
 title: Věstonická Resvervoir Nature Reserve
 published: true
-permalink: /projects/revision/vestonicka-nadrz.html
+permalink: /projects/revision/vestonicka-reservoir.html
 image: /media/dscn1003_610.jpg
 position: 3
 layout: two_columns_page
