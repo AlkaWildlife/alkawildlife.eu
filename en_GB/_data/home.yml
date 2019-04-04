@@ -39,9 +39,11 @@ appeal:
     Help us and let us know about your findings. Collection and reporting
     instructions here.
 other:
-  body: |-
+  body: >-
     # Follow us
 
-    ![](/media/facebook-icon-preview-1-400x400.png)
 
-    ![](/media/instagram-icon.png)
+    [![](/media/facebook-icon-preview-1-400x400.png)](https://www.facebook.com/AlkaWildlife)
+
+
+    [![](/media/instagram-icon.png)](https://www.instagram.com/alkawildlife
