@@ -47,7 +47,7 @@ description: >-
   Dlouhodobý monitoring a podpora hnízdění sokolů na lidských stavbách -
   většinou na komínech průmyslových areálů
 ---
-# Souhrn 
+# Souhrn
 
 Sokol stěhovavý je v ČR velmi vzácný, patří mezi kriticky ohrožené druhy. V mnoha zemích v průběhu šedesátých let vyhynul, především vlivem plošné aplikace DDT. Postupně se však navrací do naší přírody, jeho aktuální početnost v ČR se pohybuje okolo 75 hnízdících párů. Je to druh hnízdící na skalách, ale vzhledem k rostoucímu lidskému tlaku na přirozené biotopy se přizpůsobuje i dalším hnízdním možnostem. Zdá se, že v posledních letech se do ČR šíří ze sousedního Německa nový fenomén
 – hnízdění sokolů na lidských stavbách. Populace na stavbách v Německu dosahuje již několika stovek párů a stále narůstá. Při hnízdění na lidských stavbách však často sokoli obtížně hledají vhodné místo pro
@@ -75,9 +75,9 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 [Chempark Záluží](/projects/sokol-stehovavy-v-prumyslovych-arealech/chempark-zaluzi)
 
-Cementárna Čížkovice
+[Cementárna Čížkovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/cementarna-cizkovice)
 
-Teplárna Komořany
+[Teplárna Komořany](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-komorany)
 
 Teplárna v Mladé Boleslavi
 
