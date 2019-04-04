@@ -39,7 +39,7 @@ area: >-
   [Lednické Ponds National Nature Reserve](/projects/revision/lednické-ponds)
 
 
-  [Mutěnické Ponds](/projects/revision/mutěnické-ponds)
+  [Mutěnické Ponds](/projects/revision/mutenicke-ponds)
 tags:
   - Amercian mink
   - Raccoon dog
