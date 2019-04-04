@@ -50,7 +50,7 @@ This website is designed for the general public and contains general information
 
 <div class="clearfix"></div>
 
-![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[vydrynasilnici.cz](vydrynasilnici.cz)
+![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[vydrynasilnici.cz](http://www.vydrynasilnici.cz)
 
 We have also created an online map application for professionals, especially nature conservation and local authorities, to use. All notifications of otter deaths on the roads in the Czech Republic are reported here alongside descriptions of risk spots. We also provide a technical solution to reduce the risk of incidents.
 
