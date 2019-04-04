@@ -1,5 +1,5 @@
 ---
-title: Mutěnické rybníky
+title: Mutěnické ponds
 published: true
 permalink: /projects/revision/mutenicke-rybníky
 image: /media/dscn1350_610.jpg
