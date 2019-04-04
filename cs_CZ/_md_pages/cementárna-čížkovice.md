@@ -4,7 +4,7 @@ published: true
 permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/cementarna-cizkovice
 image: /media/budka_cizkovice.png
 long_title: Sokoli v cementárně Čížkovice
-description: Na komíně cementárny jsou vyvěšeny budky od roku 2012.
+description: Na komíně cementárny jsou vyvěšeny dvě budky od roku 2012.
 position: 3
 layout: two_columns_page
 lang_alternatives:
@@ -12,15 +12,13 @@ lang_alternatives:
 ---
 Financování: Lafarge Cement a.s. 
 
-Dvě budky byly na komín cementárny vyvěšeny již v roce 2012. Poprvé ale sokoli zahnízdili a vyvedli mláďata až v letošním roce. Úspěšně vyvedli tři mláďata.
-
-
+Dvě budky byly na komín cementárny vyvěšeny již v roce 2012. Poprvé ale sokoli zahnízdili a vyvedli mláďata až v roce 2015. Od té doby zde hnízdí pravidelně jeden pár a úspěšně vyvádí mláďata.
 
 V médiích: 
 
 [2017: lafarge.cz: Na komíně v Čížkovicích se i letos vylíhla sokolí mláďata](https://www.lafarge.cz/na_komn_v_kovicch_se_i_letos_vylhla_sokol_mlata)
 
-[2015: denik.cz: V Čížkovicích mají na komíně mláďata sokola](https://litomericky.denik.cz/zpravy_region/v-cizkovicich-maji-na-komine-mladata-sokola-20150625.html) 
+[2015: denik.cz: V Čížkovicích mají na komíně mláďata sokola](https://litomericky.denik.cz/zpravy_region/v-cizkovicich-maji-na-komine-mladata-sokola-20150625.html) 
 
 [2012: TV Litoměřicka: Vzácní sokoli mají hnízdit na komínu cementárny ](https://www.youtube.com/watch?v=h1w1B6OSc3Y)
 
