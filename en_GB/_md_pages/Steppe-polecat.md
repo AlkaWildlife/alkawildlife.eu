@@ -4,8 +4,8 @@ published: true
 permalink: /species-of-interest/steppe-polecate
 image: /media/tchor_stepni_vs.jpg
 description: >-
-  Tchoř stepní, lasicovitá šelma stepní a zemědělské krajiny, je jedním z našich
-  nejvzácnějších savců. 
+  The Steppe polecat, a mustelid living steppe and agricultural landscape, is
+  one of our rarest mammals.
 listed: true
 position: 12
 layout: two_columns_page
@@ -14,11 +14,7 @@ lang_alternatives:
     title: Tchoř stepní
     permalink: /zajmove-druhy/tchor-stepni
 ---
-Tchoř stepní (_Mustela eversmannii_) je jedním z našich nejvzácnějších savců. Druh u nás údajně hojný v 1. pol. 20 století je v současnosti považován za kriticky ohrožený, nicméně o jeho aktuálním rozšíření, biologii a ekologii víme skutečně jen velmi málo.
-
-# Taxonomické zařazení
-
-Tchoř stepní (_Mustela eversmannii_), neboli tchoř světlý, tchoř plavý či také tchoř Eversmannův, je šelma z čeledi lasicovitých. Původně řazen jako jeden druh s tchořem tmavým (_Mustela putorius_, Pocock, 1936), v současnosti je považován za samostatný druh (Mitchell-Jones et al. 1999, Heptner et al. 2002), blízce příbuzný tchoři tmavému a norku evropskému. 
+The Steppe polecat (_Mustela eversmannii_) also known as Eversmann's polecat, is one the Czech Republic’s rarest mammals. The species was allegedly abundant in the first half of the 20th century but is now considered critically endangered yet we still know very little about its current spread, biology and ecology. It was originally classified as one species with the European polecat (_Mustela putorius_, Pocock, 1936), but now is considered a separate species (Mitchell-Jones et al. 1999, Heptner et al. 2002), closely related to the European polecat and European mink.
 
 # Popis
 
