@@ -1,7 +1,7 @@
 ---
-title: Psík mývalovitý
+title: Raccoon dog
 published: true
-permalink: /zajmove-druhy/psik-myvalovity
+permalink: /species-of-interest/raccoon-dog
 image: /media/psik_myvalovity_at.jpg
 description: >-
   Invazní psovitá šelma původem z Asie s negativním vlivem na naše původní
