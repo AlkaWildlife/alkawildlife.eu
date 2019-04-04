@@ -79,9 +79,9 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 [Teplárna Komořany](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-komorany)
 
-Teplárna v Mladé Boleslavi
+[Teplárna v Mladé Boleslavi](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-boleslav)
 
-Sklárna Teplice
+[Sklárna Teplice](/projects/sokol-stehovavy-v-prumyslovych-arealech/sklarna-teplice)
 
 Teplárna v Děčíně
 
