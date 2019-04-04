@@ -5,7 +5,7 @@ permalink: /species-of-interest/raccoon-dog
 image: /media/psik_myvalovity_at.jpg
 description: An invasive mammal from Asia with a negative impact on our native species.
 listed: true
-position: 7
+position: 5
 layout: two_columns_page
 lang_alternatives:
   cs_CZ:
@@ -28,7 +28,9 @@ Dog droppings have a species-specific odour. However, the shape varies greatly d
 
 # Biology and ecology
 
-The Raccoon dog is well adapted to all environments. It inhabits forests, fields, pastures and wetlands. It also avoids living in proximity of human settlements and man-made areas such as vineyards, orchards and suburban forests. It is a monogamous species and lives in pairs or in family packs. Whilst it is a nocturnal animal,  it can be seen as dusk as well. During the day, they dwell in their burrows as well as abandoned fox and badger burrows or hay bales. In waterlogged places, they can build shelters from grass and reeds. When the temperature drops, they may fall into a false sleep, yet this is not a hibernation.
+The Raccoon dog is well adapted to all environments. It inhabits forests, fields, pastures and wetlands. It also avoids living in proximity of human settlements and man-made areas such as vineyards, orchards and suburban forests. It is a monogamous species and lives in pairs or in family packs. Whilst it is a nocturnal animal,  it can be seen as dusk as well. During the day, they dwell in their burrows as well as abandoned fox and badger burrows or hay bales. In waterlogged places, they can build shelters from grass and reeds.
+
+ When the temperature drops, they may fall into a false sleep, yet this is not a hibernation.
 
 Mating occurs in late winter and the females are pregnant for two months. Once a year, in April-May, the female will give birth to 5-8 pups. After 4-5months, the pups become independent and after another 4-5 months, they become sexually mature. You can distinguish the young independent animals as they are usually darker in colour. The size of home range depends on the amount and availability of food.
 
