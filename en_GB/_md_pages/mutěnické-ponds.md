@@ -1,7 +1,7 @@
 ---
 title: Mutěnické ponds
 published: true
-permalink: /projects/revision/mutenicke-rybníky
+permalink: /projects/revision/mutenicke-ponds
 image: /media/dscn1350_610.jpg
 position: 2
 layout: two_columns_page
