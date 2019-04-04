@@ -52,8 +52,8 @@ As an introduced invasive species, it represents a potential danger to the nativ
 
 # Literature
 
-You can read more about the raccoon in our publications [here](http://alka-wildlife-cs.netlify.com/publications#category=m%C3%BDval-severn%C3%AD).
+You can read more about the raccoon in our publications [here](/publications).
 
 # Projects
 
-We are actively monitoring the raccoon presence, find out more information on our projects [here](http://alka-wildlife-cs.netlify.com/projects#category=m%C3%BDval-severn%C3%AD).
+We are actively monitoring the raccoon presence, find out more information on our projects [here](/projects).
