@@ -38,19 +38,19 @@ The composition of an otter's diet varies during the seasons and across habitats
 
 Further detailed information about the otter can be found on our dedicated otter specific:
 
-![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](www.vydryonline.cz) 
+![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[vydryonline.cz](https://www.vydryonline.cz) 
 
 This website is intended for the professional public and fishermen. It contains up-to-date information about the otter in the Czech Republic. We have included: the effect of otters on fish populations, road mortality, Q&As, photos, a library and the ‘Bulletin Vydra’.
 
 <div class="clearfix"></div>
 
-![](/media/vydristezky_300.jpg){: .wysiwyg-float-left}[www.vydristezky.cz](www.vydristezky.cz)
+![](/media/vydristezky_300.jpg){: .wysiwyg-float-left}[vydristezky.cz](https://www.vydristezky.cz)
 
 This website is designed for the general public and contains general information about otters, the Dyje trail from Dacice to Staré Hobzí and other information which can also be used for educational purposes in schools.
 
 <div class="clearfix"></div>
 
-![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](www.vydrynasilnici.cz)
+![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[vydrynasilnici.cz](https://www.vydrynasilnici.cz)
 
 We have also created an online map application for professionals, especially nature conservation and local authorities, to use. All notifications of otter deaths on the roads in the Czech Republic are reported here alongside descriptions of risk spots. We also provide a technical solution to reduce the risk of incidents.
 
