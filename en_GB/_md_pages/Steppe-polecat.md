@@ -1,7 +1,7 @@
 ---
-title: Tchoř stepní
+title: Steppe polecat
 published: true
-permalink: /zajmove-druhy/tchor-stepni
+permalink: /species-of-interest/steppe-polecate
 image: /media/tchor_stepni_vs.jpg
 description: >-
   Tchoř stepní, lasicovitá šelma stepní a zemědělské krajiny, je jedním z našich
