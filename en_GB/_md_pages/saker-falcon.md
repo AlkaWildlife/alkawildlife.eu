@@ -1,7 +1,7 @@
 ---
-title: Raroh velký
+title: Saker falcon
 published: true
-permalink: /zajmove-druhy/raroh-velky
+permalink: /species-of-interest/saker-falcon
 image: /media/tuz_9505a.jpg
 description: >-
   Raroh velký, sokolovitý dravec, je jedním z nejvzácnějších druhů ptáků
