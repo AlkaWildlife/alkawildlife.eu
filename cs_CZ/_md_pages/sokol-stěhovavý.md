@@ -10,7 +10,9 @@ listed: true
 position: 14
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Peregrine falcon
+    permalink: /species-of-interest/peregrine-falcon
 ---
 Sokol stěhovavý je druhem, který se již od středověku těšil mimořádnému zájmu člověka. Byl často využíván k sokolnictví, což mu na jedné straně přinášelo úctu, uznání a ochranu, ale na druhé straně i ohrožení populací vybíráním mláďat pro tyto účely. 
 
