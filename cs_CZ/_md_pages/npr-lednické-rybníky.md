@@ -6,7 +6,9 @@ image: /media/img_8981_600.jpg
 position: 1
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Lednické Ponds National Nature Reserve
+    permalink: /projects/revision/lednické-ponds
 ---
 Národní přírodní rezervace Lednické rybníky
 
