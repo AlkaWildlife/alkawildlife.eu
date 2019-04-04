@@ -66,4 +66,4 @@ In terms of protection of indigenous species, some of the invasive species are b
 
 # Publications
 
-[American mink - a real enemy?](publications/american-mink-a-real-enemy) (Article in Živa)
+[American mink - a real enemy? ](/publications/american-mink-a-real-enemy)(Article in Živa)
