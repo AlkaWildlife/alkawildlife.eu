@@ -23,7 +23,7 @@ lang_alternatives:
 
 **Public company announcement:** [vhodne-uverejneni.cz/profil/28064933](https://www.vhodne-uverejneni.cz/profil/28064933)
 
-**Website:** [alkawildlife.eu](https://www.alkawildlife.eu)
+**Website:** [alkawildlife.eu](http://www.alkawildlife.eu)
 
 **Facebook:** [facebook.com/AlkaWildlife](https://www.facebook.com/AlkaWildlife)
 
@@ -31,7 +31,7 @@ lang_alternatives:
 
 ## **Mgr. Kateřina Poledníková**
 
-**Tel:** 606 598 903 **Email:** (katerina.polednikova@alkawildlife.eu) 
+**Tel:** 606 598 903 **Email:** katerina.polednikova@alkawildlife.eu 
 
 * Director
 * Project and finance manager
@@ -42,7 +42,7 @@ lang_alternatives:
 
 ## **Mgr. Lukáš Poledník, Ph.D.**
 
-**Tel:** 721 113 973 **Email:** (lukas.polednik@alkawildlife.eu) 
+**Tel:** 721 113 973 **Email:** lukas.polednik@alkawildlife.eu 
 
 * Senior researcher
 * Student supervision
