@@ -10,7 +10,9 @@ listed: true
 position: 12
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    title: Tchoř stepní
+    permalink: /zajmove-druhy/tchor-stepni
 ---
 Tchoř stepní (_Mustela eversmannii_) je jedním z našich nejvzácnějších savců. Druh u nás údajně hojný v 1. pol. 20 století je v současnosti považován za kriticky ohrožený, nicméně o jeho aktuálním rozšíření, biologii a ekologii víme skutečně jen velmi málo.
 
