@@ -4,22 +4,21 @@ published: true
 image: /media/flyer-cz.jpg
 listing_thumbnail: /media/vydra-ricni-948a_320.jpg
 date: 2018-03-22T00:00:00.000Z
+lang_alternatives:
+  cs_CZ:
+    permalink: /news/konference-lutra-lutra
+    title: Konference Lutra lutra
 category: news
 layout: news
 ---
-V říjnu 2017 odstartoval přeshraniční projekt Lutra lutra. 11. dubna
-2018 se bude konat zahajovací konference projektu ve Via Re
-v Drážďanech, kde budou představeny nejnovější poznatky k vydře říční.
+In October 2017, the Lutra Lutra cross-border project started. On April 11, 2018, the opening conference of the project will take place in Via Re, Dresden, where the latest findings on the Eurasian otter will be presented.
 
-# Organizační informace
+## **ORGANISATIONAL INFORMATION**
 
-Přednášky budou probíhat v němčině a češtině se simultánním překladem do
-druhého jazyka.  
-Občerstvení během přestávek je zajištěno.  
-Účastnický poplatek: zdarma  
-Adresa: Via Re, Königstr. 6, 01097  Dresden  
-Přihlásit na konferenci se můžete na
-[lukas.polednik@alkawildlife.eu](mailto:lukas.polednik@alkawildlife.eu)
-/ [606 598 903](tel:+420-606-598-903)
+Lectures will be held in German and Czech with simultaneous translation into the other language.\
+Refreshments during breaks will be provided.\
+Participation Fee: Free\
+Address: Via Re, Königstr. 6, 01097 Dresden\
+You can register for the conference via email at lukas.polednik@alkawildlife.eu or by phone on 606 598 903
 
-[Program konference a organizační informace (PDF)](/media/konference_lutra-lutra_program.pdf)
+[Conference Programme and Organisational Information (PDF)](/media/konference_lutra-lutra_program.pdf)
