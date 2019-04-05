@@ -9,16 +9,30 @@ description: >-
   vydry v této oblasti? 
 date: '2017-11-13'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/začínáme-výzkum-vyder-v-krušných-horách
+    title: Začínáme výzkum vyder v Krušných horách
 category: news
 layout: news
 ---
-Vydra říční je šelma, která se po desítkách let navrátila i do potoků Krušných hor a je možné se s ní potkat i na tocích v podkrušnohoří. Jak jsou na tom vydry v této oblasti? Jsou toky v Krušných horách pro vydry izolované či mohou vydry přecházet z Čech do Saska, z horských toků dolů na hlavní toky Ohři a Labe přes krajinu povrchových hnědouhelných dolů, kde z řek vznikly silně znečištěné kanály na odtok vody? Dokáží naopak využít nově vytvořené vodní plochy vzniklé po těžbě hnědého uhlí? Odkud se vydry do Krušných hor vrátily? Z jižních Čech či z přilehlého Saska? Jaké jsou zde rizikové faktory pro jejich další život? Je možné rizikové faktory a kritická místa upravit a vydrám zajistit lepší budoucnost? A kdo by to mohl udělat? Na tyto otázky bychom chtěli odpovědět v rámci projektu Lutra lutra, který právě rozjíždíme.
+The Eurasian otter is a large mustelid whose population status is increasing in the Czech Republic after decades of decline. You can see them in Krušné Hory and that’s where we are heading to!
 
-Hned první terénní průzkum a společné terénní setkání s odborníky z partnerských organizací naznačil některé odpovědi na naše otázky. Vydry jsme našli na většině kontrolovaných toků, dole v údolích i nahoře až v nejvyšších lokalitách Krušných hor. V Krušných horách můžete vidět jak přirozené úseky toků, tak silně regulované úseky s celou řadou podélných i příčných bariér, které jsou problémem jak například pro ryby, vydru, tak i další živočichy. Tak jako jinde v republice i zde se okolo řek nachází množství různého odpadu.
+We are doing this for quite a few reasons. We have the following questions we want answered:
 
-Na Podmileském potoce jsme zaznamenali stopu mývala severního. Jedná se o nepůvodní severoamerický druh, který má negativní vliv na naše původní druhy. Patří mezi tzv. invazivní druhy, které je potřeba regulovat. V České republice se nachází dvě větší populace, jedna z nich právě v okolí Karlových Varů.
+* What is the status of the otter in the Ore Mountains and the adjacent foothills? 
+* Are the streams in the Ore Mountains only home to isolated otter populations or does the otter migrate from Bohemia to Saxony?
+* If they are connected, where are these connections? Are they from mountain streams down to the main streams of the Ohře and Elbe?  
+* From which populations did the otter return to the Ore Mountains from? South Bohemia or neighbouring Saxony? 
+* What risks factors are influencing their future survival? 
+* Is it possible to adjust these risk factors to ensure a better future for these otters? 
+* If so, who can do that? 
 
-Více se o projektu Lutra lutra dozvíte [zde](/projects/lutra-lutra.html).
+We’re going to be trying to answer these questions in our new ‘Lutra lutra’ project, partnering with our German counterparts on the other side of the border. The very first field survey and joint field meeting with our partner organisations suggested has already answered some of our questions. Promisingly, we found otters in most of the controlled streams, down in the valleys and up to the highest locations in the Ore Mountains. We also found that in the Ore Mountains, you can see both natural streams and heavily regulated stretches. These stretches, influenced by coal mining, have a number of longitudinal and transverse barriers, which prove an issue to cross for fish, otter and other animals. We also found, as with lots of other areas in the country, there is also a major waste issue surrounding these rivers.
+
+Apart from finding tracks and signs of otter we interestingly found tracks of racoon in the Podmileský creek in the North. This is a non-native North American, invasive species. Invasive species can have serious negative impacts on our native species and there are plans for their control. There are two large populations in the Czech Republic, one of them in the nearby town of Karlovy Vary. 
+
+Learn more about the Lutra lutra project [here](/projects/lutra-lutra).
+
+
 
 ![](/media/spojene-loga_320.jpg)
