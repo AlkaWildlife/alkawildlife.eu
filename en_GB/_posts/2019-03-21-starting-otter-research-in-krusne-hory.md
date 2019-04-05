@@ -1,5 +1,5 @@
 ---
-title: Začínáme výzkum vyder v Krušných horách
+title: Starting otter research in Krušné Hory
 published: true
 image: /media/a_id0221_610.jpg
 listing_thumbnail: /media/a_id0221_274.jpg
