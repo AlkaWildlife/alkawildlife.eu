@@ -1,5 +1,5 @@
 ---
-title: Mýval severní v Krušných horách
+title: Northern raccoon in Krušné Hory
 published: true
 image: /media/i__00007_610.jpg
 listing_thumbnail: /media/i__00007_274.jpg
