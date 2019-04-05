@@ -15,7 +15,7 @@ partners: >-
   (main partner)
 
 
-  [Šumav National Park Administration](www.npsumava.cz) 
+  [Šumava National Park Administration](www.npsumava.cz) 
 
 
   [Nature and Landscape Protection Agency of the Czech
