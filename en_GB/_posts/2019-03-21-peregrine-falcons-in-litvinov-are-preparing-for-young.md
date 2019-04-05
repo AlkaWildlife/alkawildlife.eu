@@ -4,29 +4,36 @@ published: true
 image: /media/cdy05307_tok_2019_610.jpg
 listing_thumbnail: /media/cdy05307_tok_2019_274.jpg
 description: >-
-  Budky na komínech litvínovské chemičky jsou opět po půl roce zabydlené. Dva
-  páry sokolů stěhovavých v Podkrušnohoří se připravují na hnízdění.
+  The nest box on the chimney of the Litvínov chemical plant is once again
+  inhabited after sitting empty for half a year. A pair of Peregrine falcons
+  from the Ore Mountains are preparing for nesting.
 date: '2019-03-21'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /sokoli-v-litvínovské-chemičce-se-připravují-na-mladé
+    title: Sokoli v Litvínově se připravují na mladé
 category: news
 layout: news
 ---
-TISKOVÁ ZPRÁVA
+# PRESS RELEASE
 
 21-03-2019\
- UNIPETROL
+UNIPETROL CHEMICAL PLANT - LITVÍNOV
 
-## Dva sokolí páry se v litvínovské chemičce opět připravují na mladé
+## Peregrine falcons are preparing for young in the Litvínov chimneys
 
-**Litvínov, 21. března 2019 – Sokoli stěhovaví jsou zpět! Budky na komínech litvínovské chemičky jsou opět po půl roce zabydlené. Dva páry sokolů stěhovavých v Podkrušnohoří se opět připravují na hnízdění, aby zde vyvedli své mladé. Od roku 2011 se v Litvínově vylíhlo za podpory Unipetrolu a neziskového sdružení ALKA Wildlife již 23 mláďat tohoto kriticky ohroženého druhu. Kromě litvínovského závodu si sokoli oblíbili také komíny rafinérie v Kralupech nad Vltavou a areál neratovické Spolany.**
+**The Peregrine falcons are migrating back! The nest boxes on the chimneys of the Litvínov chemical plant are once again occupied, after half a year of being empty. Peregrine falcons, from the foothills of the Ore Mountains, are preparing to nest again to raise a new families. Since 2011, 23 chicks of this critically endangered species have hatched here in Litvínov, with the support of Unipetrol and the non-profit association ALKA Wildlife. In addition to the Litvínov plant, falcons also liked the chimneys in Kralupy nad Vltavou and at the Neratovice Spolana site.**
 
-„_Na komínech našeho litvínovského areálu loni hnízdily hned dva páry sokola stěhovavého, což je republikový unikát. Oba páry přivedly na svět celkem pět mláďat. Jsme rádi, že i letos začínají hnízdit, a těšíme se, že brzo vyvedou mladé_,“ řekl Pavel Sláma, ředitel jednotky EKO skupiny Unipetrol.
+> "Peregrine falcons nested on the chimneys of our Litvínov site last year. They brought five chicks into the world. We are pleased that they are starting to breed again this year, and we are looking forward to seeing the chicks soon,"
 
-V litvínovské chemičce jsou umístěny dvě hnízdní budky. První je na komínu zdejší teplárny a druhá na komínu etylenové jednotky. Obě jsou instalovány ve výšce přes sto metrů, protože sokoli si pro hnízdění hledají co nejvyšší místa, kde mají absolutní klid a výborný rozhled.
+Pavel Sláma, Director of the Unipetrol Group's EKO Group.
 
-Každý rok na jaře ornitolog Václav Beran ze sdružení ALKA Wildlife budky kontroluje. A stejně tomu bylo i letos v březnu: „_Obě budky jsme vyčistili, zkontrolovali jejich stabilitu a připravili nové fotopasti. Nedávno jsme k budkám opět vystoupali, abychom si potvrdili naše pozemní pozorování. Našli jsme čerstvé zbytky potravy a trus, takže sokoli jsou zpět, upevňují partnerské pouto a připravují se na hnízdění. Půjde-li vše podle plánu, brzy snesou tři až čtyři vejce, na kterých budou zhruba měsíc sedět. A my se na komín vydáme znovu koncem dubna, abychom narozená mláďata okroužkovali_.“
+There are two nest boxes at the Litvínov chemical plant site. The first is on the chimney of the local heating plant and the second on the chimney of the ethylene unit. Both are installed at a height of over one hundred meters as natural falcon nests are at the highest point they can find, so they have peace, quiet and an excellent view.
 
-Sokol stěhovavý se dožívá až dvaceti let a na svá oblíbená hnízdiště se vrací celý život. S maximální rychlostí při střemhlavém letu přes 350 km/h je pravděpodobně nejrychlejším živočichem na Zemi. Sokol stěhovavý je na českém území tradičním ptačím druhem. Populace tohoto predátora lovícího holuby, kachny a další menší ptáky a netopýry byla nejsilnější ve čtyřicátých a padesátých letech minulého století, kdy se na území tehdejšího Československa pohybovalo až šedesát párů. Z české krajiny sokoli vymizeli v 70. letech minulého století kvůli nadměrnému používání pesticidů v zemědělství. Opětovně se začali objevovat na konci 80. let. Na přelomu tisíciletí se v Česku pohybovalo již zhruba dvacet párů. Dnes díky přísné ochraně žije na našem území zhruba osmdesát párů sokola stěhovavého. 
+Every spring, the ornithologist Václav Beran, from ALKA Wildlife, checks these nest boxes. Naturally, this was the same this March:
+
+> "Before the falcons returned, we cleaned the two nest boxes, checked their stability and prepared new camera traps. More recently, we climbed up to the nest boxes again to confirm our ground observations. We found fresh remains of food and droppings, which means that the falcons are back, consolidating a partner bond and preparing for nesting. If everything goes according to plan, they will soon end up with three or four eggs to sit on for about a month. We will go to the chimney again at the end of April to ring the new-born chicks."
+
+The Peregrine falcon can live for up to twenty years, returning to its favourite breeding grounds for life. With a maximum speed of over 350 km/h, it is probably the fastest animal on Earth. The Peregrine falcon is a native species to the Czech Republic. The population of this predator, who hunts pigeons, ducks, smaller birds and bats, was strongest in the 1940s and 1950s, when up to sixty couples were reported in Czechoslovakia. Unfortunately, they disappeared from the Czech landscape in the 1970s due to excessive use of agricultural pesticides. Thankfully, they began to appear again in the late 1980s and at the turn of the millennium, there were about twenty couples in the Czech Republic. Today, due to strict protection, there are now roughly eighty pairs in across the country.
 
 ![](/media/cdy05440_610.jpg)
