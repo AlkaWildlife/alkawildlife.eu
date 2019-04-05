@@ -1,12 +1,11 @@
 ---
-title: Peregrine falcons in Litvinov are preparing for young
+title: Falcons in Litvinov are preparing for young
 published: true
 image: /media/cdy05307_tok_2019_610.jpg
 listing_thumbnail: /media/cdy05307_tok_2019_274.jpg
 description: >-
-  The nest box on the chimney of the Litvínov chemical plant is once again
-  inhabited after sitting empty for half a year. A pair of Peregrine falcons
-  from the Ore Mountains are preparing for nesting.
+  The nest boxes on the chimneys of the Litvínov chemical plant are home to
+  nesting Peregrine falcons again.
 date: '2019-03-21'
 lang_alternatives:
   cs_CZ:
