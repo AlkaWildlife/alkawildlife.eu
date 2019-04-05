@@ -17,3 +17,5 @@ attachments:
   - {}
 ---
 Every beekeeper is delighted when his hives or apiary serve him for a long time without maintenance. But sometimes, uninvited guests visit their beehives. In the winter, Spotted Woodpeckers might decide to test the strength of the wood material or mice might find their way in when the combs are not properly secured. From the peak of summer to late autumn, apiary guests such as gastropods might visit. Some visitors just add variety to the beekeeper’s day, but others, they can bring devastating destruction to the hives.
+
+Article language: Czech
