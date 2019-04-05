@@ -3,27 +3,31 @@ title: Northern raccoon in Krušné Hory
 published: true
 image: /media/i__00007_610.jpg
 listing_thumbnail: /media/i__00007_274.jpg
-description: >-
-  Při sledování vyder v tocích Krušných hor, jsme narazili na jinou šelmu -
-  mývala.
+description: We have captured a Northern Raccoon on our camera traps in Krušné Hory.
 date: '2019-03-25'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/mýval-severní-v-krušných-horách
+    title: Mýval severní v Krušných horách
 category: news
 layout: news
 ---
-Při sledování vyder, které žijí v tocích Krušných hor, jsme narazili na jinou šelmu, která se zde také zabydlela. Na rozdíl od vydry, která zde patří, je to bohužel mýval severní - invazní druh. Mýval pochází ze Severní Ameriky a do Evropy se dostal kvůli svému kožichu. Ze severních Čech je známa poměrně silná populace na Karlovarsku, v Doupovských horách. Mývali se zde pravděpodobně rozšířili z Německa. V posledních pěti letech se ale již také objevují údaje o výskytu mývala z Ústeckého kraje – mývalí populace se dle několika zpráv rozšířila podél Krušných hor na východ až k Labi. Náš zatím krátkodobý průzkum tyto nálezy potvrdil. Stopu mývala jsme teď v březnu zachytili na horním toku Lužce a také naše fotopast instalovaná na břehu Bíliny nám poskytla první záznam.
+Whilst monitoring otters across the rivers of the Ore Mountains, we came across another animal who also lives here. Unlike the otter, a native species, our cameras captured a Northern raccoon - an invasive species.
 
-_Mýval severní v Krušných horách, horní úsek řeky Bíliny_
+The Northern raccoon comes from North America and was introduced to Europe due to an increased demand for fur products. After animals either escaped or were released from these fur farms, the raccoon established itself in Europe. Their population in Germany reached one million recently and is still growing. Raccoon has already become a common species in West Bohemia in the Karlovy Vary region and Doupov Mountains and its population is quickly spreading into other parts of Czechia.
 
-![Mýval severní na břehu toku](/media/i__00008_610.jpg "mýval severní")
+_Recent camera trap photo of a Northern raccoon on the Bilina River, Krusne Hory, northern Bohemia._
 
-Mýval severní je typický všežravec – zkonzumuje vše, co najde, co mu neuteče, preferuje potravu dostupnou v největším množství. Je znám svou zručností: pomocí předních končetin dokáže ledacos otevřít. V Německu, stejně jako ve svém původním areálu v Severní Americe, žije také na okrajích měst, kde otevírá popelnice nebo odpadkové koše a přes snahy tomu zabránit se v nich úspěšně přiživuje. Na život v blízkosti člověka se snadno adaptuje, což zvyšuje pravděpodobnost přenosu nemocí – zejména v Německu plošně prokázaná mývalí škrkavka Baylisascaris procyonis je považována za zdravotní riziko spojené s výskytem mývalů i u nás. Mýval znamená nebezpečí zejména pro naše původní druhy, které se vyskytují lokálně ve větším množství – pro kolonie ptáků hnízdící na zemi i na stromech (je schopen vybírat i hnízda v dutinách a budkách), pro kolonie obojživelníků. Na Karlovarsku ohrožuje vzácnou populaci užovky stromové. 
+![Northern raccoon on the riverbank](/media/i__00008_610.jpg "Northern raccoon")
 
-_Stopa mývala severního je pětiprstá, připomíná tvarem otisk lidské ruky a nohy._
+Over the last five years, reports from the Ústí nad Labem region suggest the raccoon has spread eastwards to the Ore Mountains and the Elbe river and our research confirms these findings. The tracks pictured were found in March in the Upper Lužka River and our camera traps installed on the bank of the Bílina River provided us with the first photographic record. So why is the raccoon considered as such a trouble? The Northern raccoon is a typical omnivore - it eats everything it can catch. They have an awesome skill; the ability to open things with their front legs. They use this skill when living in urban areas where, despite efforts to prevent them, they are able to open rubbish bins and feed on human waste inside. For the raccoon, it is easy to adapt to life with humans, but this unfortunately increases the risk of disease transmission. In Germany, for example, raccoon roundworm (Baylisascaris procyonis) is now considered a health risk due to increased proximity and human interaction.
 
-![stopa mývala severního v písku](/media/2019_lutrlutr_260_610.jpg "stopa mýval severní")
+Whilst the raccoon poses a threat to humans, the main problem is its interaction with our other native species. It preys on colonies of ground nesting birds yet is also capable of climbing tress. Not only is it therefore a threat to all animals nesting in trees, cavities and even nest boxes but it also poses a threat to other species such amphibians and the rare Aesculapian snake. And that is only a beginning.
 
-Monitoring v Krušných horách probíhá v rámci [projektu Lutra lutra](/projects/lutra-lutra.html).
+_The northern raccoon's track has five toes, similar to that of humans._
+
+![Northern raccoon tracks on the sandbank](/media/2019_lutrlutr_260_610.jpg "Northern raccoon tracks")
+
+Monitoring in the Ore Mountains takes place as part of the _Lutra lutra_ project. You can find out more information [here](/projects/lutra-lutra).
 
 ![](/media/spojene-loga_320.jpg)
