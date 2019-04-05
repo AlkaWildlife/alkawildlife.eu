@@ -2,80 +2,93 @@
 title: Lutra lutra
 published: true
 registration_no: '100305303'
-funding: >-
-  ERDF (Evropský fond pro regionální rozvoj) 
-
-
-  Program na podporu přeshraniční spolupráce mezi Českou republikou a Svobodným
-  státem Sasko 2014–2020
-
-
-  ![](/media/spojene-loga_610.jpg)
+funding: "ERDF (European Regional Development Fund)\r\n\nProgram to promote cross-border cooperation between the Czech Republic and the Free State of Saxony 2014-2020\r\n\n![](/media/spojene-loga_610.jpg)"
 from: 2017-10
 to: 2020-09
-partners: "[AG Naturschutzinstitut Region Dresden e.V.](https://nsi-dresden.nabu-sachsen.de/) (vedoucí partner)\r\n\n[Alka Wlidlife o. p. s \r](www.alkawildlife.eu)\n\n[Muzeum města Ústí nad Labem ](http://www.muzeumusti.cz/)"
+partners: "[AG Naturschutzinstitut Region Dresden eV (Lead Partner)\r](https://nsi-dresden.nabu-sachsen.de/)\n\n[Alka Wildlife ops\r](https://www.alkawildlife.eu)\n\n[Usti nad Labem\r Museum](http://www.muzeumusti.cz/)"
 contacts:
   - name: Kateřina Poledníková
-species: vydra říční
+species: Eurasian otter
 area: Krušné hory
 tags:
-  - vydra říční
-  - výzkum
+  - Eurasian otter
+  - Research
 countries:
   - CZ
-description: Výzkumný projekt týkající se vydry říční v Krušných horách a podkrušnohoří.
+  - DE
+description: >-
+  This project aims to identify migration corridors between Czech/Saxon otter
+  subpopulations and highlight barriers to migration and potential risk spots.
+  The data collected will be collated to create a knowledge base for all
+  partners which in turn will ultimately strengthen cross-border relationships.
+  It will also develop risk elimination measures and create information for the
+  further education of the general and professional public.
 ---
-Vydra říční je šelma, která se po desítkách let navrací do naší přírody. Vydry ke svému životu potřebují zdravý vodní ekosystém - čistou vodu, ryby v tocích, obojživelníky v tůních a vegetaci podél břehů, která jim zajistí klid. Vydry mají poměrně velké teritorium a díky tomu hodně putují krajinou. Pro fungování celé populace je také potřeba, aby jednotliví jedinci mohli se sousedy komunikovat, aby mladé zvířata mohly putovat a najít si nové teritorium. Proto je velmi potřeba, aby vhodné prostředí bylo propojeno a bez výrazných bariér, které by je svedly na silnici či do intravilánu měst. Jak jsou na tom vydry v Krušných horách a přilehlého podhůří? Jsou toky v Krušných horách pro vydry izolované či mohou vydry přecházet z Čech do Saska, z horských toků dolů na hlavní toky Ohři a Labe přes krajinu povrchových hnědouhelných dolů, kde z řek vznikly silně znečištěné kanály na odtok vody. Odkud se vydry do Krušných hor vrátily? Z jižních Čech či z přilehlého Saska? Jaké jsou zde rizikové faktory pro jejich další život? Je možné rizikové faktory a kritická místa upravit a vydrám zajistit lepší budoucnost? A kdo by to mohl udělat? Na tyto otázky bychom chtěli odpovědět v rámci projektu Lutra lutra. 
+# Introduction
 
-# Cíle projektu
+The Eurasian Otter is a predator whose population status is increasing in the Czech Republic after decades of decline. Firstly, for species success, otters need a healthy aquatic ecosystem. Clean water, fish in the streams, amphibians in the pools, and vegetation along the banks to keep them hidden are all features required for habitat they live in. Secondly, they need enough of this type of habitat to sustain the whole population. They have a relatively large territory and for the population to function, there needs to be enough habitat available so individuals can communicate with their neighbours, without too much conflict and so young animals can travel and find their own territories. These requirements put an increased pressure on the species, to find interconnected areas without significant barriers which might force them onto roads or to urban areas. 
 
-* Identifikace migračních koridorů mezi českými a saskými subpopulacemi vydry 
-* Identifikace migračních překážek a rizikových míst 
-* Vývoj, návrhy a modelová realizace opatření pro odstranění rizik 
-* Vytvoření znalostní databáze pro vyhodnocení stavu populací 
-* Posílení spolupráce aktérů z obou zemí 
-* Osvěta, informovanost široké i odborné veřejnosti 
+This information has led us to the following questions:
+
+* What is the status of the otter in the Ore Mountains and the adjacent foothills?
+* Are the streams in the Ore Mountains only home to isolated otter populations or does the otter migrate from Bohemia to Saxony?
+* If they are connected, where are these connections? Are they from mountain streams down to the main streams of the Ohře and Elbe?
+* From which populations did the otter return to the Ore Mountains from? South Bohemia or neighbouring Saxony?
+* What risks factors are influencing their future survival?
+* Is it possible to adjust these risk factors to ensure a better future for these otters?
+* If so, who can do that? 
+
+We would like to answer these questions within the Lutra lutra project.
+
+# Objectives of the project
+
+* Identification of migration corridors between Czech and Saxon otter subpopulations
+* Identification of migration barriers and risk spots
+* Development, design and implementation of risk elimination measures
+* Creating a database for population analysis
+* Strengthening the cooperation between partners from both countries
+* Further education and information for the professional and general public
 
 ![](/media/a_dscn4833_610.jpg)
 
-# Aktivity projektu
+# Project activities
 
-## Monitoring
+## **Monitoring**
 
-Realizován bude detailní monitoring výskytu vydry říční v cílovém území, jedná se o povodí přeshraničních řek Sapava (Zschopau) a její přítoky Polava a Přísečnice, Moldava (Freiberger Mulde) s přítoky a Divoká Bystřice (Wilde Weißeritz), horní povodí Flájského potoka s přítoky Černá, Svídnice, Načetínský potok a toky, odvádějící vodu z Krušných hor směrem do Ohře a Labe: Prunéřovský potok, Chumutovka, Bílina, Kundratický potok, Bouřlivec a Bystřice. 
+Detailed monitoring of the occurrence of the Eurasian otter in the target area will be carried out. The target area is a catchment area of the cross-border rivers Sapava (Zschopau) and its tributaries Polava and Přísečnice, Moldava (Freiberger Mulde) with tributaries and Divoká Bystřice (Wilde Weißeritz), the upper catchment area of the Flájský brook with tributaries Černá , Świdnica, Načetínský potok and streams draining water from the Ore Mountains towards Ohře and Labe: Prunéřovský potok, Chumutovka, Bílina, Kundratický stream, Bouřlivec and Bystřice. 
 
-## Hodnocení potenciálu prostředí
+## **ASSESSMENT OF ENVIRONMENTAL POTENTIAL**
 
-Předmětem výzkumu budou jednotlivé toky i vodní plochy, v jakém jsou stavu, jaký je jejich potenciál pro vydry a co zde vydry žerou. 
+Individual streams and other bodies of water such as ponds will be assessed for their potential for otters and their prey animals. 
 
-## Genetická studie
+## **Genetic study**
 
-Pro zjištění genetického stavu populací, příbuzenství mezi subpopulacemi, propojení, budou analyzovány vzorky tkání vyder z potenciálně zdrojových populací (saských a jihočeských) a vzorky ze studijní oblasti. 
+Genetic samples are to be taken from potential source populations (Saxon and South Bohemian) and will be compared with samples obtained from the target area. The project aims to determine the current genetic status of the individuals now living in the target area, the relationship between subpopulations and any interconnections between populations. 
 
-## Identifikace migračních koridorů a analýza rizikových míst
+## **IDENTIFICATION OF MIGRATION CORRIDORS AND ANALYSIS OF RISK POINTS**
 
-Na základě předběžných analýz bylo identifikováno celkem pět území, kde vydry mohou po souši překračovat povodí / hranice: region Vejprt, Hora Sv. Šebestiána, Hora Sv. Kateřiny, Český Jiřetín a Moldava. V těchto oblastech budou vyhledávány stopní dráhy vyder na sněhu za účelem zjištění přeshraničních migračních tras. Dále budou identifikovány také migrační trasy podél toků a zaznamenána všechna místa, která migraci vydry ztěžují – špatně konstruované mosty, propustky, nevhodně upravené toky v intravilánech atd.. 
+On the basis of preliminary analyses, a total of five areas were identified where otters can cross the river basin/border by land: Vejprt, Hora Sv. Šebestiána, Hora Sv. Kateřiny, Český Jiřetín and Moldava. The project aims to collect otter samples in the snow to identify cross-border migration routes. In addition, the project aims to identify migration routes along the streams and the places in which otter migration may be more difficult such as poorly designed bridges, channels, improperly modified flows in urban areas, etc.
 
-## Návrhy opatření pro ochranu vydry
+## **PROPOSALS FOR MEASURES TO PROTECT THE OTTER**
 
-Na základě zjištěných informací ohledně rizikových faktorů v oblasti budou navrženy opatření pro jejich odstranění či zmírnění. U rizikových míst na silnicích bude předložen návrh řešení, umožňující vydře bezpečný průchod. 
+Measures to eliminate, or at least mitigate, risk factors will be proposed based on the information collected in the project. Following this, a solution based proposal will be presented for high-risk places on the road in an attempt to allow the otter to pass safely.
 
-## Osvěta a práce s veřejností
+## **FURTHER INFORMATION AND PUBLIC AWARENESS**
 
-Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami na rybách proběhne osvětová kampaň. Pro uživatele rybářských vod bude zpracována informační publikace. Dohledány a kontaktovány budou rybářské subjekty i další relevantní subjekty a instituce s cílem zajistit pro vydry dlouhodobě stabilní vhodné prostředí. 
+In order to reduce conflict, an awareness campaign will take place. An information publication will be prepared for fisherman and others who use known fishing areas. Fisheries and other relevant partners will be contacted to ensure a stable environment for the otters.
 
-# Aktuality
+# News
 
-[Mýval severní v Krušných horách](/news/mýval-severní-v-krušných-horách)
+[Northern raccoon in the Krušné Hory](/news/northern-raccoon-in-krusne-hory)
 
-[Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
+[Snow tracking for otter DNA](/news/snow-tracking-for-otter-dna)
 
-[Konference Lutra lutra](/news/konference-lutra-lutra)
+[Lutra Lutra Conference](/news/lutra-lutra-conference)
 
-[Začínáme výzkum vyder v Krušných horách a podkrušnohoří](/news/začínáme-výzkum-vyder-v-krušných-horách)
+[Starting otter research in Krušné Hory](/news/starting-otter-research-in-krusne-hory)
 
-# O projektu v médiích
+# About the project in local media
 
-[Rozhovor s Václavem Beranem v Českém rozhlase](https://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
+[Interview with Václav Beran on Czech Radio](https://prehravac.rozhlas.cz/audio/4001530) (Radio show: Planetárium, aired 28.4.2018 18:10)
 
-[Vědci hledají cestu k Ohři pro německé vydry, aby se tu opět zabydlely](https://www.idnes.cz/usti/zpravy/vydra-ricni-populace-vedecky-projekt-krusne-hory-reka-ohre.A171215_370900_usti-zpravy_vac2) (idnes.cz, 18.12.2017)
+[Scientists look for a way to the Ohře for German otters](https://www.idnes.cz/usti/zpravy/vydra-ricni-populace-vedecky-projekt-krusne-hory-reka-ohre.A171215_370900_usti-zpravy_vac2) (idnes.cz, 18.12.2017)
