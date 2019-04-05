@@ -7,7 +7,7 @@ to: 2014-12
 partners: "Turda Zoo\r\n\nPlzeňská ZOO\r\n\nDanube Delta Museum\r\n\nMacin National Park\r\n\nNational Institute for Research in the Danube Delta"
 contacts:
   - name: Andreas Kranz
-species: Marbled polecate (_Vormella peregusna_)
+species: Marbled polecat (_Vormella peregusna_)
 area: Dobrogea (Romania)
 tags:
   - Marbled polecat
