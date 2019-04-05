@@ -4,11 +4,11 @@ published: true
 public: true
 authors:
   - name: Peter Adamík
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - plch velký
-  - publikace pro laickou veřejnost
-journal: Včelařství
+  - Edible dormouse
+  - Publication for the general public
+journal: Beekeeping
 year: 2015
 lang:
   - cs
@@ -16,8 +16,4 @@ link: /media/Vcelarstvi_68_316_317.pdf
 attachments:
   - {}
 ---
-Každý včelař má radost, když mu jeho úly nebo včelín dlouho slouží bez údržby. Někdy se ale stane, že naše včelstva navštíví
- nezvaní hosté. V zimním období se občas strakapoudi rozhodnou otestovat pevnost dřevěného materiálu,jindy, při nedobrém
- zabezpečení česen, nám mohou drobní hlodavci, zejména myšice, vniknout až do úlů. V době vrcholícího léta a později na
- podzim naše včelíny navštíví velice vzácní hosté - plši. Někdy nám svou návštěvou pouze zpestří den, ale může se i stát, že své
- zuby - hlodáky použijí na naše úly nebo včelíny.
+Every beekeeper is delighted when his hives or apiary serve him for a long time without maintenance. But sometimes, uninvited guests visit their beehives. In the winter, Spotted Woodpeckers might decide to test the strength of the wood material or mice might find their way in when the combs are not properly secured. From the peak of summer to late autumn, apiary guests such as gastropods might visit. Some visitors just add variety to the beekeeper’s day, but others, they can bring devastating destruction to the hives.
