@@ -87,7 +87,7 @@ In order to reduce conflict, an awareness campaign will take place. An informati
 
 # News
 
-[Northern raccoon in the Krušné Hory](/news/northern-raccoon-in-krusne-hory)
+[Northern raccoon in Krušné Hory](/news/northern-raccoon-in-krusne-hory)
 
 [Snow tracking for otter DNA](/news/snow-tracking-for-otter-dna)
 
