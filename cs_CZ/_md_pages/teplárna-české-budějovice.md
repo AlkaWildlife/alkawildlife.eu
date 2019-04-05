@@ -2,15 +2,15 @@
 title: Teplárna České Budějovice
 published: true
 permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-budejovice
+image: /media/sokol_budějovice.jpg
 long_title: Sokoli v Českých Budějovicích
 position: 10
 layout: two_columns_page
 lang_alternatives:
   en_GB: {}
 ---
-Jedna budka vyvěšena na komín výtopny Vráto nainstalovaná v prosinci 2016. V následujícím roce se budka zalíbila sokolí samičce.
-
-
+Jedna budka vyvěšena na komín výtopny Vráto nainstalovaná v prosinci 2016.
+ V následujícím roce se budka zalíbila sokolí samičce.
 
 V médiích:
 
@@ -20,4 +20,4 @@ V médiích:
 
 [2017: teplarna-cb.cz: Sokolí budka na komíně výtopny Vráto je již obydlená](http://www.teplarna-cb.cz/novinky/sokoli-budka-na-komine-vytopny-vrato-je-uz-obydlena.html)
 
-2016: teplarna-cb.cz: Komín výtopny Vráto čeká na své dravce
+[2016: teplarna-cb.cz: Komín výtopny Vráto čeká na své dravce](http://www.teplarna-cb.cz/novinky/komin-vytopny-vrato-ceka-na-sve-dravce.html)
