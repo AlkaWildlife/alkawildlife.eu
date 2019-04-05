@@ -8,7 +8,9 @@ description: >-
   mývala.
 date: '2019-03-25'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/northern-raccoon-in-krusne-hory
+    title: Northern raccoon in Krušné Hory
 category: news
 layout: news
 ---
