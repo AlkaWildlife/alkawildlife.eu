@@ -4,11 +4,11 @@ published: true
 public: true
 authors:
   - name: Peter Adamík
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - plch velký
-  - publikace pro laickou veřejnost
-journal: Chatař a Chalupář
+  - Edible dormouse
+  - Publication for the general public
+journal: Cottager
 year: 2015
 lang:
   - cs
@@ -16,10 +16,6 @@ link: /media/Chalupar_132_133_plch.pdf
 attachments:
   - {}
 ---
-Nejeden chatař má v létě
- namísto odpočinku
- neklidný spánek. To proto,
- že se mu do jeho obydlí
+Instead of **restful** nights, many cottage owners have **restless** nights in the summer. Why? The Dormice have moved in and they are night active.
 
-nastěhovali plši velcí,
- aktivní právě v noci.
+Article language: Czech
