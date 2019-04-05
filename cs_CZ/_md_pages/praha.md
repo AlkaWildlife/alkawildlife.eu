@@ -1,7 +1,7 @@
 ---
 title: Praha
 published: true
-permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/Praha
+permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/praha
 long_title: Sokoli v Praze
 description: >-
   Společně s Českou společností ornitologickou je také organizováno vyvěšování
