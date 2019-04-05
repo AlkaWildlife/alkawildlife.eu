@@ -9,7 +9,9 @@ description: >-
   vydry v této oblasti? 
 date: '2017-11-13'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /new/starting-otter-research-in-krusne-hory
+    title: Starting otter research in Krušné Hory
 category: news
 layout: news
 ---
