@@ -1,28 +1,30 @@
 ---
 title: Monitoring birds of prey and black stork
 published: true
-funding: Jihomoravský kraj
+funding: Authority of the South Moravian Region
 from: 2008-01
 to: 2008-12
 contacts:
   - name: Václav Beran
-species: |-
-  dravci
-
-  čáp černý
+species: 'Birds of prey, Black stork (_Ciconia nigra_)'
 area: |-
-  EVL Mušovský luh
+  Mušovský luh
 
-  EVL Drnholecký luh
+  Drnholecký luh
 
-  EVL Vranovický a Plačkův les
+  Vranovický a Plačkův les
 tags:
-  - průzkum
+  - Black stork
+  - Research
 countries:
   - CZ
 description: >-
-  Ornitologický průzkum zvláště chráněných území a evropsky významných lokalit
-  Mušovský luh, Drnholecký luh a Vranovický a Plačkův les je zaměřen především
-  na zmapování hnízd dravců a čápa černého.
+  This was a project of ornithological research of specially protected areas and
+  sites of European importance, Mušovský luh, Drnholecký luh and Vranovický
+  Plačkův les, and focused on mapping birds of prey and black storks nests.
 ---
-Ornitologický průzkum zvláště chráněných území a evropsky významných lokalit Mušovský luh, Drnholecký luh a Vranovický a Plačkův les je zaměřen především na zmapování hnízd dravců a čápa černého, určení jejich přesné lokalizaci v souřadnicovém systému GPS, zjištění jejich aktuální obsazenosti v roce 2008. Hnízda velkých dravců jsou hledána především s ohledem na jejich další ochranu a zabezpečení klidného průběhu hnízdění v příštích letech. Většina velkých hnízd je totiž jejich majiteli obsazována opakovaně několik let po sobě nebo dochází ke stavbě nových hnízd v blízkém okolí. Většina dravců a také černý čáp jsou citliví na rušení v době hnízdění. Díky znalosti lokace hnízd je tak možné redukovat rušivé faktory (v tomto případě především lesnické práce) a zabezpečit hnízdícím jedincům klid.
+This project was an ornithological survey of strictly protected areas and Natura 2000 sites: Mušovský luh, Drnolecký luh and Vranovický Plačkův les. 
+
+It focused on mapping of nests of birds of prey and black stork. Each nest was located, GPS marked and examined for actual use of the nest by nesting birds in the year 2008. The nests of large birds of prey were located in order to provide protection of the site during nesting and for future years. 
+
+Most of these nests are used in successive years or at least new nests are built in the vicinity of the old ones. It is therefore imperative to monitor these sites and protect them for future nesting. Most of the birds of prey, and especially the Black stork, are sensitive to any kind of disturbance while nesting. Knowledge of the nest site allows us to minimise disturbing factors, namely forestry works, and to ensure the area is calm during the nesting period.
