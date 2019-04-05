@@ -1,5 +1,5 @@
 ---
-title: The potential Otter recolonisation of otters in Switzerland
+title: The potential recolonisation of otters in Switzerland
 published: true
 funding: '[Swiss Pro Lutra Foundation](http://www.prolutra.ch/)'
 from: 2007-01
