@@ -1,7 +1,6 @@
 ---
 title: >-
-  Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech
-  2013-2017
+  Winter otter census in selected areas of the Czech Republic from 2013-2017
 published: true
 public: true
 authors:
