@@ -1,36 +1,38 @@
 ---
 title: The potential Otter recolonisation of otters in Switzerland
 published: true
-funding: '[švýcarská nadace Pro Lutra](http://www.prolutra.ch/)'
+funding: '[Swiss Pro Lutra Foundation](http://www.prolutra.ch/)'
 from: 2007-01
 to: 2008-12
 contacts:
   - name: Andreas Kranz
-species: vydra říční
-area: Švýcarsko a okolí
+species: Eurasian otter
+area: Switzerland and surrounding areas
 tags:
-  - vydra říční
-  - výzkum
+  - Eurasian otter
+  - Research
 countries:
   - CH
 description: >-
-  Švýcarsko je jednou ze zemí, kde vydra říční během minulého století úplně
-  vymizela. Cílem projektu bylo zhodnotit možnosti přirozené migrace vyder do
-  Švýcarska z populací vyder z okolních zemí.
+  Throughout the last century, the Eurasian otter has completely disappeared
+  from Switzerland. The aim of the project was to evaluate the possibility of
+  natural migration of otters, to Switzerland, from otter populations in
+  neighbouring countries.
 ---
-# Cíl projektu 
+# Project objective
 
-Švýcarsko je jednou ze zemí, kde vydra říční během minulého století úplně vymizela. Zdá se, že nejvýznamnějším faktorem, který měl vliv na vymizení vyder ve Švýcarsku jsou vysoké hladiny organochloridů (zejména PCB) v ekosystému. Již delší dobu ve Švýcarsku probíhají různé aktivity, které by vedly k opětovnému výskytu vyder v této zemi. Vzhledem k současnému trendu šíření vydřích populací v řadě států Evropy je potenciálně možná i opětovná rekolonizace Švýcarska. Bohužel možnosti potencionální migrace vyder v oblasti Alp snižují vysoké hory oddělující jednotlivá povodí a značná destrukce prostředí některých řek tekoucích ze Švýcarska. Cílem projektu bylo zhodnotit možnosti přirozené migrace vyder do Švýcarska z populací vyder z okolních zemí (Německo, Francie, Rakousko, Itálie). Projekt byl založen na mapování výskytu vyder v okolních státech a vytipování možných migračních tras pro jedince z nejbližších populací směrem do Švýcarska. Na tyto potenciální migrační trasy pak bude soustředěno revitalizační úsilí.
+Switzerland is one of the countries where the Eurasian otter has completely disappeared during the last century. The most important factor in the disappearance of otters in Switzerland seems to be the high levels of organochlorides (especially PCBs) in the ecosystem. Various activities have been going on in Switzerland for a long time to restore otters in this country. The recolonisation of Switzerland is potentially possible due to the current trend of spreading otter populations in many European countries. Unfortunately, the potential migration of otters in the Alps region is reduced by the high mountains separating individual river basins and the considerable destruction of some rivers flowing from Switzerland.
 
-Na podzim roku 2007 a únoru  roku 2008 bylo prozkoumáno několik oblastí v zemích sousedících se Švýcarskem tak, aby bylo možné, na základě známého areálu rozšíření vyder v těchto zemích, odhadnout
- pravděpodobnost této re-kolonizace.  Výzkum byl založen na kontrole 477 mostů vhodných pro monitoring vyder. Tyto mosty jsou  umístěny na řadě řek a jejich přítocích: 143 mostů na Rhóně ve Francii, 13 na Mossele, 135  na Rýnu (Francie 51, Baden-Württemberg 52, Bavorsko 5, Rakousko 27), 99 na Dunaji v
- Německu a Tyrolsku (Rakousko), 36 na řece Ticino (Itálie), 34 na Addě (Itálie) a 17 na  Adige (Itálie).
- Ve zmiňovaných oblastech nebyl proveden v minulosti žádný průzkum a údaje o výskytu  vyder byly dostupné jen ze dvou oblastí repatriace (v Alsasku a v severní Itálii), a také z  oblasti na jih od Ženevského jezera (okres Haute-Savoie). Množství záznamů výskytu vyder  na jih od Ženevského jezera po roce 2000 významně vzrostlo, ve srovnání s předchozími  dvěma dekádami, a poslední záznamy o výskytu pozorované francouzskými kolegy  pocházení z dubna roku 2007. 
+The aim of the project was to evaluate the possibility of natural migration of otters to Switzerland from otter populations from neighbouring countries (Germany, France, Austria, Italy). The project was based on mapping otters in neighbouring states and identifying possible migration routes for individuals from the nearest populations to Switzerland. Revitalisation efforts will then be concentrated on these potential migration routes.
 
-Během našeho průzkumu jsme nalezli pobytové znaky vyder v Alsasku na řece Fecht (5  mostů), na řece Ticino jihozápadně od Milána v Itálii (2 mosty) a na řekách Inn a Ziller v  Tyrolsku (3 positivní mosty).
+In the autumn of 2007 and February 2008, several areas in the neighbouring countries of Switzerland were explored in order to estimate, based on the known range of otter spread in these countries, probability of this recolonisation. The research was based on 477 bridges suitable for otter monitoring. These bridges were located on a series of rivers and their tributaries: 143 bridges on the Rhône in France, 13 on Mossele, 135 on the Rhine (France 51, Baden-Württemberg 52, Bavaria 5, Austria 27), 99 on the Danube in Germany and Tyrol (Austria), 36 on Ticino (Italy), 34 on Adda (Italy) and 17 on Adige (Italy).
+
+In the past, no research has been carried out in the areas mentioned and otter data were only available from two repatriation areas, Alsace and northern Italy, and the Haute-Savoie district, south of Lake Geneva. The number of otter recordings south of Lake Geneva after 2000 increased significantly, compared to the previous two decades, and the latest occurrence records observed by a French colleague in April 2007. 
+
+During our survey, we found signs of otters in Alsace on the Fecht River (5 bridges) on the Ticino River southwest of Milan in Italy (2 bridges) and the Inn and Ziller rivers in Tyrol (3 positive bridges).
 
 ![](/media/dsc00028.jpg)
 
-# Projekt v médiích
+# Project media
 
-[Kommt bald ein Fischotter aus Österreich ins Engadin? (článek v novinách, pdf)](/media/sudostschweit_dezember2008.pdf)
+[Will the Eurasian otter migrate from Austria to Switzerland? (článek v novinách, pdf)](/media/sudostschweit_dezember2008.pdf)
