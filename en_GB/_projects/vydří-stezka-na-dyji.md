@@ -25,3 +25,7 @@ description: >
 V rámci projektu byla vybudovaná naučná Vydří stezka na Dyji. Trasa nebyla upravována, vede po turistické značce. Podél značky bylo instalováno devět informačních panelů. Desetikilometrová stezka vede údolím Moravské Dyje v severní části PP a EVL Moravská Dyje. 
 
 V městské knihovně v Dačicích proběhla v letech 2012 a 2013 doprovodná série přednášek.
+
+Každoročně stezkou provádíme děti z místních škol. 
+
+Detaily, mapy, aktuality, povídání o vydře  - to vše najdete na speciální webové stránce [www.vydristezky.cz](http://www.vydristezky.cz).
