@@ -4,6 +4,10 @@ published: true
 image: /media/flyer-cz.jpg
 listing_thumbnail: /media/vydra-ricni-948a_320.jpg
 date: 2018-03-22T00:00:00.000Z
+lang_alternatives:
+  en_GB:
+    permalink: /news/lutra-/lutra-conference
+    title: Lutra lutra Conference
 category: news
 layout: news
 ---
