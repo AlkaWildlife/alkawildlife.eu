@@ -1,5 +1,5 @@
 ---
-title: Možnosti rekolonizace Švýcarska vydrou říční
+title: The potential Otter recolonisation of otters in Switzerland
 published: true
 funding: '[švýcarská nadace Pro Lutra](http://www.prolutra.ch/)'
 from: 2007-01
