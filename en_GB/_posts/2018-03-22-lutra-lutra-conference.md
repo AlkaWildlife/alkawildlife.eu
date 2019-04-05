@@ -1,5 +1,5 @@
 ---
-title: Konference Lutra lutra
+title: Lutra lutra conference
 published: true
 image: /media/flyer-cz.jpg
 listing_thumbnail: /media/vydra-ricni-948a_320.jpg
