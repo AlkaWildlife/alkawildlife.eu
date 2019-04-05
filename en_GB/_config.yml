@@ -1,28 +1,28 @@
-source: en_GB
-destination: _site.en_GB
-
 title: ALKA Wildlife
 description: >-
-  NGO which helps identify major threats to the species’ survival and
-  develop, plan and implement efficient conservation measures through
-  research of endangered species’ ecology.
-baseurl: ""
-url: https://en.alkawildlife.eu
-author: alka-wildlife
+  An NGO which helps identify major threats to species survival and develops,
+  plans and implements efficient conservation measures through research of
+  endangered species ecology.
+url: 'https://en.alkawildlife.eu'
+logo: /media/logo.png
+lang: en_GB
 lang_alternatives:
-- lang: cs_CZ
-  label: Změnit na český jazyk
-  title: "Navštivte českou verzi této stránky: %@"
-  url: https://www.alkawildlife.eu
-  icon: /assets/images/flag_cz.png
-
+  - icon: /assets/images/flag_cz.png
+    label: Změnit na český jazyk
+    title: 'Navštivte českou verzi této stránky: %@'
+    url: 'https://www.alkawildlife.eu'
+    lang: cs_CZ
+author: alka-wildlife
 facebook:
+  admins: 1133305906
   app_id: 145375228868712
   publisher: 269120446533000
-  admins: 1133305906
-logo: /media/logo.png
 social:
-  name: ALKA Wildlife, o.p.s.
   links:
-    - https://www.facebook.com/AlkaWildlife
-lang: en_GB
+    - 'https://www.facebook.com/AlkaWildlife'
+    - 'https://www.instagram.com/alkawildlife'
+    - 'https://www.youtube.com/alkawildlife'
+  name: 'ALKA Wildlife, o.p.s.'
+webmaster_verifications:
+  google: n/a
+google_analytics: n/a
