@@ -8,7 +8,9 @@ description: >-
   přesněji za jejich genetickými vzorky. 
 date: '2019-02-05'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/snow-tracking-for-otter-dna
+    title: Snow tracking for otter DNA
 category: news
 layout: news
 ---
