@@ -1,5 +1,5 @@
 ---
-title: Sněhem za vydří DNA
+title: Snow tracking for otter DNA
 published: true
 image: /media/a_dscn4627.jpg
 listing_thumbnail: /media/a_dscn4627_274.jpg
