@@ -1,5 +1,5 @@
 ---
-title: Monitoring dravců a čápa černého na jižní Moravě
+title: Monitoring birds of prey and black stork
 published: true
 funding: Jihomoravský kraj
 from: 2008-01
