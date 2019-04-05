@@ -2,7 +2,15 @@
 title: Lutra lutra
 published: true
 registration_no: '100305303'
-funding: "ERDF (European Regional Development Fund)\r\n\nProgram to promote cross-border cooperation between the Czech Republic and the Free State of Saxony 2014-2020\r\n\n![](/media/spojene-loga_610.jpg)"
+funding: >-
+  ERDF (European Regional Development Fund)
+
+
+  Programme to promote cross-border cooperation between the Czech Republic and
+  the Free State of Saxony 2014-2020
+
+
+  ![](/media/spojene-loga_610.jpg)
 from: 2017-10
 to: 2020-09
 partners: "[AG Naturschutzinstitut Region Dresden eV (Lead Partner)\r](https://nsi-dresden.nabu-sachsen.de/)\n\n[Alka Wildlife ops\r](https://www.alkawildlife.eu)\n\n[Usti nad Labem\r Museum](http://www.muzeumusti.cz/)"
@@ -65,15 +73,15 @@ Individual streams and other bodies of water such as ponds will be assessed for 
 
 Genetic samples are to be taken from potential source populations (Saxon and South Bohemian) and will be compared with samples obtained from the target area. The project aims to determine the current genetic status of the individuals now living in the target area, the relationship between subpopulations and any interconnections between populations. 
 
-## **IDENTIFICATION OF MIGRATION CORRIDORS AND ANALYSIS OF RISK POINTS**
+## **IDENTIFICATION OF MIGRATION CORRIDORS AND ANALYSIS OF RISK POINTS**
 
 On the basis of preliminary analyses, a total of five areas were identified where otters can cross the river basin/border by land: Vejprt, Hora Sv. Šebestiána, Hora Sv. Kateřiny, Český Jiřetín and Moldava. The project aims to collect otter samples in the snow to identify cross-border migration routes. In addition, the project aims to identify migration routes along the streams and the places in which otter migration may be more difficult such as poorly designed bridges, channels, improperly modified flows in urban areas, etc.
 
-## **PROPOSALS FOR MEASURES TO PROTECT THE OTTER**
+## **PROPOSALS FOR MEASURES TO PROTECT THE OTTER**
 
 Measures to eliminate, or at least mitigate, risk factors will be proposed based on the information collected in the project. Following this, a solution based proposal will be presented for high-risk places on the road in an attempt to allow the otter to pass safely.
 
-## **FURTHER INFORMATION AND PUBLIC AWARENESS**
+## **FURTHER INFORMATION AND PUBLIC AWARENESS**
 
 In order to reduce conflict, an awareness campaign will take place. An information publication will be prepared for fisherman and others who use known fishing areas. Fisheries and other relevant partners will be contacted to ensure a stable environment for the otters.
 
@@ -81,7 +89,7 @@ In order to reduce conflict, an awareness campaign will take place. An informati
 
 [Northern raccoon in the Krušné Hory](/news/northern-raccoon-in-krusne-hory)
 
-[Snow tracking for otter DNA](/news/snow-tracking-for-otter-dna)
+[Snow tracking for otter DNA](/news/snow-tracking-for-otter-dna)
 
 [Lutra Lutra Conference](/news/lutra-lutra-conference)
 
