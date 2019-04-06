@@ -1,5 +1,5 @@
 ---
-title: Norek evropský v deltě Dunaje
+title: European Mink in the Danube Delta
 published: true
 funding: vlastní prostředky
 from: 2008-01
