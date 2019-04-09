@@ -27,6 +27,8 @@ Z velké části vede trasa podél řeky, několikrát se pro neschůdnost břeh
 
 V rámci projektu bylo vytvořeno a instalováno 9 informačních tabulí, stezka samotná nebyla upravována, vede po turistické značce. 
 
+![Lidé si prohlíží jednu z informačních tabulí stezky](/media/p1190445.jpg "Informační tabule vydří naučné stezky")
+
 V Městské knihovně v Dačicích proběhla doprovodná série přednášek.
 
 Alespoň jednou ročně provázíme stezkou děti z místní školy. Děti se dozvědí o řece, o tom co v ní žije a také si mohou vyzkoušet různé metody monitoringu savců. 
