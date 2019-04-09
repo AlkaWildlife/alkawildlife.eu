@@ -69,13 +69,7 @@ description: >-
 ---
 Sledování stavu populací ohrožených druhů živočichů je obvykle založeno na monitoringu rozšíření. Významným zdrojem informací však mohou být také systematicky shromažďované údaje o úhynech jedinců. Zjištění příčin úhynu volně žijících živočichů poskytuje cenný zdroj informací o faktorech ovlivňujících jejich populace. Kromě příčin úmrtí lze prováděním dalších analýz (detailní pitva, DNA analýzy, rentgen, řez zubů, apod.) sledovat i mnoho důležitých parametrů dané populace, např. věkovou strukturu, poměr pohlaví a míru mortality, genetickou variabilitu či tok genů. Tato data – zejména pokud jsou sbírána dlouhodobě a konzistentní metodou – jsou potom neocenitelnou pomůckou při sledování vývoje těchto populací.
 
-Sběr uhynulých [vyder](/zajmove-druhy/vydra-ricni) v České republice je organizován již od 90. let. Od roku 2008 jej organizuje naše společnost. 
-
-Jedná se o náš dlouhodobý záměr, tomuto tématu se věnujeme detailněji. 
-
-# Výsledky
-
-Dosavadní výsledky jsou prezentovány na:
+Sběr uhynulých [vyder](/zajmove-druhy/vydra-ricni) v České republice je organizován již od 90. let. Od roku 2008 jej organizuje naše společnost. Jedná se o náš dlouhodobý záměr, tomuto tématu se věnujeme detailněji. Dosavadní výsledky jsou prezentovány na:
 
 webu [vydryonline.cz ](https://www.vydryonline.cz/vydra/vydry-a-silnice/sber-uhynulych-vyder)
 
