@@ -47,15 +47,11 @@ Prudká jv. orientovaná skalnatá stráň nad nivou Vápovky na jz. okraji obce
 
 ![Stráň u Bílkova](/media/img_9963_bilkov.jpg "Stráň u Bílkova")
 
-
-
 ## Stráň u Dolnojersického mlýna
 
 Lokalitu přestavuje mírný jv. orientovaný svah nad údolím Vápovky, který se nachází sz. směrem na dohled obce Jersice. Jedná se o druhově bohaté a květnaté trávníky na ploše starého sadu, místy zarůstající mezofilními křovinami a nálety dřevin.Vzhledem k tomu, že trávníky byly aspoň z části ještě donedávna pravidelně koseny, patří plocha stráně k nejzachovalejším a druhově nejpestřejším trávníkům tohoto typu v regionu.
 
 ![Stráň u Dolnojersického mlýna](/media/p6020016_dj.jpg "Stráň u Dolnojersického mlýna")
-
-
 
 ## Stráň severně od Jersic
 
@@ -63,15 +59,11 @@ Jedná se o rozsáhlé bezlesé svažité stráně místy s drobnými skalními 
 
 ![Stráň severně Jersic](/media/dscn1010_hornojersic.jpg "Stráň severně Jersic")
 
-
-
 ## Stráň Záhonky u Červeného Hrádku
 
 Lokalitu přestavuje mírný jjz. orientovaný svah nad údolím Vilímečského potoka při jeho ústí do Vápovky, který se nachází jižně nedaleko obce Červený Hrádek. Jedná se o druhově bohaté a květnaté trávníky, místy zarůstající mezofilními křovinami a expandujícími trávami.
 
 ![Lokalita Záhonky](/media/p5290012_zahonky.jpg "Lokalita Záhonky")
-
- 
 
 ## Stráň na přítoku Jersického rybníka
 
@@ -81,9 +73,7 @@ Při náhodné návštěvě této lokality zde byla jako zatím na jediném mís
 
 ![Stráň na přítoku Jersického rybníka](/media/p7190015_přítok.jpg "Stráň na přítoku Jersického rybníka")
 
-# 
 
-## 
 
 # Prezentace
 
