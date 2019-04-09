@@ -21,4 +21,14 @@ description: >-
   Naučná vydří stezka vede podél řeky Dyje z Dačic do Starého Hobzí. Na trase 10
   kilometrů je 9 informačních tabulí.
 ---
-Naučná vydří stezka vede podél řeky Dyje z Dačic do Starého Hobzí. Na trase 10 kilometrů je 9 informačních tabulí.
+ Naučná stezka vede údolím řeky Moravské Dyje, v chráněném úseku, nachází se zde evropsky významná lokalita a přírodní památka. V údolí žije řada vzácných živočichů, především těch, jež jsou vázány na vodní prostředí, včetně vydry říční.
+
+Z velké části vede trasa podél řeky, několikrát se pro neschůdnost břehů stáčí od řeky dál. Údolí řeky je tiché a klidné. Pětkrát narazíte na staré vodní mlýny, několikrát projdete chatovými osadami.
+
+V rámci projektu bylo vytvořeno a instalováno 9 informačních tabulí, stezka samotná nebyla upravována, vede po turistické značce. 
+
+V Městské knihovně v Dačicích proběhla doprovodná série přednášek.
+
+Alespoň jednou ročně provázíme stezkou děti z místní školy. Děti se dozvědí o řece, o tom co v ní žije a také si mohou vyzkoušet různé metody monitoringu savců. 
+
+Více o stezce, včetně detailního popisu, map ke stažení, aktualit a povídání o vydře pro děti na webové stránce [www.vydristezky.cz](https://www.vydristezky.cz).
