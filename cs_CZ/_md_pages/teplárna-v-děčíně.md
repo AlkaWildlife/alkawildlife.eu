@@ -13,6 +13,6 @@ Financování: Thermo Děčín a.s.
 
 V roce 2014 byla na komínu teplárny ve výšce 75 a 120 metrů instalovány dvě hnízdní budky. V roce 2015 jednu budku obývala poštolka. Na jaře 2016 se zde objevil pár sokola stěhovavého, který snesl 3 vejce a úspěšně vyvedl tři mláďata.
 
+Více:
 
-
-[Sokolí rodinka na komíně](http://ted.mvv.cz/cisty-vzduch/sokoli-rodinka-na-komine/)
+[Termo Děčín: okolí rodinka na komíně](http://ted.mvv.cz/cisty-vzduch/sokoli-rodinka-na-komine/)
