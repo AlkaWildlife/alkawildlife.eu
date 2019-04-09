@@ -916,6 +916,12 @@ collections:
       label: Google Analytics property ID
       widget: string
     meta:
+    - name: source
+      label: Source code directory
+      widget: string
+    - name: destination
+      label: Build destination directory
+      widget: string
     - name: baseurl
       label: Base URL
       widget: string
