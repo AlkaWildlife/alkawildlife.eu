@@ -79,4 +79,4 @@ Dosavadní výsledky jsou prezentovány na:
 
 webu [vydryonline.cz ](https://www.vydryonline.cz/vydra/vydry-a-silnice/sber-uhynulych-vyder)
 
-online mapové aplikaci [www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
+online mapové aplikaci [vydrynasilnici.cz](http://www.vydrynasilnici.cz)
