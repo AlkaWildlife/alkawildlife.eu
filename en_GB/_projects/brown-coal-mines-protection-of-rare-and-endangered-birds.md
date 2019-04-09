@@ -1,5 +1,5 @@
 ---
-title: Brown coal mines: protection of rare and endangered birds
+title: "Brown coal mines: protection of rare and endangered birds"
 published: true
 subtitle: "Efektivní ochrana druhů vázaných na raná stádia sukcese formou optimalizace managementu hnědouhelných těžebních oblastí: příklad lindušky úhorní a\_bělořita šedého"
 registration_no: TA04021269
