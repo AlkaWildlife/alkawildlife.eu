@@ -1,8 +1,15 @@
 ---
-title: Vydří stezka na Dyji
+title: Otter Trail on the Thaya
 published: true
 registration_no: '16252694'
-funding: "Operační program životní prostředí\r\n\n(Evropská Unie a Ministerstvo životního prostředí České republiky)\n\n![](/media/banner-opzp_erdf_cmyk.jpg)\n\nPodporováno z Evropského fondu pro regionální rozvoj"
+funding: |-
+  Operational Programme Environment 
+
+  (European Union and Ministry of Environment of the Czech Republic)
+
+  ![](/media/banner-opzp_erdf_cmyk.jpg)
+
+  Supported by the European Regional Development Fund
 from: 2012-04
 to: 2013-12
 web: www.vydristezky.cz
@@ -10,22 +17,23 @@ contacts:
   - email: katerina.polednikova@alkawildlife.eu
     name: Kateřina Poledníková
     tel_primary: '606598903'
-species: vydra říční
-area: EVL Moravská Dyje
+species: Eurasian otter
+area: Moravian Thaya (Natura 2000 site)
 tags:
-  - vydra říční
-  - osvěta
+  - Eurasian otter
+  - Publicity
 countries:
   - CZ
-description: >
-  V rámci projektu byla vybudovaná naučná Vydří stezka na Dyji -
-  desetikilometrová stezka pro pěší vede údolím Moravské Dyje v severní části PP
-  a EVL Moravská Dyje.
+description: >-
+  The educational 'Otter Trail' on the Thaya river was built as part of this
+  project. It's a 10km pedestrian path which follows the valley of the Moravian
+  Thaya in the northern part of the national park and Moravian Thaya Natura 2000
+  site.
 ---
-V rámci projektu byla vybudovaná naučná Vydří stezka na Dyji. Trasa nebyla upravována, vede po turistické značce. Podél značky bylo instalováno devět informačních panelů. Desetikilometrová stezka vede údolím Moravské Dyje v severní části PP a EVL Moravská Dyje. 
+# Project aim
 
-V městské knihovně v Dačicích proběhla v letech 2012 a 2013 doprovodná série přednášek.
+The aim of this project was to develop the educational 'Otter Trail' on the Thaya River. The route has not been modified and it follows the tourist trail. The project created 9 information panels and they were installed along the trail.
 
-Každoročně stezkou provádíme děti z místních škol. 
+# Public engagement
 
-Detaily, mapy, aktuality, povídání o vydře  - to vše najdete na speciální webové stránce [www.vydristezky.cz](http://www.vydristezky.cz).
+In 2012 and 2013, an accompanying series of lectures took place in the town library in Dačice. Further details, maps, news and otter talks can all be found on [this website](www.vydristezky.cz), specifically created for this project.
