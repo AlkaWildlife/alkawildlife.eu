@@ -1,45 +1,40 @@
 ---
-title: Za plchem velkým pod Sovinec a v Meteoru
+title: Looking for Edible dormice in Sovinec
 published: true
 image: /media/plsi-fotky_pa_1_v.jpg
 listing_thumbnail: /media/plsi-fotky_pa_1_v_274.jpg
 description: >-
-  Srdečně Vás zveme na setkání s plchy velkými: kontrola plchů v budkách a noční
-  poslech jejich volání v lesích pod hradem Sovinec a rozhovor v pořadu Meteor.
+  We cordially invite you to meet the Edible dormouse. We’re going to be
+  checking nest boxes for their presence and be listening for their calls in the
+  woods under the Sovinec Castle.
 date: '2016-09-13'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/za-plchem-velkym-pod-sovinec-a-v-meteoru
+    title: Za plchem velkým pod Sovinec a v Meteoru
 category: news
 layout: news
 ---
-# Za plchy pod Sovinec
+We would like to invite you to look for edible dormice: checking nest boxes for dormice and listening for their calls at night in the forests below Sovinec Castle. 
 
-Srdečně Vás zveme na setkání s plchy velkými: kontrola plchů v budkách a noční poslech jejich volání v lesích pod hradem Sovinec.
+**When:** 19/09/2016 
 
-Kdy: 19. 9. 2016 
+**Where:** Dlouhá Loučka (Moravian-Silesian Region, Bruntál District) (tel. 737475678) 
 
-Kde: Dlouhá Loučka (Moravskoslezský kraj,okres Bruntál)
+**Programme:** Checking of nest boxes with practical demonstration of catches of dormice and evening monitoring including a night walk, returning no later than 23:00.
 
-Vedoucí exkurze: Peter Adamík (tel. 737475678)
+**Recommended equipment:** Sturdy shoes, insect repellent 
 
-Program: kontrola budek s praktickou ukázkou odchytů plchů, večerní monitoring - procházka nočním terénem s návratem nejpozději do 23.00 
+**Must carry:** Head torch or other light source 
 
-Doporučené vybavení: pevná obuv, repelent 
+**Meeting point:** First right turn on the road between Dlouhá Loučka and Valšovských Žleb, 400 m from the ZOD Agro gas station (cars can be parked directly at the meeting place).
 
-Nutno s sebou: čelovou lampu nebo jiný zdroj světla 
+[Invitation](https://www.alkawildlife.eu/media/pozv%C3%A1nka_DLou%C4%8Dka_201609.pdf)
 
-Sraz: 16:45 Dlouhá Loučka první odbočka doprava na silnici mezi Dlouhou Loučkou a Valšovských Žlebem, 400 m od benzínky ZOD Agro (auta mohou parkovat přímo na místě setkání) 
+# About Dormice on the radio
 
-[Pozvánka (pdf)](/media/pozvánka_DLoučka_201609.pdf)
+If you can't make it to Dlouhá Loučky, then listen out to our programme on Czech Radio Two, Meteor this weekend. The Meteor programme is going to be broadcast on Saturday at 8:05 am and on Sunday at 02:00, and ultimately it will end up in the radios archive. 
 
-# O plších v Meteoru
-
-Kdo nemůžete přijet do Dlouhé Loučky, poslechněte si rozhovor o plchu velkém s Petrem Adamíkem na stanici Český rozhlas Dvojka v pořadu Meteor tento víkend. Pořad Meteor se vysílá vždy v sobotu v 8:05 a v neděli v 02:00, případně pak v [archivu pořadu](https://prehravac.rozhlas.cz/dvojka/archiv).
-
-Podpořeno grantem z Islandu, Lichtenštejnska a Norska. 
-
-Realizováno v rámci projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v České republice](/projects/rozšíření-plcha-velkého-v-čr).
-
-Projekt je realizován za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za obsah tohoto semináře je výhradně odpovědná ALKA Wildlife, o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+Supported by a grant from Iceland, Liechtenstein and Norway. The project is implemented with the financial support of the EEA funds 2009-2014 and the Ministry of the Environment. The content of this seminar is exclusively the responsibility of ALKA Wildlife, o.p.s. and cannot in any way be regarded as the opinion of the donor or the Ministry of the Environment.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
