@@ -8,7 +8,9 @@ description: >-
   poslech jejich volání v lesích pod hradem Sovinec a rozhovor v pořadu Meteor.
 date: '2016-09-13'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/looking-for-edible-dormice-in-Sovinec
+    title: Looking for Edible dormice in Sovinec
 category: news
 layout: news
 ---
