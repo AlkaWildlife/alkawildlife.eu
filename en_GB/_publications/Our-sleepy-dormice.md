@@ -1,5 +1,5 @@
 ---
-title: Our sleepy dormice
+title: Our dormice
 published: true
 public: true
 authors:
