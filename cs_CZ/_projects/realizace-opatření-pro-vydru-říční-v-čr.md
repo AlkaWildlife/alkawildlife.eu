@@ -54,20 +54,27 @@ Vydra říční, největší šelma žijící u našich vod, se navrátila na ce
 
 # Hlavní výstupy projektu
 
-**Webové stránky **[**www.vydryonline.cz**
-](www.vydryonline.cz)Oficiální stránky projektu - detailní popis aktivit projektu, aktuality projektu. Zároveň je cílem stránek poskytovat komplexní a aktuální informace o vydře říční v České republice, na stránkách je zřízena poradna, knihovna, je zde publikován Bulletin Vydra. Stránky jsou určené zejména odborné veřejnosti, rybářům, pracovníkům OOP.
+## Webové stránky [www.vydryonline.cz](https://www.vydryonline.cz)
 
-**Webové stránky **[**www.vydristezky.cz**
-](www.vydristezky.cz)Stránky jsou určeny pro širokou veřejnost, jsou zde informace pro dětské čtenáře, jsou zde základní informace pro návštěvníky naučné stezky podél řeky Dyje.
+Oficiální stránky projektu - detailní popis aktivit projektu, aktuality projektu. Zároveň je cílem stránek poskytovat komplexní a aktuální informace o vydře říční v České republice, na stránkách je zřízena poradna, knihovna, je zde publikován Bulletin Vydra. Stránky jsou určené zejména odborné veřejnosti, rybářům, pracovníkům OOP.
 
-**Online mapová aplikace **[**www.vydrynasilnici.cz**
-](www.vydrynasilnici.cz)Online mapa míst rizikových míst na silnicích v ČR. Aplikace je určena zejména pracovníkům OOP a správcům silnic, aby získali informace o tom, kde a jak je třeba zlepšit průchodnost silnic pro vydru a další živočichy putující podél vod. 
+## Webové stránky [www.vydristezky.cz](https://www.vydristezky.cz)
 
-**Brožura **[**Sběr a analýzy uhynulých vyder v České republice**](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)** **\
+Stránky jsou určeny pro širokou veřejnost, jsou zde informace pro dětské čtenáře, jsou zde základní informace pro návštěvníky naučné stezky podél řeky Dyje.
+
+## Online mapová aplikace [www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
+
+Online mapa míst rizikových míst na silnicích v ČR. Aplikace je určena zejména pracovníkům OOP a správcům silnic, aby získali informace o tom, kde a jak je třeba zlepšit průchodnost silnic pro vydru a další živočichy putující podél vod. 
+
+## Brožura [Sběr a analýzy uhynulých vyder v České republice](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)
+
 (Na požádání také zašleme poštou)
 
-**Aktualizovaná brožura **[**Vydra a doprava - příručka k omezení negativního vlivu dopravy na vydru říční**](/media/vydra%20a%20doprava%20-%20web_2.pdf)** **\
+## Aktualizovaná brožura [Vydra a doprava - příručka k omezení negativního vlivu dopravy na vydru říční](/media/vydra%20a%20doprava%20-%20web_2.pdf)
+
 (Na požádání také zašleme poštou)
+
+
 
 # Publikované články
 
