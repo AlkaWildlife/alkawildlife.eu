@@ -1,26 +1,24 @@
 ---
-title: 'Záchranný program pro raroha velkého '
+title: Rescue program for the Saker falcon
 published: true
-subtitle: 'Příprava záchranného programu pro raroha velkého (Falco cherrug) '
+subtitle: Preparing a rescue program for the Saker falcon (Falco cherrug)
 registration_no: MGSII-26
 funding: >-
-  EHP fondy 2009-2014
+  EEA funds 2009-2014
 
 
-  Malé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu
-  CZ02
+  Small Grant Scheme Rescue Programmes for Special Protected Species II of
+  Program CZ02
 
 
-  Ministerstvo životního prostředí 
+  Ministry of the Environment
 
 
-  Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
-
-
-  Tento web byl vytvořen za finanční podpory EHP fondů 2009-2014 a Ministerstva
-  životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s.
-  a nelze jej v žádném případě považovat za názor donora nebo Ministerstva
-  životního prostředí.
+  Supported by a grant from Iceland, Liechtenstein and Norway. This project was
+  created with financial support from the EEA funds 2009-2014 and the Ministry
+  of the Environment. Its content is exclusively the responsibility of ALKA
+  Wildlife, o.p.s. and cannot in any way be regarded as the opinion of the donor
+  or the Ministry of the Environment.
 
 
   ![](/media/loga_mgs_stojato_mm.jpg)
@@ -28,33 +26,32 @@ budget: '1 095 440,88 Kč'
 from: 2015-02
 to: 2017-04
 partners: |-
-  AOPK ČR (konečný příjemce)
+  Nature Conservation Agency of the Czech Republic (The final beneficiary)
 
-  ALKA Wildlife, o.p.s. (partner)
+  ALKA Wildlife, o.p.s. (Partner)
 contacts:
   - email: ''
     name: Václav Beran
-species: raroh velký
+species: Saker falcon
 tags:
-  - raroh velký
-  - koncepce
-  - výzkum
+  - Saker falcon
+  - Concept
+  - Research
 countries:
   - CZ
-description: 'Příprava záchranného programu pro raroha velkého v České republice. '
+description: Preparing a rescue program for the Saker falcon in the Czech Republic.
 ---
-# Zaměření projektu
+# Project aim
 
-Cílem projektu je příprava záchranného programu raroha velkého (_Falco cherrug_), který je v ČR dle vyhlášky č. 395/1992 Sb. druhem kriticky ohroženým a v roce 2012 byl zařazen IUCN mezi celosvětově ohrožené druhy ptáků (kategorie endangered). 
+The aim of the project is to prepare a rescue programme for the Saker falcon (_Falco cherrug_), currently classed as a critically endangered species in the Czech Republic, and in 2012 the IUCN ranked it among the most endangered species worldwide. 
 
-Raroh velký patří mezi naše nejvzácnější pravidelně hnízdící druhy ptáků. V ČR hnízdí již minimálně od devatenáctého století. V současné době pravidelně hnízdí pouze na jižní Moravě. Jihomoravská hnízdící populace je mapována a chráněna od roku 1976. V letech 1976-1980 bylo prokázáno 13 hnízdění. Díky ochraně hnízdišť a zřejmě i vlivem nárůstu populace v sousedních zemích postupně početnost raroha v ČR roste. Republiková početnost raroha velkého je v posledních letech odhadována na 15-20 párů.
+The Saker falcon is one of our rarest nesting birds. It has been nesting in the Czech Republic since at least the nineteenth century. Currently, however, it only regularly nests only in South Moravia. The South Moravian nesting population has been mapped and protected since 1976. From 1976-1980, 13 nesting sites were identified. Thanks to the protection of nesting sites and probably the growth of the population in neighbouring countries, the number of observations in the Czech Republic is gradually increasing. 
 
-Raroh velký patří mezi celosvětově ohrožené druhy živočichů. Vzhledem k rozsáhlému ilegálnímu lovu došlo k dramatickému propadu asijské populace - odhaduje se, že za posledních 30 let se její velikost snížila až o 90 %. Malá evropská populace (cca 600-800 párů) tak nabyla na významu a v současné době je jí věnována značná ochranářská pozornost.
+The national abundance of the Saker falcon is estimated to be 15-20 pairs in recent years. Due to extensive illegal hunting, however, the Asian population has fallen dramatically. It has been estimated that over the past 30 years its size has decreased by up to 90%. Thus, the small European population (about 600-800 pairs) has gained in importance and is currently receiving considerable conservation attention.
 
-# Aktuality k projektu
+# Project news[
+Monitoring Saker falcon in 2015](/news/monitoring-raroha-velkého-v-roce-2015)
 
-[Monitoring raroha velkého v roce 2015](/news/monitoring-raroha-velkého-v-roce-2015)
+# Publications
 
-# Výstupy projektu
-
-[Zpravodaj SOVDS 16 (2016): Raroh velký (Falco cherrug)](/publications/raroh-velký)
+# [Newsletter SOVDS 16 (2016): Saker falcon (_Falco cherrug_)](/publications/raroh-velký)
