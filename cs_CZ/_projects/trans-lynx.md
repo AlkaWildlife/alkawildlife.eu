@@ -78,10 +78,12 @@ Brožura [Jak rozpoznat kořist rysa](/media/alka_translynx_korist_verze_final.p
 
 Brožura [Šumava: rys, přirozené horské lesy i kůrovec](/media/translynx_sumava.pdf)
 
-Brožura Stopy rysa a jiných lesních zvířat
+Brožura [Stopy rysa a jiných lesních zvířat](/media/ALKA_stopy_rysa_web.pdf)
 
-Brožura Já rys
+Brožura [Já rys](/media/ja_rys_alka_www_final.pdf)
 
-Plakát Já rys - jeden rok v životě rysa
+Plakát [Já rys - jeden rok v životě rysa](/media/plakat_rys_mj_www.pdf) (česky)
+
+Plakát [Já rys - jeden rok v životě rysa](/media/plakat_rys_german_www.pdf) (německy)
 
 Odborná publikace [Výskyt středně velkých a velkých lesních savců v jižních a jihozápadních Čechách (Carnivora, Artiodactyla, Lagomorpha)](/media/043_064_Minarikova.pdf)
