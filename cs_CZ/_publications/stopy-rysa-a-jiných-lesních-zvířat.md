@@ -1,7 +1,7 @@
 ---
 title: Stopy rysa a jiných lesních zvířat
 published: true
-public: false
+public: true
 authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
@@ -15,6 +15,7 @@ publisher: 'ALKA Wildlife, o.p.s.'
 year: 2015
 lang:
   - cs
+link: /media/ALKA_stopy_rysa_web.pdf
 attachments:
   - {}
 ---
