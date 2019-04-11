@@ -46,7 +46,7 @@ The Edible dormouse is included in the ‘Concept of Rescue Programmes and Progr
 
 Therefore, the aim of this project was to complete a detailed, large-scale survey, of the edible dormouse, across the Czech Republic. The monitoring would firstly map the occurrence of the edible dormouse based on a standard animal mapping network. Following this, the project aimed to complete an analysis of the habitat requirements of the species as a necessary source for assessing the current state and perspective of the population of this species in the Czech Republic.
 
-# Project activities 
+# Project activities
 
 ## **1. Monitoring the occurrence of the Edible dormouse**
 
@@ -62,7 +62,7 @@ An information seminar was organised at the Faculty of Science, Charles Universi
 
 # Project news
 
-[Results from mapping Edible dormouse](/news/results-from-mapping-edible-dormouse)
+[Results from mapping Edible dormouse](/news/results-from-mapping-edible-dormouse)
 
 [Looking for the Edible dormouse in Sovinec](/news/looking-for-edible-dormice-in-sovinec)
 
@@ -70,24 +70,23 @@ An information seminar was organised at the Faculty of Science, Charles Universi
 
 [Night walk looking for dormice](/news/night-walk-looking-for-dormice)
 
-[Records of dormice from you - beautiful photos and pictures of the rare Garden dormouse!](/news/records-of-edible-dormouse-from-you-beautiful-photos-and-images-of-rare-garden-dormouse)
+[Records of dormice from you - beautiful photos and pictures of the rare Garden dormouse!](/news/records-of-edible-dormouse-from-you-beautiful-photos-and-images-of-rare-garden-dormouse)
 
-[Where does the Dormouse live?](/news/where-does-the-edible-dormouse-live)
+[Where does the Dormouse live?](/news/where-does-the-edible-dormouse-live)
 
 [Seminar on conservation and research of Edible dormouse and European souslik](/news/seminar-on-conservation-and-research-of-edible-dormouse-and-european-souslik)
 
-[We need your help! Can you help map the occurrence of the Edible dormouse?](/news/we-need-your-help-to-map-dormice)
-
-
+[We need your help! Can you help map the occurrence of the Edible dormouse?](/news/we-need-your-help-to-map-dormice)
 
 # Published articles
 
-[Bird World 2016: Do you have Dormice in your Nest Boxes?](/publications/do-you-have-dormice-in-your-nestboxes)
+[Bird World 2016: Do you have Dormice in your Nest Boxes?](/publications/do-you-have-dormice-in-your-nestboxes)
 
 [November 2015 Gardener: Our dormice](http://alka-wildlife-en.netlify.com/publications/our-dormice)
 
-[Hunting October 2015: Our dormice](http://alka-wildlife-en.netlify.com/publications/our-dormice)
+[Hunting October 2015: Our dormice](http://alka-wildlife-en.netlify.com/publications/our-dormice)
 
-[Shepherd and Cottager September 2015: Dormice - rare but unwelcome](/publications/dormice-rare-but-unwelcome)
+[Shepherd and Cottager September 2015: Dormice - rare but unwelcome](/publications/dormice-rare-but-unwelcome)
 
-[Beekeeping September 2015: Dormice - rare but unwelcome visitors to apiaries](/publications/dormice-rare-but-unwelcome-apiary-visitors)
+[Beekeeping September 2015: Dormice - rare but unwelcome visitors to apiaries
+](/publications/dormice-rare-but-unwelcome-apiary-visitors)
