@@ -8,7 +8,9 @@ description: >-
   Nejpočetnější je v bučinách a doubravách ale i v suťových lesích. 
 date: '2016-04-29'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/where-does-the-edible-dormouse-live
+    title: Where does the Edible dormouse live?
 category: news
 layout: news
 ---
