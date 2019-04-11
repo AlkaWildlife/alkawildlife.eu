@@ -1,26 +1,32 @@
 ---
-title: Rozšíření vydry říční v Makedonii
+title: Expansion of Eurasian otter in Macedonia
 published: true
-funding: vlastní prostředky
+funding: Own resources
 from: 2007-03
 to: 2007-06
 contacts:
   - name: Lukáš Poledník
-species: vydra říční
-area: Makedonie
+species: Eurasian otter
+area: Macedonia
 tags:
-  - vydra říční
-  - průzkum
+  - Eurasian otter
+  - Survey
 countries:
   - MK
 description: >-
-  mapování výskytu vydry říční v Makedonii bylo realizováno standardní metodou
-  IUCN na jaře 2007
+  This project set out to map the occurrence of the Eurasian otter in Macedonia,
+  using the standard IUCN method, in spring 2007.
 ---
-Cílem projektu bylo zjistit základní údaje o rozšíření vydry říční (_Lutra lutra _L.) v Makedonii, kde byly doposud informace o výskytu vyder sporadické. Díky centrální pozici Makedonie na Balkánském poloostrově je území tohoto státu klíčové pro propojení celé Balkánské populace vyder. Výskyt vyder byl zjišťován na základě hledání pobytových znaků na vybraných úsecích vodních toků a ploch rozmístěných v rámci celé republiky Makedonie. Celkem bylo zkontrolováno 36 míst, z nichž 32 se nacházelo na tocích a další čtyři byly umístěny na březích jezer. Celkem na 70 % míst byl nalezen nějaký pobytový znak vyder (většinou trus). Vlastní údolí řeky Vardar, řeka Bregalnica a Pčinja jsou v současnosti plně obsazeny vydrou. I na březích velkých jezer Dojran, Prespa a Ochrid byly nalezeny pobytové znaky vyder. Ve dvou povodích však bylo zjištěno nízké obsazení kontrolovaných míst: horní povodí řeky Crna a povodí řeky Strumica. Jako hlavní rizikový faktor pro vydru říční v Makedonii se současné době zdá znečištění řek a to především proto, že prakticky na celém území chybí čističky odpadních vod. 
+# Project aim
+
+The aim of the project was to find out basic data on the distribution of the Eurasian otter (_Lutra lutra_) in Macedonia, where previously information has been sporadic. Macedonia has a central position in the Balkan Peninsula and therefore the territory of this state is crucial for linking the entire Balkan otter population. 
+
+# Project summary
+
+The occurrence of otters was investigated through searching for residence signs on selected sections of watercourses and other areas located throughout the Republic of Macedonia. A total of 36 sites were inspected, 32 of which were on watercourses and four were on the banks of the lakes. A total of 70% of the sites were found to have some residual mark of otters, mostly faeces. The valleys of the river Vardar, the river Bregalnica and Pčinja were found to be occupied by otter. Even on the banks of the great lakes of Dojran, Prespa and Ochrid, residual signs of the otters were found. However, in two catchment areas a low occupancy rate of controlled sites was found: the upper catchment area of ​​the Crna River and the Strumica River Basin. River pollution is currently the main risk factor for the Eurasian otter in Macedonia, mainly due to wastewater from treatment plants.
 
 ![horské jezero Ohrid na jihozápadě Makedonie](/media/img_6068_610.jpg "jezero Ohrid")
 
-# Výstupy projektu
+# Project publications
 
 [Poledník a kol. (2008): Distribution of the Eurasian otter (_Lutra lutra_) in the Republic of Macedonia in 2007. IUCN Otter Specialist Group Bulletin 25: 75-123.](/publications/distribution-of-the-eurasian-otter-lutra-lutra-in-the-republic-of-macedonia-in-2007)
