@@ -8,7 +8,9 @@ description: >-
   velkým v národním parku Podyjí. 
 date: '2016-07-05'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/night-walk-lookin-for-dormice
+    title: Night walk looking for dormice
 category: news
 layout: news
 ---
