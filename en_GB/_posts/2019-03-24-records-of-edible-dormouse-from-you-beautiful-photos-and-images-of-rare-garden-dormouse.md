@@ -1,12 +1,14 @@
 ---
-title: Záznamy plchů od vás - nádherné fotky i vzácný plch zahradní
+title: >-
+  Records of dormice from you - beautiful photos and images of rare garden
+  dormice
 published: true
 image: /media/img_0601.jpg
 listing_thumbnail: /media/img_0601_274.jpg
 description: >-
-  Od veřejnosti k nám přichází celá řada záznamů plcha velkého, včetně
-  nádherných fotografií. Tentokrát máme i velikou vzácnost – šumavský záznam
-  našeho nejvzácnějšího plcha, plcha zahradního. 
+  We’ve received many public records of dormice, including some beautiful
+  photographs. We have also received a great rarity from Šumava - a record of
+  our most precious dormouse, the Garden dormouse.
 date: '2016-05-22'
 lang_alternatives:
   cs_CZ:
@@ -15,32 +17,38 @@ lang_alternatives:
 category: news
 layout: news
 ---
-_plch zahradní (autor: Jana Holá)_
+_Garden dormouse (Photo: Jana Holá)_
 
-Jak už jsme několikrát informovali, v průběhu minulého roku jsme zahájili dvouletý celorepublikový monitoring výskytu plcha velkého. Protože je plch poměrně sympatické zvířátko, na které mohou lidé narazit ve svých chatách, na krmelcích, v úlech, či v zahradním domku, snažíme se do mapování zapojit i veřejnost. 
+As previously reported, during the last year we have started a two-year nationwide monitoring project of the occurrence of the edible dormouse. The dormouse is quite a nice animal and one which people can come across in their cottages, on feeders, in hives, or sheds so we try to involve the public in our mapping.
 
-Po inzerování v časopisech, na webu a facebooku máme úžasnou odezvu! Už jsme od Vás získali 75 záznamů, přičemž většina z nich je hodnověrně podložena detailním pozorováním či lépe fotografií. Podívejte se na ně s námi. Plši jsou sympatičtí tvorové s velkýma očima a dlouhou srstí. Někdy je můžete nalákat i poměrně blízko nabídnutou potravou a dobře si je tak prohlédnout a pozorovat, jindy až zaráží svou drzostí. 
+We have had a great response after advertising in magazines, on the web and on Facebook! Already, we’ve received 75 public records. Generally, you have provided detailed observations and some great photos.
 
-Tentokrát jsme získali ještě větší vzácnost: fotografii plcha zahradního (v úvodu). V České republice je nejvzácnější z našich čtyř druhů plchů. Jeho výskyt na území ČR je dnes omezen pouze na západní Čechy a každý doložený nález má velkou hodnotu.
+Here are some of the best ones submitted.
 
-plch zahradní (autor: Jana Holá)
+Dormice are sweet animals, with big eyes and long, fluffy tails. They can be lured out with food and sometimes you can get relatively close to them to see and observe them. They are interesting animals and can be quite surprising with their boldness.
 
-Tentokrát jsme získali ještě větší vzácnost: fotografii plcha zahradního. V České republice je nejvzácnější z našich čtyř druhů plchů. Jeho výskyt na území ČR je dnes omezen pouze na západní Čechy a každý doložený nález má velkou hodnotu.
+Most fantastically, a member of the public has submitted a very special photo; the garden dormouse, the rarest dormouse in the Czech Republic. Its occurrence is now limited to Western Bohemia and every documented finding is of great conservational value (so thank you very much, Jana Holá).
 
-Nadále sbíráme údaje o plchu velkém i v letošním roce. Proto pokud plcha velkého (či jiné plchy) zaznamenáte, dejte nám prosím vědět, pošlete nám fotku či video. 
+We are still collecting data on the dormice for this year. If you see an edible (or any!) dormouse, please let us know, send us a photo or video.
 
-Kontakty:
+**Contacts:**
 
-Peter Adamík 737475678 
+Peter Adamík
 
-peter.adamik-zavinac-upol.cz
+Tel: 737475678
 
-Kateřina Poledníková 606598903 
+Email: [peter.adamik@upol.cz](peter.adamik@upol.cz)
 
-katerina.polednikova-zavinac-alkawildlife.eu
+or
 
-Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr).
- Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
- Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+Kateřina Poledníková
+
+Tel: 606598903
+
+Email: [katerina.polednikova@alkawildlife.eu](katerina.polednikova@alkawildlife.eu)
+
+More information about the project ‘Extending the Dormouse and Determining Its Habitat in the Czech Republic’ can be found [here](/projects/expanding-the-czech-republic-dormouse-population).
+
+Supported by a grant from Iceland, Liechtenstein and Norway. This activity is implemented with financial support from the EEA funds 2009-2014 and the Ministry of the Environment. Its content is solely the responsibility of ALKA Wildlife, ops and in no way can be regarded as the opinion of the donor or the Ministry of the Environment.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
