@@ -8,13 +8,13 @@ description: >-
   republice. Budeme rádi za hlášení vašich pozorování.
 date: '2016-07-15'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/looking-for-the-edible-dormouse
+    title: Looking for the Edible dormouse
 category: news
 layout: news
 ---
 TISKOVÁ ZPRÁVA ALKA WILDLIFE, O.P.S.
-
-
 
 ## Hledá se plch velký
 
@@ -37,8 +37,8 @@ Pozorování či dotazy je možné zasílat na tyto kontakty: peter.adamik@upol.
 
 ![Fotografie jak vypadá plch velký](/media/plch-velký-f7318_610.jpg "plch velký")
 
-
-
-Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Realizováno v rámci projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v České republice](/projects/rozšíření-plcha-velkého-v-čr). Projekt je realizován za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za obsah tohoto semináře je výhradně odpovědná ALKA Wildlife, o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+ Realizováno v rámci projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v České republice](/projects/rozšíření-plcha-velkého-v-čr).
+ Projekt je realizován za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za obsah tohoto semináře je výhradně odpovědná ALKA Wildlife, o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
