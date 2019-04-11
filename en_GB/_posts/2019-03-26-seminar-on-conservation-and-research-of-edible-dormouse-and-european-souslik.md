@@ -1,41 +1,38 @@
 ---
-title: Seminář k ochraně a výzkumu plcha velkého a sysla obecného
+title: Seminar on conservation and research of Edible dormouse and European souslik
 published: true
 image: /media/img_1735_610.jpg
 listing_thumbnail: /media/img_1735_274.jpg
 description: >-
-  Srdečně Vás příští týden v úterý zveme na seminář k ochraně a výzkumu plcha
-  velkého a sysla obecného, který se bude konat na Přírodovědecké fakultě UK. 
+  We cordially invite you to a seminar on the protection and research the Edible
+  dormouse and European souslik, which will be held next week at the Faculty of
+  Science, Charles University.
 date: '2015-11-03'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/seminář-k-ochraně-a-výzkumu-plcha-velkého-a-sysla-obecného
+    title: Seminář k ochraně a výzkumu plcha velkého a sysla obecného
 category: news
 layout: news
 ---
-Srdečně Vás příští týden v úterý zveme na seminář k ochraně a výzkumu plcha velkého a sysla obecného, který se bude konat na Přírodovědecké fakultě UK.
+We cordially invite you to a seminar on the protection and research the Edible dormouse and European souslik, which will be held next week at the Faculty of Science, Charles University.
 
-**Kdy:** 10.11.2015 15:00 – 16:25
+**When:** 10.11.2015 15:00 - 16: 25
 
-**Kde:** 
-Karlova Universita, Přírodovědecká fakulta , Velká zoologická posluchárna 
- ( 2.p., Viničná 7, Praha 2)
+**Where:** Charles University, Faculty of Science, Great Zoological Auditorium (2.p., Viničná 7, Prague 2)
 
-## Program semináře:
+## **Programme of the seminar:** 
 
-Kateřina Poledníková (ALKA Wildlife, o.p.s.):
+How the protection and research of specially protected species is financed - dormouse and ground squirrel as an example - _Kateřina Poledníková (ALKA Wildlife, ops)_
 
-**Jak se financuje ochrana a výzkum zvláště chráněných druhů – plch a sysel jako příklad**
+Mapping the occurrence of the Edible Dormouse in the Czech Republic - _Peter Adamík (Faculty of Science, UP Olomouc and ALKA Wildlife, ops)_
 
-Peter Adamík (Přírodovědecká fakulta, UP Olomouc a ALKA Wildlife, o.p.s.):
-
-**Mapovaní výskytu plcha velkého v České republice**
-
-Jan Matějů (Muzeum Karlovy Vary):
-
-**Sysel obecný - výzkum, monitoring, ochrana – úspěchy i prohry**
+European Ground Squirrel - Research, Monitoring, Protection - Successes and Losses - _Jan Matějů (Karlovy Vary Museum)_
 
 ![plch velký](/media/plch-velký-f7318_610.jpg "plch velký")
 
-_Pozvánka na seminář k projektům Malého grantového schématu „Záchranné programy pro zvláště chráněné druhy II“: „Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR.“ (reg. č. MGSII-58) a „Realizace vybraných opatření Záchranného programu sysla obecného na jižní Moravě“ (reg. č. MGSII-41). Tyto projekty jsou realizovány za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za obsah tohoto semináře jsou výhradně odpovědní ALKA Wildlife, o.p.s. a Muzeum Karlovy Vary, nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí._
+Invitation to the Small Grant Scheme "Rescue Programs for Special Species II" and finding out its habitat claims in the Czech Republic. ”(Reg. No. MGSII-58) and“ Implementation of selected measures of the European Ground Squirrel Rescue Program in South Moravia ”(Reg. No. MGSII-41). 
+
+These projects were implemented with financial support from the EEA funds 2009-2014 and the Ministry of the Environment. ALKA Wildlife, o.p.s. and the Museum of Karlovy Vary, they can by no means be considered the opinion of the donor or the Ministry of the Environment.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
