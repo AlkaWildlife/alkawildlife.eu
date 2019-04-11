@@ -68,6 +68,20 @@ Cílem projektu je zlepšení komunikace mezi státní ochranou přírody, mysli
 
 Pro efektivní ochranu rysa je třeba získat kvalitní biologické údaje o stavu populace a jejich analýzou zhodnotit populační stav a budoucí trendy vývoje. Sběr dat o výskytu rysů byl prováděn metodou fotomonitoringu a mapováním pobytových znaků. 
 
-## Osvěta veřejnosti 
+## Osvěta veřejnosti
 
 Často právě postoj člověka rozhoduje o tom, zda rys bude součástí naší přírody. Projekt byla v rámci projektu realizována osvětová kampaň, jejímž cílem bylo zlepšit povědomí o nutnosti ochrany rysa ostrovida, zlepšit vztah vybraných zájmových skupin k tomuto druhu a tím přispět ke snížení míry nelegálního lovu, který je u nás hlavním ohrožujícím faktorem.
+
+# Výstupy projektu
+
+Brožura [Jak rozpoznat kořist rysa](/media/alka_translynx_korist_verze_final.pdf)
+
+Brožura [Šumava: rys, přirozené horské lesy i kůrovec](/media/translynx_sumava.pdf)
+
+Brožura Stopy rysa a jiných lesních zvířat
+
+Brožura Já rys
+
+Plakát Já rys - jeden rok v životě rysa
+
+Odborná publikace [Výskyt středně velkých a velkých lesních savců v jižních a jihozápadních Čechách (Carnivora, Artiodactyla, Lagomorpha)](/media/043_064_Minarikova.pdf)
