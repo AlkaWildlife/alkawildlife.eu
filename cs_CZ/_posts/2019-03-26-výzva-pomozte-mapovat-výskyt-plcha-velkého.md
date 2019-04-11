@@ -8,7 +8,9 @@ description: >-
   republice. Zapojit se můžete i Vy.
 date: '2015-06-26'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/we-need-your-help-to-map-dormice
+    title: We need your help! Can you help map the occurrence of the Edible dormouse?
 category: news
 layout: news
 ---
