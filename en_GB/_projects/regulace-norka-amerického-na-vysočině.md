@@ -1,66 +1,76 @@
 ---
-title: Regulace norka amerického na Vysočině
+title: American mink regulation in Vysocina
 published: true
-subtitle: Regulace norka amerického v EVL Šlapanka a Zlatý potok a PP Černíč
+subtitle: >-
+  Regulation of the American mink in Šlapanka (European site of importance),
+  Zlatý potok and Černíč (natural monument)
 registration_no: 145 329
-funding: "Operační program životní prostředí\r\n\n(Evropská Unie a Ministerstvo životního prostředí České republiky)\n\n![](/media/banner-opzp_erdf_cmyk.jpg)\n\nPodporováno z Evropského fondu pro regionální rozvoj"
+funding: >-
+  Operational Programme Environment (European Union and Ministry of Environment
+  of the Czech Republic)
+
+
+  ![](/media/banner-opzp_erdf_cmyk.jpg)
+
+
+  Supported by the European Regional Development Fund
 from: 2008-05
 to: 2010-12
 contacts:
   - name: Kateřina Poledníková
-species: norek americký
+species: American mink
 area: |-
-  EVL Šlapanka a Zlatý potok  (kraj Vysočina)
+  **Vysocina region:**
 
-  PP Černíč (kraj Vysočina)
+  Šlapanka (European site of importance)
+
+  Zlatý potok 
+
+  Černíč (natural monument)
 tags:
-  - norek americký
-  - výzkum
-  - management
+  - American mink
+  - Research
+  - Management
 countries:
   - CZ
 description: >-
-  Cíle projektu byly dva: regulace populace nepůvodního norka amerického na dvou
-  lokalitách kraje Vysočina a také navržení metody managementu norka v prostředí
-  naší krajiny.
+  There were two project objectives: 
+
+  1. Regulate the population of the non-native American mink in the Vysočina
+  Region
+
+  2. Design a mink management plan for our landscape.
 ---
-# Cíl projektu
+The American mink (_Neovison vison_) belongs to the group of non-native mammal species, spreading across the Czech Republic. As an introduced species, the American mink represents a potential danger to the natural fauna including ground dwelling birds and small to medium vertebrates. Strong predation pressure on many animal species has already been found in the Czech Republic. These include, but are not limited to: nests of the dipper, mountain wagtail and kingfisher, waterfowl, dice and grass snakes, green lizards, crayfish and amphibians especially frogs as well as newts.
 
-Norek americký (_Mustela vison _Schreber) patří k nově se šířícím druhům fauny savců na území České republiky. 
-Jako zavlečený druh představuje norek potencionální nebezpečí pro původní faunu drobných a středních obratlovců Evropy. Na území České republiky byl již zjištěn silný predační tlak na řadu druhů živočichů: vysoká predace hnízd u skorce vodního, konipase horského a ledňáčka říčního, silný predační tlak na vodní ptactvo, predace užovky podplamaté i užovky obojkové, a také ještěrky zelené, vysoká predace raka kamenáče a raka říčního, predace obojživelníků (zejména skokani, ale také čolci).
+# Project aims
 
-Cílem projektu je snížení neúměrné predace řady ohrožených druhů živočichů norkem americkým a zabránit tak snižování biodiversity na dvou lokalitách v kraji Vysočina - PP Černíč a EVL Šlapanka a Zlatý potok. Vzhledem k tomu, že v České republice neexistuje doporučující metodika týkající se regulace či eradikace norka amerického, je tento projekt brán jako pilotní. Druhým cílem projektu tedy bude navrhnout na základě zjištěných zkušeností efektivní metodiku eradikace norka v podmínkách naší krajiny (metody odchytu, frekvence odchytu, minimální velikost oblasti, rychlost znovuobsazování lokality). 
+The aim of this project was to reduce the predation of a number of endangered animal species by American mink which may be reducing the biodiversity at two locations in the Vysočina Region - Černíč and Šlapanka and Zlatý potok. Given that there was no recommended methodology for regulating or eradicating American mink in the Czech Republic, this project was considered a pilot project. The second objective of the project will be to propose an effective methodology for eradication of mink in the conditions of our landscape (capture methods, capture frequency, minimum area size, site refilling rate).
 
-# Lokality
+# Localities
 
-## EVL Šlapánka a Zlatý potok
+## **Šlapánka and Zlatý potok**
 
-Jedná se o přirozeně meandrující toky Šlapanka od Polné po Havlíčkův Brod a Zlatý potok od Stříteže po soutok se Šlapankou. Lokalita se nachází v centrální části Vysočiny, rozloha je 245 ha. Jedná se o velmi zachovalý tok s výskytem hořavky duhové, velevruba malířského a řady dalších významných druhů. Těsně u řeky se nachází významné lokality vodního ptactva a obojživelníků, z nichž nejvýznamnější je rybník pod Bartoušovem. Na tomto rybníku byla zaznamenána silná predace skokanů ostronosých norkem amerických – predace celé rozmnožující se populace (data AOPK). Z pohledu populací druhů potenciálně ohrožovaných norkem se na lokalitě vyskytuje: rak říční, čolek velký, skokan ostronosý, rosnička zelená, bekasina otavní, ledňáček říční. 
+Šlapanka is a naturally meandering stream from Polná to Havlíčkův Brod. Zlatý potok is also a stream but starts from Střítež and confluences with Šlapanka. Both streams are located in the central part of Vysočina, with an area of around 245ha. They are very well-preserved streams with European Bittern, the Great Arbor, and many other important species occurring there. Also, close to the river are important sites for waterfowl and amphibians, with the most important being the pond below Bartoušov. On this pond, predation of an entire breeding population of Moor frogs was recorded by the American mink - data from Nature Conservation Agency of the Czech Republic. Specifically, populations vulnerable to American mink presence are: Crayfish, Great-crested newts, Brown frogs, Green frogs, Common snipe and Kingfishers.
 
-## PP Černíčský rybník
+## **Černíčský rybník**
 
-Jedná se o rybník v údolí na soutoku Moravské Dyje a Myslůvky. Celá PP má rozlohu 23, 7 ha, přičemž vodní hladina v dnešní době dosahuje 10 ha. Jako chráněné území byla lokalita vyhlášena již v roce 1953. Z hlediska druhů ohrožovaných norkem se na lokalitě vyskytuj především obojživelníci: skokan zelený, skokan ostronosý, skokan krátkonohý, skokan hnědý a ropucha obecná, rosnička zelená, kuňka obecná, blatnice skvrnitá, čolek obecný. Z dalších skupin živočichů jsou ohroženy také tyto druhy vyskytující se na lokalitě: užovka obojková, chřástal vodní, slípka zelenonohá, ledňáček říční, moták pochop, myška drobná. 
+Černíčský rybník is a pond in the valley at the confluence of the Moravian Dyje and Myslůvky. The area consists of 23,7ha while the water level reaches 10ha. The site was declared as a protected area in 1953. Species vulnerable to the presence of American mink are: Green, Brown, Moor and Pond frogs, European tree frogs, Common toads, Fire-bellied toads, Common spadefoot (toad) and Great-crested newts. Among other animal groups, the following species are also at risk: Grass snakes, Water rails, Moorhens, Kingfishers, Common harriers and harvest mice.
 
-# Metody
+# Methods
 
-## Odchyt
+## **Capture**
 
-Regulace místní populace norků byla prováděna metodou opakovaných odchytů volně žijících zvířat. Pro odchyt byly použity živochytné sklopce. Živochytné pasti jsou designovány a instalovány tak, aby maximalizovaly odchyt norků a minimalizovaly odchyt jiných druhů živočichů. 
-
-## 
+For the regulation of the local mink population, the method of repeated capture of wild animals was used. This meant trapping animals with traps designed and installed to maximise mink capture and minimise capture of other animal species.
 
 ![živochytná drátěná past pro odchyt norků umístěná na plovoucím raftu](/media/past.jpg "past pro odchyt norka amerického")
 
+## **Monitoring**
 
-
-## Monitoring
-
-Kromě odchytu byl výskyt norků v obou oblastech monitorován také pomocí monitorovacích raftů. Monitorovací rafty jsou plovoucí plochy, kde je umístěn měkký substrát, na kterém zvířata po přeběhnutí zanechají stopu a je možno je takto detekovat . Jedná se o neinvazivní metodu monitoringu používanou úspěšně ve Velké Británii (Reynolds a další 2004) a neohrožuje žádný druh živočicha. U nás je tato metoda používána poprvé. 
+For additional monitoring of the presence of mink in both areas, monitoring rafts were deployed. Monitoring rafts are floating areas with a soft substrate on top on to which the animals leave imprints of their tracks and can therefore be identified. It is a non-invasive monitoring method successfully used in the UK (Reynolds et al. 2004) and does not endanger any animal species. For us, this is the first time we have used this method.
 
 ![monitorovací raft se skládá z plovoucí desky a nádoby s vlhkým substrátem](/media/snímek-016.jpg "instalace monitorovacího raftu")
 
+# Project publications
 
-
-# Výstupy projektu
-
-[Poledník L., Poledníková K. (2010) Monitoring, regulace a eradikace norka amerického v České republice - metodická doporučení. ALKA Wildlife.](/publications/monitoring-regulace-a-eradikace-norka-amerického-v-české-republice-metodická-doporučení)
+[Poledník L., Poledníková K. (2010) Monitoring, regulating and eradicating the American mink in the Czech Republic  - methodological recommendations. ALKA Wildlife.](/publications/monitoring-regulace-a-eradikace-norka-amerického-v-české-republice-metodická-doporučení)
