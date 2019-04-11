@@ -1,7 +1,7 @@
 ---
 title: 'Sousliks for the landscape, landscape for the Sousliks'
 published: true
-subtitle: Monitoring and supporting the population Sousliks in South Moravia
+subtitle: Monitoring and supporting the population of Sousliks in South Moravia
 funding: >-
   Programme: [Interreg V-A Slovak Republic - Czech
   Republic](https://www.sk-cz.eu/sk/)
