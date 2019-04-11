@@ -1,26 +1,22 @@
 ---
-title: Rozšíření plcha velkého v ČR
+title: Expanding the Czech Republic dormouse population
 published: true
-subtitle: Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR
+subtitle: >-
+  Expanding the population of dormice and identifying its habitat requirements
+  in the Czech Republic
 registration_no: MGSII-58
 funding: >-
-  EHP fondy 2009-2014
+  EEA funds 2009-2014
 
 
-  Malé grantové schéma Záchranné programy pro zvláště chráněné druhy II Programu
-  CZ02
+  Small grant scheme Rescue programmes for specially protected species II of the
+  CZ02 programme
 
 
-  Ministerstvo životního prostředí
+  Ministry of the Environment
 
 
-  Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
-
-
-  Tento web byl vytvořen za finanční podpory EHP fondů 2009-2014 a Ministerstva
-  životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s.
-  a nelze jej v žádném případě považovat za názor donora nebo Ministerstva
-  životního prostředí.
+  Supported by a grant from Iceland, Liechtenstein and Norway.
 
 
   ![](/media/loga_mgs_stojato_mm.jpg)
@@ -29,45 +25,48 @@ from: 2015-01
 to: 2017-04
 contacts:
   - name: Peter Adamík
-species: plch velký
+species: Edible dormouse
+area: Czech Republic
 tags:
-  - plch velký
-  - výzkum
+  - Edible dormouse
+  - research
 countries:
   - CZ
 description: >-
-  Cílem projektu byl podrobný, velkoplošný monitoring na území celé České
-  republiky metodou poslechu vokalizace plchů v nočních hodinách. Součástí
-  projektu je také analýza stanovištních nároků druhu a zhodnocení současného
-  stavu a perspektivy populace tohoto druhu na území ČR.
+  The aim of this project was a to complete a detailed, large-scale monitoring
+  project of the edible dormouse, across the Czech Republic. This was completed
+  by listening to night-time vocalisations of the dormice. The project also
+  included an analysis of the habitat requirements of the species. Alongside
+  this, an assessment of the current state and perspective of the population of
+  this species in the Czech Republic took place.
 ---
-# Cíl projektu
+# Project aims
 
-Plch velký je v Koncepci záchranných programů a programů péče zvláště chráněných druhů živočichů a rostlin v České republice zařazen mezi „Druhy vyžadující zvláštní zřetel “, tedy druhy ochranářsky velmi významné s nedostatečně známou biologií, ekologií, rozšířením, příčinami ohrožení nebo způsobů odstranění těchto příčin, což je znalost nezbytná pro plánování konkrétních ochranářských opatření.
+The Edible dormouse is included in the ‘Concept of Rescue Programmes and Programmes of Care for Special Protected Species of Animals and Plants in the Czech Republic’ among the “Species Requiring Special Considerations”. This means the species is of conservational significance as there is insufficient knowledge regarding its biology, ecology, distribution, causes of threats or ways to reduce these threats. This knowledge is necessary to plan specific conservation measures in the future.
 
-Cílem projektu tedy bylo realizovat podrobný, velkoplošný monitoring na území celé České republiky, který zmapuje výskyt plcha velkého na základě standardní faunistické mapovací sítě. Mapování proběhlo v letních měsících, plši byli detekováni na základě jejich vokalizace v nočních hodinách. Součástí projektu je také analýza stanovištních nároků druhu jako nezbytných podkladů pro zhodnocení současného stavu a perspektivy populace tohoto druhu na území ČR.
+Therefore, the aim of this project was to complete a detailed, large-scale survey, of the edible dormouse, across the Czech Republic. The monitoring would firstly map the occurrence of the edible dormouse based on a standard animal mapping network. Following this, the project aimed to complete an analysis of the habitat requirements of the species as a necessary source for assessing the current state and perspective of the population of this species in the Czech Republic.
 
-# Aktivity projektu
+# Project activities 
 
-## 1. Monitoring výskytu plcha velkého
+## **1. Monitoring the occurrence of the Edible dormouse**
 
-V prvních měsících projektu proběhly přípravné práce: výběr kontrolních bodů, příprava podkladů a proběhl pracovní seminář, kde byli všichni mapovatelé proškoleni. V průběhu letních měsíců 2015 a 2016 proběhlo mapování na celém území ČR. Celkově v rámci mapování poslechem v nočních hodinách bylo zkontrolováno 1830 bodů v rámci celé ČR. V průběhu celého projektu také probíhá sběr dat od veřejnosti. Díky informování veřejnosti se podařilo získat 345 záznamů plchů. Výskyt plcha velkého byl zjištěn v 188 faunistických kvadrátech (28% území). 
+In the first months of the project, preparations such as selection of checkpoints, organising documents and a training workshop took place. Mapping then took place during the summer months of 2015 and 2016. Dormice were identified by their night time vocalisations. Overall, 1830 points were checked during these night-time checks across the Czech Republic. The project also collected data submitted by the public. Thanks to these data, 345 extra records of dormice were obtained. From this monitoring, we calculated the occurrence of the edible dormouse was found in 188 faunistic quadrates (28% of the territory).
 
-## 2.Ověření stanovištních nároků a ekologie
+## **2. Verification of habitat claims and ecology**
 
-Vytvořena je databáze odchytových dat plchů velkých z různých stanovišť z let 2007–2014 v Nízkém Jeseníku. Na jednotlivých stanovištích byla zjištěna druhová skladba hlavních dřevin. Z těchto dat byly vypočteny hustot a přežívání jedinců. Doplněna byla databáze historických nálezových dat. 
+This project also created a database of edible dormouse distribution with trapping data from 2007–2014. Other historical data was also included in this database. This spanned various habitats of the Nízký Jeseník Mountains. Data on the main tree species was also collected at individual sites. From this, density and survival rate of these individuals was calculated. 
 
-## 3. Publicita
+## **3. Publicity**
 
-Byl uspořádán jeden informační seminář na Přírodovědecké fakultě University Karlovy a zorganizovány byly dvě exkurze pro veřejnost: noční procházka za plchem k ledovým slujím v NP Podyjí a povídání při kontrole budek v Dlouhé Loučce.
+An information seminar was organised at the Faculty of Science, Charles University. Two excursions for the public were organised: a night walk to look for dormice in the Podyjí National Park and a talk when checking nest boxes in Dlouhá Loučka.
 
-# Aktuality k projektu
+# Project news
 
 [Výsledky mapování plcha velkého](/news/výsledky-mapování-plcha-velkého) 
 
 [Za plchem velkým pod Sovinec a v Meteoru](/news/za-plchem-velkým-pod-sovinec-a-v-meteoru)
 
-[TZ: Hledá se plch velký](/news/hledá-se-plch-velký)
+[TZ: Hledá se plch velký](/news/hledá-se-plch-velký) 
 
 [Za plchem k ledovým slujím](/news/za-plchem-k-ledovým-slujím)
 
@@ -79,14 +78,32 @@ Byl uspořádán jeden informační seminář na Přírodovědecké fakultě Uni
 
 [Výzva! Pomozte mapovat výskyt plcha velkého](/news/výzva-pomozte-mapovat-výskyt-plcha-velkého)
 
-# Publikované články
+Results from Edible dormouse mapping
 
-[Ptačí svět 2016: Máte plchy v ptačích budkách?](/publications/máte-plchy-v-ptačích-budkách) 
+Behind the Edible dormouse in Sovinec
 
-[Zahrádkář listopad 2015: Sedmispáči plši. Máte tyto vzácné noční "veverky" na zahradě? ](/publications/sedmispáči-plši)
+Press release: Looking for the Edible dormouse
 
-[Myslivost říjen 2015: Naši plši](/publications/naši-plši)
+Night walk looking for dormice
 
-[Chatař a chalupář září 2015: Plši - vzácní, ale nevítaní](/publications/plši-vzácní-ale-nevítaní) 
+Records of dormice from you - beautiful photos and pictures of the rare Garden dormouse!
 
-[Včelařství září 2015: Plši - vzácní, ale nevítaní návštěvníci včelínů](/publications/plši-vzácní-ale-nevítaní-návštěvníci-včelínů)
+Where does the Dormouse live?
+
+Seminar on conservation and research of Dormouse and Ground Squirrel
+
+We need your help! Can you help map the occurrence of the Edible dormouse?
+
+
+
+# Published articles
+
+Bird World 2016: Do you have Dormice in your Nest Boxes?
+
+November 2015 Gardener: Seven Dorms Dormouse. Do you have these rare night squirrels in the garden?
+
+Hunting October 2015: Our dormice
+
+Shepherd and Cottager September 2015: Dormice - rare but unwelcome
+
+Beekeeping September 2015: Dormice - rare but unwelcome visitors to apiaries
