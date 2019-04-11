@@ -19,7 +19,7 @@ layout: news
 ---
 _Garden dormouse (Photo: Jana Holá)_
 
-As previously reported, during the last year we have started a two-year nationwide monitoring project of the occurrence of the edible dormouse. The dormouse is quite a nice animal and one which people can come across in their cottages, on feeders, in hives, or sheds so we try to involve the public in our mapping.
+As previously reported, during the last year we have started a two-year nationwide monitoring project of the occurrence of the edible dormouse. The dormouse is quite a nice animal and one which people can come across in their cottages, on feeders, in hives, or sheds so we try to involve the public in our mapping.
 
 We have had a great response after advertising in magazines, on the web and on Facebook! Already, we’ve received 75 public records. Generally, you have provided detailed observations and some great photos.
 
