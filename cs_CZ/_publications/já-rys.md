@@ -1,6 +1,7 @@
 ---
 title: 'Já, rys'
 published: true
+public: true
 authors:
   - name: Manfred Woelfl
   - name: Alois Hofmann
@@ -15,6 +16,7 @@ publisher: 'ALKA Wildlife, o.p.s.'
 year: 2015
 lang:
   - cs
+link: /media/ja_rys_alka_www_final.pdf
 attachments:
   - {}
 ---
