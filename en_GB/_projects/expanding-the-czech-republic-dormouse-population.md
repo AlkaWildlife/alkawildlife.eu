@@ -46,7 +46,7 @@ The Edible dormouse is included in the ‘Concept of Rescue Programmes and Progr
 
 Therefore, the aim of this project was to complete a detailed, large-scale survey, of the edible dormouse, across the Czech Republic. The monitoring would firstly map the occurrence of the edible dormouse based on a standard animal mapping network. Following this, the project aimed to complete an analysis of the habitat requirements of the species as a necessary source for assessing the current state and perspective of the population of this species in the Czech Republic.
 
-# Project activities 
+# Project activities
 
 ## **1. Monitoring the occurrence of the Edible dormouse**
 
@@ -62,50 +62,31 @@ An information seminar was organised at the Faculty of Science, Charles Universi
 
 # Project news
 
-[Výsledky mapování plcha velkého](/news/výsledky-mapování-plcha-velkého) 
+[Results from mapping Edible dormouse](/news/results-from-mapping-edible-dormouse)
 
-[Za plchem velkým pod Sovinec a v Meteoru](/news/za-plchem-velkým-pod-sovinec-a-v-meteoru)
+[Looking for the Edible dormouse in Sovinec](/news/looking-for-edible-dormice-in-sovinec)
 
-[TZ: Hledá se plch velký](/news/hledá-se-plch-velký) 
+[Press release: Looking for the Edible dormouse](/news/looking-for-the-edible-dormouse)
 
-[Za plchem k ledovým slujím](/news/za-plchem-k-ledovým-slujím)
+[Night walk looking for dormice](/news/night-walk-looking-for-dormice)
 
-[Záznamy plchů od Vás – nádherné fotky i vzácný plch zahradní](/news/záznamy-plchů-od-vás-nádherné-fotky-i-vzácný-plch-zahradní)
+[Records of dormice from you - beautiful photos and pictures of the rare Garden dormouse!](/news/records-of-edible-dormouse-from-you-beautiful-photos-and-images-of-rare-garden-dormouse)
 
-[Kde u nás žije plch velký?](/news/kde-u-nás-žije-plch-velký)
+[Where does the Dormouse live?](/news/where-does-the-edible-dormouse-live)
 
-[Seminář k ochraně a výzkumu plcha velkého a sysla obecného](/news/seminář-k-ochraně-a-výzkumu-plcha-velkého-a-sysla-obecného)
+[Seminar on conservation and research of Edible dormouse and European souslik](/news/seminar-on-conservation-and-research-of-edible-dormouse-and-european-souslik)
 
-[Výzva! Pomozte mapovat výskyt plcha velkého](/news/výzva-pomozte-mapovat-výskyt-plcha-velkého)
-
-Results from Edible dormouse
- mapping
-
-Behind the Edible dormouse in Sovinec
-
-Press release: Looking for the Edible dormouse
-
-Night walk looking for dormice
-
-Records of dormice from you - beautiful photos and pictures of the rare Garden dormouse!
-
-Where does the Dormouse live?
-
-Seminar on conservation and research of Dormouse and Ground Squirrel
-
-We need your help! Can you help map the occurrence of the Edible dormouse
-?
-
-
+[We need your help! Can you help map the occurrence of the Edible dormouse?](/news/we-need-your-help-to-map-dormice)
 
 # Published articles
 
-Bird World 2016: Do you have Dormice in your Nest Boxes?
+[Bird World 2016: Do you have Dormice in your Nest Boxes?](/publications/do-you-have-dormice-in-your-nestboxes)
 
-November 2015 Gardener: Seven Dorms Dormouse. Do you have these rare night squirrels in the garden?
+[November 2015 Gardener: Our dormice](http://alka-wildlife-en.netlify.com/publications/our-dormice)
 
-Hunting October 2015: Our dormice
+[Hunting October 2015: Our dormice](http://alka-wildlife-en.netlify.com/publications/our-dormice)
 
-Shepherd and Cottager September 2015: Dormice - rare but unwelcome
+[Shepherd and Cottager September 2015: Dormice - rare but unwelcome](/publications/dormice-rare-but-unwelcome)
 
-Beekeeping September 2015: Dormice - rare but unwelcome visitors to apiaries
+[Beekeeping September 2015: Dormice - rare but unwelcome visitors to apiaries
+](/publications/dormice-rare-but-unwelcome-apiary-visitors)
