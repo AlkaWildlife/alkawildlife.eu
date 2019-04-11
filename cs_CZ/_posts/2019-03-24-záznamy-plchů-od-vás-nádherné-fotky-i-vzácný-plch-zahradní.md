@@ -9,7 +9,12 @@ description: >-
   našeho nejvzácnějšího plcha, plcha zahradního. 
 date: '2016-05-22'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: >-
+      /news/records-of-edible-dormouse-from-you-beautiful-photos-and-images-of-rare-garden-dormouse
+    title: >-
+      Records of dormice from you - beautiful photos and images of rare garden
+      dormice
 category: news
 layout: news
 ---
@@ -37,8 +42,8 @@ Kateřina Poledníková 606598903
 
 katerina.polednikova-zavinac-alkawildlife.eu
 
-
-
-Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr). Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr).
+ Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+ Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
