@@ -1,52 +1,55 @@
 ---
 title: Regulace norka amerického v NP České Švýcarsko
 published: true
-subtitle: Regulace norka amerického v NP České Švýcarsko a jejím okolí
+subtitle: >-
+  Regulation of American mink in Bohemian Switzerland National Park and its
+  surroundings
 registration_no: '1791163'
 funding: |-
-  Operační program životní prostředí
+  Operational Program Environment 
 
-  (Evropská Unie a Ministerstvo životního prostředí České republiky)
+  (European Union and Ministry of Environment of the Czech Republic)
 
   ![](/media/banner-opzp_erdf_cmyk.jpg)
 
-  Podporováno z Evropského fondu pro regionální rozvoj
+  Supported by the European Regional Development Fund
 from: 2010-05
 to: 2012-12
 contacts:
   - name: Václav Beran
-species: norek americký
-area: Národní park České Švýcarsko a jeho okolí
+species: American mink
+area: Bohemian Switzerland National Park and the surrounding areas
 tags:
-  - norek americký
+  - American mink
   - management
 countries:
   - CZ
 description: >-
-  Cílem projektu je zmapování současného výskytu a regulace populace norka
-  amerického na celém území národního parku, a také v jeho okolí, zejména v
-  povodí toků, které tečou do národního parku.
+  The aim of the project was to map the occurrence of the American mink and
+  regulate its population throughout the national park. The project also
+  focussed on surrounding areas, especially in the river basin flowing into the
+  park.
 ---
-# Cíl projektu
+# Project aim
 
-Norek americký (_Mustela vison _Schreber) patří k nepůvodním druhům fauny savců na území České republiky. Jako zavlečený druh představuje nebezpečí pro původní faunu drobných a středních obratlovců Evropy. V dnešní době se nachází již na velké části území České republiky. V NP České Švýcarsko byla jeho přítomnost poprvé zjištěna v zimě roku 2009 při sčítání vyder na sněhu. Poté došlo k jednání se Správou Národního parku České Švýcarsko, jehož výsledkem byla smlouva o spolupráci při regulaci norka amerického na území parku a návrh projektu. Cílem projektu je zmapování současného výskytu a regulace populace norka na celém území národního parku, a také v jeho okolí, zejména v povodí toků, které tečou do národního parku. 
+American mink (_Neovison vison_) belongs to the non-native species of mammal fauna in the Czech Republic. As an introduced species, it represents a danger to the original fauna of Europe's small and medium vertebrates. Nowadays, it can be found in a significant amount of the Czech Republic. In the Bohemian Switzerland National Park, its presence was first discovered in the winter of 2009, during a project to count otters in the snow. Thereafter, negotiations were held with the Administration of the Bohemian Switzerland National Park, which resulted in a contract of cooperation regarding the regulation of the American mink in the park and the development of this project. The aim of the project is to map the current occurrence and regulation of the mink population throughout the national park as well as in its surroundings, especially in the river basin flowing into the national park.
 
-# Národní park České Švýcarsko
+# Bohemian Switzerland National Park
 
-Národní park České Švýcarsko se nachází v okrese Děčín v oblasti, kde Labe opouští Českou republiku a vtéká do Německa. Hlavním předmětem ochrany jsou unikátní skalní města a soutězky a na ně vázaná specifická flora a fauna. Oblast tvoří z největší části křídové druhohorní sedimenty. Pozdější sopečná činnost rozlámala až 1 km mocnou pískovcovou desku soustavou zlomů. Po další milióny let byla tvářnost krajiny modelována nejrůznějšími erozivními silami. K základním tvarům území patří údolí tvaru soutěsek a kaňonů, obklopené věžemi a masivy místy tvořícími skalní města. Kaňon Labe mezi Děčínem a Hřenskem představuje jedinečný přírodní útvar. Mezi důležité přítoky patří říčky Kamenice a Křinice. Vodní toky často vynikají svojí kvalitou a neregulovanými koryty. Druhově bohatá ichtyofauna je tvořena jak druhy z cejnového pásma (které žijí v Labi), tak druhy pstruhového a lipanového pásma. Losos obecný se navrátil po mnoha letech a stále jde o jedinou lokalitu v ČR. Z dalších zvláště chráněných druhů ryb zde žije vranka obecná. Stále početné jsou ještě populace raka říčního a vzácně se zde vyskytuje i kriticky ohrožený rak kamenáč. Mezi další druhy ohrožené predací norka amerického patří řada druhů obojživelníků, např. skokani zelení, hnědí či ostronosí, čolci velcí, horští a obecní. Z plazů jsou to především užovky obojkové. Ke zranitelným druhům ptákům patří skorec vodní, konipas horský nebo ledňáček. 
+Bohemian Switzerland National Park is located in the district of Decin in the area where the Elbe leaves the Czech Republic and flows into Germany. The main subject of protection are unique rock towns and competitions and specific flora and fauna bound to them. The area consists mostly of Cretaceous Mesozoic sediments. Later volcanic activity broke up to 1 km thick sandstone slab with a system of faults. For millions of years, the landscape has been modeled by a variety of erosive forces. The basic shapes of the area include a valley of gorges and canyons, surrounded by towers and massifs, forming rock towns. The Labe Canyon between Děčín and Hřensko represents a unique natural formation. Important tributaries include the Kamenice and Křinice streams. Watercourses often excel in quality and unregulated channels. The species-rich ichthyofauna is made up of both bream species (which live in the Elbe) and trout and grayling species. Salmon has returned after many years and is still the only locality in the Czech Republic. Of the other specially protected fish species, the European bullhead lives here. There are still numerous populations of crayfish, and rarely, there is also a critically endangered stone crayfish. Other species of endangered American mink include a number of amphibian species, such as green frogs, brown or ostrichos, great newts, mountain and municipal. The reptiles are mainly grass snake. Vulnerable species of birds include dipper, mountain wagtail or kingfisher.
 
-# Metody
+# Methods
 
-V projektu byly použity ověřené metody, které jsme použili a testovali v předchozím projektu Regulace norka amerického na Vysočině, navíc používáme pro monitoring norků také fotopasti. 
+The project used proven methods, which we used and tested in the previous project Regulation of American Mink in Vysočina, and we also use photo traps for monitoring mink.
 
-## Odchyt 
+# Capture
 
-Regulace místní populace norků byla prováděna metodou opakovaných odchytů volně žijících zvířat. Pro odchyt byly použity živochytné sklopce. Živochytné pasti jsou designovány a instalovány tak, aby maximalizovaly odchyt norků a minimalizovaly odchyt jiných druhů živočichů. 
+The regulation of the local population of mink was carried out by the method of repeated capture of wild animals. The trapping was used for trapping. Catch traps are designed and installed to maximize mink capture and minimize trapping of other animal species.
 
-## Monitoring
+# Monitoring
 
-Výskyt norků byl monitorován pomocí monitorovacích raftů a fotopastí. Monitorovací rafty jsou plovoucí plochy, kde je umístěn měkký trvale vlhký substrát, na kterém zvířata po přeběhnutí zanechají stopu. Fotopasti jsou fotografické přístroje, které se spustí na základě informace z tepelného čidla.
+The occurrence of American mink was monitored by monitoring rafts and photo traps. Surveillance rafts are floating areas where a soft, permanently moist substrate is placed on which the animals leave a trail. Photo traps are photographic devices that are triggered by information from the thermal sensor.
 
 ![monitorovací raft ](/media/p1020869_610.jpg "monitorovací raft")
 
-_Monitorovací raft pro sledování norka amerického_
+_Raft used for monitoring American mink_
