@@ -1,116 +1,73 @@
 ---
-title: 'Sysli pro krajinu, krajina pro sysly'
+title: 'Sousliks for the landscape, landscape for the Sousliks'
 published: true
-subtitle: 'Sysli pro krajinu, krajina pro sysly'
+subtitle: Monitoring and supporting the population Sousliks in South Moravia
 funding: >-
-  Program: [Interreg V-A Slovenská republika – Česká republika
-  ](https://www.sk-cz.eu/sk/)
+  Programme: [Interreg V-A Slovak Republic - Czech
+  Republic](https://www.sk-cz.eu/sk/)
 
 
-  Spoločne bez hraníc / Společně bez hranic
+  Together without borders / Together without borders
 
 
   ![](/media/logo_irrva_2014-20_610.jpg)
 from: 2018-02
 to: 2020-01
 partners: >-
-  ALKA Wildlife, o.p.s. (vedoucí partner)
+  ALKA Wildlife, o.p.s. (Main partner)
 
 
-  [DAPHNE – Inštitút aplikovanej ekológie ](http://daphne.sk/)(hlavní
-  přeshraniční partner)
+  [DAPHNE – Inštitút aplikovanej ekológie ](http://daphne.sk/)(Main cross-border
+  partner)
 
 
-  [Ekocentrum Trkmanka, p.o.](https://www.ekocentrum-trkmanka.com/)
+  [Trkmanka Eco-Centre](https://www.ekocentrum-trkmanka.com/)
 
 
-  [Národná zoologická záhrada Bojnice](https://zoobojnice.sk/)
+  [Bojnice national zoo](https://zoobojnice.sk/)
 contacts:
   - name: Kateřina Poledníková
-species: sysel obecný
+species: European souslik
 tags:
-  - sysel obecný
-  - management
-  - výzkum
+  - European souslik
+  - Management
+  - Research
 countries:
   - CZ
   - SK
-description: "Sysel obecný je ohrožený druh, jeden z\_nejvzácnějších savců Evropy. V\_současnosti je znám z\_programového území jen z\_24 izolovaných lokalit (roztroušeně v\_Trenčianském, Trnavském a\_Jihomoravském kraji). Cílem projektu je přispět k\_záchraně tohoto druhu na úrovni celého programového území komplexním souborem aktivit. Projekt přispívá ke zlepšení životního prostředí obyvatel regionu. Projekt také cílí na návštěvníky regionu, kterým bude sysel představen jako zástupce místní přírody a\_symbol zachovalé stepní zemědělské krajiny."
+description: >-
+  The aim of this project is to contribute to the rescue of the souslik, across
+  the Czech and Slovak republics. It will include a multitude of activities
+  including: monitoring species in known areas, identifying new areas for
+  potential colonies, improving the environment for the sousliks, providing
+  education and further understanding of the need to protect the sousliks to
+  local landowners and villages and target visitors to souslik regions to
+  promote their conservation.
 ---
-# Cíl projektu
+# Project aims
 
-Sysel obecný je ohrožený druh, jeden z nejvzácnějších savců
-Evropy. V současnosti je znám z programového území jen z 24 izolovaných
-lokalit (roztroušeně v Trenčianském, Trnavském a Jihomoravském
-kraji). Cílem projektu je přispět k záchraně tohoto druhu na úrovni
-celého programového území komplexním souborem aktivit: výzkum,
-monitoring, realizace opatření na podporu druhu i jeho prostředí,
-osvěta, navázání kontaktů, přenos zkušeností, předání podkladů státní
-správě pro nastavení priorit. Vytvořeny budou soubory doporučených
-opatření, nástroj na sdílení dat. Projekt přispívá ke zlepšení životního
-prostředí obyvatel regionu. Projekt také cílí na návštěvníky regionu,
-kterým bude sysel představen jako zástupce místní přírody a symbol
-zachovalé stepní zemědělské krajiny.
+The European Ground Squirrel, also known as European souslik or simply souslik, is an endangered species and one of Europe's rarest mammals. Currently, only 24 isolated localities are known from the programme area (scattered across the Trenčín, Trnava and South Moravian regions). 
+
+The aim of the project is to contribute to the rescue of the souslik across the programme area through a comprehensive set of activities. These will include: research, monitoring, implementation of measures to support the species and its environment, education, establishing contacts, transferring experience and sharing documents with the state administration advising on conservation priorities. Also, recommendations for action, a data sharing tool, will be created. The project will contribute to improving the environment for the region's inhabitants. The project will also target visitors to the region to whom the sousliks will be presented as a representative of the local nature and a symbol of a well-preserved steppe agricultural landscape.
 
 ![](/media/img_2907v_900.jpg "sysel obecný")
 
-# Aktivity projektu
+# Project activity
 
-Projekt bude realizovat ochranu tohoto druhu komplexně, na několika
-úrovních, v obou zemích zrcadlově. Nezbytné jsou výzkumné aktivity,
-mapování a monitoring populací, jejichž cílem je sběr chybějících dat
-pro následné nastavení priorit a efektivních opatření. V obou zemích
-bude probíhat mapování výskytu a hledání neznámých kolonií syslů,
-monitoring stavu známých kolonií, na Slovensku také výzkum genetické
-diversity syslích populací a studie prostředí a propojenosti vhodného
-prostředí v krajině. Všechny poznatky se pak propojí v komplexní analýze
-životaschopnosti populace.
+The project will be mirrored in both countries with the aim to provide complex protection of the species. Research, mapping and population monitoring will be required to capture missing data for subsequent prioritisation and effective action. In both countries, mapping the occurrence and searching for unknown colonies of sousliks will be carried out alongside monitoring the current known colonies. The project will also research the genetic diversity of the populations of sousliks, study the environment they inhabit and interrogate the interconnections between potential suitable environment across the countryside between populations. Subsequently, all knowledge will then be combined in a comprehensive analysis of population viability.
 
-Fungující opatření ke zlepšení stavu a předcházení zhoršení stavu
-populací sysla obecného existují. Proto budou dle aktuálních priorit
-u několika kolonií syslů realizována konkrétní opatření, která jsou
-zaměřena buď na podporu biotopu sysla obecného (kosení, sběr a výsev
-potravně významných bylin, vysekávání dřevin a náletu, bránění luk,
-výsadba ovocných stromů, roubování stromů, usměrnění pastvy dobytka)
-nebo na přímou podporu kolonií syslů (doplnění jedinců, ochrana před
-predátory, přikrmování, vybudování chovných zařízení). Opatření budou
-realizována jak pracovníky projektu, tak ve spolupráci s veřejností
-a formou komunikace a spolupráce s vlastníky pozemků (zemědělci). Stejně
-důležité jako vlastní realizace opatření je medializace problému, osvěta
-laické i odborné veřejnosti, osvěta a spolupráce s vlastníky pozemků
-a místním obyvatelstvem, protože způsob hospodaření v krajině je zcela
-zásadní pro budoucí vývoj populace sysla obecného. Každý obyvatel
-regionu, který vlastní zahrádku, sad, vinici, políčko může pomoci
-k záchraně sysla či naopak jej svými aktivitami hubit. Osvěta bude
-probíhat jak pasivně (přednášky, exkurze, propagační akce, publikované
-materiály, webové stránky, informační tabule, výukové programy), tak
-aktivně zapojením veřejnosti do konkrétních aktivit.
+Functioning measures to improve the condition, and prevent deterioration, of souslik populations currently exist. In some areas, these measures will be implemented, focussing around two key support methods. The first includes indirect support of the sousliks through habitat maintenance. This could include actions such as mowing grass, collection and sowing of calorific plants and herbs, tree maintenance including planting fruit trees and grafting existing trees, preservation of meadows and regulating pasture grazing. Secondly, measures such as replenishment of individuals, protection against predators, feeding, and building breeding facilities will provide direct support to the sousliks. The measures will be implemented by project staff, through cooperation with the public and by communication and cooperation with landowners/farmers.
 
-V průběhu celého projektu a průřezově všemi aktivitami bude docházet
-k přenosu informací a zkušeností, a to jak mezi samotnými partnery
-projektu, tak k přenosu informací k pracovníkům státní správy, na všech
-úrovních – od místních úřadů až po krajské a národní správy. Navození
-spolupráce aktérů bude probíhat formou pracovních schůzek, exkurzí,
-odborných zpráv, brožur, realizací společné konference, vytvořením
-souborů doporučených opatření, vytvořením společné online mapové
-aplikace s výskytem sysla.
+As well as the implementation of these protective measures, the project will focus on increasing media coverage of this endangered species. Education of the professional and general public is vital for each individual local population of sousliks. All members of a community who owns a garden, orchard or vineyard can help save the souslik or, on the contrary, kill it with their activities. The education and cooperation of landowners is also crucial as the way the local landscape is managed can directly influence the future development of the souslik population. Therefore, education initiatives will take place both passively through lectures, excursions, promotional events, published materials, websites, information boards, teaching programs and actively through involving the public and landowners in specific activities.
 
-Sysel obecný je dle české legislativy zvláště chráněným druhem
-v nejpřísnější kategorii kriticky ohrožený druh. Dle slovenské
-legislativy jde o chráněný druh evropského významu, který má status "EN"
-podle manuálu k péči o území NATURA 2000. V České republice se jedná
-o jeden z mála druhů, které mají schválený záchranný program (Záchranný
-program pro sysla obecného v České republice). Několik aktivit projektu
-přímo naplňuje plán opatření Záchranného programu- obnova lokalit s vhodným biotopem,
-demografický výzkum, osvěta zaměřená na vlastníky pozemků, vytvoření
-katalogu lokalit. Na Slovensku koncepční materiál zaměřený přímo na
-tento druh na národní úrovni neexistuje, ale výstupy projektu budou
-sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
+Throughout the project, information and experience of project activities will be shared between the project partners.  Partner activity will take the form of workshops, excursions, reports, brochures, a joint conference, creation of recommended measures and the creation an online souslik occurrence map application. Data and other information generated from the project will be, in turn, transferred to government officials from local authorities up to regional and national administrations.
 
-# Aktuality
+According to the Czech legislation, the European souslik is a critically endangered species and specifically, a protected species in the highest category. On the other hand, according to the Slovak legislation, it is a protected species of European significance, which has the status of "EN" according to the manual for the care of NATURA 2000 territory. Several activities of this project directly fulfil the measures set out in the Czech Rescue Programme such as restoration of sites with a suitable habitat, demographic research, education aimed at landowners and the creation of a catalogue of sites. In Slovakia, however, conceptual material focused directly on this species does not exist at the national level, but the project outputs will serve as a basis for the creation of a future Slovak Rescue Programme.
 
-[Svatý Martin přiveze "syslí" víno i z nové vinařské obce](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
+# News
 
-[Nová známka sysli v sadu](/news/nová-známka-sysli-v-sadu)
+[Saint Martin will bring 'souslik' wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
 
-[Infostánek se syslem ve Hnanicích](/news/infostanek-se-syslem-ve-hnanicich)
+[New 'Souslik friendly orchard' stamp](/news/nová-známka-sysli-v-sadu)
+
+[Information stand about sousliks in Hnanice](/news/infostanek-se-syslem-ve-hnanicich)
