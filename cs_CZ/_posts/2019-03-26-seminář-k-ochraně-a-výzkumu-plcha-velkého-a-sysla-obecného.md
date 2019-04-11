@@ -8,7 +8,12 @@ description: >-
   velkého a sysla obecného, který se bude konat na Přírodovědecké fakultě UK. 
 date: '2015-11-03'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: >-
+      /news/seminar-on-conservation-and-research-of-edible-dormouse-and-european-souslik
+    title: >-
+      Seminar on conservation and research of Edible dormouse and European
+      souslik
 category: news
 layout: news
 ---
