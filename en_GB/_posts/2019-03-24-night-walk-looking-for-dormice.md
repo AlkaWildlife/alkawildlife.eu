@@ -1,38 +1,37 @@
 ---
-title: Za plchem k ledovým slujím
+title: Night walk looking for dormice
 published: true
 image: /media/plsi-fotky_pa6.jpg
 listing_thumbnail: /media/plsi-fotky_pa6_v.jpg
 description: >-
-  Srdečně Vás zveme na další akci: procházka nočním lesem za tajemným plchem
-  velkým v národním parku Podyjí. 
+  We cordially invite you to our next event - a night walk through the woods in
+  the Podyjí National Park.
 date: '2016-07-05'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/za-plchem-k-ledovým-slujím
+    title: Za plchem k ledovým slujím
 category: news
 layout: news
 ---
-Srdečně Vás zveme na tématické setkání - procházka nočním lesem za tajemným plchem velkým a sovami. 
+We cordially invite you to our next event – a night walk through the forest looking for the mysterious edible dormouse.
 
-Kdy: 9. 7. 2016
+**When:** 9. 7. 2016
 
-Kde: Čížov
+**Where:** Čížov
 
-Typ akce: Exkurze
+**Event type:** Excursion
 
-Provází: Peter Adamík
+**Guide:** Peter Adamík
 
-Sraz:19.30 Čížov, před budovou Návštěvnického střediska Správy NP Podyjí (auta, prosím, odstavte na parkovišti před obcí) 
+**Meeting:** At 19.30 in Čížov, in front of the Visitor Center of the Podyjí NP Administration Centre (cars, please park in the parking lot in front of the village)
 
-Trasa: Čížov - Obelisk nad Ledovými slujemi a zpět, 6 km středně náročným nočním terénem s návratem nejpozději do 23.00 
+**Route:** Čížov - Obelisk above Ledové slujemi and back, 6 km moderately difficult night terrain with return no later than 23.00
 
-Doporučené vybavení: pevná obuv, repelent 
+**Recommended equipment:** durable shoes, insect repellent, headlamp or other light source
 
-Nutno s sebou: čelovou lampu nebo jiný zdroj světla
+More information about the ‘Extending the Dormouse and Determining Its Habitat in the Czech Republic' project can be found [here](/projects/expanding-the-czech-republic-dormouse-population).
 
-Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr).
-
-Podpořeno grantem z Islandu, Lichtenštejnska a Norska. 
-Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí. 
+Supported by a grant from Iceland, Liechtenstein and Norway. This activity is implemented with financial support from the EEA funds 2009-2014 and the Ministry of the Environment. Its content is solely the responsibility of ALKA Wildlife, ops and in no way can be regarded as the opinion of the donor or the Ministry of the Environment.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
