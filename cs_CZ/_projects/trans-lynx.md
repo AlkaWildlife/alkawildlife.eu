@@ -88,5 +88,6 @@ Plakát [Já rys - jeden rok v životě rysa](/media/plakat_rys_german_www.pdf) 
 
 Odborná publikace [Výskyt středně velkých a velkých lesních savců v jižních a jihozápadních Čechách (Carnivora, Artiodactyla, Lagomorpha)](/media/043_064_Minarikova.pdf)
 
-![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}Rysí mapa
+![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}[Rysí mapa](http://map.translynx.eu)
+
 Mapová aplikace zobrazuje fotografie zvířat, zaznamenaných na fotopasti v rámci projektů 3Lynx, Trans-Lynx a rakouského Luchsprojekt Osterreich Nordwest v oblasti Šumavy a širšího Pošumaví na území České republiky, Bavorska a Rakouska.
