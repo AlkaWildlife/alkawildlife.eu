@@ -1,5 +1,5 @@
 ---
-title: 'Ministr brabec: trávení zvířat je nelidské a trestné'
+title: 'Ministr Brabec: trávení zvířat je nelidské a trestné'
 published: true
 image: /media/ill_zabite_vydry_do_2016.jpg
 listing_thumbnail: /media/ill_zabite_vydry_do_2016_274.jpg
@@ -17,7 +17,7 @@ TISKOVÁ ZPRÁVA MINISTERSTVA ŽIVOTNÍHO PROSTŘEDÍ
 
 ## Ministr Brabec: Trávení zvířat je nelidské a trestné, přesto je to v ČR velký problém
 
-**MŽP ve spolupráci s Policií ČR, ČIŽP a nevládními organizacemi do konce letošního roku vypracuje Národní strategii pro boj s nelegálním zabíjením volně žijících živočichů zaměřenou především na otravy živočichů. Trávení a další způsoby nelegálního zabíjení zvířat představují celosvětový problém, který se významně týká i ČR. Lidé, kteří se jej dopouštějí, nejen překračují zákony a předpisy v oblasti ochrany přírody, ale způsobují i obecné ohrožení, které je kvalifikováno jako trestný čin. Ministr Brabec to konstatoval v Telči na tiskové konferenci k tomuto žhavému tématu obecné ochrany přírody.** 
+**Praha 23.1.2017: MŽP ve spolupráci s Policií ČR, ČIŽP a nevládními organizacemi do konce letošního roku vypracuje Národní strategii pro boj s nelegálním zabíjením volně žijících živočichů zaměřenou především na otravy živočichů. Trávení a další způsoby nelegálního zabíjení zvířat představují celosvětový problém, který se významně týká i ČR. Lidé, kteří se jej dopouštějí, nejen překračují zákony a předpisy v oblasti ochrany přírody, ale způsobují i obecné ohrožení, které je kvalifikováno jako trestný čin. Ministr Brabec to konstatoval v Telči na tiskové konferenci k tomuto žhavému tématu obecné ochrany přírody.** 
 
 „_Trávení zvířat je velmi závažným a celorepublikovým problémem, který dlouhodobě ohrožuje řadu živočišných druhů, včetně těch chráněných. Týká se sice zejména šelem, jakými jsou vydra, rys, vlk, ale také dravců, otrávená návnada však může zabít i domácího mazlíčka na procházce nebo ohrozit člověka, zejména naše děti. Zvířata v naší krajině jsou nejčastěji zabíjena nelegálním jedem karbofuranem, ten je nejenom zabíjí, ale způsobuje i naprosto nehumánní týrání otrávených živočichů. I když tyto činy znamenají porušení zákona o ochraně přírody a krajiny a hrozí za ně přísné tresty, případů pytláctví a trávení živočichů ve volné přírodě, a tedy i těch zvláště chráněných druhů, rozhodně neubývá,_“ konstatuje ministr Brabec.
 
