@@ -18,8 +18,7 @@ TISKOVÁ ZPRÁVA ALKA WILDLIFE, O.P.S.
 
 ## Hledá se plch velký
 
-**Lidéřovice 15. 7. 2016 V loňském a letošním roce probíhá mapování výskytu plcha velkého v České republice. Řada údajů o výskytu tohoto vzácného a ohroženého druhu přitom přichází od veřejnosti. Ta se může zapojit posíláním svých pozorování a fotografií odborníkům z ALKA Wildlife a Univerzity Palackého v Olomouci. Plši žijí v listnatých lesích, nejraději mají bučiny a doubravy, řada z nich ale obývá i lidská obydlí – chaty, chalupy, kůlny, včelí úly - a tak se s nimi lidé mohou setkat. 
-**
+**Lidéřovice 15. 7. 2016: V loňském a letošním roce probíhá mapování výskytu plcha velkého v České republice. Řada údajů o výskytu tohoto vzácného a ohroženého druhu přitom přichází od veřejnosti. Ta se může zapojit posíláním svých pozorování a fotografií odborníkům z ALKA Wildlife a Univerzity Palackého v Olomouci. Plši žijí v listnatých lesích, nejraději mají bučiny a doubravy, řada z nich ale obývá i lidská obydlí (chaty, chalupy, kůlny, včelí úly) a tak se s nimi lidé mohou setkat.** 
 
 Plši jsou známí jako malé „noční veverky“ s huňatým ocasem a velkýma očima, které je možné vidět v ptačí budce, včelím úlu, zahradním domku, nebo v noci budí všechny okolo sebe na víkendové chalupě. Někdy pozlobí hlukem, jindy přehryzanou elektroinstalací. Pokud na něj ale narazíte v noci v lese, poskytnou Vám úžasný zážitek jako někde v pralese: pobíhají vysoko v korunách stromů, loupou semena stromů, jejichž zbytky na Vás padají a intenzivně na sebe pískají.
 
