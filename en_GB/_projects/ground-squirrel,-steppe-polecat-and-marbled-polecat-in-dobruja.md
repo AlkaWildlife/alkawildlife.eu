@@ -1,5 +1,5 @@
 ---
-title: 'Ground squirrel, steppe polecat and spotted polecat in Dobruja'
+title: 'Ground squirrel, steppe polecat and marbled polecat in Dobruja'
 published: true
 funding: Milvus Group
 from: 2010-04
