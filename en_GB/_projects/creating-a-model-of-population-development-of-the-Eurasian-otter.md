@@ -1,5 +1,5 @@
 ---
-title: Creating a model of population development of the European otter
+title: Creating a model of population development of the Eurasian otter
 published: true
 subtitle: >-
   Finding missing data on the biology and ecology of Eurasian otters: Creating a
