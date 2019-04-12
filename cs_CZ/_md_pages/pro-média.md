@@ -37,9 +37,9 @@ Tereza Mináriková / tereza.minarikova@alkawildlife.eu / 724 706 806
 
 26.1.2017: [Zima umožnila spočítat vydry v Orlických horách](/news/zima-umožnila-spočítat-vydry-v-orlických-horách)
 
-Ministr Brabec: Trávení zvířat je nelidské a trestné
+23.01.2017: [Ministr Brabec: Trávení zvířat je nelidské a trestné](/news/ministr-brabec-trávení-zvířat-je-nelidské-a-trestné)
 
-Důkaz o rozmnožování rysů v Novohradských horách
+30.11.2016: [Důkaz o rozmnožování rysů v Novohradských horách](/news/důkaz-o-rozmnožování-rysů-v-novohradských-horách)
 
 Sysli na vinici se šíří. Známku získali už i vinaři z Hnanic
 
