@@ -56,8 +56,6 @@ description: >-
   projektu Trans - Lynx je zajistit lepší ochranu těchto zvířat formou
   spolupráce odborníků z Německa i ČR.
 ---
-
-
 Šumavsko-bavorsko-rakouská populace rysa ostrovida je naší největší populací této vzácné šelmy, přesto je ohrožená řadou negativních vlivů. Hlavním cílem projektu Trans - Lynx bylo zajistit lepší ochranu těchto zvířat formou spolupráce odborníků z Německa i ČR. 
 
 # Aktivity
@@ -90,8 +88,5 @@ Plakát [Já rys - jeden rok v životě rysa](/media/plakat_rys_german_www.pdf) 
 
 Odborná publikace [Výskyt středně velkých a velkých lesních savců v jižních a jihozápadních Čechách (Carnivora, Artiodactyla, Lagomorpha)](/media/043_064_Minarikova.pdf)
 
-![](/media/map_translynx_eu.jpg)
-
-{: .wysiwyg-float-left}[Rysí mapa ](<Tato mapová aplikace zobrazuje fotografie zvířat, zaznamenaných v rámci projektů 3Lynx, Trans-Lynx a rakouského Luchsprojekt Osterreich Nordwest v oblasti Šumavy a širšího Pošumaví na území České republiky, Bavorska a Rakouska.>)
-
+![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}Rysí mapa
 Mapová aplikace zobrazuje fotografie zvířat, zaznamenaných na fotopasti v rámci projektů 3Lynx, Trans-Lynx a rakouského Luchsprojekt Osterreich Nordwest v oblasti Šumavy a širšího Pošumaví na území České republiky, Bavorska a Rakouska.
