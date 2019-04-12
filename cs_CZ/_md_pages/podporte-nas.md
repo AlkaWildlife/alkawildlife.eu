@@ -3,6 +3,7 @@ title: Podpořte nás
 published: true
 permalink: /o-nas/podporte-nas
 long_title: Jak nás můžete podpořit?
+description: "Pokud Vás naše činnost zaujala a\_je Vám sympatická, můžete nás\npodpořit věcně či finančně."
 listed: true
 position: 3
 layout: two_columns_page
