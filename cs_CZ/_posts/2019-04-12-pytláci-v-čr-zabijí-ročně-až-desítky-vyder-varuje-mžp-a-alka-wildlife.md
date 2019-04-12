@@ -12,11 +12,9 @@ lang_alternatives:
 category: news
 layout: news
 ---
-
-
 TISKOVÁ ZPRÁVA MINISTERSTVA ŽIVOTNÍHO PROSTŘEDÍ, ALKA WILDLIFE, POLICIE ČR A AOPK ČR
 
-**Praha, 30. ledna 2015 – Až desítky vyder ročně podle výzkumů a odhadů společnosti ALKA Wildlife zabijí každý rok pytláci v České republice. U dalších chráněných druhů je číslo zabitých či otrávených zvířat ještě vyšší. V případě dravců evidují ochránci přírody dle internetových databází přes 110 lokalit, kde od roku 2006 bylo otráveno těchto chráněných ptáků jedem karbofuranem.**
+**Praha, 30. ledna 2015: Až desítky vyder ročně podle výzkumů a odhadů společnosti ALKA Wildlife zabijí každý rok pytláci v České republice. U dalších chráněných druhů je číslo zabitých či otrávených zvířat ještě vyšší. V případě dravců evidují ochránci přírody dle internetových databází přes 110 lokalit, kde od roku 2006 bylo otráveno těchto chráněných ptáků jedem karbofuranem.**
 
 _„Pytláctví chráněných druhů je velmi závažným a celorepublikovým problémem, který dlouhodobě a závažně ohrožuje řadu chráněných druhů. Týká se zejména šelem, jako jsou vydra, rys, vlk, medvěd, ale i dravců. Ti bývají nejčastěji tráveni nelegálním jedem karbofuranem. U šelem to je zastřelení nebo chycení do želez. I když všechny tyto způsoby jsou považovány za porušení zákona o ochraně přírody a krajiny a hrozí za ně přísné tresty, případů pytláctví a trávení zvláště chráněných zvířat neubývá_,“ vysvětluje náměstek ministra životního prostředí Vladimír Dolejský. Ukazuje to počet dravců, kteří od roku 2006 uhynuli po otravě karbofuranem. V databázi, která je veřejně přístupná na internetu, byli nalezení otrávení dravci zaznamenáni na 112 lokalitách, z toho na 58 místech za posledních 5 let.
 
