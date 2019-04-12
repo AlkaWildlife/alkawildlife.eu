@@ -1,6 +1,6 @@
 ---
 title: Pro média
-published: false
+published: true
 permalink: /o-nas/pro-media
 description: |
   Kontakty pro média, vydané tiskové zprávy společnosti
