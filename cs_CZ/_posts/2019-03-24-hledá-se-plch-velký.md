@@ -14,7 +14,7 @@ lang_alternatives:
 category: news
 layout: news
 ---
-TISKOVÁ ZPRÁVA ALKA WILDLIFE, O.P.S.
+TISKOVÁ ZPRÁVA ALKA WILDLIFE
 
 ## Hledá se plch velký
 
