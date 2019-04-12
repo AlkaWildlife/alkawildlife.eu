@@ -12,33 +12,30 @@ lang_alternatives:
 ---
 # Kontakty pro média
 
-adresa: ALKA Wildlife o.p.s. / Lidéřovice 62, 380 01  Peč
-
-
+adresa: ALKA Wildlife o.p.s.
+ / Lidéřovice 62, 380 01  Peč
 
 Kateřina Poledníková / katerina.polednikova@alkawildlife.eu / 606598903
 
 Tereza Mináriková / tereza.minarikova@alkawildlife.eu / 724 706 806
 
-
-
 # Vydané tiskové zprávy
 
-07.12.2018: Myslivci a rybáři žádají návrat ke krutým středověkým metodám
+07.12.2018: [Myslivci a rybáři žádají návrat ke krutým středověkým metodám](/news/myslivci-a-rybáři-žádají-návrat-ke-krutým-středověkým-metodám)
 
-Svatý Martin přiveze "syslí" víno i z nové vinařské obce
+08.11.2018: [Svatý Martin přiveze "syslí" víno i z nové vinařské obce](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
 
-Černý říjen pro vydry
+03.11.2018: [Černý říjen pro vydry](/news/černý-říjen-pro-vydry)
 
-Čtrnáct sokolích mláďat v elektrárnách ČEZ
+26.06.2018: [Čtrnáct sokolích mláďat v elektrárnách ČEZ](/news/čtrnáct-sokolích-mláďat-v-elektrárnách)
 
-Dva sokolí kluci a jedna holka v teplárně Trmice
+11.05.2018: [Dva sokolí kluci a jedna holka v teplárně Trmice](/news/dva-sokolí-kluci-a-jedna-holka-v-teplárně-trmice)
 
-K ochraně rysa ostrovida se spojí 12 organizací ze 6 zemí
+18.08.2017: [K ochraně rysa ostrovida se spojí 12 organizací ze 6 zemí](/news/k-ochraně-3-evropských-populací-rysa-ostrovida-se-spojí-12-organizací-z-6-zemí)
 
-Střílení vyder v Dolním Rakousku šokovalo okolní státy
+21.04.2017: [Střílení vyder v Dolním Rakousku šokovalo okolní státy](/news/střílení-vyder-v-dolním-rakousku-šokovalo-okolní-státy)
 
-Zima umožnila spočítat vydry v Orlických horách
+26.1.2017: [Zima umožnila spočítat vydry v Orlických horách](/news/zima-umožnila-spočítat-vydry-v-orlických-horách)
 
 Ministr Brabec: Trávení zvířat je nelidské a trestné
 
