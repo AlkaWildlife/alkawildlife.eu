@@ -15,8 +15,7 @@ layout: news
 ---
 TISKOVÁ ZPRÁVA ALKA WILDLIFE 
 
-**Lidéřovice, 26.1.2017 Vydra říční je naše největší šelma žijící v řekách a rybnících. Letošní zima se sněhovou nadílkou a tuhými mrazy umožnila odborníkům spočítat, kolik vyder žije v Orlických horách. Šest dospělých zvířat a dvě mláďata je výsledek, který ukazuje, že populace vyder v CHKO Orlické hory je stabilní a počet odpovídá úživnosti prostředí.
-**
+**Lidéřovice, 26.1.2017 Vydra říční je naše největší šelma žijící v řekách a rybnících. Letošní zima se sněhovou nadílkou a tuhými mrazy umožnila odborníkům spočítat, kolik vyder žije v Orlických horách. Šest dospělých zvířat a dvě mláďata je výsledek, který ukazuje, že populace vyder v CHKO Orlické hory je stabilní a počet odpovídá úživnosti prostředí.**
 
 „_Vydra říční je naše původní šelma, která v minulosti doplatila na lov, znečištění a regulace našich toků. Na našem území byla téměř vyhubena, vracet se začala až v 90.letech 20. století. Dnes je chráněným druhem a od roku 2009 je její ochrana zastřešena celostátním Programem péče, jehož součástí jsou samozřejmě i opatření zaměřená na sledování stavu populace_ \[1],“ uvádí Jitka Větrovcová, koordinátorka tohoto Programu z Agentury ochrany přírody a krajiny ČR (AOPK ČR). 
 
