@@ -24,11 +24,9 @@ _Web: [www.alkawildlife.eu](https://www.alkawildlife.eu)_
 Facebook:
 [facebook.com/AlkaWildlife](https://www.facebook.com/AlkaWildlife)
 
-E-mailové adresy pro všechny níže uvedené osoby jsou ve tvaru: jmeno.primeni@alkawildlife.eu
-
 # Mgr. Kateřina Poledníková
 
-tel: 606 598 903
+tel: 606 598 903 / katerina.polednikova@alkawildlife.eu
 
 * ředitelka společnosti
 * projektový a finanční manažer, vědecký pracovník
@@ -36,53 +34,76 @@ tel: 606 598 903
 * komunikace
 * specializace: demografie, analýzy životaschopnosti populace
 
+
+
 # Mgr. Lukáš Poledník, Ph.D.
 
-tel: 721 113 973
+tel: 721 113 973 / lukas.polednik@alkawildlife.eu
 
 * vedoucí vědecký pracovník
 * odborné vedení studentů
 * posudky na škody způsobené vydrou říční
-* ekologie lasicovitých šelem
 * člen IUCN Otter Specialist Group
-* specializace: potravní analýzy, zpracování gis dat
+* specializace: ekologie savců, potravní analýzy, zpracování gis dat
+
+
 
 # Mgr. Tereza Mináriková
 
-tel: 724 706 806
+tel: 724 706 806 / tereza.minarikova@alkawildlife.eu
 
 * projektový manažer, vědecký pracovník
 * správce Facebooku společnosti
-* ekologie šelem
 * publicita, práce s veřejností a médii
+* specializace: ekologie velkých šelem
 * profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin](https://cz.linkedin.com/in/tereza-mináriková-a6382753)
+
+
 
 # Mgr. Václav Beran
 
-tel: 731 407 839
+tel: 731 407 839 / lutra@email.cz 
 
 * projektový manažer, vědecký pracovník
-* specializace: ornitologie, inventarizační průzkumy obratlovců
-* profesní životopis, zkušenosti a dovednosti viz. profil na [Linkedin ](https://www.linkedin.com/in/václav-beran-5709705a)
+* specializace: ornitologie, inventarizační průzkumy 
+* více na [Linkedin](https://www.linkedin.com/in/václav-beran-5709705a)
+
+
 
 # Fernando Mateos-González
 
+fernandomateos@gmail.com 
+
 * vědecký pracovník
-* zpracování dat
+* analýzy dat
+* vedení a koordinace studentů a dobrovolníků
 * specializace: chování živočichů
+* LinkedIn: [linkedin.com/in/fernandomateosgonzalez](https://www.linkedin.com/in/fernandomateosgonzalez)
+
+
 
 # Hannah Findlay
 
+hannah.findlay14@gmail.com
+
 * vědecký pracovník
 * správce Instagramu společnosti
+* více na [LinkedIn](https://www.linkedin.com/in/hannah-findlay)
+
+
 
 # Štěpán Zápotočný
 
+stepan.zapotocny@alkawildlife.eu
+
 * vědecký pracovník
+* technik
+
+
 
 # Ing. Jan Horáček
 
-tel: 724 299 225
+tel: 724 299 225 / jan.horacek@d1net.cz
 
 * ekonom, finanční manažer
 * administrativa
