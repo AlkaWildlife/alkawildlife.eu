@@ -1,23 +1,41 @@
 ---
-title: Rysí příběhy
+title: Lynx stories
 published: true
-funding: "Beleco, z.s. \n\nprojekt „Propagace záchranných programů zvláště chráněných druhů v\_České republice“ financovaný Ministerstvem životního prostředí\n\n_Projekt byl finančně podpořen v\_grantovém řízení Ministerstva životního prostředí a\_nemusí vyjadřovat stanoviska Ministerstva životního prostředí._"
+funding: >-
+  Beleco, z.s.
+
+
+  A project funded by Ministry of the Environment under the "Promotion of rescue
+  programs of specially protected species in the Czech Republic".
+
+
+  The project was financially supported by the Ministry of the Environment grant
+  proceedings and does not express the opinions of the Ministry of the
+  Environment.
 from: 2016-02
 to: 2016-12
 contacts:
   - name: Tereza Mináriková
     role: vedoucí projektu
-species: rys ostrovid
+species: Eurasian lynx
 tags:
-  - rys ostrovid
-  - osvěta
+  - Eurasian lynx
+  - Public engagement
 countries:
   - CZ
-description: "Cílem projektu je přiblížit lidem život konkrétních rysů z\_jižních a\_západních Čech."
+description: >-
+  The aim of the project is to bring people closer to the life of specific lynx
+  from South and West Bohemia.
 ---
-Rys ostrovid je kriticky ohroženým a zároveň chráněným druhem, pro který je v současnosti připravován program péče. Faktorem, který rysa ostrovida u nás nejvíce ohrožuje, je pytláctví, které je částí veřejnosti stále tolerováno. O biologii rysa ostrovida navíc koluje řada nepravdivých fám a mýtů. Cílem projektu Rysí příběhy je přiblížit lidem život konkrétních rysů z jižních a západních Čech a tím je motivovat k ochraně tohoto druhu. Rysí příběhy byly publikovány formou FB postů a webových aktualit doplněných atraktivními fotografiemi a videy, nejlepší příběhy vyšly také jako tisková zpráva. Součástí projektu bylo i vylepšení[ Rysí mapy](map.translynx.eu/), spolupráce s veřejností na monitoringu rysa a komunikace s myslivci.
+![](/media/3744738_610.jpeg)
 
-# Rysí příběhy
+The Eurasian lynx is a critically endangered and protected species in the Czech Republic. The biggest threat to the Eurasian lynx is poaching, which is still tolerated by the public. In addition, false rumours and myths are circulating about the biology of the Eurasian lynx, giving it a bad reputation to the general public. 
+
+# Project aim
+
+The aim of the 'Lynx Stories' project is to bring people closer to life of specific lynx from South and West Bohemia and to motivate them to protect this species. Stories will be published in the form of Facebook posts and website news updates, with photographs and videos, and the best stories will also be published as press releases. The project also includes improving the [Lynx map](http://map.translynx.eu/), collaborating with the public on lynx monitoring and increasing communication with local hunters.
+
+# Lynx stories
 
 [Spolupráce se vyplatila: nové video rysa, v nové lokalitě](/news/spolupráce-se-vyplatila-video-rysa-v-nové-lokalitě)
 
@@ -44,7 +62,7 @@ Rys ostrovid je kriticky ohroženým a zároveň chráněným druhem, pro kter�
 [Rys Jan z Novohradských hor
 ](/news/rys-jan-z-novohradských-hor)
 
-# Tiskové zprávy
+# Press releases
 
 [30.11.2016: Fotopast přinesla první důkaz o rozmnožování rysa ostrovida v českých Novohradských horách](/news/důkaz-o-rozmnožování-rysů-v-novohradských-horách) 
 
