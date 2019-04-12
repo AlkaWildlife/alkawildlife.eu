@@ -1,39 +1,40 @@
 ---
-title: 'Vytvoření modelu vývoje populace vydry říční '
+title: Creating a model of population development of the European otter
 published: true
 subtitle: >-
-  Zjištění chybějících údajů o biologii a ekologii vydry říční: vytvoření modelu
-  vývoje populace
+  Finding missing data on the biology and ecology of Eurasian otters: Creating a
+  population development model
 registration_no: SP/2D4/16/08
-funding: 'Ministerstvo životního prostředí: program Výzkum a vývoj'
+funding: 'Ministry of Environment: Programme for Research and Development'
 from: 2008-07
 to: 2010-12
 partners: |-
-  ALKA Wildlife, o.p.s. (vedoucí partner)
+  ALKA Wildlife, o.p.s. (Main partner)
 
-  AOPK ČR
+  Nature Conservation Agency of the Czech Republic
 
-  Ústav biologie obratlovců AV ČR, v.v.i.
+  Institute of Vertebrate Biology, Czech Academy of Sciences
 contacts:
   - name: Kateřina Poledníková
-species: vydra říční
-area: Česká republika
+species: Eurasian otter
+area: Czech Republic
 tags:
-  - vydra říční
-  - výzkum
+  - Eurasian otter
+  - Research
 countries:
   - CZ
 description: >-
-  Cílem projektu bylo získat demografické údaje o populaci vydry říční u nás a
-  následně realizovat analýzu životaschopnosti populace.
+  The aim of this project was to obtain demographic data on the population of
+  the Eurasian otter in the Czech Republic and subsequently analyse the
+  viability of the population.
 ---
-# Cíl projektu
+The Eurasian otter was originally extended throughout the Czech Republic. As a result of hunting for fur, hunting, deterioration in water quality and food supply, there was a strong decline in numbers in the 20th century. Because of this rapid decline, the otter was classified as a protected species. Since the late 1980s, there has been a significant increase in the expansion area, which continues. However, this is currently raising doubts about the meaning of otter protection and the creation of a care program for this species. But the Eurasian otter is still exposed to significant risk factors such as traffic growth and illegal hunting. For these reasons, active protection is still in place. 
 
-Vydra říční byla původně rozšířena po celém území České republiky. V důsledku lovu pro kožešinu, lovu, zhoršování kvality vody a potravní nabídky došlo ve 20. století k silnému poklesu početnosti. Z důvodu tohoto rapidního úbytku byla vydra zařazena mezi chráněné druhy. Od konce 80. let pak byl zaznamenán výrazný nárůst areálu rozšíření, který stále pokračuje. Tím však v současnosti narůstají pochybnosti o smyslu ochrany vydry a tvorby programu péče pro tento druh. Ale vydra říční je u nás stále vystavena významným rizikovým faktorům, jako je nárůst dopravy a nelegální lov. Z těchto důvodů je aktivní ochrana stále na místě. Cílem projektu bylo získat demografické údaje o populaci vydry říční u nás, které poslouží jako podklad pro kvantitativní modely životaschopnosti populace. Tyto údaje a modely pomohly porozumět fungování populace; ukázaly, kde jsou rizika pro populaci a jak jsou velká; ukázaly vývoj populace při simulovaných managementových opatření.
+# Project goal
 
-Součástí projektu bylo také nastavení celorepublikového sběru uhynulých jedinců vydry říční, vytvoření informačních kanálů, protokolů a sítě spolupracujících organizací. 
+The aim of the project was to obtain demographic data on the population of the Eurasian otter in the Czech Republic, to serve as a basis for quantitative models of population viability. These data and models have subsequently helped to understand how the population functions; showing where there are risks to the population and how large they are. Another aspect of the project was to set up a nationwide collection of dead otters, create information channels, protocols and a network of cooperating organisations.
 
-# Výstupy projektu
+# Project publications
 
 Větrovcová J., Poledníková K., Poledník L., Hájková P.., Zemanová B., Beran V., Hlaváč V., Mináriková T. (2009): Viability of otter population in the Czech Republic. Poster na mezinárodní konferenci 2nd European Congress of Conservation Biology, Praha. 
 
