@@ -12,7 +12,7 @@ lang_alternatives:
 category: news
 layout: news
 ---
-Stopujeme dál. Ladovská zima nám dovoluje pokračovat, a tak jsme se tentokrát podívali do tradiční stopovací oblasti, na Dačicko. 
+Stopujeme dál. Ladovská zima nám dovoluje pokračovat, a tak jsme se tentokrát podívali do tradiční stopovací oblasti, na Dačicko. 
 
 Dačicko se nachází na jižním konci Českomoravské vrchoviny. Jedná se o horní povodí Moravské Dyje, kraj plný drobných rybníků. Rybníky jsou tady také hlavním prostředím pro vydry. Při letošních mrazech jsme byli zvědaví, jak si vydry poradí s opravdu tvrdým ledem a kde vlastně najdou nějaký zdroj potravy.
 
@@ -22,7 +22,8 @@ Z několika míst v republice dostáváme zprávy o tom, že lidé pozorují ve 
 
 ![Vydra pod mostem](/media/vydra1_610.jpg "Vydra pod mostem, autor Jan Schwedler")
 
-_jedna z fotografií od veřejnosti, autor: Jan Schwedler_
+_jedna z fotografií od veřejnosti, autor: Jan Schwedler
+_
 
 A jak tedy dopadlo naše stopování? Kolega Gašpar Čamlík taky potkal jedno zvíře aktivní ve dne a nafotil pro Vás fotky a video. Stopování ukázalo, že vydry svůj domov znají dobře a dokáží si najít místa, kde i při největších mrazech zůstala skulina pod led a tedy přístup k potravě. Vyder jsme v kvadrátu 10 x 10 km našli 12 dospělých, z toho 3 byly samice s mláďaty. Ve stopovací oblasti sledujeme vydry dlouhodobě, a tak můžeme výsledky porovnat v čase. Dle tohoto srovnání, je situace v této oblasti dlouhodobě stabilní.
 
@@ -30,6 +31,8 @@ A jak tedy dopadlo naše stopování? Kolega Gašpar Čamlík taky potkal jedno 
 
 _Stopní dráha vydří rodiny, samice se dvěma mláďaty_
 
-Sčítání vyder je prováděno v rámci projektu [Realizace vybraných opatření Programu péče pro vydru říční v ČR](/projects/realizace-opatření-pro-vydru-říční-v-čr). Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Tato akce byla realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+Sčítání vyder je prováděno v rámci projektu [Realizace vybraných opatření Programu péče pro vydru říční v ČR](/projects/realizace-opatření-pro-vydru-říční-v-čr).
+ Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+ Tato akce byla realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
