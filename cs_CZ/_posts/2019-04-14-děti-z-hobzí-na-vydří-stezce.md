@@ -10,14 +10,13 @@ lang_alternatives:
 category: news
 layout: news
 ---
-
-
 Na Den Země jsme provedli děti ze ZŠ Staré Hobzí Vydří stezkou na Dyji, kde se dozvěděli něco ze života vyder, o řece i dalších tvorech, kteří v údolí Moravské Dyje žijí. Jejich pohled na výlet si můžete prohlídnout na obrázcích a přečíst v krátkém povídání.
 
 ![](/media/scan_20170512_165554_610.jpg)
 
 ![](/media/scan_20170513_080801_610.jpg)
 
-Podpořeno grantem z Islandu, Lichtenštejnska a Norska. Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+ Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
