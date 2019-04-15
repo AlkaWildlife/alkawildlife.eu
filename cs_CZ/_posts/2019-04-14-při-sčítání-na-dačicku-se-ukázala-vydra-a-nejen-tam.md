@@ -24,7 +24,7 @@ Z několika míst v republice dostáváme zprávy o tom, že lidé pozorují ve 
 
 _jedna z fotografií od veřejnosti, autor: Jan Schwedler_
 
-A jak tedy dopadlo naše stopování? Kolega Gašpar Čamlík taky potkal jedno zvíře aktivní ve dne a nafotil pro Vás fotky a video. Stopování ukázalo, že vydry svůj domov znají dobře a dokáží si najít místa, kde i při největších mrazech zůstala skulina pod led a tedy přístup k potravě. Vyder jsme v kvadrátu 10 x 10 km našli 12 dospělých, z toho 3 byly samice s mláďaty. Ve stopovací oblasti sledujeme vydry dlouhodobě, a tak můžeme výsledky porovnat v čase. Dle tohoto srovnání, je situace v této oblasti dlouhodobě stabilní.
+A jak tedy dopadlo naše stopování? Kolega Gašpar Čamlík taky potkal jedno zvíře aktivní ve dne a vyfotil je (foto v úvodu). Stopování ukázalo, že vydry svůj domov znají dobře a dokáží si najít místa, kde i při největších mrazech zůstala skulina pod led a tedy přístup k potravě. Vyder jsme v kvadrátu 10 x 10 km našli 12 dospělých, z toho 3 byly samice s mláďaty. Ve stopovací oblasti sledujeme vydry dlouhodobě, a tak můžeme výsledky porovnat v čase. Dle tohoto srovnání, je situace v této oblasti dlouhodobě stabilní.
 
 ![Stopní dráhy vydří rodiny, samice se dvěma mláďaty](/media/img_7323_610.jpg "Stopní dráhy vydří rodiny, samice se dvěma mláďaty")
 
