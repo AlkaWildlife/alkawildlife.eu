@@ -59,3 +59,7 @@ __
 ![Nora sysla s výhrabkem](/media/dscn0142_610.jpg "Nora sysla s výhrabkem")
 
 _Vchod do nora sysla s výhrabkem_
+
+_Probíhá v rámci projektů Sysli pro krajinu, krajina pro sysly – Monitoring a podpora populace sysla obecného na jižní Moravě II. Financováno z ERDF / státního rozpočtu. Vychází také s podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP._
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)
