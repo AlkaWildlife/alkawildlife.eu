@@ -16,11 +16,7 @@ layout: news
 ---
 TISKOVÁ ZPRÁVA ALKA WILDLIFE,O.P.S. A DAPHNE - INŠTITÚTU APLIKOVANEJ EKOLÓGIE
 
-
-
 ## Česko Slovensko hledá sysly. Po zimním spánku je mapují odborníci i veřejnost
-
-
 
 Lidéřovice, Bratislava 17. dubna 2019 
 
@@ -38,7 +34,7 @@ Sysel obecný je kriticky ohrožený druh, vyskytuje se jak v České republice,
 
 Veřejnost tak vlastně může pomoci dvakrát. Nákupem vína či meruněk od pěstitelů, kteří vytváří vhodné prostředí pro sysla, a nahlášením svých pozorování. „_Pomoc od veřejnosti moc oceníme. Stačí, aby se lidé při jarní procházce dívali okolo sebe, co v jejich okolí žije. Místní lidé někdy vědí, že v jejich sadu či na jejich pastvině žijí sysli. Ale ne každý si uvědomí, o jakou jde vzácnost a že bychom tuto informaci uvítali_,“ uzavírá Kateřina Poledníková. 
 
-A jak vlastně poznáte sysla či syslí noru? Sysel je středně velký hlodavec, váží přibližně 200 až 350 g a měří okolo 20 cm. Má hnědavý přiléhavý kožich, malé uši a velké oči, krátký štětkovitý ocas. Na rozdíl od jiných našich hlodavců je aktivní ve dne. Když se postaví na zadní, nelze ho si splést. Jeho nory jsou poměrně velké, s průměrem 5 až 6 cm. U vchodu do šikmých nor je výhrabek hlíny, protože je sysel hrabe shora a hlínu vyhazuje za sebe na povrch. Kolmé nory, které naopak sysel vyhrabává zezdola a vyhrabaná hlína okolo vchodu tedy není, vypadají jako by někdo zapíchnul a opět vyndal ze země kovový sloupek plotu – jsou to ostře řezané, perfektně rovné kolmé díry hluboko do země. 
+A jak vlastně poznáte sysla či syslí noru? Sysel je středně velký hlodavec, váží přibližně 200 až 350 g a měří okolo 20 cm. Má hnědavý přiléhavý kožich, malé uši a velké oči, krátký štětkovitý ocas. Na rozdíl od jiných našich hlodavců je aktivní ve dne. Když se postaví na zadní, nelze ho si splést. Jeho nory jsou poměrně velké, s průměrem 5 až 6 cm. U vchodu do šikmých nor je výhrabek hlíny, protože je sysel hrabe shora a hlínu vyhazuje za sebe na povrch. Kolmé nory, které naopak sysel vyhrabává zezdola a vyhrabaná hlína okolo vchodu tedy není, vypadají jako by někdo zapíchnul a opět vyndal ze země kovový sloupek plotu – jsou to ostře řezané, perfektně rovné kolmé díry hluboko do země. 
 
 Pozorování či dotazy je možné zasílat na tyto kontakty: 
 
@@ -46,6 +42,20 @@ Pozorování či dotazy je možné zasílat na tyto kontakty:
 
 SR: chrenkova@daphne.sk
 
-
-
 ![Sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
+
+![Dva panáčkující sysli v trávě](/media/img_8253_610.jpg "sysel obecný")
+
+_Sysli velmi často panáčkují a jsou tak nezaměnitělní._
+
+
+
+![Vchod do nory kolmo dolů](/media/img_8959_610.jpg "Kolmý vchod do nory")
+
+_Kolmý vchod do syslí nory_
+
+__
+
+![Nora sysla s výhrabkem](/media/dscn0142_610.jpg "Nora sysla s výhrabkem")
+
+_Vchod do nora sysla s výhrabkem_
