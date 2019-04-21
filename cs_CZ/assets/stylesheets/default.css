@@ -32,7 +32,8 @@ a:focus {
   outline: none; }
 
 a.selected {
-  color: #a2d438; }
+  color: #a2d438;
+  font-weight: bold; }
 
 a:hover {
   text-decoration: none; }

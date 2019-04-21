@@ -6649,7 +6649,8 @@ a:focus {
   outline: none; }
 
 a.selected {
-  color: #0393b5; }
+  color: #0393b5;
+  font-weight: bold; }
 
 a:hover {
   text-decoration: none; }
