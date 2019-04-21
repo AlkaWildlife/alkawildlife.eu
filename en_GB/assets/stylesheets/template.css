@@ -949,6 +949,30 @@ input[type="color"]:focus,
 #mainbottom-row .whyus h5.item-title {
   margin: 0 0 7px; }
 
+#mainbottom-row .followus h3.moduleTitle {
+  margin: 0 0 19px; }
+
+#mainbottom-row .followus .item_introtext ul {
+  margin: 4px 0 0;
+  color: #769e22;
+  list-style: inside; }
+
+#mainbottom-row .followus .item_introtext ul li {
+  margin: 0 0 4px; }
+
+#mainbottom-row .followus .item_introtext ul li a {
+  color: #00A8E8;
+  line-height: 19px; }
+
+#mainbottom-row .followus .item_introtext ul li a:hover {
+  color: #a2d438; }
+
+#mainbottom-row .followus h5.item-title {
+  margin: 0 0 7px; }
+
+#mainbottom-row .followus img {
+  width: auto; }
+
 #mainbottom-row .news .item_published {
   color: #003459;
   margin: 0 0 3px; }
