@@ -58,8 +58,8 @@ We have also created an online map application for professionals, especially nat
 
 # Literature
 
-We have published many articles regarding the otter. You can read these in our publications section [here](http://alka-wildlife-en.netlify.com/publications).
+We have published many articles regarding the otter. You can read these in our publications section [here](/publications).
 
 # Projects
 
-We have some long-term projects involving otters which you can read about [here](http://alka-wildlife-en.netlify.com/projects/lutra-lutra).
+We have some long-term projects involving otters which you can read about [here](/projects/lutra-lutra).

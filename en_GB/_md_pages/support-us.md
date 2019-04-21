@@ -22,7 +22,7 @@ Your support may be in the form of:
 * **General donation** which would provide financial support for the company or specific projects
 * **Project donation** where you would provide financial support for a project of your choosing
 
-If you intend to support us, please contact the [_company director_](http://alka-wildlife-en.netlify.com/about-us/contacts).
+If you intend to support us, please contact the [_company director_](/about-us/contacts).
 
 For all forms of support, we will conclude an appropriate contract with you, or we will issue a receipt of the gift.
 

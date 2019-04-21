@@ -82,9 +82,9 @@ An information seminar was organised at the Faculty of Science, Charles Universi
 
 [Bird World 2016: Do you have Dormice in your Nest Boxes?](/publications/do-you-have-dormice-in-your-nestboxes)
 
-[November 2015 Gardener: Our dormice](http://alka-wildlife-en.netlify.com/publications/our-dormice)
+[November 2015 Gardener: Our dormice](/publications/our-dormice)
 
-[Hunting October 2015: Our dormice](http://alka-wildlife-en.netlify.com/publications/our-dormice)
+[Hunting October 2015: Our dormice](/publications/our-dormice)
 
 [Shepherd and Cottager September 2015: Dormice - rare but unwelcome](/publications/dormice-rare-but-unwelcome)
 
