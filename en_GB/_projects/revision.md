@@ -30,7 +30,10 @@ partners: |-
   [Czech Ornithological Society](http://www.jmpcso.cz)  (South Moravian Branch)
 contacts:
   - name: Lukáš Poledník
-species: "Invasive species: American mink, Raccoon dog, Northern raccoon, Nutria (coypu)\r\n\nEndangered native species: Gulls, Terns, Waterfowl"
+species: |-
+  Invasive species: American mink, Raccoon dog, Northern raccoon, Coypu
+
+  Endangered native species: Gulls, Terns, Waterfowl
 area: >-
   [Věstonická Resvervoir Nature
   Reserve](/projects/revision/vestonicka-reservoir.html)
@@ -44,7 +47,7 @@ tags:
   - Amercian mink
   - Raccoon dog
   - Northern raccoon
-  - Nutria
+  - Coypu
   - Management
   - Research
 countries:
