@@ -17,7 +17,7 @@ Známku uděluje a její používání kontroluje společnost ALKA Wildlife, kte
 
 První známky budou vinařům uděleny v červnu 2016.
 
-Víno ze syslí vinice poznáte podle zlatého loga na každé lahvi.
+Víno ze syslí vinice poznáte podle zlatého loga na každé lahvi.
 
 Vinaře se syslí vinicí poznáte podle této samolepky.
 
