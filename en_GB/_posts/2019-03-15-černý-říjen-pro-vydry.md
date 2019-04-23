@@ -1,42 +1,46 @@
 ---
-title: Černý říjen pro vydry
+title: Black October for otters
 published: true
 image: /media/img_20181025_083635_620_v.jpg
 listing_thumbnail: /media/img_20181025_083635_274_v.jpg
 description: >-
-  Říjen 2018 bude zapsán černě do statistik odborníků, kteří sledují vydry. V
-  tomto měsíci nalezli na silnicích celkem sedmnáct uhynulých vyder. Ukazuje se,
-  že právě doprava je pro přežívání vyder zásadní faktor. 
+  October 2018 will be black in regard to otter death statistics. This month,
+  seventeen dead otters have been found on the roads. It turns out that traffic
+  is a deadly factor in otter survival.
 date: '2018-11-03'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/černý-říjen-pro-vydry
+    title: Černý říjen pro vydry
 category: news
 layout: news
 ---
-Tisková zpráva 
+# Press Release
 
-## Černý říjen pro vydry: na silnicích se našlo 17 mrtvých zvířat
+## **Black October for otters: 17 dead animals found on the roads**
 
-**Lidéřovice, 3. listopadu 2018: Říjen 2018 bude zapsán černě do statistik odborníků, kteří sledují vydry v naší republice. V tomto měsíci nalezli na silnicích celkem sedmnáct uhynulých vyder. S rostoucí intenzitou silniční dopravy totiž stoupá počet usmrcených jedinců této chráněné šelmy. Ukazuje se, že právě doprava je pro přežívání vyder zásadní faktor.**
+**Lidéřovice, November 3, 2018: Experts say October 2018 will be black in otter statistics for our country. This month they found seventeen dead otters on the roads. With the increasing intensity of road transport, the number of individuals killed of this protected animal is increasing. It turns out that traffic is a crucial factor for otter survival.**
 
-Od Vodňan až po Poodří vyjížděli v říjnu odborníci monitorující populaci vydry říční u nás, aby posbírali uhynulé vydry ze silnic. Celkové číslo - sedmnáct vyder – se zapíše černým písmem ve vydřích statistikách.
+From Vodňany to Poodří, experts monitoring the otter population in our country collected dead otters from the roads throughout October. Total Number - Seventeen otters - a black mark in otter statistics.
 
-„_Tento měsíc jsme organizovali sběr tří vyder, jednu z hlavního tahu z Prahy do Tábora, druhou u Příbrami a třetí u Vlašimi. K nim ještě dodám vydru z konce září z dálničního okruhu v Praze Ruzyni. V našem kraji je provoz na silnicích extrémní, a přestože zde vyder není mnoho, na silnicích je nacházíme často_,“ říká Tereza Mináriková z ALKA Wildlife, koordinátorka sběru pro Středočeský kraj.
+_“This month we organised the collection of three otters, one from the main route from Prague to Tábor, the other from Příbram and the third from Vlašim. An otter from the end of September from the Prague Ruzyně ring road will also be collected. In our region, traffic on the roads is extreme, and although there are not a lot of otters, we often still find them on the roads,”_ says Tereza Mináriková from ALKA Wildlife, collector coordinator for the Central Bohemian Region.
 
-Za Jihočeský kraj ji doplňuje kolega Lukáš Poledník: „_Jihočeský kraj je tradiční oblastí výskytu vyder. Ale rybníkářskou krajinu protíná množství frekventovaných silnic. Např. silnici z Třeboně do Veselí nad Lužnicí jsme nazývali silnicí smrti. V posledních letech ale narostl počet úhynů na silnicích z Českých Budějovic na Prahu, ať už přes Písek či přes Tábor. A tak jsme v říjnu sbírali vydry u Nerestce, Mirotic, Protivína, Vodňan, Hluboké nad Vltavou a také na konci nového úseku dálnice D3 u Borku_“. Tři vydry byly nalezeny na silnicích kraje Vysočina a pro kompletní obraz je třeba doplnit dvě vydry z Libereckého kraje, jednu z Královéhradeckého, Moravskoslezského a Zlínského \[1,2].
+_“The South Bohemian region is a traditional area for otters but a lot of busy roads intersect the pond landscape. We now call the road from Třeboň to Veselí nad Lužnicí “the road of death”. In recent years, the number of deaths on roads from České Budějovice to Prague has increased, whether through Písek or Tábor. Therefore, in October, we collected otters near Nerestka, Mirotice, Protivín, Vodňany, Hluboká nad Vltavou and also at the end of the new section of the D3 motorway near Borek,”_ adds Lukáš Poledník, coordinator of the South Bohemian Region. Three other otters were found on the roads of the Vysočina Region and two otters from the Liberec Region, only one from the Královéhradecký, Moravskoslezský and Zlínský regions respectively need to be added for a complete picture \[1,2].
 
-„_Tolik vyder uhynulých na silnicích v jednom měsíci jsme dosud nezaznamenali. Je to smutný rekord, ale nijak překvapivý_,“ uvádí Kateřina Poledníková z ALKA Wildlife a vysvětluje proč: „_Sběr uhynulých vyder je u nás organizován již od 70. let, kdy se vzácné vydry začaly do našich vod navracet. Postupně jsme nacházeli více a více mrtvých vyder na silnicích, v posledních letech je to okolo šedesáti zvířat ročně, letos jsme zatím na čísle 55, ale ještě nás čekají dva měsíce. Rostoucí počet způsobovaly dva hlavní jevy: vydří populace od 70. let rostla a to logicky znamenalo více uhynulých vyder. V posledních letech však již populace spíše stagnuje. Příčina rostoucích počtů usmrcených vyder je tedy jasná – více aut na silnicích znamená větší pravděpodobnost srážky přebíhající vydry s vozidlem. Vydry jsou velké cestovatelky, denně urazí několik kilometrů a přitom musí překonávat všudypřítomné silnice. Pokud je most či propustek pod silnicí špatně konstruován, vydra raději vyleze na vozovku a přebíhá ji._“
+_“We haven't seen so many otters dead on the roads in one month. It's a sad record, but not surprising,”_ says Kateřina Poledníková from ALKA Wildlife.
 
-Sledovat vývoj populace ohrožených druhů a vliv různých faktorů odborníkům pomáhají i matematické modely. „_Před osmi lety jsme vytvořili první model pro vydru říční v České republice. S ohledem na prognózy ve vývoji dopravy počítal již tento model s 2 % nárůstem mortality vyder na silnicích v následujících letech. Model ukázal, že vydří populace se brzy dostane do stavu, kdy již ztráty na silnicích nedokáže kompenzovat a vyder u nás začne ubývat. Současná realita dává modelu za pravdu. Je tedy možné, že vydra, která se v posledních desetiletích do naší přírody vrátila, začne v některých oblastech opět mizet,_“ dodává Poledníková.
+_“The collection of dead otters has been organised in our country since the 1970s, when rare otters began to return to our waters. Gradually, we found more and more otters on the roads and in recent years it averages about sixty animals a year. This year, however, we are now at 55 and still have two months to go. Two major phenomena have caused this growing number. Firstly, the otter population has grown since the 1970s. In recent years, however, the population is already stagnating. Secondly, and more obviously, the cause of the growing numbers of killed otters due to an increase in number of cars on the roads, travelling faster, with more chance to collide with otters. Otters are great travellers themselves, travelling a few kilometres a day. Yet they must cross the ubiquitous roads. If a bridge or tunnel is poorly constructed, the otter must climb to the road and run over it. This, indisputably, increases their risk of death.”_
 
-Intenzita autoprovozu na silnicích neustále roste. Silniční doprava se stává kritickým faktorem pro mnoho živočichů v naší krajině, na silnicích hynou drobné žáby, zajíci, ježci, kopytníci, ale i ty větší jako rys ostrovid či los evropský.
+Mathematical models also help to monitor the evolution of the population of endangered species and the influence of various factors. _“Eight years ago we created the first model for the Eurasian otter in the Czech Republic. Taking into account the forecasts in traffic development, this model already foresees a 2% increase in road otter mortality in the coming years. The model showed that the otter population soon gets into a state where it can no longer compensate for road losses and the otter begins to decline. The current reality shows the model in truth. It is therefore possible that the otter, which has returned to our nature in recent decades, will again disappear in some areas,” _adds Kateřina Poledníková.
 
-Poznámky:
+The intensity of road traffic on the roads is constantly increasing. It is now becoming a critical factor for many animals in our country such as frogs and toads, hares, hedgehogs, ungulates, but also larger animals such as the, also endangered, Eurasian lynx perish on the roads.
 
-\[1] Data o zvířatech usmrcených na silnicích jsou důležitým zdrojem informací o tomto chráněném druhu, proto je organizován jejich sběr. Riziková místa se zaznamenávají, určuje se příčina úhynu, hledají se další zranění, zjišťuje se pohlaví, věk, u samic z placentárních jizev zda a kolik měly mláďat, berou se vzorky tkání z různých částí těla pro další analýzy, např. množství těžkých kovů, hledají se vnitřní parazité.
+Comments:
 
-\[2] Více informací je možné najít také na [www.vydrynasilnici.cz ](www.vydrynasilnici.cz)a kompletní seznam 17 uhynulých vyder .
+\[1] Data of animals killed on the road is important source of information which is why their collection is organised. The following data are obtained: risk spots, cause of death, further injuries, sex, age, female placental scars, whether or not they have pups, tissue samples from different parts of the body for further analysis e.g. checking for heavy metals, looking for internal parasites.
 
-_Foto: Vydra uhynula na silnici po srážce s vozidlem v obci Raspenava 25. října 2018 (autor: Radomír Studený)_
+\[2] More information can also be found at [www.vydrynasilnici.cz](https://www.vydrynasilnici.cz) with the complete list of the 17 dead otters.
 
 ![](/media/img_20181025_083635_610.jpg)
+
+_Photo: Dead otter on the road after a collision with a vehicle in the village of Raspenava on October 25, 2018 (Owner: Radomír Studený)_
