@@ -1,41 +1,62 @@
 ---
-title: Myslivci a rybáři žádají krutý lov
+title: Hunters and fisherman demand cruel hunting methods
 published: true
 image: /media/hlaváč_železa_občinyhb_610.jpg
 description: >-
-  Zástupci ČMMJ, ČRS a RS ČR včera prohlásili, že navrhují zahájit lov vyder a
-  bobrů do „smrtících pastí“. Odborníci ale varují, že se jedná o pasti kruté,
-  nehumánní, zakázané. 
+  Representatives of CMMJ, CRS and RS CR said yesterday that they proposed to
+  launch the use of "deadly traps" for otter and beaver. Experts warn, however,
+  that these are cruel, inhumane, forbidden traps.
 date: '2018-12-07'
-lang_alternatives:
-  en_GB: {}
+lang_alternatives: {}
 category: news
 layout: news
 ---
-TISKOVÁ ZPRÁVA
+# PRESS RELEASE
 
-**Myslivci a rybáři žádají návrat ke krutým středověkým metodám**
+**Hunters and fishermen demand a return to harsh medieval hunting methods**
 
-**Lidéřovice 7.12.2018: Zástupci Českomoravské myslivecké jednoty, Českého rybářského svazu a Rybářského sdružení ČR včera prohlásili, že navrhují zahájit lov vyder a bobrů do „smrtících pastí“. Odborníci ale varují, že ač nebyl přesně uveřejněn typ, jedná se o pasti kruté a nehumánní, v civilizovaných zemích zakázané. Navíc mohou velmi vážně zranit nebo v krajním případě i zabít člověka, určitě volně pobíhající psy. Budeme se teď muset bát projít podél rybníků či koupat se v řece?**
+**Lidéřovice 7.12.2018: Representatives of the Czech-Moravian Hunting Union, the Czech Fishing Union and the Fishing Association of the Czech Republic said yesterday that they proposed to capture otters and beavers in “deadly traps”. Experts warn, however, that although the type of trap was not disclosed, they are usually cruel and inhumane, prohibited in civilised countries. In addition, they can very seriously injure or, in extreme cases, kill humans and certainly free-running dogs. Will we now not be able to walk along ponds or swim in rivers?**
 
-Zástupci Českomoravské myslivecké jednoty, Českého rybářského svazu a Rybářského sdružení tento týden prohlásili (1), že navrhují zahájit lov vyder a bobrů do „smrtících pastí“. V tiskovém prohlášení nebylo uvedeno, jaký typ smrtelných pastí je míněn. V úvahu přichází jen několik typů pastí, všechny nebezpečné, kruté a neselektivní. Buďto to mohou být typy pastí, kde zvíře vpluje, je uvězněno a pod vodou se utopí. Spíše ale v případě bobra byly myšleny tzv. conibear pasti, které uvolněním pružiny obrovskou silou sevřou zvíře, rozdrtí mu mordu, zlomí vaz. V případě vyder jsou to tzv. železa, v závislosti na velikosti zvíře rozdrtí či velmi brutálně zraní a zvíře v pasti trpí hodiny či dny. Obojí jsou pasti velmi nehumánní a kruté vůči zvířatům, která se do nich chytají. Jsou navíc neselektivní, to znamená, že se do nich chytí jak všichni jedinci předmětného druhu včetně mláďat, tak i jiné druhy živočichů, které se pohybují v daném prostředí, jak už volně žijící, tak například psi (2). Svou velikostí jsou nebezpečné i pro člověka. Jsou to typy pastí, které jsou u nás zakázané, a to jak Zákonem o myslivosti, tak Zákonem na ochranu zvířat proti týrání.
+Representatives of the Czech-Moravian Hunting Union, the Czech Fishing Union and the Fishing Association have said this week (1) that they are proposing to capture otters and beavers in “deadly traps”. The press release did not state what type of traps are going to be used. Only a few types of traps can be considered, however, and they are all dangerous, cruel and non-selective. One type of trap used could be where the animal enters, is trapped, and drowns under water. Another type could be conibear traps. These types of traps capture animals when a trip wire triggers a spring to release and force the trap shut, around the animal. The aim is to capture the animal at the neck to break it, restrict blood flow and quickly kill the animal. This, however, does not always happen and the animal can be captured by any part of its body, ending up brutally injured and left in the trap to die slowly for hours or even days. Both traps are inhumane and cruel to the animals caught. Moreover, these traps are non-selective, that is, any animal of the species in question, including the offspring, can be caught in them, as well as other species that move in the environment, both wild and canine (2). Their size is also dangerous for humans and can pose a serious health risk if someone is caught in one. 
 
-Lukáš Poledník, expert na vydru říční z organizace ALKA Wildlife, uvádí: “_V rámci aktivit na ochranu vydry říční se zabýváme i tématem pytláctví vydry a bohužel se setkáváme i s nelegálně nalíčenými železy. Jedná se o velmi nebezpečnou past, která vydru většinou nezabije okamžitě, ale pouze těžce zraní, vydra pak zažívá velké utrpení a v železech umírá často i řadu dní. Navíc jsou tyto pasti velmi nebezpečné i pro člověka, kterého mohou také vážně poranit. V roce 2015 se do želez na Jesenicku chytila desetiletá dívka.3 V tomto případě se jí nic nestalo, ale měla velké štěstí._“ 
+These types of traps are prohibited in the Czech Republic, both by the Hunting Act and by the Law on the Protection of Animals against Cruelty.
 
-Kateřina Poledníková, ředitelka organizace ALKA Wildlife k tomu dodává: „_Je potřeba si uvědomit, co by použití smrtících pastí tohoto typu ve volné krajině znamenalo v praxi. Železa neboli čelisťové pasti jsou nášlapné typy pastí – kdo do ní šlápne ….. Pasti se kladou na břeh či do mělké vody. Conibear pasti jsou extrémně nebezpečné pro svou sílu. Jedná se o neselektivní pasti, které zabijí nebo těžce zraní jakékoliv zvíře o dané velikosti, nebo i člověka, pokud se do takové pasti dostane. Vydra říční váží kolem 7-12kg, bobr evropský 11-30 kg, tyto pasti by tedy byly smrtelně nebezpečné pro celou řadu dalších zvířat, včetně domácích psů všech ras, nebo i koček. Co by smrtící past, nalíčená na bobra, udělala malému dítěti, si pak ani netroufám domyslet. Smrtící pasti jsou nebezpečné pro člověka, ne vlk, bobr či vydra, jak uvádí myslivci a rybáři._“ 
+Lukáš Poledník, an expert in the Eurasian otter from ALKA Wildlife o.p.s. comments: 
 
-Aleš Toman, zoolog, myslivec i ochránce přírody s dlouholetou zkušeností s péčí o zraněná zvířata doplňuje další aspekt těchto pastí: „_Odchyt vyder do neselektivních pastí, jako jsou železa, odporuje i myslivecké etice. Vydry vodí mláďata celoročně. I škodná je hájená v době vodění mláďat. Tento způsob regulace u chráněného druhu je naprosto nepřípustný_.“ 
+> “We deal with the issue of poaching otters as part of our activities to protect the Eurasian otter and unfortunately we also encounter irregularly made traps. It is a very dangerous trap that more often does not kill the otter, but only severely injures. The otter then experiences great suffering and often dies in the trap after many days. In addition, these traps are also very dangerous for people as they cause serious injuries. In 2015, a ten-year-old girl was caught in a trap in Jeseník (3). In this case, nothing happened, but she was very lucky.”
 
-Václav Hlaváč, zoolog AOPK ČR ke stavu populací bobra a vydry v České republice vysvětluje: „_Vydra říční a bobr evropský jsou původní druhy naší fauny, které do naší přírody patří a mají zde svou nezastupitelnou roli. Není pravda, že by nějak poškozovali přírodní ekosystémy či biodiversitu, jak tvrdí rybáři a myslivci, naopak. Bobr evropský má velice pozitivní vliv na vodní toky, které zcela zadarmo revitalizuje, vytváří tůně pro obojživelníky a úkryty pro ryby. Je pravda, že narušuje hráze vodních děl, ale ty je možné proti bobrovi zabezpečit. Navíc státní ochrana přírody si tento problém uvědomuje a byly definovány zóny s různým managementem tohoto druhu_.“, k vydře jej doplňuje Lukáš Poledník: "_Vydra říční bývá zase obviňována z úbytku ryb z vodních toků, podle výsledků našeho výzkumu ale vydra ve zdravém ekosystému stav rybích společenstev prakticky neovlivní. Naopak, rybáři dlouhodobě hospodaří velmi nepříznivým způsobem – zarybňují toky nepůvodními druhy nebo liniemi ryb, které do naší přírody nepatří a nedostatečně chrání původní populace našich domácích druhů ryb, které se často ani nemohou normálně rozmnožovat. V takových podmínkách mohou rybí společenstva jen těžko prosperovat. Z nepříznivých výsledků svého hospodaření pak obviňují vydru._“
+Kateřina Poledníková, Director of ALKA Wildlife adds: 
 
-Kateřina Poledníková pak celou situaci uzavírá: „_Návrat vydry a bobra do naší přírody vnímá většina lidí pozitivně a jejich příznivý dopad na naši přírodu je nezpochybnitelný, neměli bychom tedy ustupovat požadavku zájmových skupin, které požadují jejich lov. Mohlo by totiž velmi snadno dojít k jejich opětovnému vyhubení._“, přičemž Václav Hlaváč ji doplňuje se souhlasem všech: „_Myšlenku využití smrtících pastí považujeme za velice nebezpečnou a nedomyšlenou, a doufám, že se – i s ohledem na zdraví a bezpečnost obyvatel – nebude nikdy realizovat_.“ 
+> “It is important to realise what the use of these types of deadly traps in the wild mean in practice. Conibear traps are put ashore or in shallow water and are extremely dangerous as they have great power. These are non-selective traps that kill or severely injure any animal of a given size, even a human, if it gets into the trap. The Eurasian otter weighs about 7-12kg, the European beaver from 11-30kg, so these traps would be fatally dangerous to many other animals, including domestic dogs and cats. What could a deadly trap made for an animal the size of a beaver do to a small child, I dare not think. Deadly traps are dangerous to humans, not wolves, beavers or otters, as hunters and fishermen say.”
 
-1.zdroj: http://www.cmmj.cz/Aktuality/Aktuality/Tiskova-konference-na-tema--Ceska-krajina-s-bobrem.aspx
+Aleš Toman, zoologist, hunter and nature conservationist with many years of experience in caring for injured animals adds his opinions on the use of these traps: 
 
-https://www.pressreader.com/czech-republic/mf-dnes/20181206/281797105070409 
+> “The trapping of otters in non-selective traps such as these contradicts hunting ethics. Young otters stay with their mothers all year round. This kind of regulation, in a protected species, is totally unacceptable.”
 
-2.zdroj: https://www.bristolpost.co.uk/news/bristol-news/owners-warning-after-dog-horrifically-1404838
+Vaclav Hlavac, zoologist of AOPK CR explains the state of beaver and otter populations in the Czech Republic: 
 
-https://jihlava.idnes.cz/pes-past-tyrani-zvire-lany-chotebor-vysocina-policie-pdd-/jihlava-zpravy.aspx?c=A180216_152102_jihlava-zpravy_mv 
+> “Eurasian otter and European beaver are native species of our fauna, which belong to our nature and play an irreplaceable role. It is not true that somehow, they harm natural ecosystems or biodiversity, as fishermen and hunters claim. On the contrary, the European beaver has a very positive effect on watercourses, which it can completely revitalise by creating pools for amphibians and fish shelters. It is true that it damages our manmade dams, but they can be secured against the beaver. In addition, the state nature protection is aware of this problem and zones with different types of management have been defined.”
 
-3.zdroj: https://olomouc.idnes.cz/muz-licil-sklapovaci-pasti-na-vydry-do-jedne-se-chytila-desetileta-divka-1ay-/olomouc-zpravy.aspx?c=A151201_165904_olomouc-zpravy_stk
+Lukáš Poledník adds further information regarding the otter effect on our ecosystems:
+
+> “The otter is continually blamed for the loss of fish from watercourses, but according to the results of our research, otters in a healthy ecosystem practically do not affect the status of fish communities. On the contrary, for a long time the actions of fishermen are unfavourable to our ecosystems. They stock our rivers with non-native species or fish lines that do not belong to our natural fauna and do not adequately protect our native populations of domestic fish species, which in turn often cannot reproduce. In such conditions, fish communities can hardly prosper. The otter is then blamed for unfavourable results.”
+
+Kateřina Poledníková concludes: 
+
+> “Most people perceive the return of otters and beavers to our nature positively and their positive impact on our nature is unquestionable. We should not give in to the demand of interest groups that demand they should be hunted. They could very easily be eradicated.”
+
+Václav Hlaváč adds, with the consent of all:
+
+> “We consider the idea of using deadly traps to be very dangerous and thoughtless, and I hope that - even with regard to the health and safety of the population - it will never be achieved.”
+
+
+
+1.Source: http://www.cmmj.cz/News/News/Print-Conference-on-tema-Ceska-krajina-s-bobrem.aspx
+
+https://www.pressreader.com/czech-republic/mf-dnes/20181206/281797105070409
+
+2.Source: https://www.bristolpost.co.uk/news/bristol-news/owners-warning-after-dog-horrifically-1404838
+
+https://jihlava.idnes.cz/pes-past-tyrani-zvire-lany-chotebor-vysocina-policie-pdd-/jihlava-zpravy.aspx?c=A180216_152102_jihlava-zpravy_mv
+
+3.Source: https://olomouc.idnes.cz/muz-licil-sklapovaci-pasti-na-vydry-do-jedne-se-chytila-desetileta-divka-1ay-/olomouc-zpravy.aspx?c=A151201_165904_olomouc -zpravy_stk
