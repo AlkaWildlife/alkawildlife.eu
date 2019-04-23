@@ -15,9 +15,12 @@ lang_alternatives:
 category: news
 layout: news
 ---
-# **Press Release**
+# **Press Release
 
-**Lidéřovice 8.11.2018 – Another vineyard in Moravia proudly supports the sousliks and has been awarded the ‘Souslik friendly vineyard’ trademark. Miroslav, in South Moravia has successfully supported a population of sousliks in their local airport since 2008, where the starting population was only 10 individuals! Now, due to good conditions, the population has grown and there are more than 650 sousliks living across the airport area. In the surrounding areas of the airport, there are grassy vineyards, which are ideal for the souslik. **
+**
+
+**Lidéřovice 8.11.2018 – Another vineyard in Moravia proudly supports the sousliks and has been awarded the ‘Souslik friendly vineyard’ trademark. Miroslav, in South Moravia has successfully supported a population of sousliks in their local airport since 2008, where the starting population was only 10 individuals! Now, due to good conditions, the population has grown and there are more than 650 sousliks living across the airport area. In the surrounding areas of the airport, there are grassy vineyards, which are ideal for the souslik. 
+**
 
 The winemakers, Miroslav Agrodružstvo, who produce under the brand WINE PERK, are now creating souslik friendly conditions in their vineyards and orchards areas surrounding Miroslav and the airport, to encourage sousliks to spread to them. In 2018, Alka Wildlife was contacted by the team from WINE PERK as they suspected that some sousliks were now living in their vineyards. Subsequently, after confirmation of souslik presence, they adapted their cultivation methods and have won the golden mark ‘Souslik friendly vineyard’ for their wines from 2018. 
 
@@ -37,7 +40,10 @@ The wine produced in Miroslav Agrodružstvo for Wine Perk can be bought either b
 
 If you are interested in tasting wine from other winemakers who have been awarded the ‘Souslik friendly vineyard’ trademark, you can head on over to the following villages where tasting events are planned:
 
-Hnanice - November 10, 2018 at the Hnanice young wine-making or Velké Pavlovice – Novemmber 11, 2018 for St. Martin's Open Wine Cellars.
+Hnanice - November 10, 2018 at the Hnanice young wine-making 
+or
+ Velké Pavlovice – Novemmber 11, 2018 for St. Martin's Open Wine Cellars
+.
 
 ![Miroslavské vinice](/media/img_2793_610.jpg "Miroslavské vinice")
 
