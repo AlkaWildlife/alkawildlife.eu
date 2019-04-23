@@ -10,7 +10,9 @@ listed: true
 position: 3
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Eurasian lynx
+    permalink: /species-of-interest/eurasian-lynx
 ---
 Rys ostrovid je největší evropská kočkovitá šelma. Je to vrcholový predátor spárkaté zvěře. V průběhu 19. a během první poloviny 20. století došlo v západní a střední Evropě na většině míst k lokálnímu vyhynutí populace rysa ostrovida.
 
