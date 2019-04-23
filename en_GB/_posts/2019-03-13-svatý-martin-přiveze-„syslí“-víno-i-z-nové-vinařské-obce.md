@@ -1,45 +1,54 @@
 ---
-title: Svatý Martin přiveze „syslí“ víno i z nové vinařské obce
+title: Saint Martin will bring newly appointed "Souslik friendly vineyard" wine
 published: true
 image: /media/img_8750.jpg
 listing_thumbnail: /media/img_8750_274.jpg
 description: >-
-  Známkou Sysli na vinici se pyšní další moravská vinařská obec. Tentokrát je to
-  obec Miroslav. Sysli se začali šířit z místního letiště i do okolních vinic. 
+  Another Moravian wine-growing village boasts a sign of ‘Souslik friendly
+  vineyard”. This time it is the village of Miroslav. The sousliks began to
+  spread from the local airport to the surrounding vineyards.
 date: '2018-11-08'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce
+    title: SVATÝ MARTIN PŘIVEZE „SYSLÍ“ VÍNO I Z NOVÉ VINAŘSKÉ OBCE
 category: news
 layout: news
 ---
-Tisková zpráva
+# **Press Release**
 
-**Lidéřovice 8.11.2018 - Známkou Sysli na vinici se pyšní další moravská vinařská obec. Tentokrát je to obec Miroslav v Jihomoravském kraji, kde se syslům dlouho dařilo na sportovním letišti. Vinaři AGRODRUŽSTVA Miroslav, kteří vyrábí víno pod značkou VÍNO PERK, vytváří ve svých vinicích vhodné podmínky, díky kterým se sysli začali šířit z letiště i do okolních vinic a sadů, které obklopují obec. Vzhledem k tomu, že vinice splňují podmínky hospodaření přátelského k syslům, získalo pro svoje vína v tomto roce zlatou známku „Sysli na vinici“. Nákupem takto oceněného vína mohou lidé podpořit vinaře, kteří vytvářejí kriticky ohroženým syslům dobré životní prostředí.**
+**Lidéřovice 8.11.2018 – Another vineyard in Moravia proudly supports the sousliks and has been awarded the ‘Souslik friendly vineyard’ trademark. Miroslav, in South Moravia has successfully supported a population of sousliks in their local airport since 2008, where the starting population was only 10 individuals! Now, due to good conditions, the population has grown and there are more than 650 sousliks living across the airport area. In the surrounding areas of the airport, there are grassy vineyards, which are ideal for the souslik. **
 
-V Miroslavi žijí vzácní sysli obecní na travnatém letišti, tato kolonie je známá odborné veřejnosti od roku 2008, kdy čítala pouhých 10 jedinců. Díky dobrým podmínkám se populace pomalu zvětšovala, dnes na celé ploše letiště žije více jak 650 syslů. Na letiště navazují zatravněné vinice, které jsou pro sysly ideálním prostředím.
+The winemakers, Miroslav Agrodružstvo, who produce under the brand WINE PERK, are now creating souslik friendly conditions in their vineyards and orchards areas surrounding Miroslav and the airport, to encourage sousliks to spread to them. In 2018, Alka Wildlife was contacted by the team from WINE PERK as they suspected that some sousliks were now living in their vineyards. Subsequently, after confirmation of souslik presence, they adapted their cultivation methods and have won the golden mark ‘Souslik friendly vineyard’ for their wines from 2018. 
 
-„_Letos na jaře se objevili dva sysli v jednom malém meruňkovém sadu mezi vinicemi. V rámci monitoringu jsme proto začali procházet i okolí letiště, přilehlé vinice Weinperky i vinice v trati „U Vinohradu“, které jsou od letiště vzdálené asi 1 km. Nory syslů jsme ve vinicích objevili, a to hned na několika místech,_“ popisuje novinky letošního roku koordinátorka projektu „Sysli na vinici“ Kateřina Poledníková z ALKA Wildlife.
+_“This spring, two sousliks appeared in a small apricot tree plot among the vineyards. As part of monitoring, we have begun to explore the surroundings of the airport, adjacent WINE PERK vineyards and vineyards in the U Vinohrady line, which are approximately 1 km from the airport. Many sousliks have been discovered across several places in new vineyards.”_ Katerina Poledníková, ALKA Wildlife, co-ordinator of the ‘Souslik friendly vineyard’ project, describing this year’s good news.
 
-Veronika Pakostová z VÍNA PERK ji doplňuje: „_Naši pracovníci si při práci ve vinici všímají, co zde žije. Pátrali jsme proto po původci nor, který se ve vinicích objevil. Kontaktovali jsme paní Poledníkovou a do vinic vyrazili společně, s tím, že bychom se rádi do ochrany syslů také zapojili_.“ Kateřina Poledníková z ALKA Wildlife k tomu dodává: „_Vzhledem k tomu, že ve vinicích AGRODRUŽSTVA Miroslav byl v roce 2018 potvrzen výskyt syslů a družstvo má vinice zatravněné, při hospodaření nepoužívá rodenticidy a k syslům je vstřícné – udělili jsme mu pro víno z roku 2018 zlatou známku „Sysli na vinici“_“.
+_“Our employees are aware of what they live in when they work in the vineyard. So, we searched for the sousliks who appeared in the vineyards. We contacted Mrs. Polednikova and went to the vineyards together, and we would like to join in the protection of sousliks.”_ Veronika Pakostová from WINE PERK adds.
 
-Ochranná známka Sysli na vinici má již dvouletou tradici. Oceňuje vinařství, která vytváří vhodné podmínky pro kriticky ohroženého sysla obecného. Sysel obecný je živočišný druh zemědělské krajiny, který ke svému životu potřebuje krátkostébelné trávníky. Ty se ale v druhé polovině 20. století z naší krajiny vinou intenzifikace zemědělství vytratily. Zmizely meze, polní cesty, malá políčka, pastviny a s nimi mizeli z krajiny i sysli. V okolí některých jihomoravských obcí se naštěstí zachovala funkční zemědělská krajina s drobnou mozaikou různorodých políček, vinic a sadů, a ta je nyní domovem několika syslích kolonií.
+_“The presence of sousliks was confirmed in Miroslav Agrodružstvo in 2018. Also, the vineyards are grassy, and they do not use rodenticides. Therefore, we have awarded them with, for wine from 2018, the golden mark ‘Souslik friendly vineyard’.”_ Katerina Poledníková, ALKA Wildlife, confirming the award of the ‘Souslik friendly vineyard’ trademark to Miroslav Agrodružstvo’s 2018 wine.
 
-„_Sysli na vinici stojí na skvělé myšlence. Pomáhat s ochranou přírody a k tomu ochutnávat moravské víno, to je překvapivé spojení příjemného s užitečným. Říká se, že ve víně je pravda, tak já dodávám, že v tom „syslím“ je i pomoc,_“ poznamenává ministr životního prostředí Richard Brabec.
+The trademark ‘Souslik friendly vineyard’ has a two-year tradition. It appreciates winemakers who create the appropriate conditions for the critically endangered sousliks in their vineyards. Sousliks thrive in short-cut grass. Throughout the second half of the 20th century, the intensification of agricultural practices occured and the landscape started to change. Previous areas of clear land and small fields, field roads, and pastures all disappeared from our landscape and unfortunately, this meant the sousliks did too. Fortunately, in some South Moravian villages, a functional agricultural landscape has been created/maintained? and with it, a small mosaic of diverse fields, vineyards and orchards has been preserved. It is in these areas where the last of the sousliks now live. 
 
-„_Jsem moc ráda za podporu ze strany vinařství. Jejich způsob hospodaření umožnil rozšíření syslů z miroslavského letiště, což je velmi důležité. Plocha letiště je velmi důležitá pro zdrojovou populaci, ale pro dlouhodobé přežití syslů je relativně malá. Zapojení vinařství do péče o krajinu je tak pro sysly v Miroslavi naprosto klíčová,_“ uzavírá Kateřina Poledníková.
+_“The ‘Souslik friendly vineyard’ trademark is a great idea. Helping with nature conservation and tasting Moravian wine, it is a surprising combination of pleasant and useful. It is said that it is true in the wine, so I add that there is "help" in it,”_ remarks Environment Minister Richard Brabec.
 
-Víno z Miroslavi od VÍNA PERK si můžete nakoupit buďto objednávkou přes jejich webové stránky ( www.perk.cz ), nebo přímo v AGRODRUŽSTVU či v Brně, v jejich prodejně Masová bedýnka, kde kromě masa z jejich chovu prodávají právě i víno z vlastních vinic. Víno se zlatou známkou Sysli na vinici od dalších vinařů také můžete v nejbližších dnech ochutnat na vinařských akcích spojených se svatomartinským a mladým vínem, a to ve Hnanicích v sobotu 10.11.2018 při Hnanickém koštování mladých vín nebo další víkend 17.11.2018 ve Svatomartinských otevřených sklepech ve Velkých Pavlovicích.
+_“I'm very happy with the support from the Miroslav Agrodružstvo vineyards. Their method of operation has allowed the movement of sousliks from Miroslav airport to the surrounding areas, which is vital for the survival of the species. Whilst the main population at the airport is very important, it is essential to expand this area for the long-term survival of the sousliks. The involvement of wineries in landscape management is absolutely crucial for Miroslav's sousliks,”_ concluded Kateřina Poledníková.
+
+The wine produced in Miroslav Agrodružstvo for Wine Perk can be bought either by ordering through their website [www.perk.cz](https://www.perk.cz), directly in Agrodružstvo or in Meadow Box store in Brno where they sell both meat and wine. By buying their wine, you can support winemakers who create and maintain a good environment for the critically endangered sousliks.
+
+If you are interested in tasting wine from other winemakers who have been awarded the ‘Souslik friendly vineyard’ trademark, you can head on over to the following villages where tasting events are planned:
+
+Hnanice - November 10, 2018 at the Hnanice young wine-making or Velké Pavlovice – Novemmber 11, 2018 for St. Martin's Open Wine Cellars.
 
 ![Miroslavské vinice](/media/img_2793_610.jpg "Miroslavské vinice")
 
-## Poznámky:
+## Further information
 
-**Sysli na vinici" - ochranná známka**
+**'_Souslik friendly vineyard_' - our trademark**
 
-Ochranná známka Sysli na vinici vznikla před dvěma lety díky inspiraci z Rakouska. Známka je vždy předávána přímo jen pro víno vyprodukované ve viniční trati s výskytem sysla v daném roce (není trvalá) a vinařství oceněné známkou musí hospodařit vstřícně k syslům, tedy musí zatravňovat a nepoužívat rodenticidy. „Sysli víno“ poznáte na lahvi podle malého zlatého loga se syslem. Za dva roky existence byla známka udělena 21 vinařstvím, které hospodaří ve Velkých Pavlovicích, ve Hnanicích na Znojemsku a nyní i v Miroslavi. Projekt realizuje Alka Wildlife a je financován Evropskou Unií z ERDF fondu, EHP fondy a Ministerstvem životního prostředí. Vychází s podporou MŽP, ale nemusí vyjadřovat stanoviska MŽP. Více informací je možné získat na [www.syslinavinici.cz](www.syslinavinici.cz) .
+The '_Souslik friendly vineyard_' trademark was created two years ago, thanks to inspiration from Austria. The trademark stamp is awarded only to the wine produced in vineyards which had sousliks presence in their area within the given year and they must create and maintain an appropriate environment for the sousliks such as maintaining grass and not using rodenticides. You will know a '_Souslik friendly vineyard' _wine by small golden logo of a souslik on the bottle. In two years of existence, the stamp has been awarded to 21 wineries in Velké Pavlovice, Hnanice in Znojmo and now also in Miroslav. The project is implemented by Alka Wildlife and is funded by the European Union from the ERDF Fund, the EEA Funds and the Ministry of the Environment. It is supported by the Ministry of the Environment, but does not have to express opinions of the Ministry of the Environment. More information is available at our website: [www.syslinavinici.cz](https://www.syslinavinici.cz).
 
-**Ochrana sysla v ČR**
+# Souslik protection in the Czech Republic
 
-Sysel je hlodavec příbuzný veverkám. Tento dříve plošně rozšířený druh byl tak běžný, že byl považován za škůdce (ovšem ve vinicích a sadech neškodí). Sysla ale ohrozily především změny v české a moravské krajině po druhé světové válce - scelování pozemků, intenzifikace obhospodařování a naopak upuštění od obhospodařování strojově nedostupných pozemků (mezí, menších luk a pastvin). Sysel proto vymizel z většiny území ČR, udržel se pouze na lokalitách s pravidelně udržovanými trávníky. V současnosti je v ČR celkem okolo 6500 syslů, kteří se vyskytují zhruba na 35 izolovaných drobných lokalitách, převážně na letištích, golfových hřištích či v kempech a na jižní Moravě také ve vinicích a sadech šesti obcí. Sysel byl zařazen mezi kriticky ohrožené druhy a byl pro něj vytvořen i Záchranný program.
+The souslik is a ground squirrel, part of the rodent family. It was a previously widespread species, so common that it was considered a pest (not harmful to vineyards or orchards!), but now this is not the case. Sousliks are particularly vulnerable to change and in the Czech and Moravian landscape after World War II lots of change occurred. Land consolidation, intensification of farming and, on the contrary, abandonment of machine-inaccessible land  such as boundaries, smaller meadows and pastures meant sousliks disappeared from most areas of the Czech Republic, limiting it to localities with regularly maintained lawns. At present, there are a total of about 6500 sousliks in the Czech Republic, which are found in approximately 35 isolated small localities, mainly airports, golf courses and camps but in South Moravia it is also found in vineyards and orchards of six municipalities. Sousliks are now classified as a critically endangered species and a Rescue Program has been created for it.
 
 ![](/media/logo_irrva-a-mzp_lezato_610.jpg)
