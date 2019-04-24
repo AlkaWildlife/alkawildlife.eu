@@ -1,5 +1,5 @@
 ---
-title: The Czech Republic and Slovakia are looking for sousliks
+title: With Slovaks we are looking for sousliks
 published: true
 image: /media/dscn7300_610.jpg
 listing_thumbnail: /media/dscn7300_274.jpg
@@ -60,7 +60,6 @@ Your observations or queries can be sent to:
 CZ: katerina.polednikova@alkawildlife.eu 
 
 SR: ervin.hapl@gmail.com, chrenkova@daphne.sk
-
 
 ![Sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
 
