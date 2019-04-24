@@ -5,9 +5,7 @@ image: /media/dscn7300_610.jpg
 listing_thumbnail: /media/dscn7300_274.jpg
 description: >-
   S přicházejícím jarem skončil zimní spánek syslů. Monitoring tohoto kriticky
-  ohroženého savce může právě začít. Do terénu vyrazí odborníci na jižní Moravě
-  i na západním Slovensku. Mapování syslů je ale velmi náročné, a tak odborníci
-  uvítají pomoc veřejnosti. 
+  ohroženého savce může právě začít. 
 date: '2019-04-24'
 lang_alternatives:
   en_GB: {}
