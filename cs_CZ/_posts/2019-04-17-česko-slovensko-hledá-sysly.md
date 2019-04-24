@@ -1,6 +1,6 @@
 ---
 title: Česko Slovensko hledá sysly
-published: false
+published: true
 image: /media/dscn7300_610.jpg
 listing_thumbnail: /media/dscn7300_274.jpg
 description: >-
