@@ -1,6 +1,6 @@
 ---
 title: The Czech Republic and Slovakia are looking for sousliks
-published: false
+published: true
 image: /media/dscn7300_610.jpg
 listing_thumbnail: /media/dscn7300_274.jpg
 description: >-
@@ -60,3 +60,20 @@ Your observations or queries can be sent to:
 CZ: katerina.polednikova@alkawildlife.eu 
 
 SR: ervin.hapl@gmail.com, chrenkova@daphne.sk
+
+
+![Sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
+
+![European souslik](/media/img_8253_610.jpg "European souslik")
+
+_When they stand on their back legs, you can't mistake them. _
+
+![vertical entrance to burrow of souslik](/media/img_8959_610.jpg "vertical entrance to burrow of souslik")
+
+_Sousliks vertical burrows_
+
+![Nora sysla s výhrabkem](/media/dscn0142_610.jpg "Nora sysla s výhrabkem")
+
+_Entrance to souslik main burrow_
+
+![](/media/logo_irrva-a-mzp_lezato_610.jpg)
