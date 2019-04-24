@@ -65,7 +65,7 @@ SR: ervin.hapl@gmail.com, chrenkova@daphne.sk
 
 ![European souslik](/media/img_8253_610.jpg "European souslik")
 
-_When they stand on their back legs, you can't mistake them. _
+_When they stand on their back legs, you can't mistake them._ 
 
 ![vertical entrance to burrow of souslik](/media/img_8959_610.jpg "vertical entrance to burrow of souslik")
 
