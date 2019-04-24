@@ -40,6 +40,8 @@ Pozorování či dotazy je možné zasílat na tyto kontakty:
 
 SR: chrenkova@daphne.sk
 
+
+
 ![Sysel obecný](/media/dscn2749_610.jpg "sysel obecný")
 
 ![Dva panáčkující sysli v trávě](/media/img_8253_610.jpg "sysel obecný")
@@ -50,7 +52,7 @@ _Sysli velmi často panáčkují a jsou tak nezaměnitělní._
 
 _Kolmý vchod do syslí nory_
 
-__
+
 
 ![Nora sysla s výhrabkem](/media/dscn0142_610.jpg "Nora sysla s výhrabkem")
 
