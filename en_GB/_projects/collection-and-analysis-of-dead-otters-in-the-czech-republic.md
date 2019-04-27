@@ -6,22 +6,22 @@ funding: >-
   2008, it has been organised by our company through various financial sources: 
 
 
-  2008 - 2010         Project: Finding missing data on biology and ecology of
-  the Eurasian otter: creating a population development model
+  2008 - 2010: Project _Finding missing data on biology and ecology of the
+  Eurasian otter: creating a population development model_
 
 
-  2011, 2012           [Nature Conservation Agency of the Czech
+  2011 - 2012: [Nature Conservation Agency of the Czech
   Republic](http://www.ochranaprirody.cz/) and own funds
 
 
-  2013, 2014           Own funds
+  2013 - 2014: Own funds
 
 
-  2015 - 04/2017    Project: Implementation of selected measures from the care
-  programme for the Eurasian otter in the Czech Republic
+  2015 - 04/2017: Project _Implementation of selected measures from the care
+  programme for the Eurasian otter in the Czech Republic_
 
 
-  05/2017, 2018      [Nature Conservation Agency of the Czech
+  05/2017 - 2018: [Nature Conservation Agency of the Czech
   Republic](http://www.ochranaprirody.cz/) and own funds
 from: 2008-01
 to: 2019-12
