@@ -1,8 +1,8 @@
 ---
-title: Implementation of measures for the Eurasian otter in the Czech Republic
+title: Implementation of measures to support the Eurasian otter in the Czech Republic
 published: true
 subtitle: >-
-  Implementation of selected measures from the rescuse programme for Eurasian
+  Implementation of selected measures from the rescue programme for Eurasian
   otter in the Czech Republic
 funding: >-
   Small Grant Scheme Rescue Programs for Special Protected Species II of Program
@@ -52,65 +52,49 @@ This project focused on two important factors that influence the existence:
 
 1. Mapping 'at risk' areas on the roads and creating proposals for solutions and presentation of these results to the relevant road managers.
 2. Updating and reprinting the publication _"Otter and Transport: A Guide to Reducing the Negative Impact of Traffic on the Eurasian Otter"_
-3. Creation of a web portal for the professional public, including an online map of 'at risk risky sites for the Eurasian otter and on-line advice for fishermen
-4. website for the public to the Vydří trail on the Thaya
-5. excursions and lectures in Dačice
-6. otter census in selected areas by hitchhiking in snow
-7. collection and analysis of dead otters throughout the Czech Republic
-8. completing the analysis of otter viability in our country
-9. testing measures to reduce otter predation on ponds
-10. a proposal for optimizing the system of dealing with the conflict of economic interests of fisheries and otters
+3. Creation of a website for the professional public, including an online map of areas 'at risk' to the Eurasian otter and online advice for fishermen.
+4. Creation of a public website about the Otter trail on the Dyje.
+5. Organisation of excursions and lectures in Dačice.
+6. Conducting otter censuses in selected areas by snow tracking.
+7. Collecting and analysing dead otters throughout the Czech Republic.
+8. Completing the analysis of otter viability in our country.
+9. Testing measures to reduce otter predation on ponds.
+10. Writing a proposal for optimising the system of dealing with the conflict of economic interests of fisheries and otters.
 
-# Hlavní výstupy projektu
+# Main project outputs
 
-## Webové stránky [www.vydryonline.cz](https://www.vydryonline.cz)
+## Website: [www.vydryonline.cz](https://www.vydryonline.cz)
 
-Oficiální stránky projektu - detailní popis aktivit projektu, aktuality projektu. Zároveň je cílem stránek poskytovat komplexní a aktuální informace o vydře říční v České republice, na stránkách je zřízena poradna, knihovna, je zde publikován Bulletin Vydra. Stránky jsou určené zejména odborné veřejnosti, rybářům, pracovníkům OOP.
+Project official website - detailed description of project activities, project news. The aim of the website is to provide comprehensive and up-to-date information on the Eurasian otter in the Czech Republic. The site is intended mainly for the professional public and fishermen.
 
-## Webové stránky [www.vydristezky.cz](https://www.vydristezky.cz)
+## Website: [www.vydristezky.cz](https://www.vydristezky.cz)
 
-Stránky jsou určeny pro širokou veřejnost, jsou zde informace pro dětské čtenáře, jsou zde základní informace pro návštěvníky naučné stezky podél řeky Dyje.
+Otter trail website - information for public and schools about otters. The aim of the website is to provide basic information for visitors to the nature trail along the Dyje River.
 
-## Online mapová aplikace [www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
+## Online map: [www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
 
-Online mapa míst rizikových míst na silnicích v ČR. Aplikace je určena zejména pracovníkům OOP a správcům silnic, aby získali informace o tom, kde a jak je třeba zlepšit průchodnost silnic pro vydru a další živočichy putující podél vod. 
+Otters on the road map - map of 'at risk' areas in the Czech Republic. The application is designed especially for PLO staff and road managers to obtain information on where incidents occur and how to improve road safety for otters and other animals wandering along the water.
 
-## Brožura [Sběr a analýzy uhynulých vyder v České republice](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)
+## Brochure: [Collection and analysis of dead otters in the Czech Republic](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)
 
-(Na požádání také zašleme poštou)
+Paper copies are available on request
 
-## Aktualizovaná brožura [Vydra a doprava - příručka k omezení negativního vlivu dopravy na vydru říční](/media/vydra%20a%20doprava%20-%20web_2.pdf)
+## Borchure: Updated version of [Otters and transport - A guide to reducing the negative affect of traffic on Eurasian otters ](/media/vydra%20a%20doprava%20-%20web_2.pdf)
 
-(Na požádání také zašleme poštou)
+Paper copies are available on request
 
 # Published articles
 
-[Ochrana přírody 3/2017: Vydra a doprava - problém, který můžeme řešit (pdf)](/media/OP_03_2017_vydry.pdf)
+[Nature Conservation Forum 3/2017: Otter and Transport - A Problem We Can Solve (pdf)](http://alka-wildlife-en.netlify.com/media/OP_03_2017_vydry.pdf)
 
-[Fórum ochrany přírody 2/2017: Průchodnost silnic pro vydru říční
- (pdf)](/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)
+[Nature Conservation Forum 2/2017: Roadways for the Eurasian Otter (pdf)](http://alka-wildlife-en.netlify.com/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)
 
-[Fórum ochrany přírody 1/2017: Vydra a doprava - problém, který je možné řešit
- (pdf)](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)
+[Nature Conservation Forum 1/2017: Otter and Transport - A Problem We Can Solve (pdf)](http://alka-wildlife-en.netlify.com/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)
 
-[Bulletin Vydra 16: článek o projektu (pdf)](/media/8_Polednikova_etal_75_79.pdf)
+[Bulletin Vydra 16: An article about the Eurasian otter monitoring project (pdf)](http://alka-wildlife-en.netlify.com/media/8_Polednikova_etal_75_79.pdf)
 
-[Myslivost 8/2015: Monitoring vydry říční. K čemu nám jsou kadávery vyder? (pdf)](/media/Myslivost_Vydra_2015_FINAL.pdf)
+[Hunting 8/2015: Monitoring of Eurasian Otters. What do the otters mean to us? (pdf)](http://alka-wildlife-en.netlify.com/media/Myslivost_Vydra_2015_FINAL.pdf)
 
-[Bulletin Vydra 17: Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech 2013-2017](/media/Polednik_etal_14_25.pdf)
+[Bulletin Vydra 17: Winter Otter Census in Selected Areas of the Czech Republic 2013-2017](http://alka-wildlife-en.netlify.com/media/Polednik_etal_14_25.pdf)
 
-[Bulletin Vydra 17: Statistika nelegálního zabíjení vydry říční v České republice (pdf)](/media/Polednikova_etal_58_66.pdf)
-
-Nature Conservation 3/2017: Otter and Transport - a Problem We Can Solve (pdf)
-
-Nature Conservation Forum 2/2017: Roadway for the Eurasian Otter (pdf)
-
-Nature Conservation Forum 1/2017: Otter and Transport - A Problem That Can Be Solved (pdf)
-
-Bulletin Vydra 16: an article about the project (pdf)
-
-Hunting 8/2015: Monitoring of Eurasian Otters. What are the otters for us? (pdf)
-
-Bulletin Vydra 17: Winter Otter Census in Selected Areas of the Czech Republic in 2013-2017
-
-Bulletin Vydra 17: Statistics on the illegal killing of Eurasian otters in the Czech Republic (pdf)
+[Bulletin Vydra 17: Statistics on the illegal killing of Eurasian otters in the Czech Republic (pdf)](http://alka-wildlife-en.netlify.com/media/Polednikova_etal_58_66.pdf)
