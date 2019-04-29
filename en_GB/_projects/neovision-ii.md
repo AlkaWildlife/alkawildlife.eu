@@ -40,7 +40,7 @@ The Neovision II project builds on the previous [Neovision project](/projects/ne
 
 # Publications
 
-[Mináriková T., Čamlík G., Šíma J., Poledník L., Poledníková K., Červený J., Kušta T. (2015) Our invasive animals 0 uninvited guests who stayed permanently. Myslivost 7.](/media/036_038_Mysl07.pdf)
+[Mináriková T., Čamlík G., Šíma J., Poledník L., Poledníková K., Červený J., Kušta T. (2015) Our invasive animals - uninvited guests who stayed permanently. Myslivost 7.](/media/036_038_Mysl07.pdf)
 
 [Čamlík G. (2015) Neovision I and Neovision II projects. Bulletin Vydra 16: 80-85.](https://www.vydryonline.cz/media/9_Camlik_80_85.pdf)
 
