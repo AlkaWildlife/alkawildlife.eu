@@ -49,7 +49,6 @@ tags:
   - Northern raccoon
   - Coypu
   - Management
-  - Research
 countries:
   - CZ
   - SK
