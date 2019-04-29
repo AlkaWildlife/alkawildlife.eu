@@ -25,7 +25,7 @@ partners: |-
 
   [Krok Kyjov, z.ú.](http://www.oskrok.cz/) (main cross-boarder partner)
 
-  [ALKA Wildlife, o.p.s.](http://www.alkwildlife.eu) (main Czech partner)
+  [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) (main Czech partner)
 
   [Czech Ornithological Society](http://www.jmpcso.cz)  (South Moravian Branch)
 contacts:
