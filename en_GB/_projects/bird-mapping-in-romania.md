@@ -8,7 +8,7 @@ contacts:
   - name: Gašpar Čamlík
 species: Birds including birds of prey
 tags:
-  - Survey
+  - Research
 countries:
   - RO
 description: Mapping Romanian bird populations to analyse the current state.
