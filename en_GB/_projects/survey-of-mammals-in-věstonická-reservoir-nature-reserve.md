@@ -14,8 +14,8 @@ tags:
 countries:
   - CZ
 description: >-
-  This project focussed on surveying mammals survey in the Věstonice Reservoir
-  with a particular interest in potential bird predators.
+  This project focussed on surveying mammals in the Věstonice Reservoir with a
+  particular interest in potential bird predators.
 ---
 # Project aims
 
