@@ -60,13 +60,15 @@ description: >-
   localities in South Moravia: Věstonická Reservoir Nature Reserve, NPR Lednické
   Ponds National Nature Reserve and Mutěnické Ponds.
 ---
-# Project objectives and activities:
+# Project details
 
 The REVISION project builds on previous monitoring of invasive animals and the management of bird islands in the Czech and Slovak Republic's cross-border areas, which has been implemented in the past years as part of the NEOVISION and NEOVISION II projects. 
 
-The aim of the project is to re-evaluate the current status of selected invasive animals (American mink, Northern raccoon, Raccoon dog and Coypu) and to actively catch them to reduce their status and protect our native species, especially the colonies of waterfowl nesting on the islands. On the Czech side there are three localities in South Moravia: Věstonická nádrž PR (nature reserve), Lednické rybníky NPR (national nature reserve) and Mutěnice rybníky.
+The aim of the project is to re-evaluate the current status of selected invasive animals, namely the American mink, Northern raccoon, Raccoon dog and Coypu, actively catch them and reduce their status to protect our native species, especially colonies of waterfowl nesting on islands in the nature reserves. 
 
-In terms of protection of indigenous species, some of the invasive species are becoming more and more problematic. This also applies to project areas where some invasive species are rapidly spreading, with a proven negative impact. For example, the fish population has fallen by 70% in Hrušovské zdrži, part of the Slovakian Danube, in the last 5 years, with the main cause clearly the American mink.
+On the Czech side there are three localities in South Moravia: Věstonická nádrž PR (nature reserve), Lednické rybníky NPR (national nature reserve) and Mutěnice rybníky.
+
+In terms of protection of indigenous species, some invasive species are becoming more and more problematic. This also applies to project areas where some invasive species are rapidly spreading, with a proven negative impact. For example, the fish population has fallen by 70% in Hrušovské zdrži, part of the Slovakian Danube, in the last 5 years, with the main cause clearly the American mink.
 
 ![](/media/dscn6156_600.jpg "Úprava raftu pro monitoring stop invazních savců")
 
