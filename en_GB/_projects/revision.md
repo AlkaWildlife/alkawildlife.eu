@@ -44,11 +44,12 @@ area: >-
 
   [Mutěnické Ponds](/projects/revision/mutenicke-ponds)
 tags:
-  - Amercian mink
+  - American mink
   - Raccoon dog
   - Northern raccoon
   - Coypu
   - Management
+  - Research
 countries:
   - CZ
   - SK
