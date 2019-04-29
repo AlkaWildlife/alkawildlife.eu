@@ -6,9 +6,9 @@ funding: >-
   OS KROK
 
 
-  Implemented as part of the Neovision project - new challenges in the
-  protection of biodiversity on the Czech-Slovak land, financed by the
-  cross-border cooperation programme of the Slovak Republic.
+  Implemented as part of the Neovision project - new challenges in biodiversity
+  protection on the Czech-Slovak border, funded by the Cross-border Cooperation
+  Programme
 from: 2014-10
 to: 2015-05
 contacts:
