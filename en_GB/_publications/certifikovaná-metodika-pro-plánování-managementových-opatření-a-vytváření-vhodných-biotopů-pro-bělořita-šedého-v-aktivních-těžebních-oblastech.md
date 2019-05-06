@@ -1,7 +1,7 @@
 ---
 title: >-
-  Certifikovaná metodika pro plánování managementových opatření a vytváření
-  vhodných biotopů pro bělořita šedého v aktivních těžebních oblastech
+  Certified methodology for planning management measures and creating
+  appropriate habitats for the Northern wheatear in active mining areas
 published: true
 public: true
 authors:
@@ -10,10 +10,10 @@ authors:
   - name: Lukáš Poledník
   - name: Michal Porteš
   - name: Tomáš Růžička
-type: Metodika
+type: Methodology
 tags:
-  - bělořit šedý
-  - publikace pro odbornou veřejnost
+  - Northern wheatear
+  - Publication for the professional public
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2018
 lang:
@@ -22,4 +22,10 @@ link: /media/Certifikovana_metodika_belorit_fin.pdf
 attachments:
   - {}
 ---
-Cílem metodiky je připravit návod na realizaci základních managementových opatření, které je možné provádět na podporu stávající hnízdní populace bělořita šedého především v povrchových lomech podkrušnohorských pánví, ale i v menších těžebnách. Vzhledem ke specifickým nárokům na prostředí vymizel bělořit šedý v posledních čtyřiceti letech z většiny areálu svého rozšíření v České Republice a jeho početnost klesla pravděpodobně o více než 60 %. Jedná se o druh vázaný na otevřenou krajinu, na řídce zarostlé plochy s nízkým porostem. Bělořit je navíc limitován nedostatkem hnízdních příležitostí, neboť si hnízdo nestaví volně na zemi, ale v hromadách kamení, puklinách v zemi či dutinách vytvořených člověkem. V současné době hnízdí téměř výhradně v různých dobývacích prostorech a z běžné zemědělské krajiny plošně vymizel. Vzhledem k dramatickému poklesu hnízdní populace v ČR dnes většina párů bělořitů hnízdí v území povrchových hnědouhelných lomů Ústeckého a Karlovarského kraje. Populace v České republice čítá maximálně nižší stovky párů a je silně závislá na aktivní těžbě. Proto byla vytvořena metodika pro plánování efektivních podpůrných opatření pro tento druh. Návrhy opatření vychází z výsledků mnohaleté spolupráce s těžebními společnostmi a z detailní znalosti severočeské hnízdní populace bělořita šedého. Opatření jsou formulována tak, aby byla přímo využitelná v praxi hnědouhelných lomů, řada z navrhovaných opatření je ale použitelná i v malých těžebnách. Zároveň jsou navrhovaná opatření co možná nejekonomičtější a snaží se i o co možná nejmenší negativní dopady na ostatní druhy obývající těžební prostory.
+This methodology was developed to plan and provide guidance on the implementation of basic management measures which can be carried out to support existing nesting populations of Northern wheatear, mainly in the open mining quarries of Krušne Hory, but also in smaller sites. 
+
+Due to specific demands on the environment, the Northern wheatear has disappeared from most of the Czech Republic over the last forty years with their numbers probably dropping by more than 60%. They are bound to open landscape with sparsely overgrown areas and low vegetation. They are also limited by the lack of nesting opportunities as they do not build their nests on the ground or in trees  but in piles of stones, cracks in the ground or man-made cavities. Nowadays, it breeds almost exclusively in mining areas and has practically disappeared from the common agricultural landscape.
+
+Due to the dramatic decline in the nesting population in the Czech Republic, most wheatear pairs now nest in the quarries of the Usti and Karlovy Vary regions. The population has a maximum of a hundred pairs which are heavily dependent on active mining. 
+
+The proposed measures are based on the results of many years of cooperation with mining companies and the detailed knowledge of the North Bohemian breeding population of wheatears. They can be directly used in practice in mining quarries yet many of the proposed measures are applicable for smaller sites. At the same time, they have been created to be as economical as possible and seek to minimise the negative impact on other species in mining areas.
