@@ -5,8 +5,7 @@ image: /media/ledvice_krouzky_610.jpg
 listing_thumbnail: /media/ledvice_krouzky_274.jpg
 description: >-
   První letos okroužkovaná sokolí mláďata v České republice mají své domovské
-  právo na ochozu komínu Elektrárny Ledvice. Stejně jako vloni jsou tři. Václav
-  Beran jim za hlasitých protestů nasadil odečítací kroužky v pátek 26. dubna.
+  právo na ochozu komínu Elektrárny Ledvice. Stejně jako vloni jsou tři. 
 date: '2019-05-06'
 lang_alternatives:
   en_GB: {}
