@@ -8,7 +8,9 @@ description: >-
   právo na ochozu komínu Elektrárny Ledvice. Stejně jako vloni jsou tři. 
 date: '2019-05-06'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/ringing-of-this-years-first-peregrine-falcon-chicks
+    title: Ringing of this year's first Peregrine falcon chicks
 category: news
 layout: news
 ---
