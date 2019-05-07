@@ -44,8 +44,12 @@ Raroh velký patří mezi celosvětově ohrožené druhy živočichů. Vzhledem 
 
 # Aktuality k projektu
 
-[Monitoring raroha velkého v roce 2015](/news/monitoring-raroha-velkého-v-roce-2015)
+[
+Monitoring raroha velkého v roce 2015
+](/news/monitoring-raroha-velkého-v-roce-2015)
 
 # Výstupy projektu
+
+[Heliaca 2017: The Saker Falcon (Falco cherrug) population in the Czech Republic in 2011 - 2018.](/media/2017_Heliaca_online_10_TheSakerpopulationinCzech) 
 
 [Zpravodaj SOVDS 16 (2016): Raroh velký (Falco cherrug)](/publications/raroh-velký)
