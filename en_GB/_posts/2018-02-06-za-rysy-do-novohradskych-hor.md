@@ -1,60 +1,52 @@
 ---
-title: Za rysy do Novohradských hor
+title: Behind the Lynx of the Novohradské Mountains
 published: true
 image: /media/s320_dscn4493.jpg
+description: >-
+  We are monitoring lynx in the Novohradské Mountains and want to lift the lid
+  on this elusive population. 
 date: 2018-02-06T00:00:00.000Z
+lang_alternatives:
+  cs_CZ:
+    permalink: /news/za-rysy-do-novohradskych-hor
+    title: Za rysy do Novohradských hor
 category: news
 layout: news
 ---
-Pojďte se s námi podívat do Novohradských hor a zároveň trošku
-nahlédnout pod pokličku, jak se sleduje rysí populace.
+We monitor lynx in the Novohradské Mountains and want to lift the lid on this elusive population. 
 
-Základní metodou sledování rysů v česko-rakousko-bavorském pohraničí je
-v současnosti monitoring pomocí sítě fotopastí. O tom jak fotopasti
-fungují a že je možné jednotlivé vyfocené rysy identifikovat pomocí
-skvrn na srsti jsme již napsali mnoho. Kde ale fotopasti jsou a co
-z nich můžeme dál zjistit? Fotopasti jsou rozmístěny v pravidelné
-síti. Každý z partnerů projektu 3 Lynx má definované území, které musí
-pokrýt. Naše organizace má na starosti oblasti území ČR ve „volné“
-krajině, myšleno mimo národní park Šumava a mimo CHKO, přesněji je to:
-kousek Českého lesa, okrajové oblasti Šumavy, Brdy, celá oblast od
-Šumavy až po Novohradské hory a Javořická vrchovina. Každý sledovaný
-kvadrát musí být podchycen tak, aby bylo možné potvrdit přítomnost
-rysů. Celoplošným sledováním a společným sdílením dat je pak možné
-sledovat i pohyby jednotlivých rysů.
+Nowadays, camera trap monitoring is a basic feature of lynx monitoring in the Czech-Austrian-Bavarian borderland. We have already written a lot about how camera traps work and the possibility of identifying lynx by their individual markings. But where are the camera traps and what can we find out from them? 
 
-<div class="clearfix"></div>
+The camera traps are placed in a regular network by each 3Lynx partner who each has a defined area to cover. ALKA Wildlife is in charge of the Czech area known as the "free" landscape, i.e. outside the Šumava National Park and outside the Protected Landscape Areas. Specifically, we monitor: 
 
-![](/media/s320_img_0378.jpg){: .wysiwyg-float-left} V zimě je možné
-ale také využít prastarých metod monitoringu zvířat a tím je
-stopování. Stopu rysa je někdy možné zaměnit se stopou velké psovité
-šelmy nebo i stopami zajíce. Je potřeba se podívat na celou řadu
-specifických znaků rysí stopy: stopa je čtyřprstá, má kulatý tvar; otisk
-přední tlapy je v podélné rovině asymetrický; střední polštářek je
-poměrně velký a má lichoběžníkový tvar; polštářky prstů jsou od sebe
-vzdálené, stopa vypadá „rozevřená“; drápy se obvykle neobtiskují, jsou
-zatažené v pouzdrech, při otisku (třeba na nerovném povrchu) vytváří
-malé kulaté dírky. Při sledování stopní dráhy je viditelné vytočení stop
-do stran, stopní dráha vede rovně a neuhýbá do stran. Rozměry přední
-tlapy jsou přibližně 6-9 cm.
+* Some areas of the Bohemian Forest
+* Border areas of Šumava
+* The Brdy hills
+* The area from Šumava to Novohradské Mountains
+* The Javořice Highlands
 
-<div class="clearfix"></div>
+Each quad must be monitoring in a way so that the presence, or lack of presence, of lynx can be confirmed. By tracking and sharing data together, movements of individual lynx can be followed.
 
-![](/media/s320_img_0385.jpg){: .wysiwyg-float-left} Když se k této
-prastaré metodě přidá moderní technika, je možné pomocí analýzy DNA
-identifikovat jedince, určit pohlaví, příbuznost jedinců. Cílem analýz
-také bude zjistit, jestli se v populaci rysa v česko-rakousko-bavorském
-pohraničí neprojevují negativní vlivy příbuzenského křížení,
-pravděpodobnost je velmi vysoká, protože tato populace je dlouhodobě
-izolovaná a velmi malá. Zvířata není nutné chytat, aby jim byl odebrán
-vzorek, „stačí“ najít a sebrat trus, moč, chlupy či sliny – ze všech
-těchto materiálů je možné extrahovat DNA, je však důležité dodržet
-postup sběru. Vzorky je nutné sbírat v rukavicích, aby laborant nakonec
-neanalyzoval vaši DNA, vlhké tkáně je potřeba zamrazit, aby nedošlo
-k degradaci materiálu.
+![](/media/s320_img_0378.jpg)
 
-V Novohradských horách jsme ale nenarazili jen na rysí stopy, ale také na zapomenutý
-malebný kout světa uprostřed střední Evropy. Asi není třeba více slov, fotografie postačí.\
-Stopování rysů probíhá v rámci projektu [3LYNX](https://www.interreg-central.eu/Content.Node/3Lynx.html).
+_Image: Snow tracking lynx can help us estimate where to place our camera traps. _
+
+In the winter, it is also possible to take advantage of ancient methods of animal monitoring: tracking. As well as using camera traps to locate lynx, in the winter we walk our defined areas to find tracks and traces of the lynx. It is possible to confuse the lynx with the track of a large canine or even a hare's footprint. Therefore it is necessary to check for the following characteristics of a lynx track: 
+
+* Lynx have four, rounded toes which are visible in their track
+* The pads are asymmetric in the longitudinal plane
+* The middle pad is relatively large and has a trapezoidal shape
+* The fur in between the toes make the track look "open"
+* Lynx are able to retract their claws so you rarely see them in their track. On the rare occasion, such as on an uneven surface, they will create small round holes when imprinted. 
+* Lynx tracks are usually close together and run in a straight line.
+* Measuring the pads the dimensions are approximately 6-9cm.
+
+![](/media/s320_img_0385.jpg)
+
+_Image: Collecting lynx faeces to identify individuals._
+
+When modern technology, DNA analysis, is added to this old method of tracking, it is possible to identify individuals, determine gender and the relationship between individuals. The aim of the analysis is be to find out if there are any negative effects of inbreeding in the lynx population of the Czech-Austrian-Bavarian border region. This method means that it is not necessary to physically catch the animals to obtain a sample. By "simply" finding and collecting samples, such as faeces, urine, hair or saliva, it is possible to extract the DNA. The collection procedure, however, is vital. When collecting samples, it is necessary do so using gloves so that the sample is not contaminated and the technician ends up analysing human DNA! Also, the wet samples need to be frozen as soon as possible to avoid sample degradation.
+
+Lucky for us, in the Novohradské Mountains we did not only encounter lynx tracks, but also a forgotten picturesque corner of the world, in the middle of Central Europe. We think there is no need for more words, as that the photos say enough. If you don't believe us, go have a look yourself. You can also read more about the 3Lynx project [here](https://www.interreg-central.eu/Content.Node/3Lynx.html).
 
 ![](/media/3lynx_cmyk_350.jpg)
