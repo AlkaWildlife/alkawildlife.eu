@@ -3,7 +3,7 @@ title: American mink - a real enemy?
 published: true
 image: /media/img_5677.jpg
 listing_thumbnail: /media/img_5677_274.jpg
-description: V časopise Živa (2018/5) vyšel souhrnný článek o norkovi americkém.
+description: 'We''ve published a new article on the American mink in Živa magazine, May 2018.'
 date: '2018-10-20'
 lang_alternatives:
   cs_CZ:
