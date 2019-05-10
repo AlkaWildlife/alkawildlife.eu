@@ -14,7 +14,7 @@ journal: Bulletin Vydra
 year: 2015
 lang:
   - cs
-link: /media/Polednik etal 62_74.pdf
+link: /media/7_Polednik etal 62_74.pdf
 attachments:
   - {}
 ---
