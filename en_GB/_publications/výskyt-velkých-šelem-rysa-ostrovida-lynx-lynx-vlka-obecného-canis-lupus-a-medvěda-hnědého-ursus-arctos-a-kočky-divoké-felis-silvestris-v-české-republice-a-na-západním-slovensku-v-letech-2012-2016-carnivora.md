@@ -1,8 +1,8 @@
 ---
 title: >-
-  Výskyt velkých šelem - rysa ostrovida (Lynx lynx), vlka obecného (Canis lupus)
-  a medvěda hnědého (Ursus arctos) - a kočky divoké (Felis silvestris) v České
-  republice a na západním Slovensku v letech 2012 - 2016 (Carnivora)
+  Occurrence of large carnivores – Lynx lynx, Canis lupus, and Ursus arctos –
+  and of Felis silvestris in the Czech Republic and western Slovakia in
+  2012–2016 (Carnivora)
 published: true
 public: true
 authors:
