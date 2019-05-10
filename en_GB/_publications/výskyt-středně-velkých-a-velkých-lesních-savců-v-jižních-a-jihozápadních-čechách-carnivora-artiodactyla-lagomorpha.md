@@ -1,7 +1,7 @@
 ---
 title: >-
-  Výskyt středně velkých a velkých lesních savců v jižních a jihozápadních
-  Čechách (Carnivora, Artiodactyla, Lagomorpha)
+  Occurrence of medium-sized and large mammals in forests of southern and
+  southwestern Bohemia, Czech Republic (Carnivora, Artiodactyla, Lagomorpha)
 published: true
 public: true
 authors:
