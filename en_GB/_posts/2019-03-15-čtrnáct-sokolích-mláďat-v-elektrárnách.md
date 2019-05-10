@@ -1,28 +1,39 @@
 ---
-title: Čtrnáct sokolích mláďat v elektrárnách
+title: Fourteen new Peregrine falcon chicks are born on power plants towers
 published: true
 image: /media/první-odvážlivec_610.jpg
 listing_thumbnail: /media/první-odvážlivec_274.jpg
 description: >-
-  Sokolím párům se letos na výškových stavbách ČEZ daří. Na severu Čech se
-  vylíhlo celkem 10 mláďat sokola stěhovavého a další 4 ve středních Čechách. 
+  Peregrine falcon couples are doing well this year at the ČEZ towers. In the
+  Northern Bohemia, a total of 10 chicks have hatched and another 4 in Central
+  Bohemia.
 date: '2018-06-26'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/čtrnáct-sokolích-mláďat-v-elektrárnách
+    title: Čtrnáct sokolích mláďat v elektrárnách
 category: news
 layout: news
 ---
-## Ornitolog Beran: Čtrnáct sokolích mláďat v elektrárnách; nyní potřebují klid
+Ornithologist Vaclav Beran: Fourteen young falcons are growing up at power plants across the Czech Republic, all they need now is a little bit of peace
 
-Tisková zpráva Skupiny ČEZ
+# ČEZ Group Press Release
 
-**Severní a střední Čechy 26.6.2018 – Sokolím párům se letos na výškových stavbách Skupiny ČEZ, respektive elektrárenských komínech a jedné chladicí věži, daří. Na severu Čech se vylíhlo celkem 10 mláďat ohroženého sokola stěhovavého a další 4 ve středních Čechách. Od roku 2011, kdy byla na ochozu chladicí věže Elektrárny Tušimice umístěna vůbec první hliníková sokolí budka v České republice, se tak vylíhlo šestašedesát mláďat.**
+**North and Central Bohemia, June 26, 2018 - This year, our falcon pairs are doing well on the towers of ČEZ Group, power station chimneys and cooling towers. Currently, a total of 10 juveniles of this endangered species have hatched in Northern Bohemia and another 4 in Central Bohemia. In 2011, a total of sixty-six chicks hatched when the first aluminium falcon nest boxes were installed across the Czech Republic, including at the Tušimice Power Station cooling tower.**
 
-„_Jediné, co nyní sokolí junioři potřebují, je klid. Všichni jsou už natolik velcí, že se buď „batolí“ po ochozech nebo se již dokonce učí s rodiči létat a lovit. Proto jsem vedení všech elektráren opět požádal, aby případné současné aktivity spojené nějakým způsobem s údržbou komína či lezeckým cvičením tamních profesionálních hasičů, byly na nějaký čas odloženy. Prakticky až do definitivního opuštění budek, by sokolí rodinky neměly být nějak rušeny,_“ říká ornitolog Václav Beran, jinak také zoolog a kurátor sbírky Muzea města Ústí nad Labem a výzkumný pracovník ALKA Wildlife, o. p. s. „_Prakticky všechna mláďata se mi letos vůbec poprvé podařilo také okroužkovat. Výjimkou jsou pouze dvě tušimická, neboť budka je umístěna vně ochozu chladicí věže, takže k ní je komplikovaný přístup_.“ 
+Václav Beran, an orithologist, curator at the Museum of the City of Ústí nad Labem and a researcher from ALKA Wildlife monitors all the nest boxes, with the exception of the nest box located at Tušimické as it is complicated to access. He also organises the ringing of both the adults and the new chicks. He talks about the falcons:
 
-Klid pro sokolí zahnízdění je pro ředitele elektráren samozřejmostí. „_Byli jsme první, kdo instalaci budky ornitologům z ALKA Wildlife v roce 2011 umožnil. Tím bylo odstartováno jejich umísťování i v dalších lokalitách ČEZ. V Tušimicích je ovšem budka na chladicí věži, neboť komín byl v rámci komplexní obnovy elektrárny zbourán. Právě při demontážních pracích na komíně byla v roce 2010 na jednom z ochozů objevena v klubku kabelů tři sokolí vejce. Okamžitě jsme tehdy zastavili veškeré aktivity. Podle zákona o ochraně přírody a krajiny je totiž u zvláště chráněných živočichů zakázáno škodlivě zasahovat do jejich přirozeného vývoje a rušit je. Spojili jsme se pochopitelně i s odborníky přes životní prostředí. Ornitolog Václav Beran pak bohužel zjistil, že vejce byla dlouho opuštěna a hlavně neoplozena. Nicméně tím ovšem byl potvrzen výskyt sokola stěhovavého u nás. Následující rok sokolí pár již v budce vyvedl tři mladé. Od té doby má u nás trvalé domovské právo a my jej ctíme,_“ zavzpomínal si Otakar Tuček, ředitel elektráren Tušimice a Prunéřov.
+> “The only thing that falcon chicks need now is peace. They are all now big enough to either be walking around the towers and they may even be learning to fly and hunt with their parents. It is therefore imperative that the management of all power plants postpone any current or planned activities associated with the towers such as chimney maintenance or climbing exercises by local professional firefighters. Ultimately, the falcon families shouldn't be disturbed until the chicks have finally fledged the nest boxes for good.”
 
-Stejný přístup k ohroženému opeřenému predátoru mají pochopitelně i v dalších elektrárnách Skupiny ČEZ. „_Rádi jsme vyhověli ornitologům z ALKA Wildlife, zvláště když se před tím snažil sokolí pár hnízdit na skále v sousedství teplárny. I u nás má potřebné podmínky k vyvedení mladých. My se pochopitelně snažíme ho při tom nerušit_,“ říká Miroslav Krpec, ředitel Elektrárny Mělník a Teplárny Trmice, na jejímž komíně byla sokolí budka umístěna v roce 2014. Na podzim roku 2015 pak přibyla budka i na ochozech komínů v elektrárnách Mělník a Ledvice. 
+
+
+Peace of mind for falcon nesting is commonplace for power plant directors. Otakar Tuček, director of Tušimice and Prunéřov power plants, talks about how he supports the falcons:
+
+“We were the first to make the installation of the booth to the ornithologists of ALKA Wildlife in 2011. This started their placement in other ČEZ locations. However, in Tušimice there is a booth on the cooling tower, as the chimney was demolished as part of a comprehensive power plant renovation. During the chimney's dismantling work, three falcon eggs were discovered in one of the galleries on one of the galleries in 2010. We stopped all activities immediately. According to the Nature and Landscape Protection Act, it is forbidden to interfere harmfully with their natural development and to disturb them in specially protected animals. Of course, we have also teamed up with environmental experts. Unfortunately, the ornithologist, Václav Beran, found out that the egg had been abandoned for a long time and had not been fertilized. However, this has confirmed the presence of the Peregrine Falcon in our country. The following year, the falcon couple brought three young men to the booth. Since then, he has a permanent home right in our country and we honor him, ”
+
+
+
+Stejný přístup k ohroženému opeřenému predátoru mají pochopitelně i v dalších elektrárnách Skupiny ČEZ. „_Rádi jsme vyhověli ornitologům z ALKA Wildlife, zvláště když se před tím snažil sokolí pár hnízdit na skále v sousedství teplárny. I u nás má potřebné podmínky k vyvedení mladých. My se pochopitelně snažíme ho při tom nerušit_,“ říká Miroslav Krpec, ředitel Elektrárny Mělník a Teplárny Trmice, na jejímž komíně byla sokolí budka umístěna v roce 2014. Na podzim roku 2015 pak přibyla budka i na ochozech komínů v elektrárnách Mělník a Ledvice. 
 
 „_Páry v obou lokalitách jsou letos velmi aktivní. Mělnický má čtyři a ledvický tři mladé. Vloni to byl přitom opačný trend. Mělnický sice zahnízdil, ale mladé nevyvedl, a ledvický pár měl jen jedno mládě. Proto v obou případech považuji narození tolika mláďat za velký úspěch. I zde pochopitelně potřebují obě sokolí rodinky absolutní klid. Nejinak je tomu i v Elektrárně Počerady, kde jsem teprve nedávno kroužkoval jedno mládě_,“ konstatoval Václav Beran.
 
