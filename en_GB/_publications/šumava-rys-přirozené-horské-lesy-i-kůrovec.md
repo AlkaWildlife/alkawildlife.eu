@@ -1,5 +1,5 @@
 ---
-title: 'Šumava: rys, přirozené horské lesy i kůrovec'
+title: 'Sumava: Lynx, natural mountain forests and bark beetles'
 published: true
 public: true
 authors:
@@ -10,10 +10,10 @@ authors:
   - name: Tereza Mináriková
   - name: Kateřina Poledníková
   - name: Josefa Volfová
-type: Brožura
+type: Brochure
 tags:
-  - rys ostrovid
-  - publikace pro laickou veřejnost
+  - Eurasian lynx
+  - Publication for the general public
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2014
 lang:
@@ -22,4 +22,8 @@ link: /media/translynx_sumava.pdf
 attachments:
   - {}
 ---
-Víte, kde najdete nejkrásnější klenoty českého přírodního dědictví? Kde našel útočiště tetřev hlušec i rys ostrovid, kde roste masožravá rosnatka anglická? Pás hor, do nějž patří Šumava, Novohradské hory, Český les a jejich podhůří, se nazývá Šumavská soustava. Najdeme tu pestrou mozaiku vzácných biotopů: rozsáhlá rašeliniště a mokřady, pralesovité porosty horských smrčin nebo bučin, divoké řeky i ledovcová jezera. Objevit zde můžeme endemické organismy, které se nevyskytují nikde jinde na světě.
+Do you know where to find the most beautiful gems of Czech natural heritage? 
+
+Where did the capercaillie and the Eurasian lynx find refuge? 
+
+The belt of mountains, including Šumava, Novohradské hory, Český les and their foothills, is called the Šumava system. Here we find a varied mosaic of rare habitats; extensive peat bogs and wetlands, primeval forests of spruce or beech, wild rivers and glacial lakes. Here, we can discover endemic organisms that do not occur anywhere else in the world.
