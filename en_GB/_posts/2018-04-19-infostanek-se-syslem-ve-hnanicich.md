@@ -1,5 +1,5 @@
 ---
-title: Infostánek se syslem ve Hnanicích
+title: Souslik information stand at the Hnanice 'Open Cellars'
 published: true
 image: /media/pozvanka.jpg
 listing_thumbnail: /media/img_2903_m_320.jpg
