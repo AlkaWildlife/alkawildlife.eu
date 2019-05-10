@@ -1,17 +1,15 @@
 ---
-title: >-
-  Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech
-  2008-2012
+title: Winter otter census in selected areas of the Czech Republic from 2008-2012
 published: true
 public: true
 authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
   - name: Václav Hlaváč
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publication for the professional public
 journal: Bulletin Vydra
 year: 2012
 lang:
@@ -20,4 +18,8 @@ link: /media/Polednik etal 29_38.pdf
 attachments:
   - {}
 ---
-During the years 2008 to 2012 twelve snow tracking surveys done in nine 10 x 10 km2 squares were carried out in the Czech Republic. Number of individuals identified in different squares varied between one to twenty nine adult otters per 100 km2. Higher densities were found in fishpond areas compared to mountain areas. Dependent cubs made up 36% of the population, and the average size of litter was 1.58.
+From 2008-2012 twelve, we completed twelve snow tracking surveys across nine 10x10km2 squares in the Czech Republic. 
+
+Number of individuals identified in different squares varied between 1-29 adult otters per 100km2. 
+
+Higher densities were found in fishpond areas compared to mountain areas. Dependent cubs made up 36% of the population and the average size of litter was 1.58.
