@@ -15,10 +15,8 @@ year: 2018
 lang:
   - cs
 link: ''
-attachments:
-  - title: American mink - a real enemy?
-    link: /media/norek-americky-opravdovy-nepritel.pdf
+attachments: []
 ---
-The project ‘Measures to mitigate the impact of invasive animals in Western Slovakia and South Moravia’ is focussed on reassessing the status of the American mink and reducing this by actively catching them, to protect our native animal species.
+We have published a summary article on the American mink in Živa magazine, May 2018. It contains basic information about this species, its population status and its impact on European fauna. You can download the article [here](/media/norek-americky-opravdovy-nepritel.pdf).
 
-In Živa magazine (2018/5), we published a summary article on the American mink. It contains basic information about this species, its population status and its impact on European fauna.
+This article was produced under the project ‘[Measures to mitigate the impact of invasive animals in Western Slovakia and South Moravia](/project/revision)’ which is focussed on reassessing the status of the American mink and reducing this by actively catching them, to protect our native animal species.
