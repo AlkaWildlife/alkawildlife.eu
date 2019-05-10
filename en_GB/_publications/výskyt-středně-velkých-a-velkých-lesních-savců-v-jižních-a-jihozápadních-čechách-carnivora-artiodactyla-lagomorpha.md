@@ -16,8 +16,8 @@ authors:
   - name: Lukáš Poledník
 type: Článek v periodiku
 tags:
-  - rys ostrovid
-  - publikace pro odbornou veřejnost
+  - Eurasian lynx
+  - Publication for the professional public
 journal: 'Lynx, n.s. (Praha)'
 year: 2015
 lang:
