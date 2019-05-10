@@ -1,5 +1,5 @@
 ---
-title: 'Vydry na silnici - problém, který můžeme řešit'
+title: Otters on the road - a problem that can be solved
 published: true
 public: true
 authors:
@@ -7,11 +7,11 @@ authors:
   - name: Lukáš Poledník
   - name: Václav Beran
   - name: Tereza Mináriková
-type: Článek v periodiku
+type: Journal article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
-journal: Ochrana přírody
+  - Eurasian otter
+  - Publication for the professional public
+journal: Protection of Nature
 year: 2017
 lang:
   - cs
@@ -19,14 +19,6 @@ link: /media/OP_03_2017_vydry.pdf
 attachments:
   - {}
 ---
-Vydra říční se v současnosti vyskytuje na téměř celém území České republiky. Stále však existují
+The Eurasian otter can be found across the Czech Republic. But there are some important factors that can threaten the population. One is an increased amount of traffic on the road, which can cause mortality to individuals, especially adults. 
 
-významné faktory, které mohou populaci ohrozit. Jedním z nich je vysoký provoz na silnicích, který
-
-způsobuje mortalitu jedinců (zejména dospělých). Dlouhodobý výzkum ukázal, že je možné nepříznivý
-
-vliv tohoto faktoru velmi výrazně snížit. Identifikovat riziková místa je možné a existují technická řešení,
-
-jak zajistit bezpečný průchod pod silnicí. Opatření umožňující průchod pro vydru jsou vhodná pro celou
-
-řadu malých až středně velkých živočichů, kteří putují krajinou podél toků.
+Long-term research has shown that this unfavourable risk factor to the otters survival can be greatly reduced through risk spot identification and technical solutions to how we can ensure safe passage under the roads. The measures which allow passage for otters is also suitable for the whole a number of other small to medium-sized animals who live in the landscape along streams.
