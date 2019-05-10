@@ -1,7 +1,7 @@
 ---
 title: >-
-  Výskyt norka amerického (Neovison vison) v Krkonošském národním parku a jeho
-  ochranném pásmu v letech 2012 a 2013
+  The occurrence of the American mink (Neovison vison) in the Giant Mts (Czech
+  Republic) in 2012 and 2013
 published: true
 public: true
 authors:
@@ -9,10 +9,10 @@ authors:
   - name: Kateřina Poledníková
   - name: Sergi Munné
   - name: Jiří Flousek
-type: Článek v periodiku
+type: Article in a journal
 tags:
-  - norek americký
-  - publikace pro odbornou veřejnost
+  - American mink
+  - Publication for the professional public
 journal: Opera Corcontica
 year: 2016
 lang:
@@ -21,4 +21,4 @@ link: /media/OC53_Polednik_web.pdf
 attachments:
   - {}
 ---
- V letech 2012 a 2013 proběhl na vybraných tocích na území Krkonošského národního parku a jeho ochranného pásma průzkum výskytu nepůvodního norka amerického (Neovison vison) pomocí plovoucích raftů a sklopných pastí. Norek americký byl zaznamenán na Velké Mumlavě, Jizeře, Jizerce, Lučním potoce a Úpě. Naopak nebyl prokázán na Labi a Malém Labi.
+Selected water streams located in the Krkonoše Mts National Park and its buffer zone (Krkonoše/Giant Mts) were surveyed for the presence of the alien American mink in 2012 and 2013 using fl oating rafts and live box traps. The occurrence of the species was recorded on several stream
