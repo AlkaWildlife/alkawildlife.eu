@@ -1,30 +1,40 @@
 ---
-title: Na silnicích umírá stále více chráněných vyder
+title: More and more protected otters are dying on the roads
 published: true
 image: /media/p5310050-l.jpg
 description: >-
-  Tisková zpráva: Silniční doprava stále více ohrožuje chráněné vydry říční.
-  Ročně je nalezeno kolem padesáti takto uhynulých zvířat a jejich počet stále
-  stoupá. 
+  Road transport is increasingly threatening our protected otters. Around fifty
+  dead animals are found annually, and their number continues to rise.
 date: '2016-05-03'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/na-silnicích-umírá-stále-více-chráněných-vyder
+    title: Na silnicích umírá stále více chráněných vyder
 category: news
 layout: news
 ---
-Tisková zpráva ALKA Wildlife, o.p.s. 
+# Press release ALKA Wildlife, o.p.s.
 
-**Lidéřovice 3.května 2016 - Silniční doprava stále více ohrožuje chráněné vydry říční. Ročně je nalezeno kolem padesáti takto uhynulých zvířat a jejich počet stále stoupá. Na vině je zejména rostoucí intenzita dopravy a nevhodné stavební řešení dopravních komunikací, které neumožňuje vydrám jejich bezpečné překonání. Nová mapová aplikace **[**www.vydrynasilnici.cz**](www.vydrynasilnici.cz)** má pomoci při řešení tohoto problému.**
+**Lidéřovice May 3, 2016 - Road transport is increasingly endangering the protected Eurasian otter. Annually, around fifty animals are found and this number continues to rise. This information is used, in particular, to ensure effective planning to overcome this problem. Our **[**new online mapping service**](https://www.vydrynasilnici.cz)** is one step in the right direction to help solve this problem.**
 
+Stříbrná Skalice, Jelení u Bruntálu, Trstěnice u Moravského Krumlova, Slavětice, Úsilné u Českých Budějovic, Oleksovice, Třeštice, Koloděje nad Lužnicí, Obědovice - these are all villages where the river otter has only been found on the road from the beginning of 2016. Experts warn that an increase in mortality may lead to the collapse of the entire otter population in the future. Kateřina Poledníková, from ALKA Wildlife, describes the problem further: 
 
-Stříbrná Skalice, Jelení u Bruntálu, Trstěnice u Moravského Krumlova, Slavětice, Úsilné u Českých Budějovic, Oleksovice, Třeštice, Koloděje nad Lužnicí, Obědovice – to vše jsou obce, kde jen od začátku roku 2016 bylo nalezeno na silnici tělo vydry říční. Odborníci přitom varují, že nárůst mortality může do budoucna vést až ke kolapsu celé vydří populace. „_Podle našich údajů je sice populace vydry nyní stabilní, v posledních letech ale zaznamenáváme velký nárůst úmrtnosti vyder na silnicích. Vezmeme-li navíc v úvahu prognózy dalšího nárůstu autodopravy v ČR, přežití vydří populace je autodopravou významně ohroženo_“ uvádí Kateřina Poledníková z ALKA Wildlife.
+> "According to our data, while the otter population is now stable, in recent years we have seen a large increase in otter mortality on the road. Moreover, taking into account the forecasts of further growth in road transport in the Czech Republic, the survival of the otter population is significantly threatened by road transport."
 
-Odborníci si jsou problému se silnicemi vědomi, a proto u nás v současnosti probíhá intenzivní kontrola vybraných úseků a míst, kde vydry na silnicích uhynuly. Takto vzniká mapa rizikových míst pro vydru říční v celé ČR. Z kontrol těchto míst vyplývá, že v 83 % je reálné silnici či její okolí upravit tak, aby k dalším úmrtím nedocházelo. „_Často se jedná o velmi drobné úpravy či investice, například pročištění existujícího propustku pod silnicí nebo instalaci dřevěné lávky či betonové lavice v podmostí_“ upřesňuje Kateřina Poledníková. 
+Experts are aware of the problems roads cause to the otter population and are therefore undertaking an intensive inspection of selected locations and sections of roads where otters have died on the roads. This, in turn, creates a map of risk areas for otters throughout the Czech Republic. Inspections of these sites show that in 83% of them, the road or its surrounding area should be adjusted to prevent further deaths. Kateřina Poledníková explains:
 
-„_Rádi bychom, aby se tímto problémem začali zabývat správci silnic a orgány ochrany přírody. Informace o tom, ve kterých místech vydry na silnicích umírají a kde je potřeba provést stavební či jiné úpravy, jsme proto zveřejnili v on-line mapové aplikaci www.vydrynasilnici.cz doufáme, že lepší informovanost o tomto problému povede i k jeho efektivnímu řešení_“ uzavírá Kateřina Poledníková. 
+> "Very often only a minor modification or investment is needed to support the otters in these risk areas. For example, clear an existing culvert under the road or installing a wooden footbridge or concrete walkway along the watercourse can significantly help the otter."
+
+ Kateřina Poledníková finishes by describing how ALKA Wildlife publishes the data they obtain on dead otters:
+
+> "We want road administrators and the nature conservation authorities to address this issue. Therefore, we have published information on where otters are dying on the roads and where construction or other adjustments are needed. All this information can be found on our 
+>
+> [online map](https://www.vydrynasilnici.cz)
+>
+>  and we hope that better information about this problem will lead to its effective solution."
 
 ![](/media/loga_mgs_stojato_100.jpg)
 
-Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
+Supported by a grant from Iceland, Liechtenstein and Norway.
 
-Tato akce byla realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
+This project has been implemented with financial support from the EEA funds 2009-2014 and the Ministry of the Environment. Its content is exclusively the responsibility of ALKA Wildlife, o.p.s. and cannot in any way be regarded as the opinion of the donor or the Ministry of the Environment.
