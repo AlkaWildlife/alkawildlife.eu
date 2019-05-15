@@ -10,9 +10,21 @@ lang_alternatives:
   en_GB: {}
 ---
 Jedna budka vyvěšena na komín výtopny Vráto nainstalovaná v prosinci 2016.
- V následujícím roce se budka zalíbila sokolí samičce.
+ V následujícím roce se budka zalíbila sokolí samičce. V roce 2019 zde sokoli poprvé hnízdí, starají se o dvě samičky a jednoho samečka, kteří se vylíhli okolo Velikonoc. 
+
+
+
+Sokoly v budce je možné sledovat pomocí online kamery: <http://www.teplarna-cb.cz/hnizdo/> 
+
+
 
 V médiích:
+
+[2019: teplarna-cb.cz: Budějovická sokolí mláďata byla okroužkována](http://www.teplarna-cb.cz/novinky/budejovicka-sokoli-mladata-byla-okrouzkovana.html)
+
+[2019: idnes.cz: Na komíně budějovické teplárny zahnízdil sokolí pár, má tři mláďata](https://www.idnes.cz/ceske-budejovice/zpravy/sokol-stehovavy-mladata-komin-teplarna-budejovice.A190513_121511_budejovice-zpravy_mrl)
+
+[2018: teplarna-cb.cz: Hnízdní budka na teplárenském komínu už má nového obyvatele](http://www.teplarna-cb.cz/novinky/hnizdni-budka-na-teplarenskem-kominu-uz-ma-noveho-obyvatele.html)
 
 [2018: idnes.cz: Na komín českobudějovické teplárny se vrátil ohrožený sokol stěhovavý](https://www.idnes.cz/ceske-budejovice/zpravy/sokol-stehovavy-teplarna-komin-hnizdeni-ohrozeny.A181024_083627_budejovice-zpravy_mrl)
 
