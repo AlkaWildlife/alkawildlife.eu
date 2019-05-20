@@ -1,16 +1,16 @@
 ---
 title: >-
-  Monitoring, regulace a eradikace norka amerického v České republice -
-  metodická doporučení
+  Monitoring, regulation and eradication of American mink in the Czech Republic
+  - methodological recommendations
 published: true
 public: true
 authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
-type: Metodika
+type: Methodology
 tags:
-  - norek americký
-  - publikace pro odbornou veřejnost
+  - American mink
+  - Publication for the professional public
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2010
 lang:
