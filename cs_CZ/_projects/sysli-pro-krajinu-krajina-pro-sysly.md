@@ -2,6 +2,7 @@
 title: 'Sysli pro krajinu, krajina pro sysly'
 published: true
 subtitle: 'Sysli pro krajinu, krajina pro sysly'
+registration_no: 304021D154
 funding: >-
   Program: [Interreg V-A Slovenská republika – Česká republika
   ](https://www.sk-cz.eu/sk/)
