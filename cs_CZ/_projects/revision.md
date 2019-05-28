@@ -4,6 +4,7 @@ published: true
 subtitle: >-
   Opatrenia pre zmiernenie dopadov inváznych živočíchov na Západnom Slovensku a
   južnej Morave
+registration_no: 304021D187
 funding: >-
   Program: [Interreg V-A Slovenská republika – Česká
   republika](https://www.sk-cz.eu/sk/)
