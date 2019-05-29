@@ -12,6 +12,8 @@ lang_alternatives:
 ---
 Projektu podpořil ČEZ a.s.,  v letech 2015 - 2018 Nadace ČEZ 
 
+![](/media/nadacecez__svetletransparentni_300.png)
+
 Lokality: Elektrárna Tušimice, elektrárna Počerady, elektrárna Prunéřov, elektrárna Tisová, jaderná elektrárna Dukovany, Elektrárna Mělník, , teplárna Trmice, elektrárna Ledvice
 
 Na objektech firmy ČEZ a.s. je instalováno již 10 hnízdních budek, některé na chladících věžích, některé na komínech. V elektrárně Tušimice to byly první budky v ČR vyvěšené na průmyslových objektech, a to už v roce 2011. Spolupráce pokračovala dlouhodobě, jako poslední byly vyvěšeny budky v roce 2015 na komín v jaderné elektrárně Dukovany. Celkem již bylo v těchto budkách vyvedeno 66 mláďat sokola stěhovavého!
