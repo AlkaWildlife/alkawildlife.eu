@@ -1,8 +1,8 @@
 ---
 title: World otter day 2019
 published: true
-image: /media/vydra-ricni-9012_610.jpg
-listing_thumbnail: /media/vydra-ricni-9012_274.jpg
+image: /media/vydra_888_bohdal_610.jpg
+listing_thumbnail: ''
 description: 'We''re celebrating World Otter Day 2019! '
 date: '2019-05-29'
 lang_alternatives:
