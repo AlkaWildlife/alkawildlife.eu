@@ -2,7 +2,7 @@
 title: Mezinárodní den vyder 2019
 published: true
 image: /media/vydra-ricni-9012_610.jpg
-listing_thumbnail: ''
+listing_thumbnail: /media/vydra-ricni-9012_274.jpg
 description: Oslavte s námi Mezinárodní den vyder.
 date: '2019-05-29'
 lang_alternatives:
