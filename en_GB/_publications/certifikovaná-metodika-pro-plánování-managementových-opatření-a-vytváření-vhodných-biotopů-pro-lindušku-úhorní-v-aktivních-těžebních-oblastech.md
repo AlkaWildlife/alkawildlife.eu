@@ -1,7 +1,7 @@
 ---
 title: >-
-  Certifikovaná metodika pro plánování managementových opatření a vytváření
-  vhodných biotopů pro lindušku úhorní v aktivních těžebních oblastech
+  Certified methodology for planning management measures and creating
+  appropriate habitats for the Tawny Pipit in active mining areas
 published: true
 public: true
 authors:
@@ -10,10 +10,10 @@ authors:
   - name: Lukáš Poledník
   - name: Michal Porteš
   - name: Tomáš Růžička
-type: Metodika
+type: Methodology
 tags:
-  - linduška úhorní
-  - publikace pro odbornou veřejnost
+  - Tawny Pipit
+  - Publication for the professional public
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2018
 lang:
@@ -22,4 +22,10 @@ link: /media/Certifikovana_metodika_linduska_uhorni_fin.pdf
 attachments:
   - {}
 ---
-Cílem metodiky je připravit návod na realizaci základních managementových opatření, které je možné provádět na podporu stávající hnízdní populace lindušky úhorní (Anthus campestris) v povrchových lomech podkrušnohorských pánví. Vzhledem ke specifickým nárokům na prostředí (nízký porost, řídce zarostlé plochy) linduška úhorní zcela vymizela z celého území České republiky a jediné reprodukce schopné populace zůstaly zachovány na území povrchových hnědouhelných lomů Ústeckého kraje. Populace v České republice čítá maximálně 200 hnízdících párů a je zcela závislá na aktivní těžbě. Vzhledem k tlaku na zmenšování rozlohy hnědouhelných lomů a ukončování těžby v některých z nich, dochází k postupnému zmenšování ploch vhodných pro hnízdění tohoto druhu. Při dalším poklesu populace proto může rychle dojít k překročení minimálního počtu párů potřebných k zachování tohoto druhu na našem území a k jeho úplnému vymizení. Proto byla vytvořena metodika pro plánování efektivních podpůrných opatření pro tento druh. Návrhy opatření vycházejí z výsledků mnohaleté spolupráce s těžebními společnostmi a z detailní znalosti místní populace lindušky úhorní. Opatření jsou formulována tak, aby byla přímo využitelná v praxi hnědouhelných lomů a byla co možná nejekonomičtější a s co možná nejmenšími negativními dopady na ostatní druhy obývající tyto lomy. Lindušku úhorní můžeme do jisté míry považovat za tzv. deštníkový druh, jehož ochranářský management prospívá i jiným ohroženým druhům, např. rostlinám vázaným na iniciální sukcesní stadia nebo žahadlovým blanokřídlým.
+The aim of this methodology was to prepare instructions for the implementation of basic management measures that can be implemented to support the existing nesting population of Tawny Pipit (_Anthus campestris_) in the open mining quarries of Krušne Hory. 
+
+Due to the specific environmental requirements such as low vegetation and sparsely overgrown areas, the Tawny pipit has nearly completely disappeared across the Czech Republic with the only reproducing population situated in coal quarries of the Ústí Region. The population in the Czech Republic has a maximum of 200 nesting pairs and is now fully dependent on active mining. 
+
+Nowadays, there is pressure to reduce the number of coal quarries and in some, to stop mining completely. This, therefore, means there will be a gradual reduction of areas suitable for this species to nest in. As a result, further decline of the population will occur including the the minimum number of pairs needed to maintain this species in our country and its complete disappearance may well come quicker than predicted. 
+
+Therefore, this methodology was developed to plan effective support measures for this species. The draft measures are based on the results of many years of cooperation with mining companies and the detailed knowledge of the local population of the Tawny pipit. These measures were formulated to be directly applicable to quarries and to be as economical as possible, with the least possible negative impact on other species inhabiting these quarries. To a certain extent, we can consider the Tawny pipit to be a so-called umbrella species whose conservation management is beneficial to other endangered species.
