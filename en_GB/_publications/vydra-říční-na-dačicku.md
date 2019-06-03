@@ -1,5 +1,5 @@
 ---
-title: Vydra říční na Dačicku
+title: Eurasian otter in Dačice
 published: true
 public: true
 authors:
@@ -8,11 +8,11 @@ authors:
   - name: Andreas Kranz
   - name: Václav Beran
   - name: Gašpar Čamlík
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro laickou veřejnost
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publication for professionals
+  - Publication for general public
 journal: Dačický vlastivědný sborník
 year: 2013
 lang:
@@ -21,24 +21,11 @@ link: /media/Dačicko_11_polednikova_vydra.pdf
 attachments:
   - {}
 ---
-Cílem příspěvku je shrnout dosavadní výsledky dlouhodobého výzkumu vydry říční na
+The aim of this paper is to summarise the current results of long-term Eurasian otter research in Dačice. Intensive research into otters in this area began in 1995 and is still ongoing. 
 
-Dačicku. Intenzivní výzkum vyder v této oblasti začal již v roce 1995 a probíhá kontinuálně
+The major projects were: 
 
-dodnes. Nejrozsáhlejšími projekty byly: Ekologie vydry říční v rybníkářské krajině (Universität
-
-für Bodenkultur Wien), Vliv vyder na ryby v tocích v rybníkářské oblasti (Universita
-
-Palackého v Olomouci, financováno z Grantové agentury České republiky), Development
-
-of a procedural Framework for Action Plans to Reconcile conflicts between large vertebrate
-
-conservation and the use of biological resources: fisheries and fish-eating vertebrates
-
-as a model case (FRAP; projekt Evropské komise v rámci pátého rámcového programu;
-
-EVK2-CT-2002-00142) a Zjištění chybějících údajů o biologii a ekologii vydry říční: vytvoření
-
-modelu vývoje populace (ALKA Wildlife, o.p.s., financováno z programu VAV MŽP
-
-SP/2d4/16/08).
+* Ecology of the Eurasian Otter in Pond Landscape (Universitätfür Bodenkultur, Wien) 
+* The Effect of Otters on Fish in Streams in Ponds (University of Olomouc, financed by the Czech Science Foundation)
+* Development of a procedural framework for action plans to reconcile conflicts between large vertebrate conservation and use of biological resources: fisheries and fish-eating vertebrates a model case (FRAP; European Commission project under the fifth framework program; EVK2-CT-2002-00142) and 
+* Finding missing data on the biology and ecology of the Eurasian otter: developing a development model population (ALKA Wildlife, ops, funded by VAV MŽPSP / 2d4 / 16/08)
