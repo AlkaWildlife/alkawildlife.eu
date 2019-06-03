@@ -1,15 +1,15 @@
 ---
-title: 'Vydra a doprava - problém, který je možné řešit'
+title: Otters and transport - a problem that can be solved
 published: true
 public: true
 authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
-journal: Fórum ochrany přírody
+  - Eurasian otter
+  - Publication for professionals
+journal: Nature Conservation Forum
 year: 2017
 lang:
   - cs
@@ -17,4 +17,4 @@ link: /media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf
 attachments:
   - {}
 ---
-Stručná informace o studii rizikových míst pro vydry říční na silnicích v České republice a o online přístupné mapě, která je výstupem studie.
+This article provides brief information on the study of risk sites for Eurasian otters, on the roads in the Czech Republic. It also introduces the online map which is an outcome of the study.
