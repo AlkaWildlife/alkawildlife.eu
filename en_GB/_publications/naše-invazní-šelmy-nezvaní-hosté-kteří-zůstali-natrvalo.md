@@ -1,5 +1,5 @@
 ---
-title: 'Naše invazní šelmy - nezvaní hosté, kteří zůstali natrvalo'
+title: Our invasive animals - uninvited guests who ended up staying permanently
 published: true
 public: true
 authors:
@@ -10,12 +10,12 @@ authors:
   - name: Kateřina Poledníková
   - name: Jaroslav Červený
   - name: Tomáš Kušta
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - norek americký
-  - psík mývalovitý
-  - mýval severní
-  - publikace pro laickou veřejnost
+  - American mink
+  - Raccoon dog
+  - Northern raccoon
+  - Publication for the general public
 journal: Myslivost
 year: 2015
 lang:
@@ -24,4 +24,6 @@ link: /media/036_038_Mysl07.pdf
 attachments:
   - {}
 ---
-Norek americký, mýval severní a psík mývalovitý jsou již desítky let trvalou součástí naší fauny. Setkat se dnes s nimi můžete prakticky kdekoliv, kromě nejvyšších partií Krkonoš u nás není území, které by nehostilo alespoň jeden z těchto druhů. Jejich přítomnost v naší přírodě však není bez rizika – mohou být významní predátoři obojživelníků, plazů a ptáků, přenašeči řady nemocí a v neposlední řadě i konkurenti našich původních druhů šelem. Publikace stručně popisuje tyto druhy a jejich výskyt v České republice. V druhé části jsou diskutovány možnosti regulace těchto druhů a rozebrána je právní situace a pohled Evropské Unie na tento problém.
+Our invasive species; American mink, Northern raccoon and Raccoon dog have been a permanent part of our fauna for decades now. Today, you can see them almost anywhere, except for the highest parts of the Giant Mountains where there is no suitable environment for any one of these species. Their presence in our nature is not without risk, however, as they can become significant predators to amphibians, reptiles and birds, carry different diseases and, last but not least, are competitors to our native carnivores. 
+
+In the first part of this publication, we briefly describe these species and their occurrence in the Czech Republic. In the second part, we discuss the possibilities of regulation of these species and analyse both the legal situation and the view of the European Union on this problem.
