@@ -1,5 +1,7 @@
 ---
-title: Vydra a doprava. Příručka k omezení negativního vlivu dopravy na vydru říční
+title: >-
+  Otter and transport: A guide to reducing the negative impact of traffic on the
+  Eurasian otter
 published: true
 public: true
 authors:
@@ -8,11 +10,11 @@ authors:
   - name: Kateřina Poledníková
   - name: Jan Šíma
   - name: Jitka Větrovcová
-type: Brožura
+type: Brochure
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
-publisher: 'AOPK ČR a ALKA Wildlife, o.p.s.'
+  - Eurasian otter
+  - Publication for professionals
+publisher: 'Nature Conservation Agency of the Czech Republic and ALKA Wildlife, o.p.s.'
 year: 2017
 lang:
   - cs
@@ -20,4 +22,11 @@ link: /media/vydra a doprava - web_2.pdf
 attachments:
   - {}
 ---
-Cílem předkládané příručky je upozornit na problém hynutí vyder na silnicích -  v jakých situacích k problému dochází, podat doporučení optimálních postupů a s využitím praktických ukázek poskytnout příklady vhodných a nevhodných řešení. Součástí příručky je i popis správních postupů doporučených k prosazení požadavků na ochranu vydry říční při plánování dopravních stavbách.
+This handbook was created for the following reasons:
+
+* to draw attention to the problem of otters dying on roads, 
+* provide examples of situations in which this problem occurs, 
+* to make recommendations for best practice and 
+* to provide examples of suitable and inappropriate solutions using practical demonstrations. 
+
+The handbook also includes a description of the administrative procedures recommended to ensure that requirements for the protection of the Eurasian otter are met during planning future transport structures.
