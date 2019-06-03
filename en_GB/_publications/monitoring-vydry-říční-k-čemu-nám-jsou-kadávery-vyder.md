@@ -1,15 +1,15 @@
 ---
-title: Monitoring vydry říční. K čemu nám jsou kadávery vyder?
+title: 'Monitoring the Eurasian Otter: what are otters to us?'
 published: true
 public: true
 authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
   - name: Václav Beran
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro laickou veřejnost
+  - Eurasian otter
+  - Publication for professional public
 journal: 'Myslivost '
 year: 2015
 lang:
@@ -18,4 +18,6 @@ link: /media/Myslivost_Vydra_2015_FINAL.pdf
 attachments:
   - {}
 ---
-Příspěvek o sběru uhynulých vyder v České republice - jak a kdo jej provádí a k čemu to je. Prezentovány jsou dosavadní výsledky.
+# Contribution to the collection of dead otters in the Czech Republic.
+
+This article explains how dead otters are collected and by whom it is done. It discussed what the purpose behind this collection is and also presents the current results.
