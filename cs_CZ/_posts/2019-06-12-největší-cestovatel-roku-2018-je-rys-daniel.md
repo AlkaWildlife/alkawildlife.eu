@@ -13,13 +13,13 @@ lang_alternatives:
 category: news
 layout: news
 ---
-TISKOVÁ ZPRÁVA Ministerstva životního prostředí
+TISKOVÁ ZPRÁVA
+ Ministerstva životního prostředí
 
+## Největší cestovatel roku 2018: rys Daniel. Chodí na 130 kilometrové výlety
 
+**Praha, 10. 6. 2019 – Při příležitosti Mezinárodního dne rysů, který připadá na 11. června, připravili čeští ochranáři mnoho akcí, na kterých budou veřejnost seznamovat s intimními pohledy do života rysů.**
 
-## Největší cestovatel roku 2018: rys Daniel. Chodí na 130 kilometrové výlety 
-
-**Praha, 10. 6. 2019 – Při příležitosti Mezinárodního dne rysů, který připadá na 11. června, připravili čeští ochranáři mnoho akcí, na kterých budou veřejnost seznamovat s intimními pohledy do života rysů.**
 
 Největší českou populaci rysů hostí Šumava a její široké okolí – oblast sahající od Slavkovského lesa přes Brdy k Novohradským horám a pokračující až k Linci v Rakousku a Norimberku v Bavorsku. Díky mezinárodní spolupráci zde probíhá intenzivní mapování rysů pomocí fotopastí, které umožňuje nejen stanovit minimální počet jedinců s výskytem ve zdejší oblasti, ale také odhalovat životní osudy jednotlivých zvířat i celých rodin. Na mapování se společně podílejí jak ochranáři, tak lesníci a myslivci. Rysové jsou díky své specifické kresbě individuálně rozeznatelní, dlouhodobé sledování proto může odkrývat životní osudy románových rozměrů. 
 
@@ -31,6 +31,8 @@ Po zpracování stovek rysích fotografií lze titulem Rekordman migrací 2018 o
 
 Mapování a monitoring rysů probíhá v rámci projektu 3Lynx, který je financován programem Interreg Central Europe. „_Většina rysů se pohybuje mezi Českou republikou, Bavorskem i Rakouskem bez ohledu na hranice, proto v roce 2018 tyto tři státy podepsaly dohodu o dlouhodobé spolupráci na monitoringu těchto šelem. Výsledky pravidelného sledování rysů v celém rozsahu výskytu populace umožní spolehlivě vyhodnotit její stav a přijmout potřebné kroky pro její ochranu,_“ přibližuje projekt jeho hlavní koordinátorka Simona Poláková z Ministerstva životního prostředí.  
 
-Projekt 3LYNX sledujte na [https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html](https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html)
+Projekt 3LYNX sledujte na [https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html
+](https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html)
 
-Sledujte video z fotopastí k Mezinárodnímu dni rysů na [https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html](https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html)
+Sledujte video z fotopastí k Mezinárodnímu dni rysů na [https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html
+](https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html)
