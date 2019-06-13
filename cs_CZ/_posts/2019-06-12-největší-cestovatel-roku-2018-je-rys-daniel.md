@@ -9,7 +9,8 @@ description: >-
   intimními pohledy do života rysů.
 date: '2019-06-11'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: The greatest traveler of 2018 is Daniel
 category: news
 layout: news
 ---
