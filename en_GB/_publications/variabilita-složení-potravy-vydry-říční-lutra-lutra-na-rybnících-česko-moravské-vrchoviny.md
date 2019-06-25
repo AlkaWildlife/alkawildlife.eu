@@ -9,7 +9,7 @@ authors:
   - name: Kateřina Poledníková
   - name: Andreas Kranz
   - name: Aleš Toman
-type: Magazine article
+type: Scientific publication
 tags:
   - Eurasian otter
   - Publications for general public
