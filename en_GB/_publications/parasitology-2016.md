@@ -18,11 +18,11 @@ authors:
   - name: Lukáš Poledník
   - name: Petr Heneberg
   - name: Elizabeth A. Chadwick
-type: Článek v periodiku
+type: Scientific publication
 tags:
-  - vydra říční
-  - norek americký
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - American mink
+  - Publications for experts
 journal: 'Parasitology International '
 year: 2016
 lang: en
