@@ -10,7 +10,7 @@ authors:
 type: Methodology
 tags:
   - American mink
-  - Publication for the professional public
+  - Publications for experts
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2010
 lang:
@@ -19,4 +19,8 @@ link: /media/Monitoring a regulace norka amerického - metodika.pdf
 attachments:
   - {}
 ---
-Norek americký patří k nepůvodním šířícím se druhům fauny savců na území České republiky. Jako nepůvodní severoamerický druh se značnou reprodukční kapacitou se jak u nás, tak v celé Evropě, rozšiřuje v návaznosti na farmové chovy těchto významných kožešinových zvířat. Jako zavlečený druh představuje potencionální nebezpečí pro původní faunu drobných a středních obratlovců Evropy, jež mohou být jeho kořistí, také má negativní vliv na konkurenční lasicovité šelmy. Z toho důvodu je jeho výskyt v Evropě nežádoucí a na řadě míst probíhají eradikační či regulační opatření. Cílem dokumentu je shrnutí základních informací (zejména těch, které mohou být relevantní pro nastavení vhodných managementových opatření) a vytvoření metodického manuálu pro naplánování efektivních managementových akcí norka amerického v České republice.
+American mink belongs to the ground of non-native, spreading mammal species in the fauna of the Czech Republic. It's a North American species with considerable reproductive capacity and its population is expanding in both our country and across Europe, following the introduction through fur farms.
+
+As an introduced species, it poses a potential danger to the original fauna of Europe's small and medium vertebrates, which may be its prey, and also has a negative impact on competitive weasels. For this reason, its occurrence in Europe is undesirable and eradication or regulatory measures are taking place in many places.
+
+The aim of the document is to summarise basic information (especially those that may be relevant for setting appropriate management measures) and to create a methodological manual for planning effective American mink management actions in the Czech Republic.
