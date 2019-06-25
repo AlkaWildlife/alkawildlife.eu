@@ -9,10 +9,10 @@ authors:
   - name: Kateřina Poledníková
   - name: Sergi Munné
   - name: Jiří Flousek
-type: Article in a journal
+type: Scientific publication
 tags:
   - American mink
-  - Publication for the professional public
+  - Publications for experts
 journal: Opera Corcontica
 year: 2016
 lang:
@@ -21,4 +21,4 @@ link: /media/OC53_Polednik_web.pdf
 attachments:
   - {}
 ---
-Selected water streams located in the Krkonoše Mts National Park and its buffer zone (Krkonoše/Giant Mts) were surveyed for the presence of the alien American mink in 2012 and 2013 using fl oating rafts and live box traps. The occurrence of the species was recorded on several stream
+Selected streams located in the Krkonoše Mountains National Park and its buffer zone (Krkonoše/Giant Mountains) were surveyed for the presence of the invasive American mink in 2012 and 2013 using floating rafts and live box traps. The occurrence of the species was recorded on several streams.
