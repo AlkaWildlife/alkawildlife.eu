@@ -13,10 +13,10 @@ authors:
   - name: Václav Prášek
   - name: Vlasta Škorpíková
   - name: Mojmír Dostál
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 journal: IUCN Otter Specialist Group Bulletin
 year: 2008
 lang: en
