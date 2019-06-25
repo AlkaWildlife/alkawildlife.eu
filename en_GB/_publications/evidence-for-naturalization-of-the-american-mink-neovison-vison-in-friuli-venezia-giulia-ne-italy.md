@@ -1,6 +1,6 @@
 ---
 title: >-
-  Evidence for naturalization of the American mink (Neovison vison) in Friuli
+  Evidence for naturalisation of the American mink (Neovison vison) in Friuli
   Venezia Giulia, NE Italy
 published: true
 public: true
@@ -10,10 +10,10 @@ authors:
   - name: Marco Pavanello
   - name: Lukáš Poledník
   - name: Cristina Rieppi
-type: Journal article
+type: Scientific publication
 tags:
   - American mink
-  - Publication for the professional public
+  - Publications for experts
 journal: Mammalia
 year: 2016
 lang: en
