@@ -14,8 +14,8 @@ authors:
 type: Brochure
 tags:
   - Eurasian lynx
-  - Publication for the professional public
-  - Publication for the general public
+  - Publications for experts
+  - Publications for the general public
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2014
 lang:
