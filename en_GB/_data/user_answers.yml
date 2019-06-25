@@ -17,26 +17,26 @@ form:
     honeypot: Additional comment (do not fill in if you’re human)
     submit: Send
   consent: >-
-    Date from this form will be delivered to an employee of ALKA
+    Data from this form will be delivered to an employee of ALKA
     Wildlife, o.p.s. and will only be used for answering your question.
   results:
   - id: no-email
     type: danger
     message: >-
-      Enter an email address, where do you want to receive our answer.
+      Enter an email address, where you want to receive our answer.
   - id: no-question
     type: danger
     message: Enter your question.
   - id: no-email,no-question
     type: danger
     message: >-
-      Enter your question and email address, where do you want our
+      Enter your question and email address, where you want toreceive our
       answer.
   - id: fail
     type: danger
     message: >-
-      We’re sorry, but your question wan’t sent. Try it again please. If
-      even that fails, try reaching directly someone mentioned on <a
+      We’re sorry, but your question wasn’t sent. Please try again. If
+      that fails as well, try reaching someone directly through the contact details on our <a
       href="/about-us">about us page</a>.
   - id: sent
     type: success
