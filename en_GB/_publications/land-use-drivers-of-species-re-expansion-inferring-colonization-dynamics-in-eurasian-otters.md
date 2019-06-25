@@ -9,10 +9,10 @@ authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
   - name: Romina Fusillo
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 journal: Diversity and Distributions
 year: 2012
 lang: en
