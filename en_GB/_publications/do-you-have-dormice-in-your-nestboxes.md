@@ -7,7 +7,7 @@ authors:
 type: Magazine article
 tags:
   - Edible dormouse
-  - Publication for the general public
+  - Publications for the general public
 journal: Bird Life
 year: 2016
 lang:
