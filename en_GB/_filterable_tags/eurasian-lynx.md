@@ -1,5 +1,5 @@
 ---
 title: Eurasian lynx
-position: 2
+position: 7
 ---
 
