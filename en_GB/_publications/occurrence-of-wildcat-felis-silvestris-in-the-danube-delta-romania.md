@@ -5,10 +5,10 @@ public: true
 authors:
   - name: Lukáš Poledník
   - name: Andreas Kranz
-type: Článek v periodiku
+type: Scientific publication
 tags:
-  - kočka divoká
-  - publikace pro odbornou veřejnost
+  - Wildcat
+  - Publications for experts
 journal: Scientific Annals of the Danube Delta Institute
 year: 2012
 lang: en
