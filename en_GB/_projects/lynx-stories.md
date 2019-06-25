@@ -20,7 +20,7 @@ contacts:
 species: Eurasian lynx
 tags:
   - Eurasian lynx
-  - Public engagement
+  - Publicity
 countries:
   - CZ
 description: >-
