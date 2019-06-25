@@ -9,7 +9,7 @@ authors:
 type: Magazine article
 tags:
   - American mink
-  - Publication for the general public
+  - Publications for the general public
 journal: Živa
 year: 2018
 lang:
