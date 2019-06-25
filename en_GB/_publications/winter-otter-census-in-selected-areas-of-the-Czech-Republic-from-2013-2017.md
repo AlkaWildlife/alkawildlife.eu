@@ -11,7 +11,7 @@ authors:
 type: Magazine article
 tags:
   - Eurasian otter
-  - Publication for experts
+  - Publications for experts
 journal: Bulletin Vydra
 year: 2018
 lang:
