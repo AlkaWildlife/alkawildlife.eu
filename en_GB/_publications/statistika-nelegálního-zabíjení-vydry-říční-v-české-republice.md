@@ -1,5 +1,5 @@
 ---
-title: Statistika nelegálního zabíjení vydry říční v České republice
+title: Statistics of illegal killing of Eurasian otter in the Czech Republic
 published: true
 public: true
 authors:
@@ -8,10 +8,10 @@ authors:
   - name: Václav Beran
   - name: Václav Hlaváč
   - name: Andreas Kranz
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 journal: Bulletin Vydra
 year: 2018
 lang:
