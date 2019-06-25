@@ -1,5 +1,5 @@
 ---
-title: Wild cat
+title: Wildcat
 position: 11
 ---
 
