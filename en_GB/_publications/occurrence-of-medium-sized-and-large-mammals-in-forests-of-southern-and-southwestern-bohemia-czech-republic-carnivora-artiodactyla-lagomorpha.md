@@ -14,10 +14,10 @@ authors:
   - name: Marco Pavanello
   - name: Sergi Munne
   - name: Lukáš Poledník
-type: Článek v periodiku
+type: Scientific publication
 tags:
   - Eurasian lynx
-  - Publication for the professional public
+  - Publications for experts
 journal: 'Lynx, n.s. (Praha)'
 year: 2015
 lang:
