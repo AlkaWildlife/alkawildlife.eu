@@ -11,8 +11,8 @@ authors:
 type: Magazine article
 tags:
   - Eurasian otter
-  - Publication for professionals
-  - Publication for general public
+  - Publications for experts
+  - Publications for the general public
 journal: Dačický vlastivědný sborník
 year: 2013
 lang:
