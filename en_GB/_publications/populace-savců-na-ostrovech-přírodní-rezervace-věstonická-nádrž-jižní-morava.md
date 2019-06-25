@@ -1,14 +1,16 @@
 ---
-title: 'Populace savců na ostrovech přírodní rezervace Věstonická nádrž, jižní Morava'
+title: >-
+  Mammal populations on islands of the Věstonice Reservoir Nature Reserve,
+  southern Moravia (Czech Republic)
 published: true
 public: true
 authors:
   - name: Gašpar Čamlík
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - publikace pro odbornou veřejnost
+  - Publications for experts
 journal: 'Lynx, n.s. (Praha)'
 year: 2015
 lang: en
