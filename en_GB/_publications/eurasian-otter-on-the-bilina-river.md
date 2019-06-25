@@ -6,10 +6,10 @@ authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
   - name: Václav Beran
-type: Journal article
+type: Magazine article
 tags:
   - Eurasian otter
-  - Publication for the professional public
+  - Publications for experts
 journal: Bulletin Vydra
 year: 2015
 lang:
