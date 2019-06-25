@@ -8,10 +8,10 @@ authors:
   - name: Jitka Větrovcová
   - name: Václav Hlaváč
   - name: Václav Beran
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 journal: 'Lynx, n.s. (Praha)'
 year: 2011
 lang: en
