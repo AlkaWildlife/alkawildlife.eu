@@ -15,7 +15,7 @@ tags:
   - American mink
   - Raccoon dog
   - Northern raccoon
-  - Publication for the general public
+  - Publications for the general public
 journal: Myslivost
 year: 2015
 lang:
