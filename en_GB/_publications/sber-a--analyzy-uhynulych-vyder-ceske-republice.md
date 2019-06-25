@@ -1,5 +1,5 @@
 ---
-title: "Sběr a\_analýzy uhynulých vyder v\_České republice"
+title: Collection and analysis of dead otters in the Czech Republic
 published: true
 public: true
 authors:
@@ -13,14 +13,14 @@ authors:
   - name: Jaroslav Vadlejch
   - name: Eva Bártová
   - name: Petra Hájková
-type: Brožura
+type: Brochure
 tags:
-  - vydra říční
-  - publikace pro laickou veřejnost
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for the general public
+  - Publications for experts
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2017
 lang: cs
 link: 'https://www.vydryonline.cz/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf'
 ---
-Brožura o sběr nalezených uhynulých vyder v České republice, jak se sbírají a proč a také o analýzách kadáverů - jaké analýzy s těly a tkáněmi se provádí a jaké výsledky se zjistily.
+A brochure about the collection of dead otters in the Czech Republic explaining how and why they are collected and about carcass analysis including what body and tissue analyses are done and what results have been found.
