@@ -1,5 +1,5 @@
 ---
 title: Magazine article
-position: 6
+position: 8
 ---
 
