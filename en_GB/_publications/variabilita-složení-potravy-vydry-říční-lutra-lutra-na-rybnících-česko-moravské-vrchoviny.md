@@ -12,8 +12,8 @@ authors:
 type: Magazine article
 tags:
   - Eurasian otter
-  - publication for general public
-  - publication for experts
+  - Publications for general public
+  - Publications for experts
 journal: 'Lynx, n.s. (Praha)'
 year: 2007
 lang:
