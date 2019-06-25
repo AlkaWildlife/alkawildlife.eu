@@ -1,13 +1,15 @@
 ---
-title: 'Tchoř stepní (Mustela eversmannii): co o něm vlastně víme?'
+title: >-
+  The steppe polecat (Mustela eversmannii): what do we exactly know about the
+  species?
 published: true
 public: true
 authors:
   - name: Tereza Mináriková
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - tchoř stepní
-  - publikace pro odbornou veřejnost
+  - Steppe polecat
+  - Publications for experts
 journal: Bulletin Vydra
 year: 2012
 lang:
