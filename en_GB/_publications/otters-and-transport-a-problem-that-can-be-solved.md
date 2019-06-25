@@ -8,7 +8,7 @@ authors:
 type: Magazine article
 tags:
   - Eurasian otter
-  - Publication for professionals
+  - Publications for experts
 journal: Nature Conservation Forum
 year: 2017
 lang:
