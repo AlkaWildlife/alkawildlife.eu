@@ -1,5 +1,5 @@
 ---
 title: Steppe polecat
-position: 10
+position: 24
 ---
 
