@@ -1,5 +1,5 @@
 ---
 title: European mink
-position: 15
+position: 7
 ---
 
