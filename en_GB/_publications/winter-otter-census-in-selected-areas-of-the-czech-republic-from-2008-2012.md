@@ -9,7 +9,7 @@ authors:
 type: Magazine article
 tags:
   - Eurasian otter
-  - Publication for the professional public
+  - Publications for experts
 journal: Bulletin Vydra
 year: 2012
 lang:
