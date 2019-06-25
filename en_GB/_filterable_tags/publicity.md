@@ -1,5 +1,5 @@
 ---
 title: Publicity
-position: 24
+position: 20
 ---
 
