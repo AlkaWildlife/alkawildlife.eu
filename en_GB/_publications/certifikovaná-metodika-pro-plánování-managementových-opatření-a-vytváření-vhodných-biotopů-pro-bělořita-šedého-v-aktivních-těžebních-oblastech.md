@@ -13,7 +13,7 @@ authors:
 type: Methodology
 tags:
   - Northern wheatear
-  - Publication for the professional public
+  - Publications for experts
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2018
 lang:
