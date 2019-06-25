@@ -1,5 +1,7 @@
 ---
-title: Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2011
+title: >-
+  Distribution of the Eurasian otter (Lutra lutra L.) population in the Czech
+  Republic in 2011
 published: true
 public: true
 authors:
@@ -9,10 +11,10 @@ authors:
   - name: Gašpar Čamlík
   - name: Štěpán Zápotočný
   - name: Andreas Kranz
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 journal: Bulletin Vydra
 year: 2012
 lang:
