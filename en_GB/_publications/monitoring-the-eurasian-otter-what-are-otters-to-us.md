@@ -9,7 +9,7 @@ authors:
 type: Magazine article
 tags:
   - Eurasian otter
-  - Publication for professional public
+  - Publications for experts
 journal: 'Myslivost '
 year: 2015
 lang:
