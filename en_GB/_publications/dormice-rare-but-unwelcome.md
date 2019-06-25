@@ -7,7 +7,7 @@ authors:
 type: Magazine article
 tags:
   - Edible dormouse
-  - Publication for the general public
+  - Publications for the general public
 journal: Cottager
 year: 2015
 lang:
