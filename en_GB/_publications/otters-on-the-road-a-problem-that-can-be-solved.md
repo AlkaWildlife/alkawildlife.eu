@@ -10,7 +10,7 @@ authors:
 type: Journal article
 tags:
   - Eurasian otter
-  - Publication for the professional public
+  - Publications for the experts
 journal: Protection of Nature
 year: 2017
 lang:
