@@ -10,10 +10,10 @@ authors:
   - name: Kateřina Poledníková
   - name: 'Václav Hlaváč '
   - name: Hana Kazihnitková
-type: Článek v periodiku
+type: Scientific publication
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 journal: Fish Physiology and Biochemistry
 year: 2008
 lang: en
