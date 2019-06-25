@@ -13,7 +13,7 @@ authors:
 type: Brochure
 tags:
   - Eurasian otter
-  - Publication for professionals
+  - Publications for experts
 publisher: 'Nature Conservation Agency of the Czech Republic and ALKA Wildlife, o.p.s.'
 year: 2017
 lang:
