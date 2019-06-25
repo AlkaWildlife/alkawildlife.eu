@@ -1,23 +1,25 @@
 ---
-title: Mezinárodní den rysů
+title: International Lynx Day 2018
 published: true
 image: /media/cs_lynxday_rgb.jpg
 listing_thumbnail: /media/cs_lynxday_274.jpg
-description: 11. červen slavíme jako Mezinárodní den rysů.
+description: On 11 June we will be celebrating International Lynx Day
 date: '2018-06-04'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/mezinárodní-den-rysů
+    title: Mezinárodní den rysů
 category: news
 layout: news
 ---
-Oslavte s námi Mezinárodní den rysů! 
+# Celebrate International Feature Day with us! 
 
-Přednáška: **Rysí příběhy**
+**Lecture:** Lynx Stories
 
-Kdy: 11. června od 18 hod
+**When:** June 11 at 6pm
 
-Kde: Knihkupectví a antikvariát Fryč, Liberec
+**Where:** Bookstore and Antiquarian Bookshop Fryč, Liberec 
 
-Přednášející: Tereza Mináriková
+**Lecturer:** Tereza Mináriková
 
 ![](/media/rys_ondrej-prosicky_610.jpg)
