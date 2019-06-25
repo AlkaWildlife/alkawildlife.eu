@@ -9,10 +9,10 @@ authors:
   - name: Jitka Větrovcová
   - name: Lukáš Poledník
   - name: Václav Hlaváč
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for the general public
 journal: IUCN Otter Specialist Group Bulletin
 year: 2010
 lang: en
