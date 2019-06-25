@@ -10,10 +10,10 @@ authors:
   - name: Lukáš Poledník
   - name: Václav Beran
   - name: Václav Hlaváč
-type: Journal publication
+type: Scientific publication
 tags:
   - Eurasian otter
-  - Publication for the professional public
+  - Publications for the experts
 journal: 'Ochrana přírody '
 year: 2011
 lang:
