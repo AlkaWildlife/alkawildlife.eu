@@ -17,6 +17,7 @@ area: >-
 tags:
   - American mink
   - Research
+  - Invasive mammals
 countries:
   - CZ
 description: >-
