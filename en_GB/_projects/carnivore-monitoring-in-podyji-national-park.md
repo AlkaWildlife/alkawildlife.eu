@@ -11,8 +11,13 @@ contacts:
 species: 'Wildcat, Eurasian otter, Steppe polecat, American mink, Raccoon dog'
 area: Podyji National Park
 tags:
+  - Eurasian otter
+  - Steppe polecat
+  - Wildcat
+  - American mink
+  - Raccoon dog
   - Research
-  - Mammals
+  - Invasive mammals
 countries:
   - CZ
 description: >-
