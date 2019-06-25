@@ -8,7 +8,7 @@ authors:
   - name: Jitka Větrovcová
   - name: Václav Hlaváč
   - name: Václav Beran
-type: Magazine article
+type: Scientific publication
 tags:
   - Eurasian otter
   - Publications for experts
