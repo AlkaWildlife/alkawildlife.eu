@@ -14,7 +14,7 @@ authors:
   - name: Mihai Doroftei
   - name: Alexandru Dorosencu
   - name: Andreas Kranz
-type: Magazine article
+type: Scientific publication
 tags:
   - European mink
   - Publications for experts
