@@ -8,10 +8,10 @@ authors:
   - name: Kateřina Poledníková
   - name: Jitka Větrovcová
   - name: Václav Hlaváč
-type: Kapitola v knize
+type: Chapter in a book
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 publisher: Wiley-Blackwell
 journal: Carbofuran and Wildlife Poisoning. Global Perspectives and Forensic Approaches
 year: 2012
