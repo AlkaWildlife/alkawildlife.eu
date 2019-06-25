@@ -8,7 +8,7 @@ authors:
   - name: Gašpar Čamlík
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
-type: Magazine article
+type: Scientific publication
 tags:
   - Publications for experts
 journal: 'Lynx, n.s. (Praha)'
