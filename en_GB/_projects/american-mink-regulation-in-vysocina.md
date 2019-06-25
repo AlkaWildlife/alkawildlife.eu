@@ -31,6 +31,7 @@ tags:
   - American mink
   - Research
   - Management
+  - Invasive mammals
 countries:
   - CZ
 description: >-
