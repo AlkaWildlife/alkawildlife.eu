@@ -2,11 +2,11 @@
 title: Talking about the Eurasian otter and the American mink
 published: true
 public: true
-type: Article for the public
+type: Magazine article
 tags:
   - Eurasian otter
   - American mink
-  - Publication for the general public
+  - Publications for the general public
 journal: Myslivost
 year: 2009
 lang: cs
