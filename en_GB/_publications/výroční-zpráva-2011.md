@@ -1,10 +1,10 @@
 ---
-title: Výroční zpráva 2011
+title: Annual Report 2011
 published: true
 public: true
 authors:
   - name: 'ALKA Wildlife, o.p.s.'
-type: Výroční zpráva
+type: Annual Report
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2012
 lang:
@@ -13,4 +13,4 @@ link: /media/ALKA výroční zpráva 2011 pro web.pdf
 attachments:
   - {}
 ---
-Výroční zpráva společnosti ALKA Wildlife, o.p.s. za rok 2011. Obsahuje podrobné informace o činnosti společnosti v tomto roce.
+Annual Report of ALKA Wildlife, o.p.s. for 2011. Contains detailed information about the company's activities this year.
