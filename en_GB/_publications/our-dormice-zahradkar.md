@@ -7,7 +7,7 @@ authors:
 type: Magazine article
 tags:
   - Edible dormouse
-  - Publication for general public
+  - Publications for the general public
 journal: Gardener
 year: 2015
 lang:
