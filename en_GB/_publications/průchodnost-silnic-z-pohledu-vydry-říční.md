@@ -1,5 +1,5 @@
 ---
-title: Průchodnost silnic z pohledu vydry říční
+title: Road patency from the perspective of the Eurasian otter
 published: true
 public: true
 authors:
@@ -7,10 +7,10 @@ authors:
   - name: Kateřina Poledníková
   - name: Václav Beran
   - name: Tereza Mináriková
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - vydra říční
-  - publikace pro odbornou veřejnost
+  - Eurasian otter
+  - Publications for experts
 journal: Fórum ochrany přírody
 year: 2017
 lang:
@@ -19,4 +19,6 @@ link: /media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf
 attachments:
   - {}
 ---
-Studie průchodnost silnic v České republice z pohledu vydry říční. Na základě kontroly míst na silnicích, kde uhynula vydra říční a  kontrol vybraných úseků silnic I. tříd byly analyzovány faktory, které ovlivňují průchodnost silnic, navrženy byly konkrétní opatření a vytvořena byla online přístupná mapová aplikace, která zveřejňuje výsledky a měla by napomoci k řešení problému.
+The study of patency of roads in the Czech Republic from the perspective of the Eurasian otter. 
+
+Through this study, concrete measures have been proposed. This was following the inspection and analysis of selected sections of Class I road sites where Eurasian otter have died and also took into account factors that influence road throughput. An online accessible map application has also been created which publishes these results.
