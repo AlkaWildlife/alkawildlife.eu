@@ -16,10 +16,10 @@ authors:
   - name: Pavel Štěpánek
   - name: Zdeněk Tunka
   - name: Josef Vrána
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - raroh velký
-  - publikace pro odbornou veřejnost
+  - Saker falcon
+  - Publications for experts
 journal: Zpravodaj SOVDS
 year: 2016
 lang:
@@ -28,4 +28,4 @@ link: /media/Raroh_SOVDS_2016.pdf
 attachments:
   - {}
 ---
-Monitoring raroha velkého (Falco cherrug) v roce 2015 probíhal v celém známém areálu jeho rozšíření v ČR, tedy v Jihomoravském, Olomouckém, Moravskoslezském, Pardubickém a Středočeském kraji. Prokázáno bylo devět obsazených teritorií, celkem bylo evidováno šest hnízdících párů, pět hnízdění bylo úspěšných.
+Monitoring of the Saker falcon (Falco cherrug) in 2015 took place across the well-known area of its distribution in the Czech Republic: South Moravia, Olomouc, Moravian-Silesian, Pardubice and Central Bohemian. Nine occupied territories were proved, six breeding pairs were registered with only one pair unsuccessful.
