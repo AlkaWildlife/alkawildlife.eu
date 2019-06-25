@@ -1,14 +1,16 @@
 ---
-title: Důkaz o rozmnožování rysů v Novohradských horách
+title: Evidence of lynx reproduction in the Novohrady Mountains
 published: true
 image: /media/jiskra-2kotata_v_610.jpg
 listing_thumbnail: /media/jiskra-2kotata_v_274.jpg
 description: >-
-  Fotopast přinesla první důkaz o rozmnožování rysa ostrovida v českých
-  Novohradských horách
+  This photographic evidence has brought the first proof of Eurasian lynx
+  reproduction in the Czech Novohrady Mountains
 date: '2016-11-30'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/důkaz-o-rozmnožování-rysů-v-novohradských-horách
+    title: Důkaz o rozmnožování rysů v Novohradských horách
 category: news
 layout: news
 ---
