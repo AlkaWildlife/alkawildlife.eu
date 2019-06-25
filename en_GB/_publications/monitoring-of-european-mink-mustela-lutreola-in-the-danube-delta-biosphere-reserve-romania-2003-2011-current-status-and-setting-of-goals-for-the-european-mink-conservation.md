@@ -14,10 +14,10 @@ authors:
   - name: Mihai Doroftei
   - name: Alexandru Dorosencu
   - name: Andreas Kranz
-type: Článek v periodiku
+type: Magazine article
 tags:
-  - norek evropský
-  - publikace pro odbornou veřejnost
+  - European mink
+  - Publications for experts
 journal: Scientific Annals of the Danube Delta Institute
 year: 2012
 lang: en
