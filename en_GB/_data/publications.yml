@@ -1,18 +1,16 @@
 title: Publications
 filter:
-  not_supported: >-
-    You can filter user questions and answers by different criteria in
-    modern browsers.
-  by_type: Publication type
-  by_tag: Categories
   by_date: Publishing year
-
+  by_tag: Categories
+  by_type: Publication type
 authors:
-  one: Author
   many: Authors
+  one: Author
 publisher: Publisher
 journal: Journal
 year: Publishing year
-download: Open publication „%@“
-request: Complete publication available on request (see <a href="/about-us/contacts">contacts</a>)
+download: Open publication "%@"
+request: >-
+  Complete publication available on request (see <a
+  href="/about-us/contacts">contacts</a>)
 attachments: Downloads
