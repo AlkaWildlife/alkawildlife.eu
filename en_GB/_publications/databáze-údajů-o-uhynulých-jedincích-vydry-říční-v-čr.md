@@ -13,7 +13,7 @@ authors:
 type: Scientific publication
 tags:
   - Eurasian otter
-  - Publications for the experts
+  - Publications for experts
 journal: 'Ochrana přírody '
 year: 2011
 lang:
