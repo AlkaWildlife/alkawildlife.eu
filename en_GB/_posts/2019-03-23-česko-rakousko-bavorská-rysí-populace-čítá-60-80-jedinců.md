@@ -9,7 +9,9 @@ description: >-
   česko-bavorsko-rakouské rysí populace.
 date: '2016-08-09'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/česko-rakousko-bavorská-rysí-populace-čítá-60-80-jedinců
+    title: Česko-rakousko-bavorská rysí populace čítá 60-80 jedinců
 category: news
 layout: news
 ---
@@ -48,4 +50,4 @@ Monitoring chráněných druhů je jedním ze základních činností spojených
 
 ![](/media/oblast_bba_610.jpg "oblast česko-rakousko-bavorské populace rysa ostrovida")
 
-Vychází s grantovou podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska Ministerstva životního prostředí.
+This project is completed by grant support from the Ministry of the Environment. The material does not have to express opinions of the Ministry of the Environment.
