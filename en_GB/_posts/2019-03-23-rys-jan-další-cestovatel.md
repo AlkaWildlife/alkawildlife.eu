@@ -8,14 +8,17 @@ description: >-
   Blanském lese.
 date: '2016-11-16'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/rys-jan-další-cestovatel
+    title: Rys Jan - další cestovatel
 category: news
 layout: news
 ---
-Rys Jan se narodil na jaře 2014 ve východní části národního parku Bavorský les, jako jedno ze dvou koťat rysice Silvy. Se svou rodinou strávil první rok života, a poté si odešel hledat nové teritorium. Na podzim 2015 byl zaznamenán na rakouské straně nedaleko Freistadtu, kde se mu ale asi moc nelíbilo a tak se přesunul dál na východ. Od ledna 2016 se pohyboval v Novohradských horách. Strávil tam období říje s kočkou Jiskrou, která má teď (dle fotomonitoringu nejspíš Janova) koťata. 
-Myslivci z Českokrumlovska jej ale teď zachytili fotopastí v Blanském lese (foto v úvodu): [_http://www.rozhlas.cz/cb/zpravodajstvi/_zprava/stalym-obyvatelem-lesu-na-krumlovsku-je-rys-ostrovid-zachytila-ho-fotopast--1668808_](http://www.rozhlas.cz/cb/zpravodajstvi/_zprava/stalym-obyvatelem-lesu-na-krumlovsku-je-rys-ostrovid-zachytila-ho-fotopast--1668808).
+The lynx Jan was born in the spring of 2014 in the eastern part of the Bavarian Forest National Park, one of two lynx born to Silvy. He and his family spent the first year of his live together but after that, the two young split off to find new territory. In Autumn 2015 he was recorded in Austria near Freistadt, but seems as though he did not like it very much as he was later spotted further east. In January 2016, he moved to the Novohradské Mountains. He spent a mating period with Spark, another lynx known to us, and we now believe he is probably father to her new kittens. 
 
-Situace v Novohradských horách zůstává také zajímavá. Po odchodu Jana tu zbyl rys Luděk a dvě kočky Jiskra a Norah, což by bylo u rysů normální uspořádání (většinou má dospělý kocour v teritoriu 2-3 kočky). Jenže Jiskra je Luďkova sestra navíc asi s Janovými? koťaty. 
+Recently, however, hunters from Český Krumlov [captured him via camera trap](http://www.rozhlas.cz/cb/zpravodajstvi/_zprava/stalym-obyvatelem-lesu-na-krumlovsku-je-rys-ostrovid-zachytila-ho-fotopast--1668808) in Blanský les (see the photo in the introduction).
+
+The situation in the Novohradské Mountains however still remains interesting. After Jan left, the remaining lynx are Ludek and Spark, who are brother and sister, and Spark's two kittens from (we still suspect) Jan. It is typical for 2-3 lynx to live in one area so we will continue monitoring to find out what the future has in store for our lynx. 
 
 ![rys Jan jako mládě](/media/silva_juv.14-1_610.jpg "rys Jan jako mládě")
 
@@ -23,6 +26,4 @@ Situace v Novohradských horách zůstává také zajímavá. Po odchodu Jana tu
 
 ![putování rysa Jana](/media/jan-201611_610.jpg "putování rysa Jana")
 
-[Rysí příběhy](/projects/rysi-pribehy.html) vychází s grantovou podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska Ministerstva životního prostředí. 
-
-Projekt probíhá ve spolupráci s Beleco z. s.
+Lynx stories are based on grant support from the Ministry of the Environment. The material does not need to express the views of the Ministry of the Environment.
