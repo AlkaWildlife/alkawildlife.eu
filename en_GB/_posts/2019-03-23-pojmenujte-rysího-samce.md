@@ -1,19 +1,19 @@
 ---
-title: Pojmenujte rysího samce
+title: Naming of a new male lynx
 published: true
 image: /media/novy_rys_samec.png
 listing_thumbnail: /media/novy_rys_samec_274.png
-description: >-
-  Na našem Facebooku navrhuje a hlasuje o jméně pro rysího samce z hranice CHKO
-  Šumava.
+description: 'We need your help again - our new male lynx, from Šumava needs a name!'
 date: '2016-10-11'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/pojmenujte-rysího-samce
+    title: Pojmenujte rysího samce
 category: news
 layout: news
 ---
-V srpnu jste měli možnost pojmenovat rysí kočku z Novohradských hor. Nakonec dostala jméno Norah podle toho, kde bydlí. Tentokrát se na našem Facebooku navrhuje a hlasuje o jméně pro samce. Na hranici CHKO Šumava se od května pohybuje nový rysí krasavec. Sledujeme ho ve spolupráci s Rysími hlídkami Hnutí DUHA a zdá se, že se jedná o nového teritoriálního samce. Rád značkuje, na fotopastech je navíc dobře vidět jeho „mužská pýcha“. Kdo z vás si tedy nebyl dosud jistý, jak se u rysů pozná pohlaví, tak prezentované video na Facebooku je velice edukativní. Pomůžete nám našeho kocoura pojmenovat? Postup je stejný jako minule: pište vaše návrhy formou komentáře pod náš post na Facebooku a pak hlasujte likováním. 
+Back in August, you voted for our newly identified female lynx, from the Novohradske Mountains, to be called Norah. This time, we need you to vote for our newly identified male lynx from Šumava. Since May, we have evidence this lynx is moving around the border of the Šumava National Park and he seems to be a new territorial male! He is scent marking a lot and his "male pride" is very visible on the camera trap photos! If you have ever been wondering how we sex lynx, our Facebook video is very educational!
 
-[Rysí příběhy](/projects/rysi-pribehy.html) vychází s grantovou podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska Ministerstva životního prostředí.
+So, will you help us name our lynx? The procedure will be the same as last time: write your suggestions by commenting on our [Facebook](http://bit.ly/alkawildlifeFB) post and then vote by liking.
 
-Projekt probíhá ve spolupráci s Beleco z. s.
+Lynx stories are based on grant support from the Ministry of the Environment. The material does not need to express the views of the Ministry of the Environment.
