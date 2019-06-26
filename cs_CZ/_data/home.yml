@@ -7,19 +7,19 @@ news:
 links:
   - image: /media/syslinavinici.jpg
     title: Sysli na vinici
-    url: 'https://www.syslinavinici.cz'
+    url: 'http://bit.ly/syslinavinici'
   - image: /media/vydryonline.jpg
     title: Vydry online
-    url: 'https://www.vydryonline.cz'
+    url: 'http://bit.ly/vydryonline'
   - image: /media/vydrynasilnici.jpg
     title: Vydry na silnici
-    url: 'http://www.vydrynasilnici.cz'
+    url: 'http://bit.ly/vydrynasilnici'
   - image: /media/vydristezky.jpg
     title: Vydří stezka
-    url: 'https://www.vydristezky.cz'
+    url: 'http://bit.ly/vydristezky'
   - image: /media/map_translynx_eu.jpg
     title: Rysí mapa
-    url: 'http://map.translynx.eu/cs'
+    url: 'http://bit.ly/translynxmap'
 mission:
   body: "# Mise\n\nNašim posláním je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
 gallery:
@@ -36,8 +36,10 @@ other:
   body: |-
     # Sledujte nás
 
-    [![](/media/facebook_logo.png)](https://www.facebook.com/alkawildlife)
+    [![](/media/facebook_logo.png)](http://bit.ly/alkawildlifeFB)
 
-    [![](/media/instagram-icon.png)](https://www.instagram.com/alkawildlife)
+    [![](/media/instagram-icon.png)](http://bit.ly/alkawildlifeIN)
 
-    [![](/media/youtube.png)](https://www.youtube.com/alkawildlife)
+    [![](/media/youtube.png)](http://bit.ly/alkawildlifeYT)
+
+    [![](/media/twitterlogo.png)](http://bit.ly/alkawildlifeTW)
