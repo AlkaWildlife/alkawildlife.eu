@@ -1,22 +1,19 @@
 ---
-title: Jak je to s rysy v Novohradských horách?
+title: What's happening with the lynx in the Novohradské Mountains?
 published: true
 image: /media/igor_610.jpg
 listing_thumbnail: /media/igor_274.jpg
 description: >-
-  Od podzimu 2014 do podzimu 2015 došlo k podezřelé výměně všech rysích jedinců,
-  kteří obývají Novohradské hory. Příčiny jsou předmětem diskuse.
+  From autumn 2014 to autumn 2015, there was a suspicious exchange of all lynxes
+  living in the Novohradské Mountains. Causes are discussed.
 date: '2016-10-20'
-lang_alternatives:
-  en_GB: {}
+lang_alternatives: {}
 category: news
 layout: news
 ---
-V některých oblastech, kde dlouhodobě probíhá monitoring rysa ostrovida pomocí fotopastí, monitorovaní jedinci nevratně předčasně "mizí". Nejlépe je to vidět na datech z Novohradských hor, kde fotomonitoring probíhá od jara 2013. Toto území se zdá být vhodné pro trvalé osídlení rysy, s kapacitou zhruba čtyř dospělých zvířat. Většinou se jedinci v této oblasti pohybují na české i na rakouské straně Novohradských hor, ve Freiwaldu. Prostředí Novohradských hor je z pohledu rysa ostrovida velice vhodné: je to území s vysokou lesnatostí, malou hustotou lidských sídel, bohaté na skály, rokle a sutiny. To potvrzuje i letošní doklad o rozmnožování rysů v této oblasti: zdokumentována byla kočka Jiskra s koťaty.
+In some of our long-term camera trap monitored areas, our lynx seem to be prematurely "disappearing"! One of our project areas, the Novohradské mountains, has been monitored since spring 2013. The area appears to be suitable for permanent settlement lynx, with a capacity of roughly four adult animals. Mostly, we have seen that individuals move around this area across both the Czech and Austrian sides (near Freiwald) of the Novohradské Mountains. Its environment lends itself to the lynx due its high altitude forest, low density of human towns and has a high density of boulders, ravines and rubble. Its suitability has further been confirmed through camera trap evidence of reproduction in the area, we captured photos of a lynx previously named Spark and her kittens.
 
-Přesto se stalo, že po dobu 13 měsíců, téměř chybí záznamy. V období od srpna 2014 do září 2015 pochází pouhé dvě rysí fotografie, dvakrát zde z Rakouska zavítal rys Igor. Pak „zmizel“, stejně jako ostatní tři jedinci, kteří zde byli do léta 2014 sledováni. V průběhu zimy 2014/2015 probíhal intenzivní monitoring pobytových znaků na sněhu. Prošlo se přes 260 km stopovacích tratí, nebyla nalezena jediná stopa rysa ostrovida. Po této roční pauze, kdy původní jedinci - Bond, Igor, NN03, NN18, zmizeli, toto území osídlila úplně nová zvířata: rysi Luděk, Jiskra, Jan a Norah. Jestli je taková výměna přirozená, co je její příčinou – o tom právě probíhá diskuse na našem Facebooku. Můžete se připojit. 
-
-
+Then, for 13 months, our lynx disappeared. From August 2014 to September 2015 we only captured two photos of lynx, these being of Igor, a lynx mainly based in Austria. Then, as well as the three other individuals we had been monitoring up until summer 2014, he "disappeared" as well. During the winter of 2014/2015, intensive monitoring via snowtracking took place. More than 260 km was covered by our team yet no trace of any lynx were found. A year after our original individuals -Bond, Igor, NN03 and NN1- disappeared, we found out a completely new set of individuals had moved in instead, namely Ludek, Jiskra, Jan and Norah. Whether such an exchange is natural or what caused it is currently being discussed on our Facebook - please join in the discussion [here](http://bit.ly/alkawildlifeFB).
 
 ![Rys Bond](/media/bond_610.jpg "Rys Bond")
 
@@ -36,6 +33,4 @@ Přesto se stalo, že po dobu 13 měsíců, téměř chybí záznamy. V období 
 
 ![Graf záznamů rysů v Novohradských horách](/media/graf_rysi_610.png)
 
-[Rysí příběhy](/projects/rysi-pribehy.html) vychází s grantovou podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska Ministerstva životního prostředí.
-
-Projekt probíhá ve spolupráci s Beleco z. s.
+Lynx stories are produced with support from the Ministry of the Environment. The material does not need to express the views of the Ministry of the Environment.
