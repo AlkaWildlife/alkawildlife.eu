@@ -1,5 +1,5 @@
 ---
-title: Monitoring raroha velkého v roce 2015
+title: Monitoring the Saker falcon in 2015
 published: true
 image: /media/dscn0640.jpg
 listing_thumbnail: /media/dscn0640_274.jpg
@@ -8,18 +8,22 @@ description: >-
   republice.
 date: '2015-09-08'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/monitoring-raroha-velkého-v-roce-2015
+    title: Monitoring raroha velkého v roce 2015
 category: news
 layout: news
 ---
-Raroh velký je středně velký druh dravce, přes jeho velikost ale patří jeho monitoring mezi nejobtížnější v naší ptačí říši. Raroh žije skrytě, potravu může lovit až 7 km od hnízdiště, pokud uloví dostatečně velkou kořist (nejčastěji holuba), loví pouze 1x denně. V rozlehlé zemědělské krajině jižní Moravy páry pravidelně mění hnízdiště, takže je každý rok nutné dohledávat hnízda znovu a znovu.
+The Saker falcon is a medium-sized bird of prey. Despite its size, monitoring this bird can actually be very difficult. The Saker falcon is a master of hide and seek and spends most of its time hidden. If it successful at hunting, which can be done up to 7km away from its nesting site, it will only need to hunt once a day. Across the vast agricultural landscape of South Moravia, nesting couples are known to regularly changed their breeding grounds so it is necessary to look for new nesting sites every year.
 
-V letošním roce začal intenzivní monitoring rarohů v polovině února a ve většině oblastí byl ukončen na konci června. I přesto, že monitoringem bylo nakonec stráveno více než 1000 hodin, podařilo se dohledat pouze čtyři hnízda, na kterých rarozi hnízdili. Přitom bylo celkově kontrolováno více než 750 vhodných hnízd. Dalších pět párů se ve sledované oblasti zdržovalo, ale jejich hnízda se nepodařilo dohledat, případně je možné, že u některých ani k hnízdění nedošlo.
+This year, intensive monitoring of the Saker began in mid-February and was closed in most areas at the end of June. Despite the fact that more than 1000 hours were spent on monitoring, only four nests were found on which the rarities nested. At the same time, more than 750 suitable nests were controlled. Another five couples stayed in the area, but their nests could not be found, or it is possible that some of them did not nest.
 
-Raroh velký tak stále patří mezi naše nejvzácnější pravidelně hnízdící druhy ptáků. Jeho početnost v ČR nepřesahuje 20 párů. 
+This years Saker falcon monitoring started in mid-February and, for most areas, was completed by the end of June. Our experts spent over 1000 hours monitoring yet only four of this rare species nest were found. At the same time, however, 750 suitable nest sites were also monitored. It was known that five other breeding pairs were in the area but unfortunately, their nest were not located yet it is possible that some of them did not breed this year.
+
+The Saker falcon is therefore still one of our rarest birds in the Czech Republic, with is population not exceeding 20 breeding pairs.
 
 ![](/media/a_dscn0655.jpg)
 
-Naše společnost monitoring raroha velkého v České republice organizuje již několik let. V letošním roce je monitoring součástí projektu „Příprava záchranného programu pro raroha velkého (Falco cherrug)“ financovaného z EHP fondů. 
+We have been monitoring the Saker falcon in the Czech Republic for several years. This year, monitoring is part of the project “Preparing a rescue program for the Falco cherrug” financed from EEA funds.
 
 ![](/media/loga_mgs_stojato_mm.jpg)
