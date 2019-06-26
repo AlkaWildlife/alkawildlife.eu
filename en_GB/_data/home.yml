@@ -7,19 +7,19 @@ news:
 links:
   - image: /media/syslinavinici.jpg
     title: Souslik friendly Vineyard
-    url: 'https://www.syslinavinici.cz'
+    url: 'http://bit.ly/syslinavinici'
   - image: /media/vydryonline.jpg
     title: Otters online
-    url: 'https://www.vydryonline.cz'
+    url: 'http://bit.ly/vydryonlineEN'
   - image: /media/vydrynasilnici.jpg
     title: Otters on the road
-    url: 'http://www.vydrynasilnici.cz'
+    url: 'http://bit.ly/vydrynasilnici'
   - image: /media/vydristezky.jpg
     title: Otter trail
-    url: 'https://www.vydristezky.cz'
+    url: 'http://bit.ly/vydristezky'
   - image: /media/map_translynx_eu.jpg
     title: Lynx map
-    url: 'http://map.translynx.eu/cs'
+    url: 'http://bit.ly/translynxmap'
 mission:
   body: >-
     # Our Mission
@@ -43,8 +43,10 @@ other:
   body: |-
     # Follow us
 
-    [![](/media/facebook_logo.png)](https://www.facebook.com/alkawildlife)
+    [![](/media/facebook_logo.png)](http://bit.ly/alkawildlifeFB)
 
-    [![](/media/instagram-icon.png)](https://www.instagram.com/alkawildlife)
+    [![](/media/instagram-icon.png)](http://bit.ly/alkawildlifeIN)
 
-    [![](/media/youtube.png)](https://www.youtube.com/alkawildlife)
+    [![](/media/youtube.png)](http://bit.ly/alkawildlifeYT)
+
+    [![](/media/twitterlogo.png)](http://bit.ly/alkawildlifeTW)
