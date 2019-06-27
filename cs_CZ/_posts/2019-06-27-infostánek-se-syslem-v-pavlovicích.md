@@ -12,4 +12,6 @@ lang_alternatives:
 category: news
 layout: news
 ---
-Zveme Vás na slavnosti do Velkých Pavlovic (meruňkobraní a otevřené sklepy), kde budeme i my se syslem.
+Těšíme se na Vás.
+
+ALKA tým
