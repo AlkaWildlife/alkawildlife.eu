@@ -1,7 +1,7 @@
 ---
 title: Infostánek se syslem v Pavlovicích
 published: true
-image: /media/pozvanka_pavlovice-2019_610.jpg
+image: /media/img_9641_610.jpg
 listing_thumbnail: /media/img_9641_274.jpg
 description: >-
   Zveme Vás na slavnosti do Velkých Pavlovic (meruňkobraní a otevřené sklepy),
@@ -12,6 +12,4 @@ lang_alternatives:
 category: news
 layout: news
 ---
-Těšíme se na Vás.
-
-ALKA tým
+![](/media/pozvanka_pavlovice-2019_610.jpg)
