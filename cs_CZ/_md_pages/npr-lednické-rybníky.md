@@ -11,6 +11,8 @@ aside_links: |-
 
   ![](/media/logo_irrva_2014-20_program_300.jpg)
 
+
+
   # Projektové lokality
 lang_alternatives:
   en_GB:
