@@ -1,8 +1,8 @@
 ---
 title: Největší cestovatel roku 2018 je rys Daniel
 published: true
-image: /media/lb008at20150516pivonicky3_278.jpg
-listing_thumbnail: /media/lb008at20150516pivonicky3_610.jpg
+image: /media/daniel-s-matkou_610.png
+listing_thumbnail: /media/daniel-s-matkou_274.png
 description: >-
   Při příležitosti Mezinárodního dne rysů, který připadá na 11. června,
   připravili čeští ochranáři mnoho akcí, na kterých budou veřejnost seznamovat s
