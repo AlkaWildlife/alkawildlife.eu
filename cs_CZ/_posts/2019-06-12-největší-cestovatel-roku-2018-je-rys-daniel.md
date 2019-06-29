@@ -31,6 +31,8 @@ Po zpracování stovek rysích fotografií lze titulem Rekordman migrací 2018 o
 
 Mapování a monitoring rysů probíhá v rámci projektu 3Lynx, který je financován programem Interreg Central Europe. „_Většina rysů se pohybuje mezi Českou republikou, Bavorskem i Rakouskem bez ohledu na hranice, proto v roce 2018 tyto tři státy podepsaly dohodu o dlouhodobé spolupráci na monitoringu těchto šelem. Výsledky pravidelného sledování rysů v celém rozsahu výskytu populace umožní spolehlivě vyhodnotit její stav a přijmout potřebné kroky pro její ochranu,_“ přibližuje projekt jeho hlavní koordinátorka Simona Poláková z Ministerstva životního prostředí.  
 
+
+
 Projekt 3LYNX sledujte na <https://www.interreg-central.eu/Content.Node/3Lynx.html>
 
 
