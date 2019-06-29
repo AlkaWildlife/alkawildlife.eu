@@ -158,10 +158,6 @@ collections:
       widget: number
       valueType: int
       min: 1
-    - name: aside_links
-      label: Content for aside above sibling pages listing
-      widget: markdown
-      required: false
     meta:
     - name: layout
       label: Layout
@@ -391,6 +387,10 @@ collections:
     label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD
+  - name: aside_links
+    label: Content for aside above sibling pages listing
+    widget: markdown
+    required: false
   - name: lang_alternatives
     label: Localized alternatives
     widget: object
