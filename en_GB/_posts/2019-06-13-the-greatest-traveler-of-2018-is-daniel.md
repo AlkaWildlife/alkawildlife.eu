@@ -37,6 +37,6 @@ Lynx mapping and monitoring takes place within the 3Lynx project, which is funde
 
 “Most of the lynx move between the Czech Republic, Bavaria and Austria regardless of borders so in 2018, the three countries signed an agreement regarding long-term cooperation in monitoring these carnivores. The results of the regular monitoring of the lynx in the entire population range will enable the project partners to reliably evaluate the status of the lynx and take the necessary steps to protect it."
 
-You can find more information abut the 3Lynx project [here](https://www.interreg-central.eu/Content.Node/3Lynx/Mezinarodni-den-rysu-2019.html).
+You can find more information abut the 3Lynx project [here](https://www.interreg-central.eu/Content.Node/3Lynx.html).
 
 Check out the video created for International Lynx day [here](https://youtu.be/Q5O1mpvbpJI).
