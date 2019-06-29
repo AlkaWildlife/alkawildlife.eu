@@ -1,8 +1,8 @@
 ---
 title: The greatest traveler of 2018 is Daniel
 published: true
-image: /media/lb008at20150516pivonicky3_278.jpg
-listing_thumbnail: /media/lb008at20150516pivonicky3_610.jpg
+image: /media/daniel-s-matkou_610.png
+listing_thumbnail: /media/daniel-s-matkou_274.png
 description: >-
   For International Lynx Day on June 11, many different Czech organisations
   prepared events to get the public better acquainted with intimate insights
