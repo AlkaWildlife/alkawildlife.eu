@@ -13,7 +13,7 @@ funding: >-
   Together without boarders
 
 
-  ![](/media/logo_irrva_2014-20_610.jpg)
+  ![](/media/logo_irrva_bilyokraj_610.jpg)
 budget: |-
   Contribution from European Regional Development Fund: €63,490.44
 
