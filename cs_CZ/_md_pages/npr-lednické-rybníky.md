@@ -6,14 +6,7 @@ image: /media/img_8981_600.jpg
 position: 1
 layout: two_columns_page
 aside_title: ''
-aside_links: |-
-  ![](/media/logo_eu_300.jpg)
-
-  ![](/media/logo_irrva_2014-20_program_300.jpg)
-
-
-
-  # Projektové lokality
+logoset: Interreg
 lang_alternatives:
   en_GB:
     title: Lednické Ponds National Nature Reserve
