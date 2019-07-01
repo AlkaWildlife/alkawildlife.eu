@@ -86,8 +86,8 @@ collections:
     widget: relation
     collection: logosets
     searchFields:
-    - name
-    valueField: name
+    - title
+    valueField: ref
     required: false
   - name: aside_links
     label: Content for aside above sibling pages listing
