@@ -86,7 +86,7 @@ collections:
     widget: relation
     collection: logosets
     searchFields:
-    - title
+    - name
     valueField: ref
     required: false
   - name: aside_links
