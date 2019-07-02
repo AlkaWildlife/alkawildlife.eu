@@ -419,8 +419,8 @@ collections:
     widget: relation
     collection: logosets
     searchFields:
-    - name
-    valueField: name
+    - title
+    valueField: title
     required: false
   - name: lang_alternatives
     label: Localized alternatives
@@ -553,6 +553,15 @@ collections:
     - PL
     default:
     - CZ
+  - name: logoset
+    label: >-
+      Logoset (manage in separate collection Logosets)
+    widget: relation
+    collection: logosets
+    searchFields:
+    - title
+    valueField: title
+    required: false
   - name: description
     label: >-
       Description (a short text displayed as a preview of the

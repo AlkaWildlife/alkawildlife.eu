@@ -123,7 +123,16 @@ layout: default
         </div>
         <!-- Right sidebar -->
         <div id="aside-right" class="span4">
-          <aside></aside>
+          <aside>
+            <div class="moduletable links">
+              <div class="mod-custom mod-custom__links">
+                {%- assign logoset = site.logosets |
+                      where: "title", page.logoset |
+                      first -%}
+                {{ logoset.aside_logoset | markdownify }}
+              </div>
+            </div>
+          </aside>
         </div>
       </div>
     </div>
