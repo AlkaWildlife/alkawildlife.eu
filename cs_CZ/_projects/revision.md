@@ -13,7 +13,7 @@ funding: >-
   Spoločne bez hraníc / Společně bez hranic
 
 
-  ![](/media/logo_irrva_2014-20_610.jpg)
+  ![](/media/logo_irrva_bilyokraj_610.jpg)
 budget: "Výše příspěvku z ERDF: 63 490,44 EUR\r\n\nVýše příspěvku ze státního rozpočtu ČR: 3 734,73 EUR"
 from: 2018-02
 to: 2020-01

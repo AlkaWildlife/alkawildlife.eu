@@ -11,7 +11,7 @@ funding: >-
   Spoločne bez hraníc / Společně bez hranic
 
 
-  ![](/media/logo_irrva_2014-20_610.jpg)
+  ![](/media/logo_irrva_bilyokraj_610.jpg)
 from: 2018-02
 to: 2020-01
 partners: >-
