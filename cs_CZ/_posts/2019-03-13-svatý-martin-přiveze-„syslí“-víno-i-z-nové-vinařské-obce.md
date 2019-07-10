@@ -7,7 +7,7 @@ description: >-
   Známkou Sysli na vinici se pyšní další moravská vinařská obec. Tentokrát je to
   obec Miroslav. Sysli se začali šířit z místního letiště i do okolních vinic. 
 date: '2018-11-08'
-logoset: IRRVA
+logoset: IRRVA_MZP
 lang_alternatives:
   en_GB: {}
 category: news
