@@ -49,6 +49,7 @@ tags:
   - výzkum
 countries:
   - CZ
+logoset: IRRVA
 description: "Projekt řeší vliv invazních savců (norka amerického, mývala severního, psíka mývalovitého a\_nutrie)\nna kolonie vodních ptáků hnízdící na ostrovech (zejména rybáky a racky). Na české straně se jedná o\_tři lokality na\njižní Moravě: PR Věstonická nádrž, NPR Lednické rybníky a\_Mutěnické rybníky. "
 ---
 # Cíl projektu
