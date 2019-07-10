@@ -108,6 +108,10 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 
 # Aktuality
 
+[Infostánek se syslem v Pavlovicích](/news/infostánek-se-syslem-v-pavlovicích)
+
+[Česko Slovensko hledá sysly ](/news/česko-slovensko-hledá-sysly)
+
 [Svatý Martin přiveze "syslí" víno i z nové vinařské obce](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
 
 [Nová známka sysli v sadu](/news/nová-známka-sysli-v-sadu)
