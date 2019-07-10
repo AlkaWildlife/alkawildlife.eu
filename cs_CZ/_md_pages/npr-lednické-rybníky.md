@@ -6,7 +6,7 @@ image: /media/img_8981_600.jpg
 position: 1
 layout: two_columns_page
 aside_title: ''
-logoset: EFRR Interreg
+logoset: IRRVA
 lang_alternatives:
   en_GB:
     title: Lednické Ponds National Nature Reserve
