@@ -33,6 +33,7 @@ tags:
 countries:
   - CZ
   - SK
+logoset: IRRVA
 description: "Sysel obecný je ohrožený druh, jeden z\_nejvzácnějších savců Evropy. V\_současnosti je znám z\_programového území jen z\_24 izolovaných lokalit (roztroušeně v\_Trenčianském, Trnavském a\_Jihomoravském kraji). Cílem projektu je přispět k\_záchraně tohoto druhu na úrovni celého programového území komplexním souborem aktivit. Projekt přispívá ke zlepšení životního prostředí obyvatel regionu. Projekt také cílí na návštěvníky regionu, kterým bude sysel představen jako zástupce místní přírody a\_symbol zachovalé stepní zemědělské krajiny."
 ---
 # Cíl projektu
