@@ -7,6 +7,7 @@ description: >-
   Vytvořili jsme novou známku „Sysli v sadu“ a hned máme i prvního sadaře a
   první meruňky!
 date: '2018-06-20'
+logoset: IRRVA
 lang_alternatives:
   en_GB: {}
 category: news
@@ -22,6 +23,4 @@ Sysly v sadech jsme zaznamenali ve Velkých Pavlovicích a také v Hrušovanech 
 
 ![](/media/rimg0370.jpg)
 
-Realizováno v rámci projektů Sysli pro krajinu, krajina pro sysly, Monitoring a podpora populace sysla obecného na jižní Moravě. Tyto projekty jsou financovány z fondu ERDF a státního rozpočtu. Vychází s podporou Ministerstva životního prostředí, nemusí vyjadřovat stanoviska MŽP.
-
-![](/media/logo_irrva-a-mzp_lezato_610.jpg)
+_Realizováno v rámci projektů Sysli pro krajinu, krajina pro sysly, Monitoring a podpora populace sysla obecného na jižní Moravě. Tyto projekty jsou financovány z fondu ERDF a státního rozpočtu. Vychází s podporou Ministerstva životního prostředí, nemusí vyjadřovat stanoviska MŽP._
