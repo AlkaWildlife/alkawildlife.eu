@@ -7,6 +7,7 @@ description: >-
   Zveme Vás na slavnosti do Velkých Pavlovic (meruňkobraní a otevřené sklepy),
   kde budeme i my se syslem.
 date: '2019-06-27'
+logoset: IRRVA
 lang_alternatives:
   en_GB: {}
 category: news
