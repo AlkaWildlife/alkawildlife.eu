@@ -7,6 +7,7 @@ description: >-
   Známkou Sysli na vinici se pyšní další moravská vinařská obec. Tentokrát je to
   obec Miroslav. Sysli se začali šířit z místního letiště i do okolních vinic. 
 date: '2018-11-08'
+logoset: IRRVA
 lang_alternatives:
   en_GB: {}
 category: news
@@ -41,5 +42,3 @@ Ochranná známka Sysli na vinici vznikla před dvěma lety díky inspiraci z Ra
 **Ochrana sysla v ČR**
 
 Sysel je hlodavec příbuzný veverkám. Tento dříve plošně rozšířený druh byl tak běžný, že byl považován za škůdce (ovšem ve vinicích a sadech neškodí). Sysla ale ohrozily především změny v české a moravské krajině po druhé světové válce - scelování pozemků, intenzifikace obhospodařování a naopak upuštění od obhospodařování strojově nedostupných pozemků (mezí, menších luk a pastvin). Sysel proto vymizel z většiny území ČR, udržel se pouze na lokalitách s pravidelně udržovanými trávníky. V současnosti je v ČR celkem okolo 6500 syslů, kteří se vyskytují zhruba na 35 izolovaných drobných lokalitách, převážně na letištích, golfových hřištích či v kempech a na jižní Moravě také ve vinicích a sadech šesti obcí. Sysel byl zařazen mezi kriticky ohrožené druhy a byl pro něj vytvořen i Záchranný program.
-
-![](/media/logo_irrva-a-mzp_lezato_610.jpg)
