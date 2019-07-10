@@ -5,6 +5,7 @@ permalink: /projects/revision/mutenicke-rybníky
 image: /media/dscn1350_610.jpg
 position: 2
 layout: two_columns_page
+logoset: IRRVA
 lang_alternatives:
   en_GB:
     title: Mutěnické ponds
