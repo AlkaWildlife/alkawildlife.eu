@@ -7,6 +7,7 @@ description: >-
   S přicházejícím jarem skončil zimní spánek syslů. Monitoring tohoto kriticky
   ohroženého savce může právě začít. 
 date: '2019-04-24'
+logoset: IRRVA_MZP
 lang_alternatives:
   en_GB: {}
 category: news
