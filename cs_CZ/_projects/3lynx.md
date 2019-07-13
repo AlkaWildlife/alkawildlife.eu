@@ -94,6 +94,24 @@ Rysí populace budou sledovány ve dvou přeshraničních regionech (Česko - N�
 
 V rámci projektu bude také podporováno vyšetřování ilegálního lovu rysa ostrovida – u odlovených jedinců bude provedena pitva a případné další analýzy, případ bude řešen s policií a maximálně medializován.
 
+# Aktuality
+
+[Největší cestovatel roku 2018 je rys Daniel](/news/největší-cestovatel-roku-2018-je-rys-daniel)
+
+[Rozhovor o kočce divoké](/news/rozhovor-o-kočce-divoké)
+
+[Mezinárodní den rysů](/news/mezinárodní-den-rysů)
+
+[Návrat vlka do Pošumaví](/news/navrat-vlka-do-posumavi)
+
+[Přednáška o fotopastech v Českém lese](/news/prednaska-o-fotopastech-v-ceskem-lese)
+
+[Za rysy do Novohradských hor](/news/za-rysy-do-novohradskych-hor)
+
+[Záchrana rysích koťat](/news/záchrana-rysích-koťat)
+
+[K ochraně tří evropských populací rysa ostrovida se spojí 12 organizací ze 6 zemí](/news/k-ochraně-3-evropských-populací-rysa-ostrovida-se-spojí-12-organizací-z-6-zemí)
+
 # Výstupy projektu
 
 _Rysí mapa - mapa vytvořená v projektu Translynx, je v rámci projektu 3Lynx rozšiřována a doplňována o nově získaná data._
