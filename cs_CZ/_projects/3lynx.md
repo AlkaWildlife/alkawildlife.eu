@@ -9,9 +9,6 @@ funding: >-
 
   Program:[ Interreg Central
   Europe](http://www.interreg-central.eu/Content.Node/home.html)
-
-
-  ![null](/media/3lynx_cmyk_350.jpg)
 budget: "Celková výše alokace: 2 318 784 €\r\n\nAlokace pro ALKA Wildlife: 174 582 €"
 from: 2017-07
 to: 2020-06
@@ -66,7 +63,7 @@ tags:
   - výzkum
 countries:
   - CZ
-logoset: ''
+logoset: 3lynx
 description: >-
   Populace rysa ostrovida v Evropě se často nachází v příhraničních oblastech.
   Cílem projektu je zlepšení mezinárodní spolupráce pro ochranu
