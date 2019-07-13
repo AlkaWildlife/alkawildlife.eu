@@ -66,6 +66,7 @@ tags:
   - výzkum
 countries:
   - CZ
+logoset: ''
 description: >-
   Populace rysa ostrovida v Evropě se často nachází v příhraničních oblastech.
   Cílem projektu je zlepšení mezinárodní spolupráce pro ochranu
