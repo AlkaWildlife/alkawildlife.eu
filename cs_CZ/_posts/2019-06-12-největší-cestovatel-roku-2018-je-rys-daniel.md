@@ -10,6 +10,7 @@ description: >-
 date: '2019-06-11'
 lang_alternatives:
   en_GB:
+    permalink: /news/the-greatest-traveler-of-2018-is-daniel
     title: The greatest traveler of 2018 is Daniel
 category: news
 layout: news
