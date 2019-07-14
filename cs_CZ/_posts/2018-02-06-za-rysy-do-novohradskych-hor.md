@@ -54,7 +54,8 @@ neanalyzoval vaši DNA, vlhké tkáně je potřeba zamrazit, aby nedošlo
 k degradaci materiálu.
 
 V Novohradských horách jsme ale nenarazili jen na rysí stopy, ale také na zapomenutý
-malebný kout světa uprostřed střední Evropy. Asi není třeba více slov, fotografie postačí.\
+malebný kout světa uprostřed střední Evropy. Asi není třeba více slov, fotografie postačí.
+
 Stopování rysů probíhá v rámci projektu [3LYNX](https://www.interreg-central.eu/Content.Node/3Lynx.html).
 
 ![](/media/3lynx_cmyk_350.jpg)
