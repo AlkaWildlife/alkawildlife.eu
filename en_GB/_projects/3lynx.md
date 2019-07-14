@@ -2,7 +2,16 @@
 title: 3Lynx
 published: true
 registration_no: CE1001
-funding: "Financial resources: ERDF (European Regional Development Fund), Ministry of the Environment of the Czech Republic\r\n\nProgramme:[ Interreg Central Europe](http://www.interreg-central.eu/Content.Node/home.html)\n\n![null](/media/3lynx_cmyk_350.jpg)"
+funding: >-
+  Financial resources: ERDF (European Regional Development Fund), Ministry of
+  the Environment of the Czech Republic
+
+
+  Programme:[ Interreg Central
+  Europe](http://www.interreg-central.eu/Content.Node/home.html)
+
+
+  ![null](/media/3lynx_cmyk_350.jpg)
 budget: |-
   Total allocation: 2 318 784 €
 
@@ -78,7 +87,7 @@ The specific goals are:
 * Improve international cooperation of individual interest groups (State Nature Conservation, Hunters, Foresters, Non-Profit Organizations, Scientists) in protecting the Czech-Bavarian-Austrian Eurasian Lynx
 * Create a common international strategy to protect the Eurasian lynx in the Czech-Bavarian-Austrian region and prepare background information for a similar strategy in two other areas
 * Set up comprehensive monitoring of Eurasian lynx in Central Europe
-* Exchange data between partner organisations to streamline the protection of Eurasian lynx 
+* Exchange data between partner organisations to streamline the protection of Eurasian lynx
 
 # Project content
 
@@ -87,6 +96,20 @@ To improve the cooperation of all partners, a series of workshops will be organi
 Population characteristics will be monitored in two cross-border regions (Czech Republic - Germany - Austria and Slovenia - Italy - Croatia) using a network of camera traps and winter snow tracking. Genetic samples will be collected for genetic variability of populations; telemetric monitoring will be performed. As part of a public awareness campaign, a joint international "Lynx Day" will be organised, with a range of public activities from lectures and films to children's programmes. Media and public educational information will be published including booklets about the protection of the Eurasian lynx, project websites, Facebook posts, press releases, reports and magazine articles.
 
 The project will also support the investigation of illegal hunting of Eurasian lynx. Autopsy's on lynx found dead will take place and possible further analyses will take place. These types of cases will include the police and will be publicised as much as possible.
+
+# News
+
+[The greatest traveler of 2018 is Daniel](/news/the-greatest-traveler-of-2018-is-daniel)
+
+[Interview about the wild cat](/news/interview-about-the-wild-cat)
+
+[International lynx day 2018](/news/mezinárodní-den-rysů)
+
+[The return of the wolf to Pošumaví](/news/return-of-the-wolf-to-posumavi)
+
+[A lecture on camera trap monitoring in the Bohemian forest](/news/a-lecture-on-camera-trap-monitoring-in-the-bohemian-forest)
+
+[Behind the lynx of the Novohradské mountains](/news/behind-the-lynx-of-the-novohradske-mountains)
 
 # Project outputs
 
