@@ -4,6 +4,9 @@ published: true
 image: /media/co-nám-ukazují-fotopasti.jpg
 listing_thumbnail: /media/s320_co-nam-ukazuji-fotopasti.jpg
 date: 2018-03-08T00:00:00.000Z
+lang_alternatives:
+  en_GB:
+    permalink: /news/a-lecture-on-camera-trap-monitoring-in-the-bohemian-forest
 category: news
 layout: news
 ---
