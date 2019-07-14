@@ -1,4 +1,4 @@
 ---
-title: /projects/revision.html
+title: /projects/revision
 ---
 
