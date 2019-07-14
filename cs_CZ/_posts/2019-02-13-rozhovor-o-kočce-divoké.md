@@ -7,11 +7,12 @@ description: |2
    Rozhovor o kočce divoké povídala Tereza Mináriková v Rádiu Prague. Poslechnout si ji můžete v archivu rozhlasu.
 date: '2018-11-17'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/interview-about-the-wild-cat
 category: news
 layout: news
 ---
-V rámci projektu [3Lynx](http://www.interreg-central.eu/Content.Node/3Lynx.html) probíhá monitoring rysa ostrovida pomocí fotopastí. Tyto fotopasti ale také občas zachytí i jiné vzácné druhy, tentokrát to byla kočka divoká. V úterý 6.11.2018 o kočce divoké a našich záznamech povídala Tereza Mináriková v Rádiu Prague.
+V rámci projektu [3Lynx](/projects/3lynx) probíhá monitoring rysa ostrovida pomocí fotopastí. Tyto fotopasti ale také občas zachytí i jiné vzácné druhy, tentokrát to byla kočka divoká. V úterý 6.11.2018 o kočce divoké a našich záznamech povídala Tereza Mináriková v Rádiu Prague.
 
 Kdo reportáž nestihl, může si jej poslechnout i přečíst v archivu rozhlasu:
 
