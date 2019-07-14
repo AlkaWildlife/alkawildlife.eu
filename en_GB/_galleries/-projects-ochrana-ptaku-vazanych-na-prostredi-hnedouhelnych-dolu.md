@@ -1,4 +1,4 @@
 ---
-title: /projects/ochrana-ptaku-vazanych-na-prostredi-hnedouhelnych-dolu.html
+title: /projects/brown-coal-mines-protection-of-rare-and-endangered-birds
 ---
 
