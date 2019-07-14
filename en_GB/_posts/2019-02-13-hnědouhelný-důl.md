@@ -6,9 +6,8 @@ description: ''
 author: Kateřina Poledníková
 tags:
   - ''
-gallery: /projects/ochrana-ptaku-vazanych-na-prostredi-hnedouhelnych-dolu.html
-lang_alternatives:
-  en_GB: {}
+gallery: /projects/brown-coal-mines-protection-of-rare-and-endangered-birds
+lang_alternatives: {}
 date: '2019-02-13 22:59:04 +0100'
 category: gallery
 layout: photo
