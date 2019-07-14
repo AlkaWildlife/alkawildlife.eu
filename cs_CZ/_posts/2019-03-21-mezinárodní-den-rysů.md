@@ -6,7 +6,8 @@ listing_thumbnail: /media/cs_lynxday_274.jpg
 description: 11. červen slavíme jako Mezinárodní den rysů.
 date: '2018-06-04'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/mezinárodní-den-rysů
 category: news
 layout: news
 ---
@@ -21,3 +22,5 @@ Kde: Knihkupectví a antikvariát Fryč, Liberec
 Přednášející: Tereza Mináriková
 
 ![](/media/rys_ondrej-prosicky_610.jpg)
+
+Realizováno v rámci projektu [3lynx](/projects/3lynx).
