@@ -4,6 +4,9 @@ published: true
 image: /media/i__00087_tuning_02.jpg
 listing_thumbnail: /media/i__00087_tuning_02_crop_320.jpg
 date: 2018-03-13T00:00:00.000Z
+lang_alternatives:
+  en_GB:
+    permalink: /news/return-of-the-wolf-to-posumavi
 category: news
 layout: news
 ---
@@ -27,6 +30,5 @@ V roce 2017 a 2018 došlo k dalšímu nárůstu záznamů vlka ze Šumavy, a�
 
 Novodobé šíření vlka na Šumavě a v Pošumaví je dáno především pozitivním vývojem vlčí populace v saské Lužici viz. [www.wolf-sachsen.de](https://www.wolf-sachsen.de/en/the-wolf/wolves-in-germany/distribution-in-germany) odkud se mladí jedinci šíří do nových oblastí. Vzhledem k výborným migračním schopnostem vlků, kteří dokáží překonat i několika set kilometrové vzdálenosti, není návrat vlka na Šumavu zas takovým překvapením. Přírodně velice zachovalé území, s rozsáhlou plochou lesů a dostatkem potravy poskytuje této šelmě ideální podmínky pro život. Stejně jako rys ostrovid, i vlk se v současnosti vrací tam, kam, kde kdysi žil a kam také patří.
 
-![](/media/s250_13lynx_cmyk.jpg){: .wysiwyg-float-right} O projektu
-3Lynx si můžete přečíst
-[zde](http://www.interreg-central.eu/Content.Node/3Lynx.html).
+![](/media/s250_13lynx_cmyk.jpg){: .wysiwyg-float-right} Realizováno v rámci projektu
+[3lynx](/projects/3lynx).
