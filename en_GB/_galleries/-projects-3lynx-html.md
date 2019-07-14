@@ -1,4 +1,4 @@
 ---
-title: /projects/3lynx.html
+title: /projects/3lynx
 ---
 
