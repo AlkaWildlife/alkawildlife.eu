@@ -19,4 +19,6 @@ Kde: Muzeum Českého lesa v Tachově
 
 <div class="clearfix"></div>
 
+Realizováno v rámci projektu [3lynx](/projects/3lynx).
+
 ![](/media/s250_13lynx_cmyk.jpg)
