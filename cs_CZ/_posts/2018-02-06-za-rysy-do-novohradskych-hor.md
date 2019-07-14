@@ -3,6 +3,9 @@ title: Za rysy do Novohradských hor
 published: true
 image: /media/s320_dscn4493.jpg
 date: 2018-02-06T00:00:00.000Z
+lang_alternatives:
+  en_GB:
+    permalink: /news/behind-the-lynx-of-the-novohradske-mountains
 category: news
 layout: news
 ---
