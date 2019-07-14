@@ -56,6 +56,6 @@ k degradaci materiálu.
 V Novohradských horách jsme ale nenarazili jen na rysí stopy, ale také na zapomenutý
 malebný kout světa uprostřed střední Evropy. Asi není třeba více slov, fotografie postačí.
 
-Stopování rysů probíhá v rámci projektu [3LYNX](https://www.interreg-central.eu/Content.Node/3Lynx.html).
+Stopování rysů probíhá v rámci projektu [3LYNX](/projects/3lynx).
 
 ![](/media/3lynx_cmyk_350.jpg)
