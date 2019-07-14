@@ -1,4 +1,4 @@
 ---
-title: /projects/lutra-lutra.html
+title: /projects/lutra-lutra
 ---
 
