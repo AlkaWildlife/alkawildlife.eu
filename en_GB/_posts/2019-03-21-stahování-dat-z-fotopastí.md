@@ -1,10 +1,9 @@
 ---
-title: Stahování dat z fotopastí
+title: Downloading pictures from phototrap
 published: true
 image: /media/dscn4570.jpg
-gallery: /projects/3lynx.html
-lang_alternatives:
-  en_GB: {}
+gallery: /projects/3lynx
+lang_alternatives: {}
 date: '2019-03-21 00:00:00 +0100'
 category: gallery
 layout: photo
