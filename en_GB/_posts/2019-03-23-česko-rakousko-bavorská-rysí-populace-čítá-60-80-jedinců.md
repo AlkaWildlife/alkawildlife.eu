@@ -1,12 +1,12 @@
 ---
-title: Česko-rakousko-bavorská rysí populace čítá 60-80 jedinců
+title: The Czech-Austrian-Bavarian lynx population consists of 60-80 individuals
 published: true
 image: /media/20110329_krasny_610.jpg
 listing_thumbnail: /media/20110329_krasny_274.jpg
 description: >-
-  Moderní technologie, jako jsou sledování pomocí GPS obojků a tzv. fotopastí,
-  umožňují v současnosti provedení mnohem přesnějšího odhadu velikosti
-  česko-bavorsko-rakouské rysí populace.
+  Modern technologies such as GPS tracking collars and camera traps are allowing
+  for a more accurate estimate of the size of the Czech-Bavarian-Austrian lynx
+  population.
 date: '2016-08-09'
 lang_alternatives:
   cs_CZ:
@@ -15,30 +15,31 @@ lang_alternatives:
 category: news
 layout: news
 ---
-TISKOVÁ ZPRÁVA ALKA WILDLIFE A NÁRODNÍHO PARKU ŠUMAVA
+PRESS RELEASE FROM ALKA WILDLIFE AND ŠUMAVA NATIONAL PARK
 
-## Česko-bavorsko-rakouská rysí populace čítá 60-80 jedinců, shodli se odborníci ze tří zemí
+## Experts agree the Czech-Bavarian-Austrian lynx population has 60-80 individuals.
 
-**Vimperk 9.8.2016 Moderní technologie, jako jsou sledování pomocí GPS obojků a tzv. fotopastí, umožňují v současnosti provedení mnohem přesnějšího odhadu velikosti česko-bavorsko-rakouské rysí populace. Ta zahrnuje nejen rysy z centrální oblasti Národních parků Šumava a Bavorský les, ale i z navazujících území v ČR, Bavorsku a Rakousku, na severozápadě Český les/Oberpfälzer Wald, na východě Novohradské hory/Freiwald . Celá populace rysa čítá 60-80 dospělých jedinců, shodli se odborníci z těchto tří zemí.**
+**Vimperk 9.8.2016 **
 
-Národní parky Šumava a Bavorský les spolupracují na výzkumu rysa ostrovida již od devadesátých let a od roku 2009 plošně využívají metodu tzv. fotomonitoringu – využití fotoaparátů s automatickou spouští, která umožňuje individuální rozeznání jedinců. Výsledky tohoto monitoringu v Národních parcích Šumava a Bavorský les v sezóně 2015/16 byly právě zveřejněny a jsou ke stažení na webových stránkách: [http://www.npsumava.cz/gallery/33/10133-monitoring_rysa_v_narodnich_parcich_sumava_a_bavorsky_les_2015_16.pdf
-](http://www.npsumava.cz/gallery/33/10133-monitoring_rysa_v_narodnich_parcich_sumava_a_bavorsky_les_2015_16.pdf)
+**Modern technologies such as GPS tracking collars and camera traps are allowing for a more accurate estimate of the size of the Czech-Bavarian-Austrian lynx population. This not only includes lynx from central areas of the Šumava National Park and the Bavarian Forest, but also from adjacent areas of the Czech Republic, Bavaria and Austria. These areas include the Bohemian Forest / Oberpfälzer Wald in the North West and the Novohradské Mountains / Freiwald in the East. Experts now agree the entire lynx population now has 60-80 adults.**
 
-„_Na základě výsledků našeho společného dlouhodobého monitoringu můžeme konstatovat, že počet jedinců vyfocených a zároveň identifikovaných na území obou národních parků se dlouhodobě zásadně nemění. Dospělý rysí kocour obývá teritorium o rozloze zhruba 350-450 km2, kočka pak 120-150 km2, hustota populace se pohybuje mezi 1-1,6 jedince/100km2,_“ uvádí zooložka Správy NP Šumava Elisa Belotti. 
+Together, the National Parks of Šumava and the Bavarian Forest have been taking part in the research of  Eurasian lynx, starting back in the 1990s. Since 2009, however, camera traps have been installed in these areas. These cameras, with automatic triggering, allows for individual recognition. Now, the results of monitoring during the 2015/16 season has just been published and are available for download [here](http://www.npsumava.cz/gallery/33/10133-monitoring_rysa_v_narodnich_parcich_sumava_a_bavorsky_les_2015_16.pdf).
 
-Vzhledem k velikosti jejich teritorií nežije většina rysů pouze na území národních parků. Svoje domovské okrsky mají z části nebo i zcela mimo chráněná území (viz mapa) proto je pro zjištění celé velikosti populace nutné zmapování jedinců i mimo jádrové území, ideálně v celé oblasti výskytu.
+_“Based on the results of our long-term, joint monitoring, we can confidently say that the number of individuals photographed and identified in the territory of both national parks has not significantly changed. Adult males occupy a territory of approximately 350-450 km2 and females 120-150 km2 with population density between 1-1.6 individuals / 100km2,”_ says Elisa Belotti, zoologist from Šumava National Park.
 
-„_V rámci projektu Trans-Lynx, realizovaného v letech 2013-2015 jsme se věnovali právě otázce celkové velikosti populace. Spolupráce odborníků z ČR, z Bavorska i z Rakouska nám umožnila spočítat rysy i v okrajových územích, včetně rysů přeshraničních – tedy těch, kteří žijí na území dvou nebo i tří států. Zjistili jsme, že celková velikost populace je 60-80 jedinců, přičemž toto číslo se nezvyšuje, populace spíše stagnuje,_“ potvrzuje Tereza Mináriková z ALKA Wildlife. 
+Due to the size of their territories, most lynx don't only live in the national parks but have their home districts partly or even completely outside protected areas (see map). It is, therefore, necessary to map individuals outside the core area, ideally in the whole area of occurrence, to determine the complete population size.
 
-Z výsledků monitoringu z 90. let minulého století, kdy byla rysí populace ve vrcholové fázi rozšíření, víme, že rysi využívali větší území přeshraničních hor, než je tomu dnes.
+"_As part of the Trans-Lynx project, implemented from 2013-2015, we focused on the question of the total population size. With experts from the Czech Republic, Bavaria and Austria cooperation in a cross-border project, this has allowed us to now calculate lynx in the peripheral areas, especially those cross-border lynx who have the potential to live in two to three countries. We found that the total population size is 60-80 individuals, and this number rather than growing is actually stagnating,_“ confirms Tereza Mináriková from ALKA Wildlife.
 
-„_V posledním desetiletí ale z některých okrajových částí rysové zmizeli. Krom malé velikosti je česko-bavorsko-rakouská rysí populace ještě poměrně izolovaná, což výrazně zvyšuje její ohroženost. Aby populace mohla přežít, je nutné, aby se mohla dále rozšiřovat. To se ale v současnosti neděje._“ říká Elisa Belotti.
+From the results of monitoring in the 1990s, when the lynx population was at its peak phase of expansion, we know they used a much larger area of cross-border mountains than they do today.
 
-“_Na území národních parků se rysům poměrně daří. Každý rok zde zaznamenáváme rozmnožování, a jak ukazuje náš společný fotomonitoring, rysové se tu dožívají vyššího věku než jedinci sledovaní v rámci projektu Trans-Lynx mimo národní parky. Pouze území národních parků ale k záchraně celé populace rozhodně nestačí. Je třeba zajistit dobré podmínky pro jejich přežití i mimo chráněná území. Zde je třeba řešit hlavně problematiku pytláctví a autodopravy,_” doplňuje zooložka Správy NP Šumava.
+_"Over the last decade, some of the lynx from peripheral areas have disappeared. In addition to this, the already small Czech-Bavarian-Austrian lynx population is relatively isolated, which significantly increases their vulnerability. In order for the population to survive, it needs to be expanded. This, however, is not happening now,_” says Elisa Belotti.
 
-Monitoring chráněných druhů je jedním ze základních činností spojených s posláním národního parku. Dlouhodobé sledování vývoje populace neznamená pouze informaci o probíhajících přírodních procesech, ale i relevantní zpětnou vazbu činnosti Správy NP Šumava se svěřeným územím.
+_“Lynx in the national parks are quite successful. We have recorded reproduction every year, and our joint camera trap monitoring has shown that the lynx here live longer than those recorded in the Trans-Lynx projects, situated outside the national parks. Yet, a healthy population in the national parks is not enough to save the entire population. To maintain the population, it is essential to ensure suitable conditions both inside and outside protected areas. Importantly, the main issues of poaching and road traffic accidents need to be addressed,”_ adds the zoologist form the Šumava National Park Administration.
 
-„_Jsem velmi rád, že tato činnost pokračuje a má výsledky. Chtěli bychom výzkum a monitoring rysa dále rozvíjet a posunout na evropskou úroveň. Společně s partnery z Bavorska, Rakouska, Itálie a Slovinska jsme tak přednedávnem společně vytvořili a podali mezinárodní projekt v rámci evropského dotačního programu Interreg Central Europe,_“ zakončuje vedoucí odboru ochrany přírody Správy Národního parku Šumava Martin Starý. 
+Monitoring protected species is one of the basic activities associated with the mission of the Šumava National Park. Long-term monitoring of population development does not only mean information on ongoing natural processes, but also relevant feedback on the activities of the Šumava NP Administration with the territory entrusted to it.
+
+_"I am very pleased that this work is continuing to obtain results. We would like to further develop the research and monitoring of lynx and move it to the European level. Together, with partners from Bavaria, Austria, Italy and Slovenia, we recently created and submitted an international project within the European Interreg Central Europe grant programme,”_ concludes Martin Starý, head of the nature conservation department of the Šumava National Park.
 
 ![](/media/foto2-2009_02_08_610.jpg "mladý rys Krásný")
 
