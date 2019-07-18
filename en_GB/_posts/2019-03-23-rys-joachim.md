@@ -1,22 +1,23 @@
 ---
-title: Rys Joachim
+title: Lynx Joachim
 published: true
 image: /media/1_joachim_cz_610.jpg
 listing_thumbnail: /media/1_joachim_cz_274.jpg
 description: >-
-  Joachim se narodil v roce 2013 ve Fraiwaldu. Poprvé byl vyfocen jako půlroční
-  kotě, jak večeří s matkou a sourozencem čerstvě ulovenou srnu. 
+  Joachim was born in 2013 on the Austrian side of the Novohradské Mountains, in
+  Fraiwald. He was photographed for the first time as a six-month-old kitten,
+  eating freshly caught deer with his mother and sibling.
 date: '2016-11-11'
 lang_alternatives:
-  en_GB: {}
+  cs_CZ:
+    permalink: /news/rys-joachim
+    title: Rys joachim
 category: news
 layout: news
 ---
-Rys Joachim se narodil v roce 2013 na rakouské straně Novohradských hor, ve Fraiwaldu. Poprvé byl vyfocen jako půlroční kotě, jak večeří s matkou a sourozencem čerstvě ulovenou srnu. To bylo v listopadu 2013. Tehdy nám zamotal hlavu tím, že už byl velký jak dospělý rys, a nějakou dobu jsme si proto mysleli, že Joachim musí být ta matka. Jak se ukázalo později, nebyl. Byl to pěkný mladý kocour, který, jak už to u kocourů bývá, nezůstal v místě svého narození, ale našel si nový domovský okrsek ve zhruba 60 km vzdálené oblasti pravého břehu Lipna, oblast českého Vyšebrodska a rakouského Sternwaldu, kde žije od podzimu 2015. Joachim je pravý přeshraniční rys - pohybuje se pravidelně v ČR i v Rakousku, a státní hranici okázale ignoruje.
+Back in November 2013, Joachim a six month old kitten from Fraiwald on the Austrian side of the Novohradské Mountains was photographed with his mother and sibling eating freshly caught deer. At that time, Joachim was so large that we thought that he must be the mother. Through further monitoring, we soon worked out that Joachim was actually a nice young male, as he soon left his mother's territory to find his own. 
 
-Na monitoringu rysů spolupracuje hned několik organizací: Luchsprojekt Bayern, Luchsprojekt Nord Osterreich, Nationalpark Bayerischer Wald, Hnutí DUHA a NP Šumava. 
-
-
+Since Autumn 2015, Joachim found his new home in the areas of Czech Vyšší Brod and Austrian Sternwald. He is a true cross-border lynx and regularly moves in the Czech Republic and Austria, ignoring the country border in an utterly, ostentatious fashion.
 
 ![Joachim jako mládě](/media/2_joachim__at_610.jpg)
 
@@ -28,8 +29,8 @@ Na monitoringu rysů spolupracuje hned několik organizací: Luchsprojekt Bayern
 
 ![Rys Joachim](/media/5_joachim1.jpg)
 
+The following organisations are involved in the monitoring of lynx in these areas: Luchsprojekt Bayern, Luchsprojekt Nord Osterreich, National Park Bayerischer Wald, Hnutí DUHA and NP Šumava National Park.
 
+The project [Lynx stories](https://en.alkawildlife.eu/projects/lynx-stories) is based on grant support from the Ministry of the Environment. The material does not have to express the views of the Ministry of the Environment.
 
-[Rysí příběhy](/projects/rysi-pribehy.html) vychází s grantovou podporou Ministerstva životního prostředí. Materiál nemusí vyjadřovat stanoviska Ministerstva životního prostředí.
-
-Projekt probíhá ve spolupráci s Beleco z. s.
+The project is being carried out in cooperation with Beleco z.s.
