@@ -1,0 +1,10 @@
+{% if page.logoset %}
+<div class="mod-custom mod-custom__links">
+  {%- assign logoset = site.logosets |
+        where: "title", page.logoset |
+        first -%}
+  {{ logoset.aside_logoset | markdownify }}
+</div>
+
+<div class="mod-custom mod-custom__links m-top-1">&nbsp;</div>
+{% endif %}
