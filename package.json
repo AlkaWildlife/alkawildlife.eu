@@ -4,6 +4,6 @@
   "dependencies": {
     "js-yaml": "^3.13.1",
     "lodash.merge": "^4.6.2",
-    "netlify-cms": "^2.3.1"
+    "netlify-cms": "^2.9.6"
   }
 }
