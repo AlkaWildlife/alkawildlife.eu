@@ -80,6 +80,15 @@ collections:
     label: Heading for aside
     widget: string
     required: false
+  - name: logoset
+    label: >-
+      Logoset (manage in separate collection Logosets)
+    widget: relation
+    collection: logosets
+    searchFields:
+    - title
+    valueField: title
+    required: false
   - name: aside_links
     label: Content for aside above sibling pages listing
     widget: markdown
@@ -99,6 +108,23 @@ collections:
       - name: permalink
         label: Address on Czech site
         widget: string
+
+- name: logosets
+  label: Logosets
+  label_singular: Logoset
+  description: >-
+    Set of partner logos that can be shown in the right column, next
+    to a displayed main content.
+  folder: cs_CZ/_logosets
+  create: true
+  fields:
+  - name: title
+    label: Name
+    widget: string
+  - name: aside_logoset
+    label: Content for aside top listing of set of logos
+    widget: markdown
+    required: false
 
 - name: special_pages
   label: Special pages
@@ -387,6 +413,15 @@ collections:
     label: "\U00002757 Published at (change with caution)"
     widget: date
     format: YYYY-MM-DD
+  - name: logoset
+    label: >-
+      Logoset (manage in separate collection Logosets)
+    widget: relation
+    collection: logosets
+    searchFields:
+    - title
+    valueField: title
+    required: false
   - name: lang_alternatives
     label: Localized alternatives
     widget: object
@@ -518,6 +553,15 @@ collections:
     - PL
     default:
     - CZ
+  - name: logoset
+    label: >-
+      Logoset (manage in separate collection Logosets)
+    widget: relation
+    collection: logosets
+    searchFields:
+    - title
+    valueField: title
+    required: false
   - name: description
     label: >-
       Description (a short text displayed as a preview of the

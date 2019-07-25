@@ -28,6 +28,8 @@ layout: default
         <div id="aside-right" class="span3">
           <aside>
             <div class="moduletable links">
+              {% include logoset.html %}
+
               {% assign not_this_page = "post.url != " |
                    append: "'" |
                    append: page.url |
