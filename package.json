@@ -2,7 +2,8 @@
   "name": "alkawildlife.eu",
   "private": true,
   "dependencies": {
-    "js-yaml": "^3.10.0",
+    "js-yaml": "^3.13.1",
+    "lodash.merge": "^4.6.2",
     "netlify-cms": "^2.3.1"
   }
 }
