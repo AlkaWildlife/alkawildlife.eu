@@ -605,8 +605,8 @@ collections:
     widget: relation
     collection: publication_types
     searchFields:
-    - name
-    valueField: name
+    - title
+    valueField: title
   - name: tags
     label: Categories (to make them filterable, see Categories collection)
     widget: list
