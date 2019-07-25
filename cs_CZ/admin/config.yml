@@ -538,9 +538,18 @@ collections:
     widget: markdown
     required: false
   - name: tags
-    label: Categories (to make them filterable, see Categories collection)
+    label: Categories
     widget: list
     required: false
+    field:
+      - label: Category
+        name: category
+        widget: relation
+        collection: filterable_tags
+        searchFields:
+          - title
+        valueField: title
+
   - name: countries
     label: Countries
     widget: territories
@@ -729,16 +738,6 @@ collections:
       Categories collection)
     widget: list
     required: false
-    field:
-      - label: Category
-        name: category
-        widget: relation
-        collection: filterable_tags
-        displayFields:
-          - title
-        searchFields:
-          - title
-        valueField: title
 
   - name: lang_alternatives
     label: Localized alternatives
