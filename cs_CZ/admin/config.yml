@@ -542,13 +542,13 @@ collections:
     widget: list
     required: false
     field:
-      - label: Category
-        name: category
-        widget: relation
-        collection: filterable_tags
-        searchFields:
-          - title
-        valueField: title
+      label: Category
+      name: category
+      widget: relation
+      collection: filterable_tags
+      searchFields:
+        - title
+      valueField: title
 
   - name: countries
     label: Countries
