@@ -538,9 +538,17 @@ collections:
     widget: markdown
     required: false
   - name: tags
-    label: Categories (to make them filterable, see Categories collection)
+    label: Categories
     widget: list
     required: false
+    field:
+      label: Category
+      name: category
+      widget: relation
+      collection: filterable_tags
+      searchFields:
+        - title
+      valueField: title
   - name: countries
     label: Countries
     widget: territories
@@ -608,9 +616,17 @@ collections:
     - title
     valueField: title
   - name: tags
-    label: Categories (to make them filterable, see Categories collection)
+    label: Categories
     widget: list
     required: false
+    field:
+      label: Category
+      name: category
+      widget: relation
+      collection: filterable_tags
+      searchFields:
+        - title
+      valueField: title
   - name: publisher
     label: Publisher
     widget: string
@@ -724,11 +740,17 @@ collections:
     label: Content
     widget: markdown
   - name: tags
-    label: >-
-      Categories (separated by commas; to make them filterable, see
-      Categories collection)
+    label: Categories
     widget: list
     required: false
+    field:
+      label: Category
+      name: category
+      widget: relation
+      collection: filterable_tags
+      searchFields:
+        - title
+      valueField: title
   - name: lang_alternatives
     label: Localized alternatives
     widget: object
@@ -830,11 +852,17 @@ collections:
     widget: string
     required: false
   - name: tags
-    label: >-
-      Categories (separated by commas; to make them filterable, see
-      Categories collection)
+    label: Categories
     widget: list
     required: false
+    field:
+      label: Category
+      name: category
+      widget: relation
+      collection: filterable_tags
+      searchFields:
+        - title
+      valueField: title
   - name: gallery
     label: Gallery
     widget: relation
