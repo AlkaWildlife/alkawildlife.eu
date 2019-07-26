@@ -38,8 +38,8 @@ $(document).ready(function() {
   var searchResults = jQuery(".search-results")
 
   if (searchResults.length) {
-    var key   = "AIzaSyAZMfoIP_F-f21VELSBTJ0K1ZjW47td_rw",
-        cx    = "015358365377942573660:12lmu75enbg",
+    var key   = "AIzaSyBH1nx-CRXMc7Ea-2FUWgCogLEiczGjnHU",
+        cx    = "017192023017850555155:2hppulzm3ec",
         query = getParameterByName("searchword")
 
     jQuery('#searchword').val(query)
