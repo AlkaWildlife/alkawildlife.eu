@@ -68,6 +68,10 @@ According to the Czech legislation, the European souslik is a critically endange
 
 # News
 
+[Souslik Information Stand in Pavlovice](/news/souslik-information-stand-in-pavlovice)
+
+[We are looking for sousliks!](/news/the-czech-republic-and-slovakia-are-looking-for-sousliks)
+
 [Saint Martin will bring 'souslik' wine to the village](/news/svatý-martin-přiveze-syslí-víno-i-z-nové-vinařské-obce)
 
 [New 'Souslik friendly orchard' stamp](/news/nová-známka-sysli-v-sadu)
