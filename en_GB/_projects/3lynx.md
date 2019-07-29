@@ -9,9 +9,6 @@ funding: >-
 
   Programme:[ Interreg Central
   Europe](http://www.interreg-central.eu/Content.Node/home.html)
-
-
-  ![null](/media/3lynx_cmyk_350.jpg)
 budget: |-
   Total allocation: 2 318 784 €
 
@@ -61,12 +58,15 @@ contacts:
     role: Project Manager
 species: Eurasian lynx
 tags:
+  - Management
   - Eurasian lynx
   - Concept
+  - Publicity
 countries:
   - CZ
   - DE
   - AT
+logoset: 3lynx
 description: >-
   The Eurasian lynx is often found in border areas. The aim of this project is
   to improve international cooperation for the protection of the
