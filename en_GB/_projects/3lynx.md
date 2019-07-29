@@ -121,8 +121,8 @@ This map was created in the Translynx project, but is being expanded and added t
 
 # In the media
 
-[On the Trail of the Eurasian Lynx](/news/on-the-trail-of-the-eurasian-lynx) (Article in Countryside magazine)
+[On the Trail of the Eurasian Lynx](/media/Venkov_rys_2017.pdf) (Article in Countryside magazine)
 
-[Czech Republic teams up with other countries to protect endangered lynx](/news/czech-republic-teams-up-with-other-countries-to-protect-endangered-lynx) (Radio Prague 31.8.2017: Interview about 3Lynx project with Tereza Minárikova)
+[Czech Republic teams up with other countries to protect endangered lynx](https://www.radio.cz/en/section/panorama/czechs-team-up-with-other-countries-to-protect-endangered-lynx) (Radio Prague 31.8.2017: Interview about 3Lynx project with Tereza Minárikova)
 
-[Better protection for the Eurasian lynx](/news/better-protection-for-the-eurasian-lynx) (Czech Television - Prague 1.9.2017: Project report and camera traps)
+[Better protection for the Eurasian lynx](https://www.ceskatelevize.cz/ivysilani/10118379000-udalosti-v-regionech-praha/217411000140901-udalosti-v-regionech/obsah/565395-lepsi-ochrana-pro-rysa-ostrovida) (Czech Television - Prague 1.9.2017: Project report and camera traps)
