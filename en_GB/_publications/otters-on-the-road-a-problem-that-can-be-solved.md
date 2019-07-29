@@ -7,17 +7,15 @@ authors:
   - name: Lukáš Poledník
   - name: Václav Beran
   - name: Tereza Mináriková
-type: Journal article
+type: Scientific publication
 tags:
   - Eurasian otter
-  - Publications for the experts
 journal: Protection of Nature
 year: 2017
 lang:
   - cs
 link: /media/OP_03_2017_vydry.pdf
-attachments:
-  - {}
+attachments: []
 ---
 The Eurasian otter can be found across the Czech Republic. But there are some important factors that can threaten the population. One is an increased amount of traffic on the road, which can cause mortality to individuals, especially adults. 
 
