@@ -10,7 +10,6 @@ year: 2019
 lang:
   - cs
 link: /media/ALKA výroční zpráva 2018_fin.pdf
-attachments:
-  - {}
+attachments: []
 ---
-Výroční zpráva společnosti ALKA Wildlife, o.p.s. za rok 2017. Obsahuje podrobné informace o činnosti společnosti v tomto roce.
+Výroční zpráva společnosti ALKA Wildlife, o.p.s. za rok 2018. Obsahuje podrobné informace o činnosti společnosti v tomto roce.
