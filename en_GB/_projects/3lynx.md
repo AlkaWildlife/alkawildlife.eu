@@ -58,8 +58,8 @@ contacts:
     role: Project Manager
 species: Eurasian lynx
 tags:
-  - Management
   - Eurasian lynx
+  - Research
   - Concept
   - Publicity
 countries:
