@@ -25,6 +25,7 @@ partners: >-
 
 
   [Bojnice national zoo](https://zoobojnice.sk/)
+web: 'https://syslinavinici.cz'
 contacts:
   - name: Kateřina Poledníková
 species: European souslik
@@ -35,6 +36,7 @@ tags:
 countries:
   - CZ
   - SK
+logoset: IRRVA
 description: >-
   The aim of this project is to contribute to the rescue of the souslik, across
   the Czech and Slovak republics. It will include a multitude of activities
