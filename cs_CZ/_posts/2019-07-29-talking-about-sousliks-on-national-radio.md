@@ -14,13 +14,11 @@ lang_alternatives:
 category: news
 layout: news
 ---
-# Český rozhlas Plus 
+# Český rozhlas Plus
 
-# 
+Na prvního máje jsme hledali sysly na jižní Moravě v okolí obce Jaroslavice a přímo do terénu za námi přijeli natočit reportáž z Českého rozhlasu Plus. O syslech si povídali Kateřina Poledníková a Lukáš Poledník. 
 
-On 1st May 2019, Katerina and Lukas Polednik, Director and Senior Research from ALKA Wildlife discussed monitoring populations of the critically endangered souslik whilst walking through souslik inhabited vineyards of South Moravia.
-
-The interview was subsequently broadcast on the Morning Plus programme on 13 May 2019 at 10:24. If you missed it you can catch up [here](https://program.rozhlas.cz/zaznamy#/plus/24/2019/05/13). This interview is in Czech.
+Rozhovor je možné si poslechnout z [archivu Českého rozhlasu na programu Dopolední Plus, 13.5.2019](http://bit.ly/sysliczechradio), začátek je přibližně v 10:24. 
 
 ![Photo: Hannah Findlay](/media/whatsapp-image-2019-07-29-at-17.55.52.jpeg "Katerina and Lukas Polednik discussing sousliks in the vineyards of South Moravia")
 
