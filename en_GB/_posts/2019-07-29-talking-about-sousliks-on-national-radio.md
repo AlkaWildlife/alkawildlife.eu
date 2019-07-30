@@ -18,13 +18,13 @@ layout: news
 
 On 1st May 2019, Katerina and Lukas Polednik, Director and Senior Research from ALKA Wildlife discussed monitoring populations of the critically endangered souslik whilst walking through souslik inhabited vineyards of South Moravia.
 
-The interview was subsequently broadcast on the Morning Plus programme on 13 May 2019 at 10:24. If you missed it you can catch up [here](https://program.rozhlas.cz/zaznamy#/plus/24/2019/05/13). This interview is in Czech.
+The interview was subsequently broadcast on the Morning Plus programme on 13 May 2019 at 10:24. If you missed it you can catch up [here](http://bit.ly/sysliczechradio). This interview is in Czech.
 
 ![Photo: Hannah Findlay](/media/whatsapp-image-2019-07-29-at-17.55.52.jpeg "Katerina and Lukas Polednik discussing sousliks in the vineyards of South Moravia")
 
 # Czech Radio - Radio Praha interview
 
-On 24th June 2019, Hannah Findlay, a researcher from ALKA Wildlife, was invited to Prague to talk about sousliks with Ruth XX at Czech Radio, Prague. Hannah explained what sousliks are, why they are critically endangered and how the public can help save the fragile population.
+On 24th June 2019, Hannah Findlay, a researcher from ALKA Wildlife, was invited to Prague to talk about sousliks with Ruth Fraňková at Czech Radio, Prague. Hannah explained what sousliks are, why they are critically endangered and how the public can help save the fragile population.
 
 The interview was broadcast on 9th July 2019 on Radio Praha - In Focus Programme. If you missed it, you can catch up [here](https://www.radio.cz/en/section/in-focus/young-uk-conservationist-ground-squirrels-are-great-to-work-with). This interview is in English.
 
