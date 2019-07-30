@@ -10,7 +10,7 @@ date: '2019-07-29'
 lang_alternatives:
   cs_CZ:
     permalink: /news/Talking-about-sousliks-on-national-radio
-    title: Talking about sousliks on national radio
+    title: Povídání o syslech v rádiu
 category: news
 layout: news
 ---
