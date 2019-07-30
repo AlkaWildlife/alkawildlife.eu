@@ -1,11 +1,11 @@
 ---
-title: Talking about sousliks on national radio
+title: Povídání o syslech v rádiu
 published: true
 image: /media/dscn8837_620.jpg
 listing_thumbnail: /media/dscn8837_274.jpg
 description: >-
-  We've recently discussed sousliks on Czech national radio. Missed the
-  programmes? Don't worry, you can catch up here.
+  Hned ve dvou rádiích byly vysílány reportáže o syslech. Záznamy je možné
+  poslechnout si v archivech.
 date: '2019-07-29'
 lang_alternatives:
   en_GB:
@@ -14,7 +14,9 @@ lang_alternatives:
 category: news
 layout: news
 ---
-# Czech Radio - Plus interview
+# Český rozhlas Plus 
+
+# 
 
 On 1st May 2019, Katerina and Lukas Polednik, Director and Senior Research from ALKA Wildlife discussed monitoring populations of the critically endangered souslik whilst walking through souslik inhabited vineyards of South Moravia.
 
