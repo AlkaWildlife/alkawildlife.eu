@@ -22,10 +22,10 @@ Rozhovor je možné si poslechnout z [archivu Českého rozhlasu na programu Dop
 
 ![Photo: Hannah Findlay](/media/whatsapp-image-2019-07-29-at-17.55.52.jpeg "Katerina and Lukas Polednik discussing sousliks in the vineyards of South Moravia")
 
-# Czech Radio - Radio Praha interview
+# Radio Praha 
 
-On 24th June 2019, Hannah Findlay, a researcher from ALKA Wildlife, was invited to Prague to talk about sousliks with Ruth XX at Czech Radio, Prague. Hannah explained what sousliks are, why they are critically endangered and how the public can help save the fragile population.
+Rozhovor tentokrát v angličtině si můžete poslechnout v archivu Rádia Praha, kde si o syslech povídala 24. června paní Ruth Fraňková s naší Hannah Findlay.
 
-The interview was broadcast on 9th July 2019 on Radio Praha - In Focus Programme. If you missed it, you can catch up [here](https://www.radio.cz/en/section/in-focus/young-uk-conservationist-ground-squirrels-are-great-to-work-with). This interview is in English.
+[Rozhovor byl vysílán 9. července na programu Focus](https://www.radio.cz/en/section/in-focus/young-uk-conservationist-ground-squirrels-are-great-to-work-with). 
 
 ![Photo: Ondřej Tomšů](/media/czech-radio-by-ondrej-tomsu.jpg "Hannah Findlay at Czech Radio Headquarters in Prague")
