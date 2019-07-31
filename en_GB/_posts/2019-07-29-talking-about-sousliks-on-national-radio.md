@@ -9,23 +9,23 @@ description: >-
 date: '2019-07-29'
 lang_alternatives:
   cs_CZ:
-    permalink: /news/Talking-about-sousliks-on-national-radio
+    permalink: /news/talking-about-sousliks-on-national-radio
     title: Povídání o syslech v rádiu
 category: news
 layout: news
 ---
 # Czech Radio - Plus interview
 
-On 1st May 2019, Katerina and Lukas Polednik, Director and Senior Research from ALKA Wildlife discussed monitoring populations of the critically endangered souslik whilst walking through souslik inhabited vineyards of South Moravia.
+On 1st May 2019, Kateřina Poledníková and Lukáš Poledník discussed monitoring populations of the critically endangered souslik whilst walking through souslik inhabited vineyards, near the town of Jaroslavice, South Moravia.
 
-The interview was subsequently broadcast on the Morning Plus programme on 13 May 2019 at 10:24. If you missed it you can catch up [here](http://bit.ly/sysliczechradio). This interview is in Czech.
+The interview can be heard in Czech on the [Morning Plus programme from 13 May 2019 at 10:24](http://bit.ly/sysliczechradio).
 
 ![Photo: Hannah Findlay](/media/whatsapp-image-2019-07-29-at-17.55.52.jpeg "Katerina and Lukas Polednik discussing sousliks in the vineyards of South Moravia")
 
 # Czech Radio - Radio Praha interview
 
-On 24th June 2019, Hannah Findlay, a researcher from ALKA Wildlife, was invited to Prague to talk about sousliks with Ruth Fraňková at Czech Radio, Prague. Hannah explained what sousliks are, why they are critically endangered and how the public can help save the fragile population.
+On 24th June 2019, Hannah Findlay was invited to Prague to talk about sousliks with Ruth Fraňková at Czech Radio, Prague. They discussed their status and how the public can help save the fragile population.
 
-The interview was broadcast on 9th July 2019 on Radio Praha - In Focus Programme. If you missed it, you can catch up [here](https://www.radio.cz/en/section/in-focus/young-uk-conservationist-ground-squirrels-are-great-to-work-with). This interview is in English.
+The interview can be heard in English on the [In Focus Programme from 9th July 2019](http://bit.ly/sysliradiopraha).
 
 ![Photo: Ondřej Tomšů](/media/czech-radio-by-ondrej-tomsu.jpg "Hannah Findlay at Czech Radio Headquarters in Prague")
