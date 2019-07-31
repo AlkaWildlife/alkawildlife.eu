@@ -9,7 +9,7 @@ description: >-
 date: '2019-07-29'
 lang_alternatives:
   cs_CZ:
-    permalink: /news/talking-about-sousliks-on-national-radio
+    permalink: /news/povidani-o-syslech-v-radiu
     title: Povídání o syslech v rádiu
 category: news
 layout: news
