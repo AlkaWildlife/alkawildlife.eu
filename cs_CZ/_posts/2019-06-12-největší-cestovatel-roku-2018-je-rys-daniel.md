@@ -8,6 +8,7 @@ description: >-
   připravili čeští ochranáři mnoho akcí, na kterých budou veřejnost seznamovat s
   intimními pohledy do života rysů.
 date: '2019-06-11'
+logoset: 3lynx
 lang_alternatives:
   en_GB:
     permalink: /news/the-greatest-traveler-of-2018-is-daniel
