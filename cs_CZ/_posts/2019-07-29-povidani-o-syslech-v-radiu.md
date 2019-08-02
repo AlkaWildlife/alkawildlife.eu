@@ -7,6 +7,7 @@ description: >-
   Hned ve dvou rádiích byly vysílány reportáže o syslech. Záznamy je možné
   poslechnout si v archivech.
 date: '2019-07-29'
+logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
     permalink: /news/Talking-about-sousliks-on-national-radio
@@ -22,7 +23,7 @@ Rozhovor je možné si poslechnout z [archivu Českého rozhlasu na programu Dop
 
 ![Photo: Hannah Findlay](/media/whatsapp-image-2019-07-29-at-17.55.52.jpeg "Katerina and Lukas Polednik discussing sousliks in the vineyards of South Moravia")
 
-# Radio Praha 
+# Radio Praha
 
 Rozhovor tentokrát v angličtině si můžete poslechnout v archivu Rádia Praha, kde si o syslech povídala 24. června paní Ruth Fraňková s naší Hannah Findlay.
 
