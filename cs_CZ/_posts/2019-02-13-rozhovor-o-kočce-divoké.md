@@ -6,9 +6,11 @@ listing_thumbnail: /media/cdy00039_320.jpg
 description: |2
    Rozhovor o kočce divoké povídala Tereza Mináriková v Rádiu Prague. Poslechnout si ji můžete v archivu rozhlasu.
 date: '2018-11-17'
+logoset: 3lynx
 lang_alternatives:
   en_GB:
     permalink: /news/interview-about-the-wild-cat
+    title: Interview about the wild cat
 category: news
 layout: news
 ---
