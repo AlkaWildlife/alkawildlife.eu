@@ -7,8 +7,11 @@ description: >-
   V letech 2015 a 2016 probíhalo mapování našeho největšího plcha – plcha
   velkého. Výsledky jsou kompletní.
 date: '2017-04-14'
+logoset: MGS
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/results-from-mapping-edible-dormice
+    title: Results of our dormouse mapping project
 category: news
 layout: news
 ---
@@ -27,5 +30,3 @@ Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištníc
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
 
 Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
-
-![](/media/loga_mgs_stojato_mm.jpg)
