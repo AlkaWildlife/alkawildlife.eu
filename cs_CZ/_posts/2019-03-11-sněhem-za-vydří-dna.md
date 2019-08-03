@@ -7,6 +7,7 @@ description: >-
   Metry sněhu jsme se celý lednový týden prodírali v Krušných horách za vydrami,
   přesněji za jejich genetickými vzorky. 
 date: '2019-02-05'
+logoset: SN_CZ
 lang_alternatives:
   en_GB:
     permalink: /news/snow-tracking-for-otter-dna
