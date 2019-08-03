@@ -7,6 +7,7 @@ description: >-
   Srdečně Vás zveme na setkání s plchy velkými: kontrola plchů v budkách a noční
   poslech jejich volání v lesích pod hradem Sovinec a rozhovor v pořadu Meteor.
 date: '2016-09-13'
+logoset: MGS
 lang_alternatives:
   en_GB:
     permalink: /news/looking-for-edible-dormice-in-Sovinec
@@ -43,5 +44,3 @@ Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
 Realizováno v rámci projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v České republice](/projects/rozšíření-plcha-velkého-v-čr).
 
 Projekt je realizován za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za obsah tohoto semináře je výhradně odpovědná ALKA Wildlife, o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
-
-![](/media/loga_mgs_stojato_mm.jpg)
