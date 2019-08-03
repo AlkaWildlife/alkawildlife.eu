@@ -7,6 +7,7 @@ description: >-
   Srdečně Vás zveme na další akci: procházka nočním lesem za tajemným plchem
   velkým v národním parku Podyjí. 
 date: '2016-07-05'
+logoset: MGS
 lang_alternatives:
   en_GB:
     permalink: /news/night-walk-lookin-for-dormice
@@ -35,6 +36,4 @@ Nutno s sebou: čelovou lampu nebo jiný zdroj světla
 Více o projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v ČR](/projects/rozšíření-plcha-velkého-v-čr).
 
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska. 
-Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí. 
-
-![](/media/loga_mgs_stojato_mm.jpg)
+Tato aktivita je realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
