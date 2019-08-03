@@ -8,6 +8,7 @@ description: >-
   hor a je možné se s ní potkat i na tocích v podkrušnohoří. Jak jsou na tom
   vydry v této oblasti? 
 date: '2017-11-13'
+logoset: SN_CZ
 lang_alternatives:
   en_GB:
     permalink: /new/starting-otter-research-in-krusne-hory
@@ -22,5 +23,3 @@ Hned první terénní průzkum a společné terénní setkání s odborníky z p
 Na Podmileském potoce jsme zaznamenali stopu mývala severního. Jedná se o nepůvodní severoamerický druh, který má negativní vliv na naše původní druhy. Patří mezi tzv. invazivní druhy, které je potřeba regulovat. V České republice se nachází dvě větší populace, jedna z nich právě v okolí Karlových Varů.
 
 Více se o projektu Lutra lutra dozvíte [zde](/projects/lutra-lutra.html).
-
-![](/media/spojene-loga_320.jpg)
