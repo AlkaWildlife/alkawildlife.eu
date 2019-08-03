@@ -7,6 +7,7 @@ description: >-
   V loňském a letošním roce probíhá mapování výskytu plcha velkého v České
   republice. Budeme rádi za hlášení vašich pozorování.
 date: '2016-07-15'
+logoset: MGS
 lang_alternatives:
   en_GB:
     permalink: /news/looking-for-the-edible-dormouse
@@ -39,5 +40,3 @@ Pozorování či dotazy je možné zasílat na tyto kontakty: peter.adamik@upol.
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
  Realizováno v rámci projektu [Rozšíření plcha velkého a zjištění jeho stanovištních nároků v České republice](/projects/rozšíření-plcha-velkého-v-čr).
  Projekt je realizován za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za obsah tohoto semináře je výhradně odpovědná ALKA Wildlife, o.p.s. a nelze jej v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
-
-![](/media/loga_mgs_stojato_mm.jpg)
