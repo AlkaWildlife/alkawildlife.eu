@@ -21,9 +21,6 @@ funding: >-
   životního prostředí. Za jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s.
   a nelze jej v žádném případě považovat za názor donora nebo Ministerstva
   životního prostředí.
-
-
-  ![](/media/loga_mgs_stojato_mm.jpg)
 budget: '1 145 337,60 Kč'
 from: 2015-01
 to: 2017-04
@@ -35,6 +32,7 @@ tags:
   - výzkum
 countries:
   - CZ
+logoset: MGS
 description: >-
   Cílem projektu byl podrobný, velkoplošný monitoring na území celé České
   republiky metodou poslechu vokalizace plchů v nočních hodinách. Součástí
