@@ -7,6 +7,7 @@ description: >-
   Při sledování vyder v tocích Krušných hor, jsme narazili na jinou šelmu -
   mývala.
 date: '2019-03-25'
+logoset: SN_CZ
 lang_alternatives:
   en_GB:
     permalink: /news/northern-raccoon-in-krusne-hory
@@ -27,5 +28,3 @@ _Stopa mývala severního je pětiprstá, připomíná tvarem otisk lidské ruky
 ![stopa mývala severního v písku](/media/2019_lutrlutr_260_610.jpg "stopa mýval severní")
 
 Monitoring v Krušných horách probíhá v rámci [projektu Lutra lutra](/projects/lutra-lutra.html).
-
-![](/media/spojene-loga_320.jpg)
