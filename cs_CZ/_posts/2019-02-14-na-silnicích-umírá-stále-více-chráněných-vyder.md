@@ -24,6 +24,8 @@ Odborníci si jsou problému se silnicemi vědomi, a proto u nás v současnosti
 
 „_Rádi bychom, aby se tímto problémem začali zabývat správci silnic a orgány ochrany přírody. Informace o tom, ve kterých místech vydry na silnicích umírají a kde je potřeba provést stavební či jiné úpravy, jsme proto zveřejnili v on-line mapové aplikaci_ [_www.vydrynasilnici.cz_](http://www.vydrynasilnici.cz) _doufáme, že lepší informovanost o tomto problému povede i k jeho efektivnímu řešení_“ uzavírá Kateřina Poledníková. 
 
+
+
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
 
 Tato akce byla realizována za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za její obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor donora nebo Ministerstva životního prostředí.
