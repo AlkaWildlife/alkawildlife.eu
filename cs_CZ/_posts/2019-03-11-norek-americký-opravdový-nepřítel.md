@@ -5,8 +5,11 @@ image: /media/img_5677.jpg
 listing_thumbnail: /media/img_5677_274.jpg
 description: V časopise Živa (2018/5) vyšel souhrnný článek o norkovi americkém.
 date: '2018-10-20'
+logoset: IRRVA
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/american-mink-a-real-enemy
+    title: American mink - a real enemy?
 category: news
 layout: news
 ---
