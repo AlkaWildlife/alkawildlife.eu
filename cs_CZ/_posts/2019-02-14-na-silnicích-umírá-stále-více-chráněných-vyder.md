@@ -6,8 +6,11 @@ description: >-
   Silniční doprava stále více ohrožuje chráněné vydry říční. Ročně je nalezeno
   kolem padesáti takto uhynulých zvířat a jejich počet stále stoupá. 
 date: '2016-05-03'
+logoset: MGS
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/more-and-more-protected-otters-are-dying-on-the-roads
+    title: More and more protected otters are dying on the roads
 category: news
 layout: news
 ---
@@ -19,9 +22,7 @@ Stříbrná Skalice, Jelení u Bruntálu, Trstěnice u Moravského Krumlova, Sla
 
 Odborníci si jsou problému se silnicemi vědomi, a proto u nás v současnosti probíhá intenzivní kontrola vybraných úseků a míst, kde vydry na silnicích uhynuly. Takto vzniká mapa rizikových míst pro vydru říční v celé ČR. Z kontrol těchto míst vyplývá, že v 83 % je reálné silnici či její okolí upravit tak, aby k dalším úmrtím nedocházelo. „_Často se jedná o velmi drobné úpravy či investice, například pročištění existujícího propustku pod silnicí nebo instalaci dřevěné lávky či betonové lavice v podmostí_“ upřesňuje Kateřina Poledníková. 
 
-„_Rádi bychom, aby se tímto problémem začali zabývat správci silnic a orgány ochrany přírody. Informace o tom, ve kterých místech vydry na silnicích umírají a kde je potřeba provést stavební či jiné úpravy, jsme proto zveřejnili v on-line mapové aplikaci _[_www.vydrynasilnici.cz_](http://www.vydrynasilnici.cz)_ doufáme, že lepší informovanost o tomto problému povede i k jeho efektivnímu řešení_“ uzavírá Kateřina Poledníková. 
-
-![](/media/loga_mgs_stojato_100.jpg)
+„_Rádi bychom, aby se tímto problémem začali zabývat správci silnic a orgány ochrany přírody. Informace o tom, ve kterých místech vydry na silnicích umírají a kde je potřeba provést stavební či jiné úpravy, jsme proto zveřejnili v on-line mapové aplikaci_ [_www.vydrynasilnici.cz_](http://www.vydrynasilnici.cz) _doufáme, že lepší informovanost o tomto problému povede i k jeho efektivnímu řešení_“ uzavírá Kateřina Poledníková. 
 
 Podpořeno grantem z Islandu, Lichtenštejnska a Norska.
 
