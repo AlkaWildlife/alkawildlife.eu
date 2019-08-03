@@ -12,9 +12,6 @@ funding: >-
   za finanční podpory EHP fondů 2009-2014 a Ministerstva životního prostředí. Za
   jeho obsah je výhradně odpovědná ALKA Wildlife,o.p.s. a nelze jej v žádném
   případě považovat za názor donora nebo Ministerstva životního prostředí.
-
-
-  ![](/media/loga_mgs_stojato_mm.jpg)
 budget: '1 095 440,88 Kč'
 from: 2015-02
 to: 2017-04
@@ -32,6 +29,7 @@ tags:
   - výzkum
 countries:
   - CZ
+logoset: MGS
 description: 'Příprava záchranného programu pro raroha velkého v České republice. '
 ---
 # Zaměření projektu
