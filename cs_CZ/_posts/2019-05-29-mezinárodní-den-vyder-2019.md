@@ -5,8 +5,11 @@ image: /media/vydra-ricni-9012_610.jpg
 listing_thumbnail: /media/vydra-ricni-9012_274.jpg
 description: Oslavte s námi Mezinárodní den vyder.
 date: '2019-05-29'
+logoset: SN_CZ
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/world-otter-day-2019
+    title: World otter day 2019
 category: news
 layout: news
 ---
