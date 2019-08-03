@@ -7,8 +7,11 @@ description: >-
   Pořad Planetárium v sobotu 28. 4. 2017 od 18:05 odvysílal rozhovor s Václavem
   Beranem o vydrách a o projektu Lutra lutra.
 date: '2018-04-29'
+logoset: SN_CZ
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/o-projektu-lutra-lutra-v-českém-rozhlase
+    title: 'Václav Beran discusses our project, Lutra Lutra, on Czech Radio'
 category: news
 layout: news
 ---
