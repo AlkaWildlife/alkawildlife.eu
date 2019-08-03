@@ -8,9 +8,6 @@ funding: >-
 
   Program na podporu přeshraniční spolupráce mezi Českou republikou a Svobodným
   státem Sasko 2014–2020
-
-
-  ![](/media/spojene-loga_610.jpg)
 from: 2017-10
 to: 2020-09
 partners: "[AG Naturschutzinstitut Region Dresden e.V.](https://nsi-dresden.nabu-sachsen.de/) (vedoucí partner)\r\n\n[Alka Wlidlife o. p. s \r](www.alkawildlife.eu)\n\n[Muzeum města Ústí nad Labem ](http://www.muzeumusti.cz/)"
@@ -23,6 +20,7 @@ tags:
   - výzkum
 countries:
   - CZ
+logoset: SN_CZ
 description: Výzkumný projekt týkající se vydry říční v Krušných horách a podkrušnohoří.
 ---
 [Vydra říční ](/zajmove-druhy/vydra-ricni)je šelma, která se po desítkách let navrací do naší přírody. Vydry ke svému životu potřebují zdravý vodní ekosystém - čistou vodu, ryby v tocích, obojživelníky v tůních a vegetaci podél břehů, která jim zajistí klid. Vydry mají poměrně velké teritorium a díky tomu hodně putují krajinou. Pro fungování celé populace je také potřeba, aby jednotliví jedinci mohli se sousedy komunikovat, aby mladé zvířata mohly putovat a najít si nové teritorium. Proto je velmi potřeba, aby vhodné prostředí bylo propojeno a bez výrazných bariér, které by je svedly na silnici či do intravilánu měst. Jak jsou na tom vydry v Krušných horách a přilehlého podhůří? Jsou toky v Krušných horách pro vydry izolované či mohou vydry přecházet z Čech do Saska, z horských toků dolů na hlavní toky Ohři a Labe přes krajinu povrchových hnědouhelných dolů, kde z řek vznikly silně znečištěné kanály na odtok vody. Odkud se vydry do Krušných hor vrátily? Z jižních Čech či z přilehlého Saska? Jaké jsou zde rizikové faktory pro jejich další život? Je možné rizikové faktory a kritická místa upravit a vydrám zajistit lepší budoucnost? A kdo by to mohl udělat? Na tyto otázky bychom chtěli odpovědět v rámci projektu Lutra lutra. 
