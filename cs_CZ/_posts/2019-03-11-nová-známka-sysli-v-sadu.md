@@ -7,9 +7,11 @@ description: >-
   Vytvořili jsme novou známku „Sysli v sadu“ a hned máme i prvního sadaře a
   první meruňky!
 date: '2018-06-20'
-logoset: IRRVA
+logoset: IRRVA_MZP
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: /news/new-souslik-trademark-souslik-friendly-orchard
+    title: 'New souslik trademark - "Souslik friendly orchard" '
 category: news
 layout: news
 ---
