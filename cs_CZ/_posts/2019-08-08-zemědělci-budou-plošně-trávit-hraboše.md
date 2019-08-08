@@ -22,6 +22,4 @@ Rozhodnutí najdete [ZDE](http://eagri.cz/public/web/file/630375/Stutox_II_nariz
 
 Přečtěte si tiskovou zprávu ČSO k tomuto tématu:
 
-## ****[**Zemědělci budou plošně trávit hraboše. Zahynout mohou sovy, dravci i čáp_i_**](https://www.birdlife.cz/zemedelci-budou-plosne-travit-hrabose/)**__**
-
-__
+## [Zemědělci budou plošně trávit hraboše. Zahynout mohou sovy, dravci i čápi](https://www.birdlife.cz/zemedelci-budou-plosne-travit-hrabose/)
