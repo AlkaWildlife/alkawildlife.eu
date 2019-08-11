@@ -9,7 +9,9 @@ description: >-
 date: '2019-08-08'
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: >-
+      https://en.alkawildlife.eu/news/farmers-have-been-given-permission-to
+      eradicate-voles-with-poison 
     title: Zemědělci budou plošně trávit hraboše!
 category: news
 layout: news
