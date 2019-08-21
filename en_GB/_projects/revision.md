@@ -4,7 +4,7 @@ published: true
 subtitle: >-
   Measures to mitigate the impact of invasive animals in Western Slovakia and
   South Moravia
-registration_no: NFP304020D187
+registration_no: 304021D187
 funding: >-
   Programme: [Interreg V-A Slovak Republic/Czech
   Republic](https://www.sk-cz.eu/sk/)
@@ -53,6 +53,7 @@ tags:
 countries:
   - CZ
   - SK
+logoset: IRRVA
 description: >-
   This project addresses the influence of invasive mammals including American
   mink, Northern raccoon, Raccoon dog and Coypu on water dwelling bird colonies
