@@ -24,7 +24,7 @@ tags:
   - norek americký
   - publikace pro odbornou veřejnost
 journal: 'Parasitology International '
-year: 2016
+year: 2015
 lang: en
 link: >-
   https://www.vydryonline.cz/media/parasitology_2016_1-s2.0-S1383576915001919-main.pdf
