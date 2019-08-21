@@ -4,7 +4,7 @@ published: true
 public: true
 authors:
   - name: 'ALKA Wildlife, o.p.s.'
-type: Annual report
+type: Annual Report
 publisher: 'ALKA Wildlife, o.p.s'
 year: 2019
 lang:
