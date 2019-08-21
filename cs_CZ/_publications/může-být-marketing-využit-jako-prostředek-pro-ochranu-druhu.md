@@ -15,8 +15,9 @@ journal: Fórum ochrany přírody
 year: 2017
 lang:
   - cs
-link: /media/11_marketing_ochrana_druhu.pdf
-attachments:
-  - {}
+link: /media/11-muze-byt-marketing-vyuzit-jako-prostredek-pro-ochranu-druhu.pdf
+attachments: []
 ---
+# Úvod
+
 Publikace shrnuje vývoj známky Sysli na vinici a hodnotí pozitiva a negativa tohoto nástroje v ochraně ohroženého druhu živočicha.
