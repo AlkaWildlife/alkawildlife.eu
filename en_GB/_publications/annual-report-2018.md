@@ -12,4 +12,4 @@ lang:
 link: /media/ALKA výroční zpráva 2018_fin.pdf
 attachments: []
 ---
-Annual Report of ALKA Wildlife, o.p.s. for 2017. Contains detailed information about the company’s activities this year.
+Annual Report of ALKA Wildlife, o.p.s. for 2018. Contains detailed information about the company’s activities this year.
