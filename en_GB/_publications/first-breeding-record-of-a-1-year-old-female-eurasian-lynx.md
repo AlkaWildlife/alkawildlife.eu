@@ -16,7 +16,7 @@ tags:
   - Publications for experts
 publisher: ''
 journal: European Journal of Wildlife Research
-year: 2016
+year: 2019
 lang: en
 link: 'https://link.springer.com/article/10.1007%2Fs10344-019-1256-8'
 attachments: []
