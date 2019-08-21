@@ -4,7 +4,8 @@ published: true
 public: true
 authors:
   - name: 'ALKA Wildlife, o.p.s.'
-type: Annual report
+type: Annual Report
+tags: []
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2008
 lang:
