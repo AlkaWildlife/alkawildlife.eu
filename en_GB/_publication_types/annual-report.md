@@ -1,5 +1,5 @@
 ---
-title: Annual report
+title: Annual Report
 position: 7
 ---
 
