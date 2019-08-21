@@ -15,6 +15,7 @@ journal: Nature Conservation Forum
 year: 2014
 lang:
   - cs
+link: /media/11-muze-byt-marketing-vyuzit-jako-prostredek-pro-ochranu-druhu.pdf
 attachments: []
 ---
 # Summary
