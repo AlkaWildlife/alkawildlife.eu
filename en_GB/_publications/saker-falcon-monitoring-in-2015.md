@@ -25,7 +25,6 @@ year: 2016
 lang:
   - cs
 link: /media/Raroh_SOVDS_2016.pdf
-attachments:
-  - {}
+attachments: []
 ---
-Monitoring of the Saker falcon (Falco cherrug) in 2015 took place across the well-known area of its distribution in the Czech Republic: South Moravia, Olomouc, Moravian-Silesian, Pardubice and Central Bohemian. Nine occupied territories were proved, six breeding pairs were registered with only one pair unsuccessful.
+Saker falcon (Falco cherrug) monitoring took place in 2015 across the well-known area of its distribution in the Czech Republic: South Moravia, Olomouc, Moravian-Silesian, Pardubice and Central Bohemian. Nine occupied territories were proved, six breeding pairs were registered with only one pair unsuccessful.
