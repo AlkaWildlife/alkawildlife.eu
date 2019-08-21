@@ -10,7 +10,7 @@ funding: >-
   Republic](https://www.sk-cz.eu/sk/)
 
 
-  Together without boarders
+  Together without borders
 
 
   ![](/media/logo_irrva_bilyokraj_610.jpg)
