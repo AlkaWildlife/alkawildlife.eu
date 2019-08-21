@@ -21,5 +21,3 @@ attachments: []
 # Summary
 
 This publication summarises the development of the 'Souslik friendly vineyard' trademark and evaluates the positives and negatives of this tool in relation to the overall protection of this endangered species.
-
-![]()
