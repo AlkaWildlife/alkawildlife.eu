@@ -17,13 +17,13 @@ funding: >-
 budget: |-
   Contribution from European Regional Development Fund: €63,490.44
 
-  Contribution from the state budget of the Czech Republic: €3,734.73
+  Contribution from Czech state budget: €3,734.73
 from: 2018-02
 to: 2020-01
 partners: |-
   [Slovak Ornithological Society](http://www.vtaky.sk/) (main Slovak partner)
 
-  [Krok Kyjov, z.ú.](http://www.oskrok.cz/) (main cross-boarder partner)
+  [Krok Kyjov, z.ú.](http://www.oskrok.cz/) (main cross-border partner)
 
   [ALKA Wildlife, o.p.s.](https://www.alkawildlife.eu) (main Czech partner)
 
@@ -55,21 +55,21 @@ countries:
   - SK
 logoset: IRRVA
 description: >-
-  This project addresses the influence of invasive mammals including American
+  This project addresses the influence of invasive mammals such as American
   mink, Northern raccoon, Raccoon dog and Coypu on water dwelling bird colonies
-  and birds nesting on islands, especially terns and seagulls. We monitor three
-  localities in South Moravia: Věstonická Reservoir Nature Reserve, NPR Lednické
-  Ponds National Nature Reserve and Mutěnické Ponds.
+  and birds nesting on islands. Three South Moravian localities are monitored:
+  Věstonická Reservoir Nature Reserve, NPR Lednické Ponds National Nature
+  Reserve and Mutěnické Ponds.
 ---
 # Project details
 
-The REVISION project builds on previous monitoring of invasive animals and the management of bird islands in the Czech and Slovak Republic's cross-border areas, which has been implemented in the past years as part of the NEOVISION and NEOVISION II projects. 
+The REVISION project builds on a previous invasive mammal monitoring and bird island management project in the Czech and Slovak Republic's cross-border areas. It was implemented in the past years as the NEOVISION and NEOVISION II projects. 
 
-The aim of the project is to re-evaluate the current status of selected invasive animals, namely the American mink, Northern raccoon, Raccoon dog and Coypu, actively catch them and reduce their status to protect our native species, especially colonies of waterfowl nesting on islands in the nature reserves. 
+The aim of the project is to re-evaluate the current status of selected invasive animals, namely the American mink, Northern raccoon, Raccoon dog and Coypu. The project sets out to actively catch the invasive animals to reduce their status and in turn, protect our native species such as colonies of waterfowl nesting on islands in the nature reserves. 
 
-On the Czech side there are three localities in South Moravia: Věstonická nádrž PR (nature reserve), Lednické rybníky NPR (national nature reserve) and Mutěnice rybníky.
+This project is focussed on three localities in South Moravia: Věstonická nádrž PR (nature reserve), Lednické rybníky NPR (national nature reserve) and Mutěnice rybníky.
 
-In terms of protection of indigenous species, some invasive species are becoming more and more problematic. This also applies to project areas where some invasive species are rapidly spreading, with a proven negative impact. For example, the fish population has fallen by 70% in Hrušovské zdrži, part of the Slovakian Danube, in the last 5 years, with the main cause clearly the American mink.
+Some invasive species are becoming more and more problematic, endangering indigenous species. For example, the fish population in Hrušovské zdrži, part of the Slovakian Danube, has fallen by 70% in the last 5 years, due to the increased numbers of American mink.
 
 ![](/media/dscn6156_600.jpg "Úprava raftu pro monitoring stop invazních savců")
 
