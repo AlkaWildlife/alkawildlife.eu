@@ -36,7 +36,7 @@ a také na webu MŽP: [Stanovisko MŽP k dnešnímu jednání odborníků k povo
 
 vyjádření Asociace soukromých zemědělců: [ASZ ČR: K hubení hrabošů je nutné přednostně použít jiné prostředky než chemii](https://www.asz.cz/cs/aktualne-z-asz/asz-cr-k-hubeni-hrabosu-je-nutne-prednostne-pouzit-jine-prostredky-nez-chemii.html)
 
-
+****
 
 **22.8.2019 bylo potvrzeno, že dva čápi bílí byli otráveni Stutoxem:**
 
@@ -44,7 +44,7 @@ Web ČSO: [Jed na hraboše otrávil na Opavsku čápy bílé](https://www.birdli
 
 Web ČT: [Dva čápy na Opavsku zabil jed, který se používá na hubení hrabošů](<https://ct24.ceskatelevize.cz/regiony/2903126-dva-capy-na-opavsku-zabil-jed-ktery-se-pouziva-na-hubeni-hrabosu#utm_content=freshnews&utm_term=stutox čápi&utm_medium=hint&utm_source=search.seznam.cz>)
 
-
+****
 
 **Viděli jste granule na poli či jste objevili živočicha s podezřením na otravu?**
 
