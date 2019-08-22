@@ -34,6 +34,8 @@ více na webu ČSO: [Plošná aplikace jedu na hraboše se ruší. Odborníci se
 
 a také na webu MŽP: [Stanovisko MŽP k dnešnímu jednání odborníků k povolení plošné aplikace přípravku Stutox II na zemědělskou půdu ](https://www.mzp.cz/cz/news_190812_hraboši_sutox_plošný_zákaz)
 
+vyjádření Asociace soukromých zemědělců: [ASZ ČR: K hubení hrabošů je nutné přednostně použít jiné prostředky než chemii](https://www.asz.cz/cs/aktualne-z-asz/asz-cr-k-hubeni-hrabosu-je-nutne-prednostne-pouzit-jine-prostredky-nez-chemii.html)
+
 
 
 **22.8.2019 bylo potvrzeno, že dva čápi bílí byli otráveni Stutoxem:**
