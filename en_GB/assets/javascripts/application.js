@@ -38,7 +38,7 @@ $(document).ready(function() {
   var searchResults = jQuery(".search-results")
 
   if (searchResults.length) {
-    var key   = "AIzaSyBH1nx-CRXMc7Ea-2FUWgCogLEiczGjnHU",
+    var key   = "AIzaSyBIaBFr7Jr8UjP2jdogkyiguV61paPiC34",
         cx    = "017192023017850555155:jn79xmqw5vm",
         query = getParameterByName("searchword")
 
