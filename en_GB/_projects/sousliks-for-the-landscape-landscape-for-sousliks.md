@@ -25,7 +25,7 @@ partners: >-
 
 
   [Bojnice national zoo](https://zoobojnice.sk/)
-web: 'https://syslinavinici.cz'
+web: 'https://en.syslinavinici.cz'
 contacts:
   - name: Kateřina Poledníková
 species: European souslik
