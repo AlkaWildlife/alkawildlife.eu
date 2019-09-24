@@ -11,7 +11,7 @@ logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
     permalink: 'https://en.alkawildlife.eu/'
-    title: 'Výměnný pobyt se syslem '
+    title: Summer camp learning about ground squirrels
 category: news
 layout: news
 ---
