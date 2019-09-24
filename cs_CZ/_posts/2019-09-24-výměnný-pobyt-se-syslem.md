@@ -10,7 +10,7 @@ date: '2019-09-24'
 logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: /news/summer-camp-learning-about-ground-squirrels
     title: Summer camp learning about ground squirrels
 category: news
 layout: news
