@@ -16,7 +16,7 @@ lang_alternatives:
 category: news
 layout: news
 ---
-# Summer camp for children from SK/CZ
+# Summer camp for children from CZ/SK
 
 Watch our short video featuring the different activities the children got up to across the Czech Republic and Slovakia. Photos from Matěj Klementa.
 
