@@ -7,6 +7,7 @@ description: >-
   We've recently discussed sousliks on Czech national radio. Missed the
   programmes? Don't worry, you can catch up here.
 date: '2019-07-29'
+logoset: IRRVA_MZP
 lang_alternatives:
   cs_CZ:
     permalink: /news/povidani-o-syslech-v-radiu
