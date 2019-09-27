@@ -14,6 +14,6 @@ lang_alternatives:
 category: news
 layout: news
 ---
-Sledování syslů dostává novou dimenzi! Problém, jak spočítat sysly v jedné kolonii teď budeme řešit pomocí umělé inteligence. Jak a proč to budeme dělat a kdo nám s tím pomáhá se můžete dočíst na webu Microsoftu.
+Sledování syslů dostává novou dimenzi! Problém, jak spočítat sysly v jedné kolonii teď budeme řešit pomocí umělé inteligence. Jak a proč to budeme dělat a kdo nám s tím pomáhá se můžete dočíst na webu Microsoftu:
 
 [Na sysly s drony, fotopastmi a umělou inteligencí](https://news.microsoft.com/cs-cz/features/na-sysly-s-drony-fotopastmi-a-umelou-inteligenci/?fbclid=IwAR0yyuU-rK4i1LSIGnwc08x20ZIulhsyBkLCMATG0f09uDD_FiKPoJm72Og)
