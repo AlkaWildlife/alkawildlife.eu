@@ -1,5 +1,5 @@
 ---
-title: 'Na sysly s drony, fotopastmi a umělou inteligencí'
+title: Na sysly s umělou inteligencí
 published: true
 image: /media/img_0110_610.jpg
 listing_thumbnail: /media/img_0110_274.jpg
