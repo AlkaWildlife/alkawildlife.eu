@@ -72,7 +72,9 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 [Začínáme výzkum vyder v Krušných horách a podkrušnohoří](/news/začínáme-výzkum-vyder-v-krušných-horách)
 
-# O projektu v médiích
+# V médiích
+
+[Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
 
 [Rozhovor s Václavem Beranem v Českém rozhlase](https://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
 
