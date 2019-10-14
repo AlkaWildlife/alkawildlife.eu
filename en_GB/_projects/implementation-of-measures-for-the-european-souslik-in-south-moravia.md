@@ -37,6 +37,7 @@ tags:
   - Education
 countries:
   - CZ
+logoset: IRRVA_MZP
 description: >-
   This project, based in South Moravia, focused on four key measures of health
   care for the European souslik: monitoring beyond the scope of regular annual
@@ -58,19 +59,17 @@ The project focused on South Moravia for two reasons:
 1. South Moravia has so far received little attention under the recuse programme. As parts of the area are difficult to align within the framework and standard monitoring methodology, which is more suitable for clear areas such as airports, the monitoring conducted in this area is insufficient.
 2. Due to the nature of land use (functional agricultural landscape) and the distance to the main area of ​​European sousliks (Slovakia, Austria and further south and east), thus the possibilities of creating a functional meta-population, the area of ​​South Moravia is one of the most favourable areas for the souslik in the Czech Republic. In recent years, it now seems that this area could be absolutely crucial for maintaining their population in the Czech Republic.
 
+**Further information on this project can be found** [**here**](https://en.syslinavinici.eu/project/implementation-of-measures)**.**
+
 # Project outputs
 
-## Trademark 
+## **Trademarks -** _**Sysli na vinici**_
 
-**_"Souslik friendly vineyard"_**
+Our trademark, supporting winemakers with sousliks on their land, is further supported within this project. Further information can be found [here](/souslik-stamp).
 
-We created the trademark "_Souslik friendly vineyard"_ which is registered with the Industrial Property Office. It is granted to winemakers who have sousliks in their vineyard.
+## **Website -** [**_syslinavinici.cz_**](www.syslinavinici.cz)
 
-## Website 
-
-## _****_[_**www.syslinavinici.cz**_](www.syslinavinici.cz)_****_
-
-We have created a website containing information about sousliks, further information about our trademark, information about our winemakers, news, articles, TV reports and more. 
+Our website, containing information about sousliks, further information about our trademark, information about our winemakers, news, articles, TV reports and more, is further supported within this project.
 
 ## Flyers
 
