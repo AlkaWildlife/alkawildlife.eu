@@ -1,5 +1,5 @@
 ---
-title: 'Sousliks for the landscape, landscape for the Sousliks'
+title: 'Sousliks for the landscape, landscape for sousliks'
 published: true
 subtitle: Monitoring and supporting the population of Sousliks in South Moravia
 funding: >-
@@ -38,13 +38,12 @@ countries:
   - SK
 logoset: IRRVA
 description: >-
-  The aim of this project is to contribute to the rescue of the souslik, across
-  the Czech and Slovak republics. It will include a multitude of activities
+  The aim of this project is to contribute to the rescue of sousliks across the
+  Czech Republic and Slovakia. It will include a multitude of activities
   including: monitoring species in known areas, identifying new areas for
   potential colonies, improving the environment for the sousliks, providing
-  education and further understanding of the need to protect the sousliks to
-  local landowners and villages and target visitors to souslik regions to
-  promote their conservation.
+  education to local landowners,villages and target visitors to souslik regions
+  to promote their protection and conservation.
 ---
 # Project aims
 
