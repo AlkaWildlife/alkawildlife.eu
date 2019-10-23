@@ -30,4 +30,4 @@ Více o sokolovi si můžete přečíst v těchto [našich publikacích](/public
 
 # Projekty
 
-Více o realizovaných projektech zaměřených na raroha velkého [zde](/projects#category=raroh-velk%C3%BD).
+Více o realizovaných projektech zaměřených na sokol stěhovavý [zde](/projects#category=raroh-velk%C3%BD).
