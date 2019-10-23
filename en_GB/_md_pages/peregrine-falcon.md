@@ -22,7 +22,7 @@ It is a medium to large sized bird, body length ranging from 38 to 51cm. The fem
 
 It hunts from the air and is renowned for its high speed, reaching over 320km/h during hunting dives!
 
-# FOOD 
+# FOOD
 
 Peregrine falcons feed mainly on small to medium sized birds such as pigeons and songbirds, which are caught in the air. They often hunt at dusk and dawn and like the Saker falcon, will pluck their prey before eating.
 
@@ -33,3 +33,11 @@ The Peregrine Falcon has always been of great interest to humans, with interacti
 Whilst a native species to the Czech Republic, in the 20th century the number of falcons significantly changed. After 1900, the nesting population was estimated to be as little as 20-30 pairs. Following the implementation of protection plans in the 1920s, however, the number of falcons increased and reached its peak at the end of the 1940s, when the population was estimated to be around 50–60 pairs. Unfortunately, in the 1960s, there was a sudden shift and falcons were infrequently nesting Bohemia, and in some years, not at all (Hudec et al, 1977). The decline of the Peregrine in the Czech Republic was undoubtedly, directly related to their worldwide collapse. Following the ban on the use of DDT-containing substances, the implementation of strict protection and the launch of active species promotion programs, a positive impact was made and from the 1980s the falcon population gradually returned to its historic breeding grounds. Following these measures, observations of peregrines started to occur again in the Czech Republic and subsequently, they started to nest here again. This positive trend will only continue if we maintain the strict conservation methods put in place. 
 
 Currently, the main threats to the falcon are power lines, disturbances in nesting sites due to hiking and mountaineering, illegal chick poaching, direct persecution and release of offspring and unwanted crossbreeds from falconry into the wild.
+
+# Literature
+
+You can read more about the Peregrine falcon on our publications page [here](/publications).
+
+# Projects
+
+We have some long-term projects involving Peregrine falcons which you can read about [here](/projects#category=peregrine-falcon).
