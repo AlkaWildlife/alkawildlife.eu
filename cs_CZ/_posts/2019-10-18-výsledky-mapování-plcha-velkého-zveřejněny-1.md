@@ -9,8 +9,8 @@ description: >-
 date: '2019-10-18'
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
-    title: Výsledky mapování plcha velkého zveřejněny
+    permalink: 'https://en.alkawildlife.eu/news/edible-dormouse-mapping-published'
+    title: Edible dormouse mapping published
 category: news
 layout: news
 ---
