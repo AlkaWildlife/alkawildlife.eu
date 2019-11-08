@@ -62,6 +62,4 @@ Slovenská republika: chrenkova@daphne.sk (tel. +421 917 256 577)
 
 13: 00 – 14:30 Záchranný program pro sysla obecného v ČR
 
-
-
-**Více informací na** [**www.syslinavinici.cz**](/news/konference-sysli-pro-krajinu-krajina-pro-sysly)****
+**Více informací na** [**www.syslinavinici.cz**](https://www.syslinavinici.cz/news/konference-sysli-pro-krajinu-krajina-pro-sysly)
