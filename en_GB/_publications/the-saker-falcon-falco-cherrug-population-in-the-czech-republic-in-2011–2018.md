@@ -1,12 +1,18 @@
 ---
 title: The Saker Falcon (Falco cherrug) population in the Czech Republic in 2011–2018
 published: true
+public: true
+authors:
+  - name: Vlasta Škorpíková
+  - name: David Horal
+  - name: Václav Beran
+  - name: Gašpar Čamlík
 type: Scientific publication
 tags:
   - Saker falcon
   - Publications for experts
 journal: Ornis Hungarica
-year: 2019
+year: 2018
 lang:
   - cs
 link: /media/2017_Heliaca_online_10_TheSakerpopulationintheCzech.pdf
