@@ -1,5 +1,5 @@
 ---
-title: Fourteen new Peregrine falcon chicks are born on power plants towers
+title: Fourteen Peregrine falcon chicks are born on power plant towers
 published: true
 image: /media/první-odvážlivec_610.jpg
 listing_thumbnail: /media/první-odvážlivec_274.jpg
