@@ -1,7 +1,7 @@
 ---
 title: 'Lafarge Cement, Čížkovice.'
 published: true
-permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/cementarna-cizkovice
+permalink: /projects/peregrine-falcon-on-industrial-sites/cementarna-cizkovice
 long_title: 'Falcons at the cement plant, Čížkovice.'
 description: Two falcon nest boxes were placed on the chimney of the cement plant in 2012.
 position: 3
