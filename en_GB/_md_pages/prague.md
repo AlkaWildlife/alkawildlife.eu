@@ -1,7 +1,7 @@
 ---
 title: Prague
 published: true
-permalink: /projects/peregrine-falcon-on-industrial-sites/prague
+permalink: /projects/peregrine-falcons-in-industrial-areas/prague
 long_title: Falcons in Prague
 description: >-
   Together with the Czech Ornithological Society, nest boxes for falcons living
