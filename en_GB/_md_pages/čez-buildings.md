@@ -1,7 +1,7 @@
 ---
 title: ČEZ buildings
 published: true
-permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-CEZ
+permalink: /projects/peregrine-falcon-on-industrial-sites/CEZ-buildings
 long_title: Falcons at ČEZ buildings
 position: 1
 layout: two_columns_page
