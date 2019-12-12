@@ -1,7 +1,7 @@
 ---
 title: Chempark Záluží
 published: true
-permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/chempark-zaluzi
+permalink: /projects/peregrine-falcon-on-industrial-sites/chempark-zaluzi
 image: /media/sokol_unipetrol.png
 long_title: Falcons in Chempark Záluží
 description: >-
