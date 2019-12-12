@@ -1,15 +1,48 @@
 ---
-title: Peregrine Falcon on industrial sites
+title: Peregrine falcons in industrial areas
 published: true
-funding: Privately funded
+funding: >-
+  Falconry monitoring and installation of nesting boxes for falcons in
+  industrial areas of the Czech Republic can be financed from various sources:
+
+
+  ## **Monitoring**
+
+
+  Monitoring of the Peregrine falcon in urban and industrial environment
+  completed under a programme funded by the Ministry of the Environment (the
+  project does not have to express the MoE opinions). 
+
+
+  In other years the monitoring of falcons has been financed through own funds
+  or by individual companies where the nestboxes were installed, see below.
+
+
+  ## **Installation of nesting boxes**
+
+
+  The purchase and installation of nest boxes is usually financed by the owner
+  of the building: ČEZ a.s. / CEZ Foundation / Unipetrol RPA s.r.o. / Lafarge
+  Cement a.s. / United Energy a.s. / Škoda Energo a.s. / AGC processing Teplice
+  a.s. / Thermo Decin a.s. / Spolana a.s. / MVV Energie CZ / Prague Heating
+  Plant / Zevo Malešice Prague
 from: 2010-01
+to: 2019-12
 contacts:
-  - name: ''
+  - email: vaclav.beran@alkawildlife.eu
+    name: Václav Beran
+    tel_primary: '731407839'
+species: Peregrine falcon
+area: Czech Republic
 tags:
   - Peregrine falcon
   - Management
+  - Research
 countries:
   - CZ
+description: >-
+  Long-term monitoring and support of falcons nesting on buildings - mostly on
+  the chimneys of industrial sites
 ---
 ![](/media/sokol_budějovice.jpg)
 
@@ -29,6 +62,40 @@ The first nest box was installed at the Tušimice power plant in 2010 and severa
 
 ![](/media/cesta-nahoru-3.jpg "Monitoring of nest boxes")
 
-Occupancy of nest boxes, nesting success, numbers of chicks fledged, ringing of parents and chicks alongside other details of the peregrines occupying the nest boxes are monitored every year. Since 2016, the online monitoring of the breeding process will be running at one of CEZ's buildings.
+Occupancy of nest boxes, nesting success, numbers of chicks fledged, ringing of parents and chicks alongside other details of the peregrines occupying the nest boxes are monitored every year. Since 2016, the online monitoring of the breeding process has be running at one of CEZ's buildings.
 
 ![](/media/bráškové-a-sestřička-s-kroužky.jpg)
+
+# Summary articles on nesting of falcons in industrial areas
+
+[2015: tzb-info.cz: Chimneys of heating plants help in saving the Peregrine Falcon](https://energetika.tzb-info.cz/teplarenstvi/13022-kominy-teplaren-pomahaji-pri-zachrane-sokola-stehovaveho) (Czech)
+
+[2015: moderniobec.cz: Heating plant chimneys help rare predators](https://www.moderniobec.cz/kominy-teplaren-pomahaji-vzacnym-dravcum/) (Czech)
+
+[2014: tzb-info.cz: Chimneys of heating plants save the population of the endangered Peregrine falcon](https://www.tzb-info.cz/rozhovory-komentare/11572-kominy-teplaren-zachranuji-populaci-ohrozeneho-sokola-stehovaveho) (Czech)
+
+[2011: Nature Protection magazine 1/2011: Return of the Peregrine falcon](/media/OP_8-11.pdf) (Czech)
+
+# Locations
+
+[Objekty ČEZ](/projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-CEZ)
+
+[Chempark Záluží](/projects/sokol-stehovavy-v-prumyslovych-arealech/chempark-zaluzi)
+
+[Cementárna Čížkovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/cementarna-cizkovice)
+
+[Teplárna Komořany](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-komorany)
+
+[Teplárna v Mladé Boleslavi](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-boleslav)
+
+[Sklárna Teplice](/projects/sokol-stehovavy-v-prumyslovych-arealech/sklarna-teplice)
+
+[Teplárna v Děčíně](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-decin)
+
+[Spolana Neratovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/spolana-neratovice)
+
+[Teplárna v Liberci](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-liberec)
+
+[Teplárna České Budějovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-budejovice)
+
+[Prague](/projects/sokol-stehovavy-v-prumyslovych-arealech/praha)
