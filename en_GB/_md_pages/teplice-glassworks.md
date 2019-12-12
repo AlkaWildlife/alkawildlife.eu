@@ -1,7 +1,7 @@
 ---
 title: Teplice Glassworks
 published: true
-permalink: /projects/peregrine-falcon-on-industrial-sites/teplice-glassworks
+permalink: /projects/peregrine-falcons-in-industrial-areas/teplice-glassworks
 long_title: Falcons at AGC Glassworks Teplice
 position: 6
 layout: two_columns_page
