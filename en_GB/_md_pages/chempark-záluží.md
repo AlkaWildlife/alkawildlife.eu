@@ -1,7 +1,7 @@
 ---
 title: Chempark Záluží
 published: true
-permalink: /projects/peregrine-falcon-in-industrial-areas/chempark-zaluzi
+permalink: /projects/peregrine-falcons-in-industrial-areas/chempark-zaluzi
 image: /media/sokol_unipetrol.png
 long_title: Falcons in Chempark Záluží
 description: >-
@@ -18,7 +18,7 @@ lang_alternatives:
 
 Two nest boxes were installed on the T700 heating plant and ethylene unit chimneys at Chempark Záluží, a Unipetrol RPA site. The area seems to be large enough for falcons as surprisingly, two pairs of couples regularly nest here, despite their territorial nature. There have been three successful nesting years and a total of 15 chicks.
 
-**Media reports:**
+**Media reports (in Czech):**
 
 [2018: tyden.cz: Na komínech chemičky se vylíhlo pět sokolích mláďat](https://www.tyden.cz/rubriky/relax/zvirata/na-kominech-chemicky-se-vylihlo-pet-sokolich-mladat_484272.html)
 
