@@ -78,17 +78,17 @@ Occupancy of nest boxes, nesting success, numbers of chicks fledged, ringing of 
 
 # Locations
 
-[Objekty ČEZ](/projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-CEZ)
+[ČEZ Buildings](https://en.alkawildlife.eu/projects/peregrine-falcons-in-industrial-areas/CEZ-buildings)
 
-[Chempark Záluží](/projects/sokol-stehovavy-v-prumyslovych-arealech/chempark-zaluzi)
+[Chempark Záluží](/projects/peregrine-falcons-in-industrial-areas/chempark-zaluzi)
 
-[Cementárna Čížkovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/cementarna-cizkovice)
+[Lafarge Cement, ](/projects/peregrine-falcons-in-industrial-areas/cementarna-cizkovice)[Čížkovice](/projects/peregrine-falcons-in-industrial-areas/cementarna-cizkovice)
 
-[Teplárna Komořany](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-komorany)
+[United Energy](/projects/peregrine-falcons-in-industrial-areas/united-energy)
 
-[Teplárna v Mladé Boleslavi](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-boleslav)
+[ŠKO Energy](/projects/peregrine-falcons-in-industrial-areas/sko-energy)
 
-[Sklárna Teplice](/projects/sokol-stehovavy-v-prumyslovych-arealech/sklarna-teplice)
+[Teplice Glassworks](/projects/peregrine-falcons-in-industrial-areas/teplice-glassworks)
 
 [Teplárna v Děčíně](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-decin)
 
