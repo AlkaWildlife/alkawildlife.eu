@@ -1,7 +1,7 @@
 ---
 title: ČEZ buildings
 published: true
-permalink: /projects/peregrine-falcon-on-industrial-sites/CEZ-buildings
+permalink: /projects/peregrine-falcons-in-industrial-areas/CEZ-buildings
 image: /media/snidane_elektrarna_ledvice.jpg
 long_title: Falcons at ČEZ buildings
 position: 1
@@ -11,15 +11,15 @@ lang_alternatives:
     title: Objekty ČEZ
     permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-CEZ
 ---
-**Funded by:** ČEZ from 2015 - 2018.
+The project was supported by ČEZ from 2015 - 2018.
 
 ![](/media/nadacecez__svetletransparentni_300.png)
 
-**Locations:** Tušimice Power Plant, Počerady Power Plant, Prunéřov Power Plant, Tisová Power Plant, Dukovany Nuclear Power Plant, Mělník Power Plant, Trmice Heating Plant, Ledvice Power Plant
+Locations: Tušimice Power Plant, Počerady Power Plant, Prunéřov Power Plant, Tisová Power Plant, Dukovany Nuclear Power Plant, Mělník Power Plant, Trmice Heating Plant, Ledvice Power Plant
 
 On cooling towers and chimneys, across 8 different locations, 10 falcon nest boxes have been installed. The first nest boxes installed on industrial premises in the Czech Republic were at Tušimice power plant, back in 2011. The last nest boxes were put up at the Dukovany nuclear power plant in 2015. Altogether, 66 peregrine chicks have hatched from these boxes!
 
-**Media reports (in Czech):**
+## Media reports (in Czech):
 
 [2017: tisková zpráva ČEZ: Elektrárna Počerady se v průběhu pěti let stala rodištěm už devíti sokolích mláďat ](https://www.cez.cz/cs/pro-media/tiskove-zpravy/5861.html)
 
