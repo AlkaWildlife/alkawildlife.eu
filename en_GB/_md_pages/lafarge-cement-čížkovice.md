@@ -1,7 +1,7 @@
 ---
 title: 'Lafarge Cement, Čížkovice.'
 published: true
-permalink: /projects/peregrine-falcon-in-industrial-areas/cementarna-cizkovice
+permalink: /projects/peregrine-falcons-in-industrial-areas/cementarna-cizkovice
 long_title: Falcons at the Čížkovice cement plant.
 description: Two falcon nest boxes were placed on the chimney of the cement plant in 2012.
 position: 3
@@ -16,7 +16,7 @@ lang_alternatives:
 
 Two nest boxes were placed on the chimney of the cement plant in 2012. It wasn't until 2015 that falcons managed to successfully nest and bring up chicks here. Since then, however, one pair has been regularly and successfully nesting here.
 
-**Media reports:**
+**Media reports (in Czech):**
 
 [2017: lafarge.cz: Na komíně v Čížkovicích se i letos vylíhla sokolí mláďata](https://www.lafarge.cz/na_komn_v_kovicch_se_i_letos_vylhla_sokol_mlata)
 
