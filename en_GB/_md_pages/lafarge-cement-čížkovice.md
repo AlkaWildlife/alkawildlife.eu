@@ -1,5 +1,5 @@
 ---
-title: 'Lafarge Cement, Čížkovice.'
+title: 'Lafarge Cement, Čížkovice'
 published: true
 permalink: /projects/peregrine-falcons-in-industrial-areas/cementarna-cizkovice
 long_title: Falcons at the Čížkovice cement plant.
