@@ -10,8 +10,10 @@ lang_alternatives:
     title: Sklárna Teplice
     permalink: /projects/sokol-stehovavy-v-prumyslovych-arealech/sklarna-teplice
 ---
-Financing: AGC processing Teplice, a.s.
+**Funded by:** AGC processing Teplice, a.s.
 
-One booth was installed in 2014. In 2015 the nestbox was occupied by a kestrel pair but in 2016 a falcon pair finally nested there. 
+Back in 2014, one nest box was installed at the Teplice glassworks. Then in 2015 it was home to a kestrel pair but in 2016, finally, a falcon pair nested there. 
 
-In the media: 2016: denik.cz: Falcons nested in AGC Teplice glassworks in Řetenice
+**Media reports (in Czech):**
+
+2016: [denik.cz: Falcons nesting in AGC Teplice glassworks in Řetenice](https://www.alkawildlife.eu/admin/V%20Zdroj:%20https://teplicky.denik.cz/zpravy_region/v-teplicke-sklarne-agc-v-retenicich-zahnizdili-sokoli-20160508.html)
