@@ -1,7 +1,7 @@
 ---
-title: 'Teplárna Liberec, Inc.'
+title: Liberec heating plant
 published: true
-permalink: /projects/peregrine-falcons-in-industrial-areas/teplarna
+permalink: /projects/peregrine-falcons-in-industrial-areas/liberec
 long_title: Peregrine nest boxes at the Liberec heating plant
 description: >-
   In 2015, two nest boxes were installed on Liberec heating plants 132.5m high
