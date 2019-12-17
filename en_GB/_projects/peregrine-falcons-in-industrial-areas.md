@@ -90,12 +90,12 @@ Occupancy of nest boxes, nesting success, numbers of chicks fledged, ringing of 
 
 [Teplice Glassworks](/projects/peregrine-falcons-in-industrial-areas/teplice-glassworks)
 
-[Teplárna v Děčíně](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-decin)
+[Děčíně heating plant](/projects/peregrine-falcons-in-industrial-areas/decin)
 
-[Spolana Neratovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/spolana-neratovice)
+[Spolana Chemical Factory](/projects/peregrine-falcons-in-industrial-areas/spolana)
 
-[Teplárna v Liberci](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-liberec)
+[Liberec heating plant](/projects/peregrine-falcons-in-industrial-areas/liberec)
 
-[Teplárna České Budějovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-budejovice)
+[České Budějovice heating plant](/projects/peregrine-falcons-in-industrial-areas/ceske-budejovice)
 
 [Prague](/projects/sokol-stehovavy-v-prumyslovych-arealech/praha)
