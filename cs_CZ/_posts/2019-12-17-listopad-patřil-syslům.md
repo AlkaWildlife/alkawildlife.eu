@@ -1,6 +1,6 @@
 ---
 title: Listopad patřil syslům
-published: true
+published: false
 image: /media/img_3578.jpg
 listing_thumbnail: /media/img_3578_274.jpg
 description: >-
