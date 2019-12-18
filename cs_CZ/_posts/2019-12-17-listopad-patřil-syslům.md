@@ -35,3 +35,5 @@ Zkušenosti z praxe a výsledky výzkumu je nutné sdílet. Proto byla na konci 
 ![účastníci konference Sysli pro krajinu, krajina pro sysly](/media/dscn3633.jpg "účastníci konference Sysli pro krajinu, krajina pro sysly")
 
 Moc bychom chtěli poděkovat všem, kdo se podíleli na těchto aktivitách. Je motivující vidět, kolik lidí je ochotno něčím přispět. Každý se může podílet na tom, aby naše krajina vypadala a fungovala lépe, abychom zachránili naše původní druhy a ekosystémy. Každý to může dělat v rámci svých možností a schopností. Každý má možnost se přidat.
+
+Akce proběhly v rámci projektů [Sysli pro krajinu, krajina pro sysly - Monitoring a podpora sysla obecného na jižní Moravě II](https://www.alkawildlife.eu/projects/sysli-pro-krajinu-krajina-pro-sysly).
