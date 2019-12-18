@@ -7,6 +7,7 @@ description: >-
   Na konci listopadu proběhne ve Velkých Pavlovicích konference zaměřená na
   sysly.
 date: '2019-11-08'
+logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
     permalink: 'https://en.alkawildlife.eu'
