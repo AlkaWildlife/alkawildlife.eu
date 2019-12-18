@@ -7,6 +7,7 @@ description: >-
   Ač sysli v listopadu spí hluboko pod zemí, nad zemí se toho pro ně dělo v
   listopadu moc. 
 date: '2019-12-17'
+logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
     permalink: 'https://en.alkawildlife.eu/'
