@@ -108,6 +108,14 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 
 # Aktuality
 
+[Listopad patřil syslům](https://www.alkawildlife.eu/news/listopad-patřil-syslům)
+
+[Konference Sysli pro krajinu, krajina pro sysly](https://www.alkawildlife.eu/news/konference-sysli-pro-krajinu-krajina-pro-sysly)
+
+[Výměnný pobyt se syslem](https://www.alkawildlife.eu/news/výměnný-pobyt-se-syslem)
+
+[Povídání o syslech v rádiu](https://www.alkawildlife.eu/news/povidani-o-syslech-v-radiu)
+
 [Infostánek se syslem v Pavlovicích](/news/infostánek-se-syslem-v-pavlovicích)
 
 [Česko Slovensko hledá sysly ](/news/česko-slovensko-hledá-sysly)
