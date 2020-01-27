@@ -65,4 +65,6 @@ V rámci projektu bude pokračovat komunikace a spolupráce s majiteli pozemků/
 
 [Sborník abstraktů konference](/media/Sbornik_abstraktu_konference_sysli.pdf) 
 
+[Brožura Sysli pro krajinu, krajina pro sysly](/media/Brozura_sysel_CZ_final.pdf)
+
 #
