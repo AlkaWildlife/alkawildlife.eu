@@ -18,9 +18,9 @@ tags:
   - sysel obecný
   - výzkum
   - osvěta
-  - management
 countries:
   - CZ
+logoset: MZP
 description: >-
   Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla
   obecného na jižní Moravě. Dílčími cíli jsou 1.sledování stavu vybraných
