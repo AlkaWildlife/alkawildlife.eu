@@ -24,3 +24,5 @@ lang: cs
 link: 'https://www.vydryonline.cz/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf'
 ---
 Brožura o sběr nalezených uhynulých vyder v České republice, jak se sbírají a proč a také o analýzách kadáverů - jaké analýzy s těly a tkáněmi se provádí a jaké výsledky se zjistily.
+
+V případě zájmu zašleme tištěnou brožuru, i více kusů pro distribuci. K dispozici jsou zdarma.
