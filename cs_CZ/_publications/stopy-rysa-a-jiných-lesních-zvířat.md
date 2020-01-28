@@ -16,9 +16,8 @@ year: 2015
 lang:
   - cs
 link: /media/ALKA_stopy_rysa_web.pdf
-attachments:
-  - {}
+attachments: []
 ---
-Rys ostrovid se vrací do naší přírody. Po letech, kdy byl na našem území vyhuben, začal opět obývat klidnější oblasti českých a moravských hor.Žije skrytě, aktivní je převážně v noci, a tak jeho přítomnost v daném území poznáme často jen podle zanechaných pobytových znaků. Na sněhové pokrývce či jiném měkkém podkladu můžeme nalézt jeho stopy. Na základě porovnání stop a další pobytových znaků jako jsou trus, moč, škrábance na stromech či rysí kořist jsme schopni prokázat přítomnost
+Rys ostrovid se vrací do naší přírody. Po letech, kdy byl na našem území vyhuben, začal opět obývat klidnější oblasti českých a moravských hor.Žije skrytě, aktivní je převážně v noci, a tak jeho přítomnost v daném území poznáme často jen podle zanechaných pobytových znaků. Na sněhové pokrývce či jiném měkkém podkladu můžeme nalézt jeho stopy. Na základě porovnání stop a další pobytových znaků jako jsou trus, moč, škrábance na stromech či rysí kořist jsme schopni prokázat přítomnost šelmy v daném území.Publikace slouží k určení stop rysa ostrovida a pro rozlišení hlavních skupin druhů zvířat, které je možné u nás v lese potkat.
 
-šelmy v daném území.Publikace slouží k určení stop rysa ostrovida a pro rozlišení hlavních skupin druhů zvířat, které je možné u nás v lese potkat.
+V případě zájmu zašleme tištěnou brožuru, i více kusů pro distribuci. K dispozici jsou zdarma.
