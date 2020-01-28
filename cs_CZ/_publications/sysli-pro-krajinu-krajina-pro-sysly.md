@@ -19,4 +19,4 @@ link: /media/Brozura_sysel_CZ_final.pdf
 ---
 Brožura popisuje základní biologii a ekologii sysla obecného, jak jej poznat, současný stav jeho populací, legislativní status a aktivity k posílení populací sysla včetně správného managementu. 
 
-V případě zájmu zašleme brožuru, i více brožur pro distribuci. K dispozici jsou zdarma.
+V případě zájmu zašleme tištěnou brožuru, i více kusů pro distribuci. K dispozici jsou zdarma.
