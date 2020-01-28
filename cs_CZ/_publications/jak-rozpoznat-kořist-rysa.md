@@ -21,9 +21,18 @@ year: 2014
 lang:
   - cs
 link: /media/alka_translynx_korist_verze_final.pdf
-attachments:
-  - {}
+attachments: []
 ---
-Rys ostrovid žije skrytě, aktivní je převážně v noci, a tak jeho přítomnost v daném území poznáme často jen podle přítomnosti stržené kořisti. Ne každá mršina nalezená v lese je ale rysí úlovek. Může se jednat o zvíře stržené psem, zastřelené nebo uhynulé z přirozených příčin. Objektivně posoudit, zda se jedná o rysí kořist, není vůbec snadné. 
+Rys ostrovid žije skrytě, aktivní je převážně v noci, a tak jeho
+ přítomnost v daném území poznáme často jen podle přítomnosti
+ stržené kořisti. Ne každá mršina nalezená v lese je ale rysí úlovek.
+ Může se jednat o zvíře stržené psem, zastřelené nebo uhynulé
+ z přirozených příčin. Objektivně posoudit, zda se jedná o rysí kořist,
+ není vůbec snadné. 
 
-Příručka Jak rozpoznat rysí kořist je určená všem, které zajímá, jestli nalezenou mršinu ulovil rys, ale také těm, kteří chtějí pomoci s monitoringem rysa ostrovida na našem území.
+Příručka Jak rozpoznat rysí kořist je určená všem, které
+ zajímá, jestli nalezenou mršinu ulovil rys, ale také těm, kteří
+ chtějí pomoci s monitoringem rysa ostrovida na našem
+ území.
+
+V případě zájmu zašleme tištěnou brožuru, i více kusů pro distribuci. K dispozici jsou zdarma.
