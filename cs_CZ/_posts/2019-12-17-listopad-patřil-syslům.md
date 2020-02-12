@@ -10,8 +10,8 @@ date: '2019-12-17'
 logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
-    title: Listopad patřil syslům
+    permalink: news/november-was-dedicated-to-sousliks
+    title: November was dedicated to sousliks
 category: news
 layout: news
 ---
