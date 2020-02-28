@@ -1,8 +1,8 @@
 ---
 title: 107 rysů česko-bavorsko-rakouské populace
 published: true
-image: /media/_s9p9076_ondrej-prosickyotoc_610.jpg
-listing_thumbnail: /media/_s9p9076_ondrej-prosickyotoc_274.jpg
+image: /media/s9p9076_ondrej-prosickyotoc_610.jpg
+listing_thumbnail: /media/s9p9076_ondrej-prosickyotoc_274.jpg
 description: >-
   Na rozloze 13 000 km2 žije 107 samostatných rysů. Přibližně třetinu z nich
   tvoří novopečené matky doprovázené koťaty. Výsledky této doposud
