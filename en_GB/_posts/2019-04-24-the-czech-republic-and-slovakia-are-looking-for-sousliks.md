@@ -1,5 +1,5 @@
 ---
-title: With Slovaks we are looking for sousliks
+title: The Czech Republic and Slovakia are looking for sousliks
 published: true
 image: /media/dscn7300_610.jpg
 listing_thumbnail: /media/dscn7300_274.jpg
@@ -9,7 +9,9 @@ description: >-
   begin. 
 date: '2019-04-24'
 lang_alternatives:
-  cs_CZ: {}
+  cs_CZ:
+    permalink: 'https://www.alkawildlife.eu/news/Cesko-slovensko-hleda-sysly'
+    title: Česko Slovensko hledá sysly
 category: news
 layout: news
 ---
