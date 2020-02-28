@@ -38,7 +38,7 @@ Největší hrozbou pro tuto populaci zůstává i nadále pytláctví, kvůli k
 
 „_Výsledky z rysího roku 2017 jsou první svého druhu, právě probíhající analýza dat z dalšího rysího roku nám proto pomůže zpřesnit odhad vývoje celé populace. Výsledky zveřejníme již za několik měsíců. Jisté ale je, že česko-bavorsko-rakouská rysí populace zůstává vysoce ohrožená a její efektivní ochrana není možná bez dobré spolupráce všech tří zemí_,“ uzavírá Poláková. 
 
-![Výskyt rysa ostrovida v roce 2017](/media/mapa-tz.jpg "Výskyt rysa ostrovida v roce 2017")
+![Výskyt rysa ostrovida v roce 2017](/media/distribution-ly17_final_cut_610.jpg "Výskyt rysa ostrovida v roce 2017")
 
 _Mapa rozšíření česko-bavorsko-rakouské populace rysa ostrovida v rysím roce 2017. Červeně kvadráty, kde byl rys potvrzen pomocí tzv. SCALP C1 dat (nejkvalitnější data – fotka z fotopasti, mrtvé zvíře nebo DNA vzorek). Modře kvadráty, kde byl rys potvrzen pomocí C2 dat (středně kvalitní data - rysí stopa nebo kořist zdokumentovaná fotograficky). Prázdné kvadráty byly sledovány pomocí fotopastí, rys zde ale zaznamenán nebyl._ 
 
