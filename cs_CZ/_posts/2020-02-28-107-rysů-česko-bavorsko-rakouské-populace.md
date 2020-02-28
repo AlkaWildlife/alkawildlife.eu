@@ -1,6 +1,6 @@
 ---
 title: 107 rysů česko-bavorsko-rakouské populace
-published: false
+published: true
 image: /media/_s9p9076_ondrej-prosickyotoc_610.jpg
 listing_thumbnail: /media/_s9p9076_ondrej-prosickyotoc_274.jpg
 description: >-
@@ -18,7 +18,9 @@ lang_alternatives:
 category: news
 layout: news
 ---
-**Na rozloze 13 000 km2 žije 107 samostatných rysů. Přibližně třetinu z nich tvoří novopečené matky doprovázené koťaty. Výsledky této doposud nejpodrobnější a nejpřesnější studie právě zveřejnila mezinárodní skupina odborníků z projektu 3Lynx. Díky nim máme lepší představu o tom, jak se daří rysům na Šumavě.**
+TISKOVÁ ZPRÁVA MINISTERSTVA ŽIVOTNÍHO PROSTŘEDÍ A ALKAWILDLIFE, O.P.S.
+
+**Lidéřovice 28.2.2020: Na rozloze 13 000 km2 žije 107 samostatných rysů. Přibližně třetinu z nich tvoří novopečené matky doprovázené koťaty. Výsledky této doposud nejpodrobnější a nejpřesnější studie právě zveřejnila mezinárodní skupina odborníků z projektu 3Lynx. Díky nim máme lepší představu o tom, jak se daří rysům na Šumavě.**
 
 Rys ostrovid je naše největší kočkovitá šelma. V České republice, Německu i Rakousku patří k přísně chráněným ohroženým druhům, chrání ho samotné členské země i evropská legislativa. Česko-bavorsko-rakouská rysí populace se pohybuje na rozmezí těchto tří států a obývá tak rozsáhlé území od Dunaje na jihu až po Brdy, Český les na severu a část Vysočiny. Pro svou nízkou početnost a izolovanost od ostatních rysích populací je považována za vysoce ohroženou. 
 
@@ -39,4 +41,18 @@ Největší hrozbou pro tuto populaci zůstává i nadále pytláctví, kvůli k
 
 „_Výsledky z rysího roku 2017 jsou první svého druhu, právě probíhající analýza dat z dalšího rysího roku nám proto pomůže zpřesnit odhad vývoje celé populace. Výsledky zveřejníme již za několik měsíců. Jisté ale je, že česko-bavorsko-rakouská rysí populace zůstává vysoce ohrožená a její efektivní ochrana není možná bez dobré spolupráce všech tří zemí_,“ uzavírá Poláková. 
 
+
+
+![Výskyt rysa ostrovida v roce 2017](/media/mapa-tz.jpg "Výskyt rysa ostrovida v roce 2017")
+
+_Mapa rozšíření česko-bavorsko-rakouské populace rysa ostrovida v rysím roce 2017. Červeně kvadráty, kde byl rys potvrzen pomocí tzv. SCALP C1 dat (nejkvalitnější data – fotka z fotopasti, mrtvé zvíře nebo DNA vzorek). Modře kvadráty, kde byl rys potvrzen pomocí C2 dat (středně kvalitní data - rysí stopa nebo kořist zdokumentovaná fotograficky). Prázdné kvadráty byly sledovány pomocí fotopastí, rys zde ale zaznamenán nebyl._ 
+
+
+
 Projekt **3Lynx** běží od léta 2017 a je financován programem Interreg Central Europe. Přímo se jej účastní 11 partnerů z 5 zemí (ČR, Německo, Rakousko, Itálie, Slovinsko). Participují na něm jak státní orgány (MŽP, Správa Národního parku Šumava, Agentura ochrany přírody a krajiny ČR, Bavorská agentura ochrany životního prostředí, vláda Horního Rakouska, Slovenia Forest Service), tak vědecké instituce (Veterinární univerzita ve Vídni). Důležitými partnery jsou i nevládní organizace jako Alka Wildlife, WWF Germany, Italian Lynx Project a Green Heart of Europe. Do monitoringu rysa se v roce 2017 zapojilo krom partnerských organizací i Hnutí DUHA a Národní park Bavorský les. Na stránkách[ https://www.interreg-central.eu/Content.Node/cesky.html](https://www.interreg-central.eu/Content.Node/cesky.html) můžete průběžně sledovat informace o postupu projektu.
+
+
+
+![rys Luděk](/media/i__00022.jpg "rys Luděk")
+
+_Každý rys má unikátní zbarvení. Fotografie z fotopasti proto umožňuje sledovat výskyt jednotlivých jedinců. Na snímku kocour Luděk._
