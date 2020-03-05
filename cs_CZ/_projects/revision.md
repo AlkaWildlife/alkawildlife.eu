@@ -76,3 +76,5 @@ norek americký.
 [Norek americký - opravdový nepřítel?](/publications/norek-americký-opravdový-nepřítel.html) (článek v časopise Živa)
 
 [Jižní Morava své ptactvo chrání ](https://www.ceskatelevize.cz/porady/1095970013-chcete-me/220562221300006/video/751994) (reportáž v pořadu Chcete mě? České Televize)
+
+[DATABÁZE INVAZNÍCH DRUHŮ SAVCŮ ](http://aves.vtaky.sk/sk/viewDfs)(online databáze výsledků monitoringu invazních druhů savců, včetně prezentace výsledků v mapách)
