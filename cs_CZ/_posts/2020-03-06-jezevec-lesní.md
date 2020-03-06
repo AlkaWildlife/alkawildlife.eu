@@ -2,6 +2,7 @@
 title: Jezevec lesní
 published: true
 image: /media/rft07_00041_lednicke_hlohovecky.jpg
+gallery: /projects/revision
 lang_alternatives:
   en_GB:
     permalink: www.alkawildlife.eu
