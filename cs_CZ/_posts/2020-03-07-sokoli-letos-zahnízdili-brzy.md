@@ -17,11 +17,9 @@ layout: news
 ---
 TISKOVÁ ZPRÁVA SKUPINY ČEZ
 
+# Jedna vlaštovička sice jaro ještě nedělá, sokolí pár v Počeradech ovšem ano
 
-
-# Jedna vlaštovička sice jaro ještě nedělá, sokolí pár v Počeradech ovšem ano; samice pochází z jižního Německa a už sedí na třech vejcích!
-
-
+ 
 
 **Počerady, 2. března 2020 – Opravdu veliké překvapení čekalo v pondělí 2. března na ornitologa Václava Berana během jeho první letošní návštěvy Elektrárny Počerady. Původně lezl k sokolí budce na ochozu jednoho z komínů pouze kvůli výměně fotopasti, místo ticha promíseného lehkým šumem větru ho však uvítal rozzlobený křik sokolí samice. A to nebylo vše, dáma je kroužkovaná a navíc již seděla na třech vejcích.**
 
