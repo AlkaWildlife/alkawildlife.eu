@@ -10,7 +10,7 @@ date: '2020-03-07'
 logoset: Nadace ČEZ
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: /
     title: Sokoli letos zahnízdili brzy
 category: news
 layout: news
