@@ -9,7 +9,7 @@ description: >-
 date: '2019-09-27'
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: /
     title: 'Na sysly s drony, fotopastmi a umělou inteligencí'
 category: news
 layout: news
