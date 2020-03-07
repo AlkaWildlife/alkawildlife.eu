@@ -7,16 +7,22 @@ long_title: Sokoli na objektech ČEZ
 description: Na objektech firmy ČEZ a.s. je instalováno již 10 hnízdních budek.
 position: 1
 layout: two_columns_page
+logoset: Nadace ČEZ
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: ČEZ buildings
+    permalink: >-
+      https://en.alkawildlife.eu/projects/peregrine-falcons-in-industrial-areas/cez-buildings
 ---
-Projektu podpořil ČEZ a.s.,  v letech 2015 - 2018 Nadace ČEZ 
+**Projekt podporuje: Skupina ČEZ a Nadace ČEZ** 
 
-![](/media/nadacecez__svetletransparentni_300.png)
+Vedení elektráren, potažmo i celé společnosti podporuje zahnízdění sokola stěhovavého finančně, umožňuje bezproblémový vstup do provozu a výstupy na komín, po odletu sokolů zajišťuje vyčištění budek. Nadace ČEZ pomáhá finančně. 
 
-Lokality: Elektrárna Tušimice, elektrárna Počerady, elektrárna Prunéřov, elektrárna Tisová, jaderná elektrárna Dukovany, Elektrárna Mělník, , teplárna Trmice, elektrárna Ledvice
+**Lokality:** Elektrárna Tušimice, Elektrárna Počerady, Elektrárny Prunéřov, Elektrárna Ledvice,  Elektrárna Mělník,  Elektrárna Poříčí, Elektrárna Dětmarovice, jaderné elektrárny Dukovany a Temelín, Teplárna  Trmice a areál Energotrans - Třeboradice
 
-Na objektech firmy ČEZ a.s. je instalováno již 10 hnízdních budek, některé na chladících věžích, některé na komínech. V elektrárně Tušimice to byly první budky v ČR vyvěšené na průmyslových objektech, a to už v roce 2011. Spolupráce pokračovala dlouhodobě, jako poslední byly vyvěšeny budky v roce 2015 na komín v jaderné elektrárně Dukovany. Celkem již bylo v těchto budkách vyvedeno 66 mláďat sokola stěhovavého!
+Na objektech firmy ČEZ a.s. je instalováno již 10 hnízdních budek, některé na chladících věžích, některé na komínech. V elektrárně Tušimice to byly první budky v ČR vyvěšené na průmyslových objektech, a to už v roce 2011. Spolupráce pokračovala dlouhodobě, jako poslední byly vyvěšeny budky v roce 2015 na komín v jaderné elektrárně Dukovany. **Celkem již bylo v těchto budkách vyvedeno 83 mláďat sokola stěhovavého.**
+
+****
 
 ## Články v médiích
 
