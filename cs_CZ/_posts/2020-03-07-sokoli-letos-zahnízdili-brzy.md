@@ -7,6 +7,7 @@ description: >-
   Veliké překvapení čekalo na Václava Berana u hnízdní budky: rozzlobený křik
   sokolí samice. 
 date: '2020-03-07'
+logoset: Nadace ČEZ
 lang_alternatives:
   en_GB:
     permalink: 'https://en.alkawildlife.eu/'
