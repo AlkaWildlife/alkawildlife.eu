@@ -10,7 +10,7 @@ date: '2019-12-17'
 logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
-    permalink: news/november-was-dedicated-to-sousliks
+    permalink: /news/november-was-dedicated-to-sousliks
     title: November was dedicated to sousliks
 category: news
 layout: news
