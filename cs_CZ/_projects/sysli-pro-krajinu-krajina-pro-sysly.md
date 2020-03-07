@@ -125,3 +125,25 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 [Nová známka sysli v sadu](/news/nová-známka-sysli-v-sadu)
 
 [Infostánek se syslem ve Hnanicích](/news/infostanek-se-syslem-ve-hnanicich)
+
+
+
+# Výsledky/Výstupy projektu
+
+[Omalovánky sysel ](/media/sysel_omalovanky_fin.pdf)(materiál pro děti; pdf formát, možno stáhnout a vytisknout)
+
+[Pexeso sysel ](/media/sysel_pexeso.pdf)(materiál pro děti; pdf formát, možno stáhnout a vytisknout)
+
+[Poznávací hra s kvízem ](/media/sysel_kviz.pdf)(materiál pro děti; pdf formát, možno stáhnout a vytisknout)
+
+[Syslí rok](https://www.youtube.com/watch?v=1XOhmTshwes&t=32s) (výukové video pro děti uložené na youtube kanále, na vyžádání zašleme video v plném rozlišení)
+
+[Můj soused sysel](/media/Sysel_vystava_prezentace.pdf) (ukázkové pdf fotografické putovní výstavy, obrazy je možné dočasně zapůjčit)
+
+[Online mapa](http://mapa.syslinavinici.cz) (online mapová aplikace obsahuje údaje o výskytu sysla v ČR a SR)
+
+[Pomozte nám jej zachránit!](/media/Sysli_letak_2018_final.pdf) (informační leták; v případě zájmu zašleme k distribuci)
+
+[Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web_s.pdf) (informační brožura; v případě zájmu zašleme k distribuci)
+
+[Sborník abstraktů](/media/Sbornik_abstraktu_konference_sysli.pdf) (publikace - sborník abstraktů projektové konference Sysli pro krajinu, krajina pro sysly)
