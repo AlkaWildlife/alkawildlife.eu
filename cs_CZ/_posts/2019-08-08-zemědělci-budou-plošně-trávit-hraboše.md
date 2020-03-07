@@ -9,7 +9,7 @@ description: >-
 date: '2019-08-08'
 lang_alternatives:
   en_GB:
-    permalink: '/news/farmers-have-been-given-permission-to eradicate-voles-with-poison '
+    permalink: /news/farmers-have-been-given-permission-to-eradicate-voles-with-poison
     title: Zemědělci budou plošně trávit hraboše!
 category: news
 layout: news
