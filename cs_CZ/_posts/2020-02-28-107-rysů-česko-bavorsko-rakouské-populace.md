@@ -10,7 +10,7 @@ date: '2020-02-28'
 logoset: 3lynx
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: /
     title: 107 lynx in BBA population
 category: news
 layout: news
