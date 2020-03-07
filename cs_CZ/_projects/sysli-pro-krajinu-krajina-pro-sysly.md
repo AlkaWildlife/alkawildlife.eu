@@ -136,14 +136,14 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 
 [Poznávací hra s kvízem ](/media/sysel_kviz.pdf)(materiál pro děti; pdf formát, možno stáhnout a vytisknout)
 
-[Syslí rok](https://www.youtube.com/watch?v=1XOhmTshwes&t=32s) (výukové video pro děti uložené na youtube kanále, na vyžádání zašleme video v plném rozlišení)
+[Video Syslí rok](https://www.youtube.com/watch?v=1XOhmTshwes&t=32s) (výukové video pro děti uložené na youtube kanále, na vyžádání zašleme video v plném rozlišení)
 
-[Můj soused sysel](/media/Sysel_vystava_prezentace.pdf) (ukázkové pdf fotografické putovní výstavy, obrazy je možné dočasně zapůjčit)
+[Výstava Můj soused sysel](/media/Sysel_vystava_prezentace.pdf) (ukázkové pdf fotografické putovní výstavy, obrazy je možné dočasně zapůjčit)
 
 [Online mapa](http://mapa.syslinavinici.cz) (online mapová aplikace obsahuje údaje o výskytu sysla v ČR a SR)
 
-[Pomozte nám jej zachránit!](/media/Sysli_letak_2018_final.pdf) (informační leták; v případě zájmu zašleme k distribuci)
+[Leták Pomozte nám jej zachránit!](/media/Sysli_letak_2018_final.pdf) (informační leták; v případě zájmu zašleme k distribuci)
 
-[Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web_s.pdf) (informační brožura; v případě zájmu zašleme k distribuci)
+[Brožura Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web_s.pdf) (informační brožura; v případě zájmu zašleme k distribuci)
 
-[Sborník abstraktů](/media/Sbornik_abstraktu_konference_sysli.pdf) (publikace - sborník abstraktů projektové konference Sysli pro krajinu, krajina pro sysly)
+[Sborník abstraktů konference](/media/Sbornik_abstraktu_konference_sysli.pdf) (publikace - sborník abstraktů projektové konference Sysli pro krajinu, krajina pro sysly)
