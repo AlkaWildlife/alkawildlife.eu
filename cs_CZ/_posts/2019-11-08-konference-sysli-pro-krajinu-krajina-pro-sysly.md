@@ -10,8 +10,8 @@ date: '2019-11-08'
 logoset: IRRVA_MZP
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu'
-    title: 'Konference Sysli pro krajinu, krajina pro sysly'
+    permalink: /news/sousliks-for-the-landscape-landscape-for-sousliks-project-conference
+    title: 'Sousliks for the landscape, landscape for souslik project conference'
 category: news
 layout: news
 ---
