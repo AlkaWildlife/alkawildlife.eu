@@ -1,6 +1,6 @@
 ---
 title: Sokoli letos zahnízdili brzy
-published: false
+published: true
 image: /media/p3021087_610.jpg
 listing_thumbnail: /media/p3021087_274.jpg
 description: >-
