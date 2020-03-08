@@ -20,9 +20,9 @@ Vedení elektráren, potažmo i celé společnosti podporuje zahnízdění sokol
 
 **Lokality:** Elektrárna Tušimice, Elektrárna Počerady, Elektrárny Prunéřov, Elektrárna Ledvice,  Elektrárna Mělník,  Elektrárna Poříčí, Elektrárna Dětmarovice, jaderné elektrárny Dukovany a Temelín, Teplárna  Trmice a areál Energotrans - Třeboradice
 
-Na objektech firmy ČEZ a.s. je instalováno již 10 hnízdních budek, některé na chladících věžích, některé na komínech. V elektrárně Tušimice to byly první budky v ČR vyvěšené na průmyslových objektech, a to už v roce 2011. Spolupráce pokračovala dlouhodobě, jako poslední byly vyvěšeny budky v roce 2015 na komín v jaderné elektrárně Dukovany. **Celkem již bylo v těchto budkách vyvedeno 83 mláďat sokola stěhovavého.**
+Na objektech firmy ČEZ a.s. je instalováno již 18 hnízdních budek na 11 objektech, některé na chladících věžích, některé na komínech. V elektrárně Tušimice to byly první budky v ČR vyvěšené na průmyslových objektech, a to už v roce 2011. Spolupráce pokračovala dlouhodobě, jako poslední byly vyvěšeny budky v roce 2015 na komín v jaderné elektrárně Dukovany. **Celkem již bylo v těchto budkách vyvedeno 83 mláďat sokola stěhovavého.**
 
-****
+- - -
 
 ## Články v médiích
 
