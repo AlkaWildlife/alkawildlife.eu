@@ -30,7 +30,7 @@ funding: >-
   a.s. / Spolana a.s. / MVV Energie CZ / Pražská Teplárenská  / Zevo Malešice
   Praha
 from: 2010-01
-to: Invalid date
+to: 2020-12
 contacts:
   - email: vaclav.beran@alkawildlife.eu
     name: Václav Beran
