@@ -9,6 +9,14 @@ funding: >-
 
   Program na podporu projektů nestátních neziskových organizací pro rok 2019  -
   Podprogram A
+
+
+
+
+  Aktivity projektu Monitoring a podpora populací sysla obecného na jižní Moravě
+  II se překrývá s projektem [Sysli pro krajinu, krajina pro
+  sysly](/projects/sysli-pro-krajinu-krajina-pro-sysly), čímž jsou zajištěny
+  náklady na kofinancování.
 from: 2019-01
 to: 2019-12
 contacts: []
