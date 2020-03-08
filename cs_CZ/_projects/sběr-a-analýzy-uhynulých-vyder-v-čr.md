@@ -24,7 +24,7 @@ funding: >-
 
   05/2017, 2018      AOPK ČR a vlastní prostředky
 from: 2008-01
-to: 2019-12
+to: 2020-12
 partners: >-
   Na sběru a analýzách uhynulých vyder spolupracujeme s: 
 
