@@ -15,7 +15,7 @@ publisher: 'ALKA Wildlife, o.p.s.'
 year: 2019
 lang:
   - cs
-link: /media/Brozura_sysel_CZ_final.pdf
+link: /media/brozura_SYKR_CZ_web_s.pdf
 ---
 Brožura popisuje základní biologii a ekologii sysla obecného, jak jej poznat, současný stav jeho populací, legislativní status a aktivity k posílení populací sysla včetně správného managementu. 
 
