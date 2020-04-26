@@ -4,7 +4,7 @@ published: true
 authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
-type: Brožura
+type: Kniha
 tags:
   - invazní savci
   - publikace pro laickou veřejnost
