@@ -78,3 +78,5 @@ norek americký.
 [Jižní Morava své ptactvo chrání ](https://www.ceskatelevize.cz/porady/1095970013-chcete-me/220562221300006/video/751994) (reportáž v pořadu Chcete mě? České Televize)
 
 [DATABÁZE INVAZNÍCH DRUHŮ SAVCŮ ](http://aves.vtaky.sk/sk/viewDfs)(online databáze výsledků monitoringu invazních druhů savců, včetně prezentace výsledků v mapách)
+
+**Stopy savců u vody** (kniha - příručka pro rozlišení stop středně velkých savců žijících ve vodním prostředí, ISBN 978-80-907119-3-8)
