@@ -1,5 +1,5 @@
 ---
-title: European souslik
+title: European ground squirrel
 published: true
 permalink: /species-of-interest/European-souslik
 image: /media/sysel_jaro_2007-050.jpg
@@ -14,15 +14,17 @@ lang_alternatives:
     title: Sysel obecný
     permalink: /zajmove-druhy/sysel-obecny
 ---
-The European Ground Squirrel (_Spermophilus citellus_), otherwise known at the European souslik or simply Souslik, is an endangered species of rodent and is one of Europe's rarest mammals. 
+The European ground squirrel (_Spermophilus citellus_), otherwise known at the European souslik or simply souslik, is an endangered rodent species and is one of Europe's rarest mammals. 
 
 # Habitat
 
-Sousliks usually live on regularly mowed or grazed grassy areas where they dig extensive burrows. They use these burrows to hide from predators during the day, sleeping in at night but also for hibernating in during autumn and winter. Sousliks mainly eat plants and grasses found in the environment around them.
+Sousliks can be found in short grassy areas such as meadows, pastures, vineyards, orchards, golf courses and grassy airports. They dig extensive burrows which they use to hide from predators during the day, sleep in at night and also for hibernating in during autumn and winter. Their diet mainly consists of plants and grasses found in the environment around them.
 
 # Conservation status
 
-Until the 1960s, Sousliks were a common part of agricultural land not only in the Czech Republic, but in most of Central and South-Eastern Europe. Since then, however, its abundance has declined significantly and it’s now very rare. They are now categorised as critically endangered and it is forbidden to catch or kill sousliks.
+Until the 1960s, sousliks were a common part of agricultural land not only in the Czech Republic, but across Central and South-Eastern Europe. Since then, its abundance has declined significantly and it’s now very rare. 
+
+In the Czech Republic they are now categorised as **critically endangered** and it is forbidden to catch or kill them.
 
 # WHERE CAN YOU FIND SOUSLIKS IN THE CZECH REPUBLIC?
 
@@ -38,16 +40,16 @@ Currently, Sousliks are found in the vineyards and orchards of these villages:
 
 # Website
 
-We have created a website, under our current project, specifically for information about the souslik and updates on our projects involving them. Further, more detailed, information can be found there.
+For detailed, further information about sousliks, please visit our website entirely dedicated to sousliks. 
 
 <div class="clearfix"></div>
 
 ![](/media/syslinavinici.jpg){: .wysiwyg-float-left}[syslinavinici.cz](https://www.syslinavinici.cz)
 
-The site is intended for the general public and in addition to information about the status of the Souslik in the Czech Republic, you will also find out about the winemakers and orchard owners who help support them and about our trademarks: “Souslik friendly vineyard” and “Souslik friendly orchard”.
+The site provides addition to information about the souslik status in the Czech Republic and  also details about the winemakers and orchard owners who help support sousliks. Information about our registered trademarks “Souslik friendly vineyard” and “Souslik friendly orchard” can be found there as well.
 
 <div class="clearfix"></div>
 
 # Projects
 
-We are engaged in a long term project with Sousliks. You can find out more information on our projects page [here](/projects).
+You can find out more information on our souslik projects [here](/projects).
