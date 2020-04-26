@@ -15,13 +15,13 @@ lang_alternatives:
 
 •	To conduct **research projects** in the field of biology, ecology and wildlife protection
 
-•	To provide **expert analyses, opinions** and c**atalogue surveys** of wildlife
+•	To provide **expert analyses, opinions** and **catalogue surveys** of wildlife
 
 •	To **support ‘in the field’ decision-making** by **recommending actions** for wildlife and biodiversity conservation 
 
 •	To be the **lead on professional works** of secondary and university students in animal ecology
 
-•	To produce **educational information** and maintain public relations in the field of animal ecology, conservation of wild animal species and protection of biodiversity
+•	To produce **educational information** and maintain public relations in the field of animal ecology, species conservation and biodiversity protection
 
 •	To **develop, test and implement** species and landscape **management measures**
 
@@ -35,11 +35,11 @@ lang_alternatives:
 
 # STATUS
 
-Alka Wildlife, ops is a public benefit corporation established under Act No. 248/1995 Coll., On Public Benefit Companies, as amended.
+ALKA Wildlife, o.p.s. is a public benefit corporation established under Act No. 248/1995 Coll., On Public Benefit Companies, as amended.
 
-Alka Wildlife, ops has been **accredited** by the Central Commission for Animal Welfare pursuant to Act No. 246/1992 Coll., On the protection of animals against cruelty, as amended. Based on this accreditation, the company is authorised to conduct experiments to verify scientific beliefs and to acquire scientific knowledge. They are also authorised to investigate animal reactions including methodological observations in the wild.
+ALKA Wildlife, o.p.s. has been **accredited** by the Central Commission for Animal Welfare pursuant to Act No. 246/1992 Coll., on the protection of animals against cruelty, as amended. Based on this accreditation, the company is authorised to conduct experiments to verify scientific beliefs and to acquire scientific knowledge. They are also authorised to investigate animal reactions including methodological observations in the wild.
 
-ALKA Wildlife, ops is on the Ministry of Education, Youth and Sports **list of research organisations.**
+ALKA Wildlife, o.p.s. is on the Ministry of Education, Youth and Sports **list of research organisations.**
 
 # BOARD MEMBERS
 
