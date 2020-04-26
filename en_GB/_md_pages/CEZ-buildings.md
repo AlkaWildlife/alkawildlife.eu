@@ -17,7 +17,7 @@ lang_alternatives:
 
 **Locations:** Tušimice Power Plant, Počerady Power Plant, Prunéřov Power Plant, Tisová Power Plant, Dukovany Nuclear Power Plant, Mělník Power Plant, Trmice Heating Plant, Ledvice Power Plant
 
-10 nest boxes were installed on cooling towers and chimneys across 8 different locations. The first ever nest boxes to be installed on industrial premises in the Czech Republic were at Tušimice power plant, back in 2011. The most recent were put up at the Dukovany nuclear power plant in 2015. Altogether, 66 peregrine chicks have hatched from these boxes!
+10 nest boxes were installed on cooling towers and chimneys across 8 different locations. The first ever nest boxes to be installed on industrial premises in the Czech Republic were at Tušimice power plant, back in 2011. The most recent were put up at the Dukovany nuclear power plant in 2015. At the time of writing, 66 peregrine chicks had hatched from these boxes!
 
 **Media reports (in Czech):**
 
