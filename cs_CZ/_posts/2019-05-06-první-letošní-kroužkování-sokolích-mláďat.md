@@ -7,6 +7,7 @@ description: >-
   První letos okroužkovaná sokolí mláďata v České republice mají své domovské
   právo na ochozu komínu Elektrárny Ledvice. Stejně jako vloni jsou tři. 
 date: '2019-05-06'
+logoset: Nadace ČEZ
 lang_alternatives:
   en_GB:
     permalink: /news/ringing-of-this-years-first-peregrine-falcon-chicks
