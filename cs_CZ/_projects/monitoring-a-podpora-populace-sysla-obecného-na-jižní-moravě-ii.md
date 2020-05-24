@@ -51,8 +51,6 @@ Hledání nových kolonií bude probíhat na základně hlášení od veřejnost
 
 V rámci projektu bude pokračovat komunikace a spolupráce s majiteli pozemků/hospodařícími subjekty v oblastech výskytu sysla. Bude pokračovat vydávání tiskových zpráv, spolupráce s médii na vytvoření nových reportáží pro veřejnost. Ve spolupráci s Ekocentrem Trkmanka ve Velkých Pavlovicích budou realizovány informační akce pro veřejnost. Připravena bude informační brožura pro vlastníky pozemků a OOP, putovní fotografická výstava a videospot. S partnery projektu "Sysli pro krajinu, krajina pro sysly" bude připravena a realizována konference pro odbornou veřejnost (odborníky, pracovníky OOP) k tématu ochrana sysla obecného.
 
-
-
 # Aktuality
 
 [Listopad patřil syslům](https://www.alkawildlife.eu/news/listopad-patřil-syslům)
@@ -67,12 +65,10 @@ V rámci projektu bude pokračovat komunikace a spolupráce s majiteli pozemků/
 
 [Česko Slovensko hledá sysly ](/news/česko-slovensko-hledá-sysly)
 
-
-
 # Výstupy projektu
 
 [Sborník abstraktů konference](/media/Sbornik_abstraktu_konference_sysli.pdf) 
 
 [Brožura Sysli pro krajinu, krajina pro sysly](/media/Brozura_sysel_CZ_final.pdf)
 
-#
+[Zpráva Monitoring populací sysla obecného na jižní Moravě v roce 2019](/media/Alka_monitoring_sysel_2019.pdf)
