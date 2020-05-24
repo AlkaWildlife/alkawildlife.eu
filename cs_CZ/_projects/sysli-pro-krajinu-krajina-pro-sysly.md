@@ -126,6 +126,8 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 
 [Infostánek se syslem ve Hnanicích](/news/infostanek-se-syslem-ve-hnanicich)
 
+
+
 # Výsledky/Výstupy projektu
 
 [Omalovánky sysel ](/media/sysel_omalovanky_fin.pdf)(materiál pro děti; pdf formát, možno stáhnout a vytisknout)
