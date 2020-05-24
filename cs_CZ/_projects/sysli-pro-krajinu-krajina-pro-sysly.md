@@ -126,8 +126,6 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 
 [Infostánek se syslem ve Hnanicích](/news/infostanek-se-syslem-ve-hnanicich)
 
-
-
 # Výsledky/Výstupy projektu
 
 [Omalovánky sysel ](/media/sysel_omalovanky_fin.pdf)(materiál pro děti; pdf formát, možno stáhnout a vytisknout)
@@ -147,3 +145,7 @@ sloužit jako podklad pro tvorbu záchranného programu v budoucnosti.
 [Brožura Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web_s.pdf) (informační brožura; v případě zájmu zašleme k distribuci)
 
 [Sborník abstraktů konference](/media/Sbornik_abstraktu_konference_sysli.pdf) (publikace - sborník abstraktů projektové konference Sysli pro krajinu, krajina pro sysly)
+
+[Monitoring sysla obecného na jižní Moravě v roce 2018](/media/Alka_monitoring_sysel_2018.pdf) (závěrečná zpráva)
+
+[Monitoring populací sysla obecného na jižní Moravě v roce 2019](/media/Alka_monitoring_sysel_2019.pdf) (závěrečná zpráva)
