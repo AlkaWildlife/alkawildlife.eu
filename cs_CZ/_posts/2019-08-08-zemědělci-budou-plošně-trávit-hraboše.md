@@ -7,6 +7,7 @@ description: >-
   Zemědělci dostali povolení trávit hraboše plošně rozhozeným jedem. V ohrožení
   je mnoho živočichů.
 date: '2019-08-08'
+logoset: IRRVA
 lang_alternatives:
   en_GB:
     permalink: /news/farmers-have-been-given-permission-to-eradicate-voles-with-poison
