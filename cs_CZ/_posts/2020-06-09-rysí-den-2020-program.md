@@ -12,8 +12,4 @@ lang_alternatives:
 category: news
 layout: news
 ---
-![](/media/lynxday_letak_souhrn_610.jpg)
-
-
-
 [Program ve formátu pdf](</media/leták souhrn CR na web.pdf>)
