@@ -10,8 +10,8 @@ date: '2020-02-28'
 logoset: 3lynx
 lang_alternatives:
   en_GB:
-    permalink: /
-    title: 107 lynx in BBA population
+    permalink: /there-are-107-lynx-in-the-Czech-Bavarian-Austrian-population
+    title: There are 107 lynx in the Czech-Bavarian-Austrian population
 category: news
 layout: news
 ---
