@@ -15,6 +15,18 @@ layout: news
 ---
 Putovní fotografická výstava, určena pro děti i dospělé.
 
+**V pátek 7.8.2020 proběhne slavnostní otevření výstavy s povídáním o syslech v brněnské zoologické zahradě!**
+
+****
+
+## Program: 
+
 17.7.2020 - 31.7.2020 Ekocentrum Trkmanka, Velké Pavlovice
+
+7.8.2020 - 31.8.2020 Zoo Brno, Brno
+
+
+
+![](/media/pozvanka_vystava_zoobrno_620.jpg)
 
 ![](/media/pozvánka_výstava-page-001.jpg)
