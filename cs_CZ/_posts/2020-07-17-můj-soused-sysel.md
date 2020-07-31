@@ -3,7 +3,7 @@ title: Můj soused sysel
 published: true
 image: /media/foto_mujsousedsysel_620.jpg
 listing_thumbnail: /media/foto_mujsousedsysel_274.jpg
-description: Fotografická výstava Můj soused sysel  - nyní ve Velkých Pavlovicích
+description: Fotografická výstava Můj soused sysel  - od 7.8. v ZOO Brno
 date: '2020-07-17'
 logoset: IRRVA_MZP
 lang_alternatives:
