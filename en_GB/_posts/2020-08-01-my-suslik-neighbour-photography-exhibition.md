@@ -13,7 +13,7 @@ lang_alternatives:
 category: news
 layout: news
 ---
-Travelling photography exhibition for all ages in on the road!
+Travelling photography exhibition for all ages is on the road!
 
 **On Friday 7th August 2020 the grand opening of the exhibition at Brno Zoo will happen. Come and visit the exhibition and listen to us give a dedicated talk about sousliks!**
 
