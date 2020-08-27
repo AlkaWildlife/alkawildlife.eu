@@ -7,7 +7,7 @@ date: '2020-08-18'
 logoset: SN_CZ
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: 'https://en.alkawildlife.eu/news/otter-stand-in-děčín'
     title: Otter stand in Děčín
 category: news
 layout: news
