@@ -3,7 +3,7 @@ title: Můj soused sysel
 published: true
 image: /media/foto_mujsousedsysel_620.jpg
 listing_thumbnail: /media/foto_mujsousedsysel_274.jpg
-description: Fotografická výstava Můj soused sysel  - od 7.8. v ZOO Brno
+description: Fotografická výstava Můj soused sysel  - od 8.9. v ZOO Hluboká
 date: '2020-07-17'
 logoset: IRRVA_MZP
 lang_alternatives:
@@ -15,17 +15,19 @@ layout: news
 ---
 Putovní fotografická výstava, určena pro děti i dospělé.
 
-**V pátek 7.8.2020 proběhne slavnostní otevření výstavy s povídáním o syslech v brněnské zoologické zahradě!**
+- - -
 
-****
+## Program:
 
-## Program: 
+8.9.2020 - 30.9.2020 Zoo Hluboká
+
+7.8.2020 - 31.8.2020 Zoo Brno
 
 17.7.2020 - 31.7.2020 Ekocentrum Trkmanka, Velké Pavlovice
 
-7.8.2020 - 31.8.2020 Zoo Brno, Brno
 
 
+![](/media/pozvanka_vystava_hluboka.jpg)
 
 ![](/media/pozvanka_vystava_zoobrno_620.jpg)
 
