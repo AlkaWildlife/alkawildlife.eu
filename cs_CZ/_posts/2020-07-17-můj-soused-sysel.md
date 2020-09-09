@@ -17,7 +17,7 @@ Putovní fotografická výstava, určena pro děti i dospělé.
 
 - - -
 
-## Program:
+## Harmonogram putování výstavy:
 
 8.9.2020 - 30.9.2020 Zoo Hluboká
 
