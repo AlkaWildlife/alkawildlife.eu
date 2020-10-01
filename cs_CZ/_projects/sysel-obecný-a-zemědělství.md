@@ -5,10 +5,13 @@ subtitle: >-
   Sysel obecný a zemědělství -  vzájemné interakce, využití výsledků k
   minimalizaci škod a k podpoře sysla obecného
 registration_no: SS01010510
-funding: |-
-  Technologická agentura České republiky
+funding: >-
+  [Technologická agentura České republiky](https://www.tacr.cz/)
 
-  Program Prostředí pro život
+
+  [Program Prostředí pro
+  život](https://www.tacr.cz/program/program-prostredi-pro-zivot/)
+
 
   Podprogram 1 - Operativní výzkum ve veřejném zájmu
 from: 2020-02
