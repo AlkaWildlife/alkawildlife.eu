@@ -19,6 +19,8 @@ description: >-
   roce 2020. Projekt zahrnuje naše pravidelné aktivity týkající se osvěty
   (spolupráce s vinaři, sadaři, aerokluby) a monitoringu vybraných populací.
 ---
+# Cíl projektu
+
 Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla obecného na jižní Moravě. Dílčími cíli jsou: 
 
 1.sledování stavu vybraných populací sysla na jižní Moravě, hledání neznámých kolonií, 
