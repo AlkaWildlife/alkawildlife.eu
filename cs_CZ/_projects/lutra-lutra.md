@@ -62,7 +62,11 @@ Na základě zjištěných informací ohledně rizikových faktorů v oblasti bu
 
 Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami na rybách proběhne osvětová kampaň. Pro uživatele rybářských vod bude zpracována informační publikace. Dohledány a kontaktovány budou rybářské subjekty i další relevantní subjekty a instituce s cílem zajistit pro vydry dlouhodobě stabilní vhodné prostředí. 
 
+
+
 # Aktuality
+
+[Vydrynasilnici.cz se zažlutilo](https://www.vydryonline.cz/news/vydrynasilnici-cz-se-za%C5%BElutilo)
 
 [Mýval severní v Krušných horách](/news/mýval-severní-v-krušných-horách)
 
@@ -72,7 +76,23 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 [Začínáme výzkum vyder v Krušných horách a podkrušnohoří](/news/začínáme-výzkum-vyder-v-krušných-horách)
 
-# V médiích
+
+
+# Výstupy a výsledky projektu
+
+
+
+# Akce
+
+Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena. O to více připravujeme výstupů online. 
+
+30.8.2020 [Info stánek v Děčíně](https://www.vydryonline.cz/news/vyd%C5%99%C3%AD-info-st%C3%A1nek)
+
+11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
+
+
+
+# Články v médiích
 
 [Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
 
