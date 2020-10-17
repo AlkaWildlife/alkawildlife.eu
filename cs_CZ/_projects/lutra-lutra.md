@@ -82,7 +82,7 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 
 
-# Akce
+## Akce
 
 Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena. O to více připravujeme výstupů online. 
 
@@ -92,7 +92,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 
 
-# Články v médiích
+## Články v médiích
 
 [Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
 
