@@ -15,7 +15,7 @@ layout: news
 ---
 Podívejte se jak kuna skalní chytá svoji večeři - je to fantastická "mašina" na regulaci hlodavců! Není to úžasné vidět, jak příroda sama sebe reguluje? 
 
-<iframe width="560" height="315" src="https://youtu.be/r3vhNfqoBZw" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3vhNfqoBZw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Na pole stříkáme umělá hnojiva, herbicidy, rodenticidy. Opravdu chceme mít tolik chemických látek v pitné vodě a v našem jídle? 
 
