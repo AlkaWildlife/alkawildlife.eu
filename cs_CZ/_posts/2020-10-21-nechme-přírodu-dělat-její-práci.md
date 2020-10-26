@@ -8,7 +8,7 @@ description: >-
 date: '2020-10-21'
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: 'https://en.alkawildlife.eu/let-nature-do-her-job'
     title: Let nature do her job
 category: news
 layout: news
