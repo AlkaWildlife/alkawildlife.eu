@@ -9,7 +9,7 @@ description: >-
 date: '2020-09-09'
 lang_alternatives:
   cs_CZ:
-    permalink: /stutox-–-co-na-to-sysel
+    permalink: news/stutox-–-co-na-to-sysel
     title: Stutox – co na to sysel?
 category: news
 layout: news
