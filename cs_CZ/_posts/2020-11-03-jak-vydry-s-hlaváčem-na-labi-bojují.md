@@ -1,8 +1,8 @@
 ---
 title: Jak vydry s hlaváčem na Labi bojují
-published: false
-image: /media/_igp4771_620.jpg
-listing_thumbnail: /media/_igp4771_274.jpg
+published: true
+image: /media/labe_620.jpg
+listing_thumbnail: /media/labe_274.jpg
 description: 'TZ: Vydry na Labi ve velkém konzumují invazního hlaváče černoústého'
 date: '2020-11-03'
 logoset: SN_CZ
