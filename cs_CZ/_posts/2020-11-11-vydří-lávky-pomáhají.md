@@ -12,10 +12,6 @@ lang_alternatives:
 category: news
 layout: news
 ---
-
-
-
-
 Tisková zpráva ALKA Wildlife
 
 # Vydří lávky pomáhají
@@ -34,7 +30,7 @@ Suchý břeh může být buď přirozený, či jako betonová berma, anebo třeb
 
 „_Lávky jsou velmi levné řešení s viditelným efektem, pomáhají zvířatům putovat bezpečně krajinou, kterou jsme my lidé rozkouskovali. Doufám, že ty naše poslouží jako inspirace,_“ přeje si Kateřina Poledníková. Riziková místa pro vydry na silnicích jsou vidět na online mapě [www.vydrynasilnici.cz](http://www.vydrynasilnici.cz/cs?layers=35,42,41,40,94). Jsou podle priorit odlišeny barvami od žluté po červenou. Teď v mapě díky lávkám přibyla nová zelená vrstva opravených bezpečných míst. 
 
-_Vydra říční využívá lávku k bezpečnému průchodu propustkem_
+_Vydra říční využívá lávku k bezpečnému průchodu propustkem_
 
 ![Vydra říční využívá lávku k bezpečnému průchodu propustkem](/media/cdy00037vydra_u_620.jpg "Vydří lávka s vydrou")
 
@@ -53,5 +49,13 @@ Lasice hranostaj využívá lávku k bezpečnému průchodu propustkem
 Lasice kolčava využívá lávku k bezpečnému průchodu propustkem
 
 ![Lasice kolčava využívá lávku k bezpečnému průchodu ](/media/lávka_lasice-kolcava_620.jpg "Vydří lávka s lasičkou")
+
+Instalovaná lávka 
+
+![Vydří lávka](/media/dscn0804_620.jpg "Vydří lávka")
+
+Instalovaná lávka
+
+![Vydří lávka](/media/img_1165_620.jpg "vydří lávka")
 
 Mapování a hodnocení rizikových míst, [online mapa](http://www.vydrynasilnici.cz/cs?layers=35,42,41,40,94) i instalace lávek proběhly v rámci projektu [Realizace vybraných opatření pro vydru říční v ČR](https://www.alkawildlife.eu/projects/realizace-opat%C5%99en%C3%AD-pro-vydru-%C5%99%C3%AD%C4%8Dn%C3%AD-v-%C4%8Dr), který byl financován z EHP fondů 2009 -2014 v rámci Malého grantového schématu. Projekt byl realizován v letech 2015 až 2017.
