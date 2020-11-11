@@ -5,6 +5,7 @@ image: /media/cdy00011vydra_u_620.jpg
 listing_thumbnail: /media/cdy00011vydra_u_274.jpg
 description: 'TZ: Instalované lávky pomáhají vydrám, kunám i lasičkám'
 date: '2020-11-11'
+logoset: MGS
 lang_alternatives:
   en_GB:
     permalink: 'https://en.alkawildlife.eu/'
