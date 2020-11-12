@@ -6,7 +6,7 @@ listing_thumbnail: /media/cdy00011vydra_u_620.jpg
 description: >-
   Press release: The installation of "otter bridges" helps otters, martens,
   weasels and other wildlife to avoid accidents on the road.
-date: '2020-11-11'
+date: '2020-11-12'
 logoset: MGS
 lang_alternatives:
   cs_CZ:
