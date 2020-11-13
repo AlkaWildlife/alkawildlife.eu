@@ -67,4 +67,4 @@ Instaled footbridge
 
 ![Vydří lávka](/media/img_1165_620.jpg "vydří lávka")
 
-Mapping and evaluation of risky places, [online map](http://www.vydrynasilnici.cz/cs?layers=35,42,41,40,94) and installation of footbridges took place within the project \[Implementation of selected measures for otters in CR] (https://www.alkawildlife.eu/projects/realizace-opat%C5%99en%C3%AD-pro-vydru-%C5%99%C3%AD%C4%8Dn%C3%AD-v- % C4% 8Dr), which was financed from EEA funds 2009-2014 under the Small Grant Scheme. The project was implemented in the years 2015 to 2017.
+Mapping and evaluation of risky places, [online map](http://www.vydrynasilnici.cz/cs?layers=35,42,41,40,94) and installation of footbridges took place within the project [Implementation of selected measures for otters in CR] (https://www.alkawildlife.eu/projects/realizace-opat%C5%99en%C3%AD-pro-vydru-%C5%99%C3%AD%C4%8Dn%C3%AD-v-%C4%8Dr), which was financed from EEA funds 2009-2014 under the Small Grant Scheme. The project was implemented in the years 2015 to 2017.
