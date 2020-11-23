@@ -1,5 +1,5 @@
 ---
-title: Sokoli v Dukovanec 23
+title: Sokoli v Dukovanech 23
 published: true
 image: /media/img_1335.jpg
 gallery: /news/sokolí-čtyřčata-v-dukovanech
