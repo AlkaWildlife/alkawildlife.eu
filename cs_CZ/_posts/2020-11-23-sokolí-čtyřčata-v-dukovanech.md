@@ -22,7 +22,7 @@ _Samice sokola stěhovavého krmí mláďata_
 
 _Vzácný okamžik - na hnízdo přiletěl pomoci i samec_
 
-![Oba rodiče na hnízdě](/media/img_1121_par_krmi_spolecne.jpg "Oba rodiče na hnízdě")
+![Oba rodiče na hnízdě](/media/img_0584_v.jpg "Oba rodiče na hnízdě")
 
 _Přes noc samice mláďata zahřívá_
 
@@ -31,7 +31,5 @@ _Přes noc samice mláďata zahřívá_
 Skupina ČEZ podporuje hnízdění sokolů stěhovavých dlouhodobě ve svých elektrárnách Tušimice, Ledvice, Počerady, Prunéřov, Mělník, Trmice a nyní i v jaderných elektrárnách Dukovany a Temelín, kde sokolí páry zahnízdily úplně poprvé. Celkem v průběhu 9 let z elektrárenských hnízd ČEZ vzlétlo 84 mladých sokolů.
 
 Monitoring populace sokola stěhovavého na průmyslových stavbách ČR je realizován s podporou Ministerstva životního prostředí , nemusí vyjadřovat stanoviska MŽP.
-
-
 
 Jak šel život na hnízdě si můžete prohlédnout ve fotogalerii.
