@@ -1,6 +1,6 @@
 showcases:
-  time: 12000
-  trans_period: 800
+  time: 600
+  trans_period: 400
 news:
   all: Všechny zprávy
   following: Další zprávy
