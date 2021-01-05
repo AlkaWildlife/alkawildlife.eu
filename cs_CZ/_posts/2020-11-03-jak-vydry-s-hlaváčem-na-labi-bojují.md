@@ -4,7 +4,7 @@ published: true
 image: /media/labe_620.jpg
 listing_thumbnail: /media/hlavac_cernousty_274.jpg
 description: Vydry na Labi ve velkém konzumují invazního hlaváče černoústého
-date: '2020-11-03'
+date: '2021-01-05'
 logoset: SN_CZ
 lang_alternatives:
   en_GB:
@@ -14,8 +14,6 @@ category: news
 layout: news
 ---
 ## Tisková zpráva ALKA Wildlife, o.p.s., Muzea města Ústí nad Labem a AG Naturschutzinstitut Region Dresden
-
-
 
 # Jak vydry s hlaváčem na Labi bojují
 
