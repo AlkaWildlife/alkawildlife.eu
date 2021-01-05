@@ -35,7 +35,7 @@ Hlaváč černoústý není nová zajímavá rybka v řece Labi. Jedná se o inv
 
 „_Rychlost šíření této ryby v Sasku je obrovská. Nálezy hlaváče v trusu vyder i na několika přítocích Labe v roce 2020 to potvrzují. Bude zajímavé sledovat, jak se bude vyvíjet interakce mezi vydrou a hlaváčem. Asi můžeme předpokládat, že i na přítocích dojde ke změně potravy vyder směrem k většímu podílu hlaváč_e.“ komentuje situaci v Sasku Madlen Schimkat, projektový manažer Naturschutzinstitut Drážďany. „_Bohužel ale nepředpokládáme, že by vydry dokázaly agresivní invazi této ryby zpomalit či zastavit._“ 
 
-![vydra říční](/media/_igp4771_620.jpg "vydra říční")
+![vydra říční](/media/igp4771_620.jpg "vydra říční")
 
 _vydra říční, Lutra lutra_
 
