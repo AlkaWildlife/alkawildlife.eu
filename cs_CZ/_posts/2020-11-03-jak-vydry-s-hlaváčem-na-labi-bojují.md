@@ -8,7 +8,7 @@ date: '2021-01-05'
 logoset: SN_CZ
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: /news/how-otters-are-dealing-with-round-gobies-on-the-elbe
     title: Otters and round goby on Elbe
 category: news
 layout: news
