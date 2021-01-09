@@ -1,5 +1,5 @@
 ---
-title: How otters are dealing with round gobies on the Elbe
+title: How otters deal with round gobby on the Elbe
 published: true
 image: /media/labe_620.jpg
 listing_thumbnail: /media/hlavac_cernousty_274.jpg
