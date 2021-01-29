@@ -29,11 +29,15 @@ Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla ob
 3. osvěta veřejnosti – aby veřejnost znala a chránila druhy rostlin a živočichů žijících v naší zemědělské krajině, aby tato krajina plnila i mimoprodukční funkce, aby veřejnost ocenila zemědělce, kteří tyto podmínky naplňují
 4. prvotní zásah na dvou pozemcích se stepními společenstvy – stepní trávníky zde zarůstají keři, jejich jednorázové prosekání výrazně posune stav sukcese zpět
 
-
-
 # Aktuality
 
+[Brouci, motýli a pavouci Velkých Pavlovic](https://www.syslinavinici.cz/news/brouci-mot%C3%BDli-a-pavouci-velk%C3%BDch-pavlovic)
+
+[Sysli v Miroslavi](https://www.syslinavinici.cz/news/sysli-v-miroslavi)
+
 [Záchranný program je aktualizován](https://www.syslinavinici.cz/news/z%C3%A1chrann%C3%BD-program-je-aktualizov%C3%A1n)
+
+[Stutox - co na to sysel?](https://www.syslinavinici.cz/news/stutox-co-na-to-sysel)
 
 [Můj soused sysel](https://www.syslinavinici.cz/news/m%C5%AFj-soused-sysel)
 
