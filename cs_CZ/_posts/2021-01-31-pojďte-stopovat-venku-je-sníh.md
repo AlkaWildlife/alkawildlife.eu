@@ -1,6 +1,6 @@
 ---
 title: 'Pojďte stopovat, venku je sníh'
-published: true
+published: false
 image: /media/img_2724_620.jpg
 listing_thumbnail: /media/img_2724_274.jpg
 description: >-
