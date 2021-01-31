@@ -2,6 +2,9 @@
 title: Rys ostrovid - stopa 1
 published: true
 image: /media/dscn4718-rys.jpg
+tags:
+  - rys ostrovid
+  - stopy
 gallery: /news/pojďte-stopovat-venku-je-sníh
 lang_alternatives:
   en_GB:
