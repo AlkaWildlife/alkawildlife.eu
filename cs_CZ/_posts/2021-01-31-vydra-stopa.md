@@ -4,6 +4,7 @@ published: true
 image: /media/img_3055_pes.jpg
 tags:
   - stopy
+  - vydra říční
 gallery: /news/pojďte-stopovat-venku-je-sníh
 lang_alternatives:
   en_GB:
