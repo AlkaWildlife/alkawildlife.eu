@@ -9,7 +9,7 @@ description: >-
 date: '2021-01-31'
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: 'https://en.alkawildlife.eu/news/its-snowed-lets-go-snow-tracking'
     title: 'Let`s track animals on snow '
 category: news
 layout: news
