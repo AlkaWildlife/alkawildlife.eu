@@ -54,7 +54,7 @@ Vše o syslech, známkách Sysli na vinici a Sysli v sadu
 
 - - -
 
-![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](/media/map_translynx_eu.jpg)
+![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}[http://map.translynx.eu](/media/map_translynx_eu.jpg)
 
 Online mapová aplikace s výskytem rysa ostrovida a dalších lesních savců včetně fotografií z fotopastí v jižních Čechách i přilehlých oblastech Rakouska a Bavorska
 
