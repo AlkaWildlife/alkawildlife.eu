@@ -48,9 +48,9 @@ Vše o syslech, známkách Sysli na vinici a Sysli v sadu
 
 <div class="clearfix"></div>
 
-## **Specializované interaktivní mapy zaměřené na určité téma / druh:**
-
 - - -
+
+## **Specializované interaktivní mapy zaměřené na určité téma / druh:**
 
 ![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}[http://map.translynx.eu](/media/map_translynx_eu.jpg)
 
@@ -75,6 +75,8 @@ Online mapová aplikace s lokalizací všech budek pro sokola stěhovavého v Č
 Online mapová aplikace, kde jsou vidět kolonie sysla obecného u nás a na Slovensku a spolupracující zemědělci
 
 <div class="clearfix"></div>
+
+- - -
 
 ## **Účty na sociálních sítích:**
 
