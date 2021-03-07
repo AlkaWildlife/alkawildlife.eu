@@ -22,7 +22,9 @@ Hlavní web společnosti ALKA Wildlife, o.p.s.
 
 - - -
 
-## Speciální weby zaměřené na specifické téma / druh:
+## **Speciální weby zaměřené na specifické téma / druh:**
+
+
 
 ![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](https://www.vydryonline.cz)
 
@@ -48,9 +50,9 @@ Vše o syslech, známkách Sysli na vinici a Sysli v sadu
 
 <div class="clearfix"></div>
 
+## **Specializované interaktivní mapy zaměřené na určité téma / druh:**
 
 
-## Specializované interaktivní mapy zaměřené na určité téma / druh:
 
 - - -
 
@@ -77,8 +79,6 @@ Online mapová aplikace s lokalizací všech budek pro sokola stěhovavého v Č
 Online mapová aplikace, kde jsou vidět kolonie sysla obecného u nás a na Slovensku a spolupracující zemědělci
 
 <div class="clearfix"></div>
-
-
 
 ## Účty na sociálních sítích:
 
