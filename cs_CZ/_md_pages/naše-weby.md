@@ -46,6 +46,12 @@ Specializované interaktivní mapy zaměřené na určité téma / druh:
 
 ![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
 
-Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
+Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde umírají vydry říční na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
+
+<div class="clearfix"></div>
+
+![](/media/mapa_sokoli.jpg){: .wysiwyg-float-left}[http://mapa.sokolinakominech.cz/](/media/mapa_sokoli.jpg)
+
+Online mapová aplikace s lokalizací všech budek pro sokola stěhovavého v České republice
 
 <div class="clearfix"></div>
