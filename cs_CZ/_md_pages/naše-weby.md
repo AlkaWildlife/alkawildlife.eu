@@ -14,7 +14,8 @@ lang_alternatives:
 ---
 Naše společnost se v online světě prezentuje na několika webových stránkách, i na sociálních sítích. Zde najdete všechny odkazy.
 
-![](/media/alka_web.jpg){: .wysiwyg-float-left}[www.alkawildlife.eu](/media/alka-web.jpg)
+![](/media/alka_web.jpg){: .wysiwyg-float-left}[www.alkawildlife.eu]
+(/media/alka-web.jpg)
 
 Hlavní web společnosti ALKA Wildlife, o.p.s.
 
