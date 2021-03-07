@@ -42,7 +42,13 @@ Vše o sokolech hnízdících na průmyslových stavbách
 
 <div class="clearfix"></div>
 
-Specializované interaktivní mapy zaměřené na určité téma / druh:
+![](/media/syslinavinici.jpg){: .wysiwyg-float-left}[www.syslinavinici.cz](/media/syslinavinici.jpg)
+
+Vše o syslech, známkách Sysli na vinici a Sysli v sadu
+
+<div class="clearfix"></div>
+
+**Specializované interaktivní mapy zaměřené na určité téma / druh:**
 
 ![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
 
