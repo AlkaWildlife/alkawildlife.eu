@@ -14,7 +14,7 @@ lang_alternatives:
 ---
 Naše společnost se v online světě prezentuje na několika webových stránkách, i na sociálních sítích. Zde najdete všechny odkazy.
 
-![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](/media/alka-web.jpg)
+![](/media/alka_web.jpg){: .wysiwyg-float-left}[www.alkawildlife.eu](/media/alka-web.jpg)
 
 Hlavní web společnosti ALKA Wildlife, o.p.s.
 
@@ -36,7 +36,7 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 
 <div class="clearfix"></div>
 
-![](/media/web_sokoli.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](/media/web_sokoli.jpg)
+![](/media/web_sokoli.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](/media/web_sokoli_300.jpg)
 
 Vše o sokolech hnízdících na průmyslových stavbách
 
