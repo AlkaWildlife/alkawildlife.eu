@@ -37,13 +37,13 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 
 <div class="clearfix"></div>
 
-![](/media/web_sokoli_300.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](/media/web_sokoli_300.jpg)
+![](/media/web_sokoli_300.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](https://www.sokolinakominech.cz)
 
 Vše o sokolech hnízdících na průmyslových stavbách
 
 <div class="clearfix"></div>
 
-![](/media/syslinavinici.jpg){: .wysiwyg-float-left}[www.syslinavinici.cz](/media/syslinavinici.jpg)
+![](/media/syslinavinici.jpg){: .wysiwyg-float-left}[www.syslinavinici.cz](https://www.syslinavinici.cz)
 
 Vše o syslech, známkách Sysli na vinici a Sysli v sadu
 
@@ -53,7 +53,7 @@ Vše o syslech, známkách Sysli na vinici a Sysli v sadu
 
 ## **Specializované interaktivní mapy zaměřené na určité téma / druh:**
 
-![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}[http://map.translynx.eu](/media/map_translynx_eu.jpg)
+![](/media/map_translynx_eu.jpg){: .wysiwyg-float-left}[http://map.translynx.eu](http://map.translynx.eu)
 
 Online mapová aplikace s výskytem rysa ostrovida a dalších lesních savců včetně fotografií z fotopastí v jižních Čechách i přilehlých oblastech Rakouska a Bavorska
 
@@ -65,13 +65,13 @@ Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů o
 
 <div class="clearfix"></div>
 
-![](/media/mapa_sokoli.jpg){: .wysiwyg-float-left}[http://mapa.sokolinakominech.cz/](/media/mapa_sokoli.jpg)
+![](/media/mapa_sokoli.jpg){: .wysiwyg-float-left}[http://mapa.sokolinakominech.cz/](http://mapa.sokolinakominech.cz/)
 
 Online mapová aplikace s lokalizací všech budek pro sokola stěhovavého v České republice
 
 <div class="clearfix"></div>
 
-![](/media/sysli_mapa.jpg){: .wysiwyg-float-left}[http://mapa.syslinavinici.cz/](/media/sysli_mapa.jpg)
+![](/media/sysli_mapa.jpg){: .wysiwyg-float-left}[http://mapa.syslinavinici.cz/](http://mapa.syslinavinici.cz/)
 
 Online mapová aplikace, kde jsou vidět kolonie sysla obecného u nás a na Slovensku a spolupracující zemědělci
 
