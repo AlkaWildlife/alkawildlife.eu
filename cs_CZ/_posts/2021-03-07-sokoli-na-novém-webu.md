@@ -22,8 +22,6 @@ Je tomu 10 let, kdy jsme vyvěsili 1. budku pro sokoly v roce 2011. V současnos
 
 Nyní jsou všechny informace přehledně uvedeny na novém webu [sokolinakominech.cz](https://sokolinakominech.cz/), jehož součástí je i interaktivní online mapa. 
 
-
-
 Vytvoření webových stránek bylo podpořeno Ministerstvem životního prostředí, web nemusí vyjadřovat stanoviska MŽP. Vytvořeny byly v rámci projektu Monitoring sokola stěhovavého v urbanizovaném a industrializovaném prostředí.
 
 ![](/media/opeu-logo-mzp_20141218v_300.jpg)
