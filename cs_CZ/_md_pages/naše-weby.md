@@ -50,6 +50,14 @@ Vše o syslech, známkách Sysli na vinici a Sysli v sadu
 
 **Specializované interaktivní mapy zaměřené na určité téma / druh:**
 
+- - -
+
+![](/media/map._ranslynx.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](/media/map_translynx_eu.jpg)
+
+Online mapová aplikace s výskytem rysa ostrovida a dalších lesních savců včetně fotografií z fotopastí v jižních Čechách i přilehlých oblastech Rakouska a Bavorska
+
+<div class="clearfix"></div>
+
 ![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
 
 Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde umírají vydry říční na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
@@ -59,5 +67,11 @@ Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů o
 ![](/media/mapa_sokoli.jpg){: .wysiwyg-float-left}[http://mapa.sokolinakominech.cz/](/media/mapa_sokoli.jpg)
 
 Online mapová aplikace s lokalizací všech budek pro sokola stěhovavého v České republice
+
+<div class="clearfix"></div>
+
+![](/media/sysli_mapa.jpg){: .wysiwyg-float-left}[http://mapa.syslinavinici.cz/](/media/sysli_mapa.jpg)
+
+Online mapová aplikace, kde jsou vidět kolonie sysla obecného u nás a na Slovensku a spolupracující zemědělci
 
 <div class="clearfix"></div>
