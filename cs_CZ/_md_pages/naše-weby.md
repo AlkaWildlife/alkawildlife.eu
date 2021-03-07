@@ -14,6 +14,10 @@ lang_alternatives:
 ---
 Naše společnost se v online světě prezentuje na několika webových stránkách, i na sociálních sítích. Zde najdete všechny odkazy.
 
+****
+
+**Speciální weby zaměřené na specifické téma / druh:**
+
 ![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](https://www.vydryonline.cz)
 
 Web je určen pro odbornou veřejnost a pro rybáře obsahuje aktuální informace o tomto druhu v ČR, sekci ke škodám, které působí na rybách, sekci k mortalitě na silnicích, poradnu, fotogalerii, knihovnu a časopis Bulletin Vydra.
