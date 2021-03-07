@@ -80,7 +80,11 @@ Online mapová aplikace, kde jsou vidět kolonie sysla obecného u nás a na Slo
 
 <div class="clearfix"></div>
 
-## Účty na sociálních sítích:
+
+
+## **Účty na sociálních sítích:**
+
+
 
 <https://www.facebook.com/AlkaWildlife/>
 
