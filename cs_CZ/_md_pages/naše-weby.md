@@ -14,8 +14,7 @@ lang_alternatives:
 ---
 Naše společnost se v online světě prezentuje na několika webových stránkách, i na sociálních sítích. Zde najdete všechny odkazy.
 
-![](/media/alka_web.jpg){: .wysiwyg-float-left}[www.alkawildlife.eu]
-(/media/alka-web.jpg)
+![](/media/alka-web.jpg){: .wysiwyg-float-left}[www.alkawildlife.eu](/media/alka-web.jpg)
 
 Hlavní web společnosti ALKA Wildlife, o.p.s.
 
@@ -24,8 +23,6 @@ Hlavní web společnosti ALKA Wildlife, o.p.s.
 - - -
 
 ## **Speciální weby zaměřené na specifické téma / druh:**
-
-
 
 ![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](https://www.vydryonline.cz)
 
@@ -39,7 +36,7 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 
 <div class="clearfix"></div>
 
-![](/media/web_sokoli.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](/media/web_sokoli_300.jpg)
+![](/media/web_sokoli_300.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](/media/web_sokoli_300.jpg)
 
 Vše o sokolech hnízdících na průmyslových stavbách
 
@@ -52,8 +49,6 @@ Vše o syslech, známkách Sysli na vinici a Sysli v sadu
 <div class="clearfix"></div>
 
 ## **Specializované interaktivní mapy zaměřené na určité téma / druh:**
-
-
 
 - - -
 
@@ -81,11 +76,7 @@ Online mapová aplikace, kde jsou vidět kolonie sysla obecného u nás a na Slo
 
 <div class="clearfix"></div>
 
-
-
 ## **Účty na sociálních sítích:**
-
-
 
 <https://www.facebook.com/AlkaWildlife/>
 
