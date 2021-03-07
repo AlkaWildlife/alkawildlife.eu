@@ -14,7 +14,13 @@ lang_alternatives:
 ---
 Naše společnost se v online světě prezentuje na několika webových stránkách, i na sociálních sítích. Zde najdete všechny odkazy.
 
-****
+![](/media/vydryonline_300.jpg){: .wysiwyg-float-left}[www.vydryonline.cz](/media/alka-web.jpg)
+
+Hlavní web společnosti ALKA Wildlife, o.p.s.
+
+<div class="clearfix"></div>
+
+- - -
 
 **Speciální weby zaměřené na specifické téma / druh:**
 
@@ -30,14 +36,16 @@ Web je určen pro laickou veřejnost, obsahuje informace a mapy k naučné vydř
 
 <div class="clearfix"></div>
 
-![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
+![](/media/web_sokoli.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](/media/web_sokoli.jpg)
 
-Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
+Vše o sokolech hnízdících na průmyslových stavbách
 
 <div class="clearfix"></div>
 
-![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.sokolinakominech.cz](/media/web_sokoli_300.jpg)
+Specializované interaktivní mapy zaměřené na určité téma / druh:
 
-Vše o sokolech hnízdících na průmyslových stavbách
+![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}[www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
+
+Online mapová aplikace pro odbornou veřejnost, zejména pracovníky orgánů ochrany přírody, správce silnic; na mapě jsou vidět místa, kde vydry umírají na silnicích a popisy rizikových míst včetně návrhu technického řešení ke snížení rizikovosti místa.
 
 <div class="clearfix"></div>
