@@ -62,8 +62,6 @@ Na základě zjištěných informací ohledně rizikových faktorů v oblasti bu
 
 Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami na rybách proběhne osvětová kampaň. Pro uživatele rybářských vod bude zpracována informační publikace. Dohledány a kontaktovány budou rybářské subjekty i další relevantní subjekty a instituce s cílem zajistit pro vydry dlouhodobě stabilní vhodné prostředí. 
 
-
-
 # Aktuality
 
 [Vydrynasilnici.cz se zažlutilo](https://www.vydryonline.cz/news/vydrynasilnici-cz-se-za%C5%BElutilo)
@@ -76,11 +74,7 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 [Začínáme výzkum vyder v Krušných horách a podkrušnohoří](/news/začínáme-výzkum-vyder-v-krušných-horách)
 
-
-
 # Výstupy a výsledky projektu
-
-
 
 ## Akce
 
@@ -90,12 +84,12 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
 
-
-
-## Články v médiích
+## Články a reportáže v médiích
 
 [Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
 
 [Rozhovor s Václavem Beranem v Českém rozhlase](https://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
 
 [Vědci hledají cestu k Ohři pro německé vydry, aby se tu opět zabydlely](https://www.idnes.cz/usti/zpravy/vydra-ricni-populace-vedecky-projekt-krusne-hory-reka-ohre.A171215_370900_usti-zpravy_vac2) (idnes.cz, 18.12.2017)
+
+[Vydry v Krušných horách](https://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/221411000100307/obsah/825000-vydry-v-krusnych-horach) (Česká televize, Události 7.3.2021)
