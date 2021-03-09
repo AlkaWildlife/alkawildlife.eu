@@ -17,19 +17,16 @@ Rádi bychom Vám představili výsledky končícího výzkumného projektu Lutr
 
 Pokud máte dotazy, podněty k diskusi či připomínky, můžete nám napsat na email či je napsat do komentářů přímo na Youtube, kde jsou videa nahraná. 
 
-
-
-
-
 # Projekt Lutra lutra
 
-Přednáška shrnující cíle, aktivity, výstupy a velmi stručně také základní výsledky projektu, který probíhal tři roky v česko-saském pohraničí. 
+Přednáška shrnující cíle, aktivity, výstupy a velmi stručně také základní výsledky projektu, který probíhal tři roky v česko-saském pohraničí.  
+  
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pT3rS-r6kqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
+<br/>
+<br/>
 
 # Výskyt vydry říční v Krušných horách a jejich podhůří
 
@@ -37,9 +34,8 @@ Výskyt vydry říční v oblasti Krušných hor prošel v minulosti dramatický
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wq4DJ-a07mY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
+<br/>
+<br/>
 
 # Genetická struktura populace vydry říční v Krušných horách
 
@@ -47,12 +43,13 @@ Cílem genetické studie bylo zjistit původ krušnohorských vyder a zhodnotit 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1XTXXnSSj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
+<br/>
+<br/>
 
 # Potrava vyder v Krušných horách a jejich podhůří
 
 Potravní nabídka je jednou ze základních potřeb pro každý druh. Vodní prostředí v Krušných horách i jejich podhůří, zejména na české straně je velmi specifické. Je tedy otázkou, jak si s tím vydry poradí a co zde konzumují.
+
+<br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8wfj3Vu2n3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
