@@ -15,13 +15,13 @@ layout: news
 ---
 Rádi bychom Vám představili výsledky končícího výzkumného projektu Lutra lutra, který probíhal v severních Čechách a přilehlém Sasku. Plánovanou závěrečnou konferenci se nám nepodařilo uspořádat kvůli pandemii Covid-19. Výsledky projektu proto prezentujeme formou série online přednášek. 
 
-Pokud máte dotazy, podněty k diskusi či připomínky, můžete nám napsat na email či je napsat do komentářů přímo na Youtube, kde jsou videa nahraná. 
+Pokud máte dotazy, podněty k diskusi či připomínky, můžete nám napsat na email či je napsat do komentářů přímo na Youtube, kde jsou videa nahraná.
+
+<br/> 
 
 # Projekt Lutra lutra
 
 Přednáška shrnující cíle, aktivity, výstupy a velmi stručně také základní výsledky projektu, který probíhal tři roky v česko-saském pohraničí.  
-  
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pT3rS-r6kqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -49,7 +49,5 @@ Cílem genetické studie bylo zjistit původ krušnohorských vyder a zhodnotit 
 # Potrava vyder v Krušných horách a jejich podhůří
 
 Potravní nabídka je jednou ze základních potřeb pro každý druh. Vodní prostředí v Krušných horách i jejich podhůří, zejména na české straně je velmi specifické. Je tedy otázkou, jak si s tím vydry poradí a co zde konzumují.
-
-<br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8wfj3Vu2n3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
