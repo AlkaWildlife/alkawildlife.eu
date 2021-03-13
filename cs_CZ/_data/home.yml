@@ -25,11 +25,11 @@ mission:
 gallery:
   title: Fotogalerie
 appeal:
-  body: >-
+  body: >
     # Výzva
 
 
-    # [Z celé ČR pro účely výzkumu a ochrany námi sledovaných druhů **sbíráme
+    ## [Z celé ČR pro účely výzkumu a ochrany námi sledovaných druhů **sbíráme
     kadávery** či data o vybraných druzích. Pomozte nám a **dejte nám vědět o
     svém nálezu**. Instrukce ke sběru a hlášení zde.](/monitoring)
 other:
