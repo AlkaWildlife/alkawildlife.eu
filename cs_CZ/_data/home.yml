@@ -23,6 +23,12 @@ links:
   - image: /media/sysli_mapa.jpg
     title: Syslí mapa
     url: 'http://mapa.syslinavinici.cz/cs?layers'
+  - image: /media/banner_bulletin_small_165.jpg
+    title: Bulletin Vydra
+    url: 'https://www.vydryonline.cz/ke-stazeni/bulletin-vydra'
+  - image: /media/vydrynasilnici.jpg
+    title: Vydry na silnici
+    url: 'http://www.vydrynasilnici.cz'
 mission:
   body: "# Mise\n\nNašim posláním je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
 gallery:
