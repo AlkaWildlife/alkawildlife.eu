@@ -6,10 +6,10 @@ news:
   following: Latest news
 links:
   - image: /media/syslinavinici.jpg
-    title: Souslik friendly Vineyard
+    title: Souslik web
     url: 'http://bit.ly/syslinavinici'
   - image: /media/vydryonline.jpg
-    title: Otters online
+    title: Otter web
     url: 'http://bit.ly/vydryonlineEN'
   - image: /media/vydrynasilnici.jpg
     title: Otters on the road
@@ -20,6 +20,18 @@ links:
   - image: /media/map_translynx_eu.jpg
     title: Lynx map
     url: 'http://bit.ly/translynxmap'
+  - image: /media/banner_bulletin_small_165.jpg
+    title: Bulletin Vydra
+    url: 'https://en.vydryonline.cz/library/bulletin-vydra'
+  - image: /media/web_sokoli_165.jpg
+    title: Falcon web
+    url: 'https://sokolinakominech.cz/'
+  - image: /media/mapa_sokoli.jpg
+    title: Falcon map
+    url: 'http://mapa.sokolinakominech.cz'
+  - image: /media/sysli_mapa.jpg
+    title: Souslik map
+    url: 'http://mapa.syslinavinici.cz'
 mission:
   body: >-
     # Our Mission
