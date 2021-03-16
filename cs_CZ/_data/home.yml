@@ -29,6 +29,9 @@ links:
   - image: /media/vydrynasilnici.jpg
     title: Vydry na silnici
     url: 'http://www.vydrynasilnici.cz'
+  - image: /media/mapa_sokoli.jpg
+    title: Sokolí mapa
+    url: 'http://mapa.sokolinakominech.cz'
 mission:
   body: "# Mise\n\nNašim posláním je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
 gallery:
