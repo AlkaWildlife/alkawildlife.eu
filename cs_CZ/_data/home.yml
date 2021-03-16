@@ -20,6 +20,9 @@ links:
   - image: /media/map_translynx_eu.jpg
     title: Rysí mapa
     url: 'http://bit.ly/translynxmap'
+  - image: /media/sysli_mapa.jpg
+    title: Syslí mapa
+    url: 'http://mapa.syslinavinici.cz/cs?layers'
 mission:
   body: "# Mise\n\nNašim posláním je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
 gallery:
