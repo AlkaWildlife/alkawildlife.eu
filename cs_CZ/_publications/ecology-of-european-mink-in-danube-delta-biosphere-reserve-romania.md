@@ -9,6 +9,9 @@ authors:
   - name: Botond J. Kiss
   - name: Aleš Toman
 type: Sborník
+tags:
+  - norek evropský
+  - publikace pro odbornou veřejnost
 publisher: Park Narodowy Ujscie Warty
 year: 2014
 lang: en
