@@ -93,3 +93,21 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 [Rozhovor s Václavem Beranem v Českém rozhlase](https://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
 
 [Vědci hledají cestu k Ohři pro německé vydry, aby se tu opět zabydlely](https://www.idnes.cz/usti/zpravy/vydra-ricni-populace-vedecky-projekt-krusne-hory-reka-ohre.A171215_370900_usti-zpravy_vac2) (idnes.cz, 18.12.2017)
+
+## **Zprávy**
+
+[Riziková místa pro vydru říční na silnicích pro Ústecký kraj (pdf)](https://www.vydryonline.cz/media/Rizikov%C3%A1_m%C3%ADsta_vydra_Kru%C5%A1n%C3%A9_Mostecko_2.pdf)
+
+[Zhodnocení prostředí toků z pohledu vydry říční pro Ústecký kraj (pdf)](https://www.vydryonline.cz/media/charakteristika%20toku_vydra_Krusne_Mostecko_2.pdf)
+
+## **Online přednášky**
+
+[série online přednášek o výsledcích projektu](/news/přednášky-o-vydrách-v-krušných-horách)
+
+## **Putování s vydrou**
+
+[série krátkých videí o tocích Krušných hor](https://www.vydryonline.cz/news/putování-s-vydrou) 
+
+## **Články a publikace**
+
+[Bulletin Vydra 17: Projekt Lutra lutra – přeshraniční spolupráce k výzkumu a ochraně vydry říční v Krušných horách a podkrušnohoří](https://www.vydryonline.cz/media/Polednikova_etal_54_57.pdf)
