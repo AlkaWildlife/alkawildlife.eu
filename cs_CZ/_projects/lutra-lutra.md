@@ -111,3 +111,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 ## **Články a publikace**
 
 [Bulletin Vydra 17: Projekt Lutra lutra – přeshraniční spolupráce k výzkumu a ochraně vydry říční v Krušných horách a podkrušnohoří](https://www.vydryonline.cz/media/Polednikova_etal_54_57.pdf)
+
+## **Bulletin Vydra č. 19**
+
+[Speciální číslo Bulletinu Vydra věnované výsledkům projektu Lutra lutra](https://www.vydryonline.cz/ke-stazeni/bulletin-vydra/bulletin-vydra-19)
