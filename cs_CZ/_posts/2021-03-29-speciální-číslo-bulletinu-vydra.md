@@ -16,7 +16,7 @@ Dostává se Vám do rukou speciální číslo Bulletinu Vydra.
 
 Bulletin Vydra vychází od roku 1990. Cílem časopisu je mapovat aktuální dění kolem vyder, publikovat původní vědecké práce a informovat o ochraně těchto druhů v České a Slovenské republice. 
 
-Bulletin Vydra číslo 19 je celý věnován výsledkům [projektu Lutra lutra](/projects/projekt-lutra-lutra). Projekt Lutra lutra byl převážně výzkumný projekt, běžící od roku 2017 do roku 2021. Probíhal v Ústeckém kraji a přilehlé části Saska. Cílem projektu bylo zhodnotit stav populace vydry říční a jejího prostředí v tomto území. 
+Bulletin Vydra číslo 19 je celý věnován výsledkům [projektu Lutra lutra](/projects/lutra-lutra). Projekt Lutra lutra byl převážně výzkumný projekt, běžící od roku 2017 do roku 2021. Probíhal v Ústeckém kraji a přilehlé části Saska. Cílem projektu bylo zhodnotit stav populace vydry říční a jejího prostředí v tomto území. 
 
 Tak jako předchozí čísla jsou všechny články Bulletinu volně dostupné online, níže. Protože se ale jedná o speciální číslo, bylo také připraveno v tištěné podobě - napište nám a my jej pošleme poštou. Projekt Lutra lutra byl postaven na česko-německé spolupráci a výzkum probíhal na obou stranách státní hranice. Proto vychází toto číslo také nezvykle v německé mutaci. 
 
