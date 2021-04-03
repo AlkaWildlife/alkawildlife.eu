@@ -24,7 +24,7 @@ Tak jako předchozí čísla jsou všechny články Bulletinu volně dostupné o
 
 [Celé číslo v jednom souboru (česky; 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
-[Celé číslo v jednom souboru (Deutsche; 19 MB)](/media/bulletin_VYDRA_19_german_web.pdf)
+[Celé číslo v jednom souboru (Deutsche; 19 MB)](/media/bulletin_VYDRA_german_web.pdf)
 
 <br/>
 
