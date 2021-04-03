@@ -48,13 +48,13 @@ Tak jako předchozí čísla jsou všechny články Bulletinu volně dostupné o
 
 [Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Složení potravy vydry říční v různém prostředí v oblasti Krušných hor a Podkrušnohoří](/media/bulletin_VYDRA_19_Polednik_etal_diet_60_76.pdf) (česky)
 
-[Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen gewasserhabitaten in Bereich des Erzgebirges und des Erzgebirgsvorlandes](/media/bulletin_VYDRA_Deutsche_Nahrung.pdf>) (Deutsche)
+[Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen gewasserhabitaten in Bereich des Erzgebirges und des Erzgebirgsvorlandes](/media/bulletin_VYDRA_Deutsche_Nahrung.pdf) (Deutsche)
 
 <br/>
 
 [Beran V. a Poledníková K.: Putovní výstava Ich bin ein vydra, aneb jak vydra přes hranici přišla](/media/bulletin_VYDRA_19_Beran_77_99.pdf) (česky)
 
-[Beran V. a Poledníková K.: Zur Wanderausstellung Ich bin ein Vydra. Wie der Fischotter uber die Grenze kam](/media/bulletin_VYDRA_Deutsche_Ausstellung.pdf>) (Deutsche)
+[Beran V. a Poledníková K.: Zur Wanderausstellung Ich bin ein Vydra. Wie der Fischotter uber die Grenze kam](/media/bulletin_VYDRA_Deutsche_Ausstellung.pdf) (Deutsche)
 
 <br/>
 
