@@ -42,7 +42,7 @@ Tak jako předchozí čísla jsou všechny články Bulletinu volně dostupné o
 
 [Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š.: Potravní nabídka pro vydru říční v oblasti Krušných hor a Podkrušnohoří](/media/bulletin_VYDRA_19_Polednik_etal_prey_36_59.pdf)  (česky)
 
-[Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š.: Das Nahrungsdargebot fur den Fischotter im Erzgebirge und im Erzgebirgsvorland](/media/bulletin_VYDRA_19_Deutsche_Nahrungsdargebot.pdf)  (Deutsche)
+[Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š.: Das Nahrungsdargebot fur den Fischotter im Erzgebirge und im Erzgebirgsvorland](/media/bulletin_VYDRA_Deutsche_Nahrungsdargebot.pdf)  (Deutsche)
 
 <br/>
 
