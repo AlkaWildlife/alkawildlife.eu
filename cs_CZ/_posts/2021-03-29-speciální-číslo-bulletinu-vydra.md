@@ -24,19 +24,19 @@ Tak jako předchozí čísla jsou všechny články Bulletinu volně dostupné o
 
 [Celé číslo v jednom souboru (česky; 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
-[Celé číslo v jednom souboru](/media/bulletin VYDRA_german_web.pdf) (Deutsche; 19 MB)
+\[Celé číslo v jednom souboru](/media/bulletin_VYDRA_german_web.pdf) (Deutsche; 19 MB)
 
 <br/>
 
 [Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K.: Výskyt vydry říční ve východní části Krušných hor a jejich podhůří v České republice a Sasku v letech 2019-2020](/media/bulletin_VYDRA_19_Polednik_etal_occurence_7_25.pdf) (česky)
 
-[Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K.: Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen republik 2019-2020](/media/bulletin VYDRA_Deutsche_Vorkommen.pdf) (Deutsche)
+[Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K.: Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen republik 2019-2020](/media/bulletin_VYDRA_Deutsche_Vorkommen.pdf) (Deutsche)
 
 <br/>
 
 [Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C.: Genetická struktura populace vydry říční v Krušných horách](/media/bulletin_VYDRA_19_Cocchiararo_etal_26_35.pdf) (česky)
 
-[Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C.: Genetische struktur der Fischotterpopulation im Erzgebirge](/media/bulletin VYDRA_Deutsche_Genetische.pdf) (Deutsche)
+[Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C.: Genetische struktur der Fischotterpopulation im Erzgebirge](/media/bulletin_VYDRA_Deutsche_Genetische.pdf) (Deutsche)
 
 <br/>
 
@@ -48,13 +48,13 @@ Tak jako předchozí čísla jsou všechny články Bulletinu volně dostupné o
 
 [Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Složení potravy vydry říční v různém prostředí v oblasti Krušných hor a Podkrušnohoří](/media/bulletin_VYDRA_19_Polednik_etal_diet_60_76.pdf) (česky)
 
-[Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen gewasserhabitaten in Bereich des Erzgebirges und des Erzgebirgsvorlandes](</media/bulletin VYDRA_Deutsche_Nahrung.pdf>) (Deutsche)
+[Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen gewasserhabitaten in Bereich des Erzgebirges und des Erzgebirgsvorlandes](/media/bulletin_VYDRA_Deutsche_Nahrung.pdf>) (Deutsche)
 
 <br/>
 
 [Beran V. a Poledníková K.: Putovní výstava Ich bin ein vydra, aneb jak vydra přes hranici přišla](/media/bulletin_VYDRA_19_Beran_77_99.pdf) (česky)
 
-[Beran V. a Poledníková K.: Zur Wanderausstellung Ich bin ein Vydra. Wie der Fischotter uber die Grenze kam](</media/bulletin VYDRA_Deutsche_Ausstellung.pdf>) (Deutsche)
+[Beran V. a Poledníková K.: Zur Wanderausstellung Ich bin ein Vydra. Wie der Fischotter uber die Grenze kam](/media/bulletin_VYDRA_Deutsche_Ausstellung.pdf>) (Deutsche)
 
 <br/>
 
