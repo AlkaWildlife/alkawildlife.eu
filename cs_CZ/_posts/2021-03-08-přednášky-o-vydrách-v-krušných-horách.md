@@ -59,12 +59,11 @@ Potravní nabídka je jednou ze základních potřeb pro každý druh. Vodní pr
 
 <br/>
 
-
 # Projekt Lutra lutra
 
 Wir möchten Ihnen das zu Ende gehende Projekt Lutra lutra und manche seiner Ergebnisse vorstellen.  Die geplante Abschlusskonferenz konnte wegen der Covid-19 Pandemie nicht stattfinden. Die Ergebnisse des Projektes werden deshalb in Form von online-Vorträgen präsentiert.
 
-<iframe width="560" height="315" src="https://youtu.be/SoKcnns7yNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vVZKbow-obA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 <br/>
@@ -73,7 +72,7 @@ Wir möchten Ihnen das zu Ende gehende Projekt Lutra lutra und manche seiner Erg
 
 Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der tschechischen Republik 2019-2020.
 
-<iframe width="560" height="315" src="https://youtu.be/vVZKbow-obA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vVZKbow-obA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 <br/>
@@ -82,7 +81,7 @@ Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen u
 
 Genetische Struktur der Fischotterpolpulation im Erzgebirge 
 
-<iframe width="560" height="315" src="https://youtu.be/eHuazJC0x3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eHuazJC0x3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 <br/>
@@ -91,4 +90,4 @@ Genetische Struktur der Fischotterpolpulation im Erzgebirge
 
 Das Ziel der Studie war eine Untersuchung der Zusammensetzung der Nahrung des Fischotters im Erzgebirge.
 
-<iframe width="560" height="315" src="https://youtu.be/-d4kfwsgQrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-d4kfwsgQrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
