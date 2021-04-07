@@ -51,3 +51,44 @@ Cílem genetické studie bylo zjistit původ krušnohorských vyder a zhodnotit 
 Potravní nabídka je jednou ze základních potřeb pro každý druh. Vodní prostředí v Krušných horách i jejich podhůří, zejména na české straně je velmi specifické. Je tedy otázkou, jak si s tím vydry poradí a co zde konzumují.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8wfj3Vu2n3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+# **Deutsche Version**
+
+<br/>
+
+
+# Projekt Lutra lutra
+
+Wir möchten Ihnen das zu Ende gehende Projekt Lutra lutra und manche seiner Ergebnisse vorstellen.  Die geplante Abschlusskonferenz konnte wegen der Covid-19 Pandemie nicht stattfinden. Die Ergebnisse des Projektes werden deshalb in Form von online-Vorträgen präsentiert.
+
+<iframe width="560" height="315" src="https://youtu.be/SoKcnns7yNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+# Vorkommen des Fischotters in Erzgebirge
+
+Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der tschechischen Republik 2019-2020.
+
+<iframe width="560" height="315" src="https://youtu.be/vVZKbow-obA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+# Genetische Struktur der Fischotterpolpulation im Erzgebirge
+
+Genetische Struktur der Fischotterpolpulation im Erzgebirge 
+
+<iframe width="560" height="315" src="https://youtu.be/eHuazJC0x3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+# Der Nahrung Des Fischotters im Erzgebirge
+
+Das Ziel der Studie war eine Untersuchung der Zusammensetzung der Nahrung des Fischotters im Erzgebirge.
+
+<iframe width="560" height="315" src="https://youtu.be/-d4kfwsgQrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
