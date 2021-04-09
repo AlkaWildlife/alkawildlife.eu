@@ -27,10 +27,6 @@ Po inzerování v časopisech, na webu a facebooku máme úžasnou odezvu! Už j
 
 Tentokrát jsme získali ještě větší vzácnost: fotografii plcha zahradního (v úvodu). V České republice je nejvzácnější z našich čtyř druhů plchů. Jeho výskyt na území ČR je dnes omezen pouze na západní Čechy a každý doložený nález má velkou hodnotu.
 
-plch zahradní (autor: Jana Holá)
-
-Tentokrát jsme získali ještě větší vzácnost: fotografii plcha zahradního. V České republice je nejvzácnější z našich čtyř druhů plchů. Jeho výskyt na území ČR je dnes omezen pouze na západní Čechy a každý doložený nález má velkou hodnotu.
-
 Nadále sbíráme údaje o plchu velkém i v letošním roce. Proto pokud plcha velkého (či jiné plchy) zaznamenáte, dejte nám prosím vědět, pošlete nám fotku či video. 
 
 Kontakty:
