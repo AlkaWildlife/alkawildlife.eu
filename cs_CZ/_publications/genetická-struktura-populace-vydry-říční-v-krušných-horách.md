@@ -1,5 +1,5 @@
 ---
-title: ': Genetická struktura populace vydry říční v Krušných horách'
+title: Genetická struktura populace vydry říční v Krušných horách
 published: true
 public: true
 authors:
