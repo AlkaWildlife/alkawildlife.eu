@@ -115,3 +115,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 ## **Bulletin Vydra č. 19**
 
 [Speciální číslo Bulletinu Vydra věnované výsledkům projektu Lutra lutra](https://www.vydryonline.cz/ke-stazeni/bulletin-vydra/bulletin-vydra-19)
+
+## **Brožura**
+
+[Informační brožura o vydře říční, výsledcích projektu a s katalogem opatření ](/media/informationsbroschuere_fischotter.pdf)
