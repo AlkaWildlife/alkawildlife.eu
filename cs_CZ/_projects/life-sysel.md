@@ -1,6 +1,6 @@
 ---
 title: LIFE SYSEL
-published: false
+published: true
 subtitle: Ochrana sysľa pasienkového
 registration_no: LIFE19 NAT/SK/001069
 funding: |-
@@ -30,10 +30,38 @@ tags:
 countries:
   - CZ
 ---
-Zaměření projektu:
+## Zaměření projektu:
 
 Projekt má přispět k aktivní ochraně biotopů ohroženého sysla obecného na vybraných lokalitách na Slovensku, v České republice a Polsku. 
 
-Na Slovensku na většině lokalit v alpském i panonském regionu byla kvalita populací sysla obecného i jeho prostředí vyhodnocená jako nevyhovující až špatná. Důvodem je na většině lokalit zánik prostředí způsobený změnou hospodaření (zanechání pastvy). Obdobná situace je i v České republice. V Polsku sysel v 80. letech 20. století vyhynul.
+Na Slovensku na většině lokalit v alpském i panonském regionu byla kvalita populací sysla obecného i jeho prostředí vyhodnocená jako nevyhovující až špatná. Důvodem je na většině lokalit zánik prostředí způsobený změnou hospodaření (zanechání pastvy). Obdobná situace je i v České republice. V Polsku sysel v 80. letech 20. století vyhynul, úspěšnou reintrodukcí jedinců ze Slovenska se podařilo několik lokalit znovu osídlit.
 
-Na Slovensku vo väčšine lokalít v alpskom aj panónskom regióne bola kvalita populácii sysľa pasienkového ako aj jeho biotopov vyhodnotená ako nevyhovujúca až zlá. Dôvodom je spravidla zánik biotopu spôsobený zmenou obhospodarovania lokality (najmä zanechaním pastvy hospodárskych zvierat v krajine). Obdobná situácia je v Čechách, v Poľsku syseľ vyhynul v 80-tych rokoch 20.storočia, úspešnou reintrodukciou jedincov zo Slovenska sa podarilo osídliť viacero lokalít, avšak celkový stav populácie je zlý.
+## Hlavní cíle projektu:
+
+
+
+1. Obnova biotopů - vyčištění lokalit od náletů, zavedení pastvy
+
+
+
+2. Posílení populací - zabezpečení potravní základny (výsev vhodných rostlin, podpora hmyzu, výsadba ovocných stromů), péče o jednotlivé kolonie, odklonění predačního tlaku
+
+
+
+3. Reintrodukce sysla na vhodné lokality, na kterých v nedávné minulosti vyhynul
+
+
+
+4. Spolupráce s místními zájmovými skupinami, vlastníky či uživateli pozemků
+
+
+
+5. Replikace a přenos výsledků projektu
+
+
+
+6. Zvýšení povědomí veřejnosti o ochraně sysla obecného pasienkového
+
+
+
+V České republice se bude jednat zejména o body 5 a 6.
