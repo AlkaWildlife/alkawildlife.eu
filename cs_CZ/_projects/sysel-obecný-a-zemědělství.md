@@ -6,11 +6,13 @@ subtitle: >-
   minimalizaci škod a k podpoře sysla obecného
 registration_no: SS01010510
 funding: >-
-  [Technologická agentura České republiky](https://www.tacr.cz/)
 
 
-  [Program Prostředí pro
-  život](https://www.tacr.cz/program/program-prostredi-pro-zivot/)
+  [![](/media/logo_tacr_zakl_inv_300.png)](https://www.tacr.cz/)
+
+
+  [![](/media/prostredi_pz_300.png)](https://www.tacr.cz/program/program-prostredi-pro-zivot/)
+
 
 
   Podprogram 1 - Operativní výzkum ve veřejném zájmu
