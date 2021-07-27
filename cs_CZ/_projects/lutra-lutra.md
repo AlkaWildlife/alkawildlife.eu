@@ -100,6 +100,8 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 ## Články a reportáže v médiích
 
+[Vydry v Krušných horách a Mostecké pánvi](https://www.myslivost.cz/Casopis-Myslivost/MYSLIVOST-Straz-myslivosti/2021/Cerven-2021/Vydry-v-Krusnych-horach-a-Mostecke-panvi) (Myslivost 06/2021)
+
 [Přednáškový seriál o vydře říční a jejím návratu do krajiny hnědouhelných pánví](https://ekolist.cz/cz/publicistika/priroda/prednaskovy-serial-o-vydre-ricni-a-jejim-navratu-do-krajiny-hnedouhelnych-panvi) (Ekolist 10.4.2021)
 
 [Jak vydry s hlaváčem na Labi bojují](https://ekolist.cz/cz/publicistika/priroda/jak-vydry-s-hlavacem-na-labi-bojuji) (Ekolist 5.1.2021)
