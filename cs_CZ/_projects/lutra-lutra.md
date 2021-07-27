@@ -64,7 +64,21 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 # Aktuality
 
+[Výstava Lutra lutra](https://www.vydryonline.cz/news/v%C3%BDstava-lutra-lutra)
+
+[Speciální číslo Bulletinu Vydra](/news/speci%C3%A1ln%C3%AD-%C4%8D%C3%ADslo-bulletinu-vydra)
+
+[Putování s vydrou](https://www.vydryonline.cz/news/putov%C3%A1n%C3%AD-s-vydrou)
+
+[Přednášky o vydrách v Krušných horách](/news/p%C5%99edn%C3%A1%C5%A1ky-o-vydr%C3%A1ch-v-kru%C5%A1n%C3%BDch-hor%C3%A1ch)
+
+[Nová lávka, tentokrát u Mostu](https://www.vydryonline.cz/news/nov%C3%A1-l%C3%A1vka-tentokr%C3%A1t-u-mostu)
+
+[Jak vydry s hlaváčem na Labi bojují](/news/jak-vydry-s-hlav%C3%A1%C4%8Dem-na-labi-bojuj%C3%AD)
+
 [Vydrynasilnici.cz se zažlutilo](https://www.vydryonline.cz/news/vydrynasilnici-cz-se-za%C5%BElutilo)
+
+[Vydří info stánek](/news/vyd%C5%99%C3%AD-info-st%C3%A1nek) 
 
 [Mýval severní v Krušných horách](/news/mýval-severní-v-krušných-horách)
 
@@ -78,13 +92,17 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 ## Akce
 
-Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena. O to více připravujeme výstupů online. 
+Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena.  
 
 30.8.2020 [Info stánek v Děčíně](https://www.vydryonline.cz/news/vyd%C5%99%C3%AD-info-st%C3%A1nek)
 
 11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
 
 ## Články a reportáže v médiích
+
+[Přednáškový seriál o vydře říční a jejím návratu do krajiny hnědouhelných pánví](https://ekolist.cz/cz/publicistika/priroda/prednaskovy-serial-o-vydre-ricni-a-jejim-navratu-do-krajiny-hnedouhelnych-panvi) (Ekolist 10.4.2021)
+
+[Jak vydry s hlaváčem na Labi bojují](https://ekolist.cz/cz/publicistika/priroda/jak-vydry-s-hlavacem-na-labi-bojuji) (Ekolist 5.1.2021)
 
 [Vydry v Krušných horách](https://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/221411000100307/obsah/825000-vydry-v-krusnych-horach) (Česká televize, Události 7.3.2021)
 
