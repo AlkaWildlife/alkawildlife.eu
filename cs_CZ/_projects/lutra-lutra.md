@@ -96,7 +96,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 ## **Zprávy**
 
-[Riziková místa pro vydru říční na silnicích pro Ústecký kraj (pdf)](https://www.vydryonline.cz/media/Rizikov%C3%A1_m%C3%ADsta_vydra_Kru%C5%A1n%C3%A9_Mostecko_2.pdf)
+[Riziková místa pro vydru říční na silnicích pro Ústecký kraj (pdf)](https://www.vydryonline.cz/media/Rizikova_mista_vydra_Ustecky_kraj_1.pdf)
 
 [Zhodnocení prostředí toků z pohledu vydry říční pro Ústecký kraj (pdf)](https://www.vydryonline.cz/media/charakteristika%20toku_vydra_Krusne_Mostecko_2.pdf)
 
