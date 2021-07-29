@@ -3,6 +3,8 @@ title: Za myškou z doby ledové
 published: true
 registration_no: KPF-01-272
 funding: |-
+  ![](/media/fmp_300.jpg)
+
   Fond malých projektů
 
   Interreg Rakousko - Česká republika
