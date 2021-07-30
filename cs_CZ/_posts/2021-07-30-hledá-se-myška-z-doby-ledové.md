@@ -1,6 +1,6 @@
 ---
 title: Hledá se myška z doby ledové
-published: false
+published: true
 image: /media/mysivka_01_620.jpg
 listing_thumbnail: /media/mysivka_01_274.jpg
 description: 'Hledáme myšivku horskou, pomozte nám ji najít. '
