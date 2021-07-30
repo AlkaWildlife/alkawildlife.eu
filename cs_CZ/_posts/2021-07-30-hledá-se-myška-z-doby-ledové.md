@@ -13,8 +13,6 @@ lang_alternatives:
 category: news
 layout: news
 ---
-
-
 Tisková zpráva ALKA Wildlife, o.p.s. a Grünes Herz Europas- Nationalparkregion Donau-Moldau
 
 # Hledá se myška z doby ledové
@@ -33,8 +31,6 @@ Kde se s ní tedy můžete potkat? A jak ji poznáte? Myšivka žije na vlhkých
 
 ![](/media/myšivka_6_620.jpg)
 
-
-
 _myšivka horská Sicista betulina (foto: Jeroen van der Kooij)_
 
 „_Lidé mohou myšivku najít například po posečení louky nebo se jim pochlubí jejich kočka, co našla_“ uvádí konkrétní možnosti Thomas Engleder a výzvu uzavírá Kateřina Poledníková „_Pokud tedy má někdo pocit, že myšivku horskou viděl, či ji našel třeba mrtvou a chce se podělit o své pozorování, může nám napsat. V případě nálezu mrtvé myšivky budeme moc rádi, když ji seberete a zamrazíte, než si pro ni přijedeme. Již teď moc děkujeme, pomůžete tak shromáždit informace, které pomůžou k její ochraně_.“ 
@@ -45,14 +41,10 @@ _myšivka horská Sicista betulina (foto: Jeroen van der Kooij)_
 
 Rakousko: tho.mas@gmx.at 
 
-
-
 ![](/media/stare_hute_620.jpg)
 
 _Staré hutě v Novohradských horách - typické prostředí myšivky horské_
 
 __
 
-Hledání myšivky horské je součástí projektu [Za myškou z doby ledové](/projects/za-my%C5%A1kou-z-doby-ledov%C3%A9), který je financován z Fondu malých projektů programu INTERREG V-A Rakousko – Česká republika. Partnery projektu jsou: na české straně ALKA Wildlife a na rakouské straně Grünes Herz Europas- Nationalparkregion Donau-Moldau. 
-
-__
+Hledání myšivky horské je součástí projektu [Za myškou z doby ledové](/projects/za-my%C5%A1kou-z-doby-ledov%C3%A9), který je financován z Fondu malých projektů programu INTERREG V-A Rakousko – Česká republika. Partnery projektu jsou: na české straně ALKA Wildlife a na rakouské straně [Grünes Herz Europas- Nationalparkregion Donau-Moldau](http://gruenesherz.boehmerwaldnatur.at/index.htm).
