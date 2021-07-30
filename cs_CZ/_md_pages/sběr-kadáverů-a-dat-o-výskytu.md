@@ -9,23 +9,23 @@ description: >-
 position: 1
 layout: single_column_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: Monitoring
+    permalink: en.alkawildlife.eu
 ---
-Dlouhodobě se zabýváme výzkumem, monitoringem a ochranou vybraných druhů savců a ptáků. 
+Dlouhodobě se zabýváme výzkumem, monitoringem a ochranou vybraných druhů savců a ptáků. 
 
 Z celé ČR pro tyto účely sbíráme kadávery či data o výskytu/pozorování. Pomozte nám a dejte nám vědět o svém nálezu. Záznamem svého pozorování může přispět kdokoli. 
 
 Hlásit údaje nám můžete na emaily, rádi budeme také za fotografie. V případě nálezu uhynulého jedince raději volejte, abychom rychleji zorganizovali sběr. Vděční budeme za aktuální i starší údaje. 
 
-# Kontakty: 
+# Kontakty:
 
 Kateřina Poledníková / katerina.polednikova@alkawildlife.eu / 606598903 / celá ČR
 
 Václav Beran / lutra@email.cz /  731407839  / severní Čechy
 
 Tereza Mináriková / tereza.minarikova@alkawildlife.eu / 724706806 / střední Čechy
-
-
 
 # Co sbíráme:
 
@@ -36,6 +36,8 @@ sysel obecný / kadávery, aktuální i starší údaje o výskytu / celá ČR
 tchoř stepní  / kadávery, aktuální i starší údaje o výskytu / celá ČR
 
 plch velký / aktuální i starší údaje o výskytu / celá ČR
+
+myšivka horská / kadávery, aktuální i starší údaje o výskytu / celá ČR
 
 rys ostrovid / kadávery, aktuální i starší údaje o výskytu / celá ČR
 
