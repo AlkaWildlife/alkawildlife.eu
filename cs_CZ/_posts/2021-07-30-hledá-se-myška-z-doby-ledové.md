@@ -33,7 +33,7 @@ Kde se s ní tedy můžete potkat? A jak ji poznáte? Myšivka žije na vlhkých
 
 _myšivka horská Sicista betulina (foto: Jeroen van der Kooij)_
 
-„_Lidé mohou myšivku najít například po posečení louky nebo se jim pochlubí jejich kočka, co našla_“ uvádí konkrétní možnosti Thomas Engleder a výzvu uzavírá Kateřina Poledníková „_Pokud tedy má někdo pocit, že myšivku horskou viděl, či ji našel třeba mrtvou a chce se podělit o své pozorování, může nám napsat. V případě nálezu mrtvé myšivky budeme moc rádi, když ji seberete a zamrazíte, než si pro ni přijedeme. Již teď moc děkujeme, pomůžete tak shromáždit informace, které pomůžou k její ochraně_.“ 
+„_Lidé mohou myšivku najít například po posečení louky nebo se jim pochlubí jejich kočka, co našla_“ uvádí konkrétní možnosti Thomas Engleder a výzvu uzavírá Kateřina Poledníková „_Pokud tedy má někdo pocit, že myšivku horskou viděl, či ji našel třeba mrtvou, napište nám. V případě nálezu mrtvé myšivky budeme moc rádi, když ji seberete a zamrazíte, než si pro ni přijedeme. Již teď moc děkujeme, informace od vás pomohou k její ochraně_.“ 
 
 **Pozorování, fotky, dotazy je možné zasílat na tyto kontakty:** 
 
