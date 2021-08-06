@@ -3,6 +3,7 @@ title: Dočasný domov syslů
 published: true
 image: /media/dsc_0058.jpg
 author: ALKA Wildlife
+gallery: /news/posílení-syslů-v-pavlovicích
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
