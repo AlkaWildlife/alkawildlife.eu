@@ -5,6 +5,7 @@ image: /media/p7200083-620.jpg
 listing_thumbnail: /media/p7200083-274.jpg
 description: Sysli mají trable. V Pavlovicích i jinde musely být populace posíleny.
 date: '2021-08-06'
+logoset: LIFE MZP
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
