@@ -3,6 +3,7 @@ title: Transportní boxy
 published: true
 image: /media/p7200044.jpg
 author: ALKA Wildlife
+gallery: /news/posílení-syslů-v-pavlovicích
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
