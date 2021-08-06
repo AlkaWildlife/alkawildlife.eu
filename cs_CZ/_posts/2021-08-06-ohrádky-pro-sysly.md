@@ -3,6 +3,7 @@ title: Ohrádky pro sysly
 published: true
 image: /media/img-20210723-wa0014.jpg
 author: 'ALKA Wildlife '
+gallery: /news/posílení-syslů-v-pavlovicích
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
