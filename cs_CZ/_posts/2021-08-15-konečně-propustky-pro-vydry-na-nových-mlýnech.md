@@ -28,11 +28,9 @@ Jak uvedl náměstek hejtmana Lukáš Dubec, v jehož gesci je oblast životníh
 
 Jak dále dodává, kontrolou propustků a instalací fotopastí bylo již po několika týdnech zjištěno, že tato **investice nebyla zbytečná**. „_Propustky jsou vydrami často využívány. Ale našli si je i další živočichové, například kuny, ježci, lišky, včetně těch, kteří do naší přírody tak úplně nepatří – kočky domácí, nutrie, norek americký. A propustek překvapivě posloužil i ptákům, prošla jím kachna divoká s mláďaty,_“ popisuje účinnost zvířecích podchodů Lukáš Dubec.
 
-_Již týdny po vybudování propustků zvířata cestu našla a využívají ji ((c) ALKA Wildlife)_
+_Již týdny po vybudování propustků zvířata cestu našla a využívají ji (autor: ALKA Wildlife)_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed//mcIuBSLqjAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
 
 <br/>
 
