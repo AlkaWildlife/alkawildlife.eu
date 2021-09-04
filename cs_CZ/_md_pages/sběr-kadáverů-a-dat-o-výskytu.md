@@ -19,13 +19,7 @@ Z celé ČR pro tyto účely sbíráme kadávery či data o výskytu/pozorován�
 
 Hlásit údaje nám můžete na emaily, rádi budeme také za fotografie. V případě nálezu uhynulého jedince raději volejte, abychom rychleji zorganizovali sběr. Vděční budeme za aktuální i starší údaje. 
 
-# Kontakty:
-
-Kateřina Poledníková / katerina.polednikova@alkawildlife.eu / 606598903 / celá ČR
-
-Václav Beran / lutra@email.cz /  731407839  / severní Čechy
-
-Tereza Mináriková / tereza.minarikova@alkawildlife.eu / 724706806 / střední Čechy
+AKTUÁLNÍ NOVINKA: **NOVĚ** SBÍRÁME ÚDAJE I _KADÁVERY_ **MYŠIVKY HORSKÉ**
 
 # Co sbíráme:
 
@@ -50,3 +44,13 @@ mýval severní / aktuální i starší údaje o výskytu / celá ČR
 sokol stěhovavý / kadávery, aktuální i starší údaje o výskytu / celá ČR
 
 raroh velký / kadávery, aktuální i starší údaje o výskytu / celá ČR
+
+
+
+# Kontakty:
+
+Kateřina Poledníková / katerina.polednikova@alkawildlife.eu / 606598903 / celá ČR
+
+Václav Beran / lutra@email.cz /  731407839  / severní Čechy
+
+Tereza Mináriková / tereza.minarikova@alkawildlife.eu / 724706806 / střední Čechy
