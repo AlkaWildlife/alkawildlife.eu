@@ -19,7 +19,7 @@ Z celé ČR pro tyto účely sbíráme kadávery či data o výskytu/pozorován�
 
 Hlásit údaje nám můžete na emaily, rádi budeme také za fotografie. V případě nálezu uhynulého jedince raději volejte, abychom rychleji zorganizovali sběr. Vděční budeme za aktuální i starší údaje. 
 
-AKTUÁLNÍ NOVINKA: **NOVĚ** SBÍRÁME ÚDAJE I _KADÁVERY_ **MYŠIVKY HORSKÉ**
+AKTUÁLNÍ NOVINKA: **NOVĚ** SBÍRÁME ÚDAJE I _KADÁVERY_ [**MYŠIVKY HORSKÉ**](https://www.alkawildlife.eu/news/hled%C3%A1-se-my%C5%A1ka-z-doby-ledov%C3%A9)****
 
 # Co sbíráme:
 
@@ -44,8 +44,6 @@ mýval severní / aktuální i starší údaje o výskytu / celá ČR
 sokol stěhovavý / kadávery, aktuální i starší údaje o výskytu / celá ČR
 
 raroh velký / kadávery, aktuální i starší údaje o výskytu / celá ČR
-
-
 
 # Kontakty:
 
