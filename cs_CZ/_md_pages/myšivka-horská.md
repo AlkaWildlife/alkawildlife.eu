@@ -31,7 +31,7 @@ Myšivka je všežravec, živí se semeny, bobulemi i drobným hmyzem.
 
 ## Rozšíření
 
-Areál výskytu zasahuje od Sibiře po střední Evropu, vyskytuje se i ve Skandinávii. Západní okraj v Evropě tvoří Karpatský oblouk a pak dále na západ se ještě nachází izolované populace v Alpách, na Šumavě a v Dánsku. 
+Areál výskytu zasahuje od Sibiře po střední Evropu, vyskytuje se i ve Skandinávii. Ve střední Evropě se myšivka horská více vyskytovala v době ledové, s postupným oteplováním se areál výskytu posouval směrem na sever a izolované populace zůstaly v některých pohořích. Západní okraj v Evropě v současnosti tvoří Karpatský oblouk a pak dále na západ se ještě nachází izolované populace v Alpách, na Šumavě a v Dánsku. 
 
 ## Výskyt v ČR
 
@@ -45,4 +45,8 @@ V České republice se myšivka horská vyskytuje pouze v horách, zhruba od nad
 
 ## Statut a ochrana 
 
-Podle zákona č. 114/1992 Sb., o ochraně přírody a krajiny, a související vyhlášky č. 395/1992 Sb. je myšivka horská zvláště chráněný živočich v kategorii silně ohrožený. V Evropské unii je chráněna směrnicí č. 92/43/EEC o ochraně přírodních stanovišť, volně žijících živočichů a planě rostoucích rostlin, je uveden v příloze IV.
+Podle zákona č. 114/1992 Sb., o ochraně přírody a krajiny, a související vyhlášky č. 395/1992 Sb. je myšivka horská zvláště chráněný živočich v kategorii silně ohrožený. V Evropské unii je chráněna směrnicí č. 92/43/EEC o ochraně přírodních stanovišť, volně žijících živočichů a planě rostoucích rostlin, je uveden v příloze IV. 
+
+## Projekty
+
+Realizované projekty zaměřené na myšivku horskou [zde](https://www.alkawildlife.eu/projects#category=my%C5%A1ivka-horsk%C3%A1).
