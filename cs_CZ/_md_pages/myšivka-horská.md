@@ -1,6 +1,6 @@
 ---
 title: Myšivka horská
-published: false
+published: true
 permalink: /zajmove-druhy/mysivka-horska
 image: /media/myšivka_6_620_u.jpg
 description: Myšivka je jediným zástupcem tarbíků v České republice.
