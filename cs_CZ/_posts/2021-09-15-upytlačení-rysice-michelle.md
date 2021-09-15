@@ -14,13 +14,14 @@ lang_alternatives:
 category: news
 layout: news
 ---
+_foto: V mrazáku gangu nalezená rysice Michelle (foto Celní zpráva ČR)_
+
 Rysice Michelle byla upytlačena. Rysice Michelle byla sledována pomocí sítě fotopastí v jižních Čechách v rámci dlouhodobého monitoringu izolované populace rysů v česko-rakousko-bavorském pohraničí, které realizuje ALKA wildlife, NP Šumava, Hnutí Duha  a AOPK ČR. 
 
-Michelle byla sledována v letech 2014 až 2018 v širším okolí Prachatic. Fotopasti ukázaly, že Michelle každoročně od roku 2015 přivedla na svět jedno až dvě mláďata. Počátkem listopadu 2018 Michelle zmizela a už se neobjevila. Následně jsme navázali spolupráci s Celní správou České republiky a zjistili jsme, že Michelle byla nelegálně ulovena organizovanou skupinou, sledovanou v rámci případu Lovec. Díky společné databázi většiny jedinců populace rysa v jižních Čechách bylo možné upytlačeného rysa identifikovat. 
+Michelle byla sledována v letech 2014 až 2018 v širším okolí Prachatic. Fotopasti ukázaly, že Michelle každoročně od roku 2015 přivedla na svět jedno až dvě mláďata. Počátkem listopadu 2018 Michelle zmizela a už se neobjevila. Následně jsme navázali spolupráci s Celní správou České republiky a zjistili jsme, že Michelle byla nelegálně ulovena organizovanou skupinou, sledovanou v rámci případu Lovec.
+ Díky společné databázi většiny jedinců populace rysa v jižních Čechách bylo možné upytlačeného rysa identifikovat. 
 
 V době upytlačení vodila jedno půlroční mládě. V tomto věku ještě mláďata rysů nejsou soběstačná, jsou závislá na matce, mládě tedy pravděpodobně po zastřelení matky umřelo hlady. Úmrtí dospělé rysice, navíc s kotětem, které zemřelo po její smrti, je významné pro celou česko-bavorsko-rakouskou rysí populaci. Ta v současnosti čítá 32 rysích rodin na území všech tří států, každá rodina má tak velký význam pro přežití celé populace.
-
-
 
 Celá kauza Lovec má obrovské rozměry pytlačení zvláště chráněných živočichů. Například na TV Nova je možné shlédnout reportáž. 
 
