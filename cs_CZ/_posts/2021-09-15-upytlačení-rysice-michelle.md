@@ -35,8 +35,20 @@ _Michelle s koťaty v roce 2015_
 
 ![](/media/65101911.jpg)
 
-__
+_Michelle a její kotě v roce 2016_
 
-__
+![](/media/65860032.jpg)
 
-__
+_Michelle a její dvě koťata z roku 2017. Ten vpředu je Brodík, mladý kocour, který se proslavil svou cestou směrem na Brdy v roce 2018._
+
+![](/media/65502812.jpg)
+
+_Michelle a její koťata v roce 2018_
+
+![](/media/65757415.jpg)
+
+![](/media/77188021.jpg)
+
+_Michelle_
+
+![](/media/65109334.jpg)
