@@ -23,6 +23,20 @@ Michelle byla sledována v letech 2014 až 2018 v širším okolí Prachatic. Fo
 
 V době upytlačení vodila jedno půlroční mládě. V tomto věku ještě mláďata rysů nejsou soběstačná, jsou závislá na matce, mládě tedy pravděpodobně po zastřelení matky umřelo hlady. Úmrtí dospělé rysice, navíc s kotětem, které zemřelo po její smrti, je významné pro celou česko-bavorsko-rakouskou rysí populaci. Ta v současnosti čítá 32 rysích rodin na území všech tří států, každá rodina má tak velký význam pro přežití celé populace.
 
-Celá kauza Lovec má obrovské rozměry pytlačení zvláště chráněných živočichů. Například na TV Nova je možné shlédnout reportáž. 
+Celá kauza Lovec má obrovské rozměry pytlačení zvláště chráněných živočichů. Například na TV Nova je možné shlédnout [reportáž](https://tn.nova.cz/zpravodajstvi/clanek/444115-celni-sprava-gang-mel-vozit-lovce-na-sumavu-strilet-chraneneho-rysar?fbclid=IwAR2xMAtwWziKHS2EHSVlV3ZbSykZg6xkhlrXSsL04BwnSVkaCZovaWQW3eE). 
 
 Podrobné informace k oběma případům naleznete v [tiskové zprávě Celní zprávy ČR](https://www.celnisprava.cz/cz/tiskove-zpravy/2021/Stranky/Lovec-%E2%80%93-razie-celn%C3%ADk%C5%AF-a-upytla%C4%8Den%C3%A1-rysice-na-%C5%A0umav%C4%9B-.aspx?fbclid=IwAR3AZEZ9lqUOnqe8pYlu8QtPbGKFQFKoQ94rjX6gQ9clKIFNaNFfzvodMMk).
+
+_Michelle_
+
+![](/media/65919276.jpg)
+
+_Michelle s koťaty v roce 2015_
+
+![](/media/65101911.jpg)
+
+__
+
+__
+
+__
