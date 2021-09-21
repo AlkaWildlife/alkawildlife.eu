@@ -1,5 +1,5 @@
 ---
-title: Rysí máme Michelle
+title: Rysí máma Michelle
 published: true
 image: /media/12183946_610.jpg
 listing_thumbnail: /media/12183946_274.jpg
@@ -8,7 +8,9 @@ description: >-
   její příběh. Poprvé ji zaznamenala fotopast v listopadu 2014.
 date: '2016-08-21'
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    permalink: en.alkawildlife.eu
+    title: Lynx mother Michelle
 category: news
 layout: news
 ---
