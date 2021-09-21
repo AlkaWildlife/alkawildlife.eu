@@ -1,11 +1,11 @@
 ---
 title: Upytlačení rysice Michelle
 published: true
-image: /media/2021-9-14-812rys_620.jpg
-listing_thumbnail: /media/2021-9-14-812rys_274.jpg
+image: /media/michelle_ulovena.jpg
+listing_thumbnail: ''
 description: >-
   Rysí kočka Michelle žijící na Prachaticku byla upytlačena. Nalezena byla v
-  mrazáku organizované skupiny případu "Lovec".
+  rámci případu "Lovec".
 date: '2021-09-15'
 lang_alternatives:
   en_GB:
