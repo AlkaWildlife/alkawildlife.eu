@@ -14,7 +14,7 @@ lang_alternatives:
 category: news
 layout: news
 ---
-_foto: V mrazáku gangu nalezená rysice Michelle (foto Celní zpráva ČR)_
+_foto: Rysice Michelle byla nelegálně ulovena v listopadu 2018 (foto Celní správa ČR)_
 
 Rysice Michelle byla upytlačena. Rysice Michelle byla sledována pomocí sítě fotopastí v jižních Čechách v rámci dlouhodobého monitoringu izolované populace rysů v česko-rakousko-bavorském pohraničí, které realizuje ALKA wildlife, NP Šumava, Hnutí Duha  a AOPK ČR. 
 
@@ -52,3 +52,9 @@ _Michelle a její koťata v roce 2018_
 _Michelle_
 
 ![](/media/65109334.jpg)
+
+__
+
+_Michelle byla zabavená už vycpaná_
+
+![](/media/michelle_vycpana.jpg)
