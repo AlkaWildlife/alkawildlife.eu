@@ -10,6 +10,8 @@ authors:
   - name: Štěpán Zápotočný
   - name: Jindřich Poledník
 type: 'Odborná zpráva '
+tags:
+  - sysel obecný
 publisher: ALKA Wildlife
 year: 2020
 lang:
