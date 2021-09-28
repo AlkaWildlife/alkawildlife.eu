@@ -10,6 +10,8 @@ authors:
   - name: Fernando Mateos-González
   - name: Jaroslava Musilová
 type: 'Odborná zpráva '
+tags:
+  - sysel obecný
 publisher: 'ALKA Wildlife,o.p.s.'
 year: 2018
 lang:
