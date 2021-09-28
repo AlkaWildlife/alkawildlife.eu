@@ -1,6 +1,7 @@
 ---
 title: Superohrožený sysel
 published: true
+public: true
 authors:
   - name: Tereza Mináriková
   - name: Kateřina Poledníková
