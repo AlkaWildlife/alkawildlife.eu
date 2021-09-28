@@ -1,6 +1,7 @@
 ---
 title: Monitoring a výzkum populací sysla obecného na jižní Moravě v roce 2020
 published: true
+public: true
 authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
