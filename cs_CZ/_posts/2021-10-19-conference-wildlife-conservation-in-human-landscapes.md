@@ -38,43 +38,29 @@ Programme
 
 Wednesday 1. 12. 2021
 
-9:00
+9:00 - 10:00 registration
 
-10:00 registration
-
-11:00
-
-12:30 block of lectures
+11:00 - 12:30 block of lectures
 
 Lunch break
 
-13.30
-
-17.30 block of lectures
+13.30 - 17.30 block of lectures
 
 Thursday 2. 12. 2021
 
-9:00
-
-11:30 block of lectures
+9:00 - 11:30 block of lectures
 
 Lunch break
 
-12:30
+12:30 - 14:30 field excursion
 
-14:30 field excursion
-
-14:45
-
-18:00 block of lectures
+14:45 - 18:00 block of lectures
 
 19:00 social dinner in historical wine cellar
 
 Thursday 2. 12. 2021
 
-9:00
-
-11:30 block of lectures
+9:00 - 11:30 block of lectures
 
 11:50
 
