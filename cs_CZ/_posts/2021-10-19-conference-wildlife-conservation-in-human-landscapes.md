@@ -62,24 +62,16 @@ Thursday 2. 12. 2021
 
 9:00 - 11:30 block of lectures
 
-11:50
+11:50 - 12:50 discussion
 
-12:50 discussion
+
 
 How to get to conference venue
 
-Address:
+Address: Ekocentrum Trkmanka
 
-Ekocentrum Trkmanka
+Nádražní 1/1 Velké Pavlovice 691 06
 
-Nádražní
-
-1/1 Velké Pavlovice 691 06
-
-By car you can reach
-
-Pavlovice by highway D2 (E65), exit 25 or 41. Walking distance from
-
-the bus station Velké Pavlovice 300 m, from the train station Velké Pavlovice 750 m.
+By car you can reach Pavlovice by highway D2 (E65), exit 25 or 41. Walking distance from the bus station Velké Pavlovice 300 m, from the train station Velké Pavlovice 750 m.
 
 www.tacr.cz
