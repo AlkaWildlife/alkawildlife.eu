@@ -5,6 +5,7 @@ image: /media/conference-invitation.jpg
 listing_thumbnail: /media/conference-invitation_274.jpg
 description: ALKA Wildlife cordially invites you to the international conference.
 date: '2021-10-19'
+logoset: TACR
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
