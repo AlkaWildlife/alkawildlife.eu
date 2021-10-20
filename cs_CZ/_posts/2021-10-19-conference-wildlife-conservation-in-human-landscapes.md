@@ -31,7 +31,7 @@ If you would like to attend without presenting, [please fill in the Non-presente
 
 You can also contact organisers directly to email katerina.polednikova@alkawildlife.eu
 
-
+<br/>
 
 ## Programme
 
@@ -45,8 +45,6 @@ Lunch break
 
 13.30 - 17.30 block of lectures
 
-
-
 **Thursday 2. 12. 2021**
 
 9:00 - 11:30 block of lectures
@@ -59,15 +57,13 @@ Lunch break
 
 19:00 social dinner in historical wine cellar
 
-
-
 **Thursday 2. 12. 2021**
 
 9:00 - 11:30 block of lectures
 
 11:50 - 12:50 discussion
 
-
+<br/>
 
 ## How to get to conference venue
 
