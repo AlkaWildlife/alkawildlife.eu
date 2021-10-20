@@ -1,6 +1,6 @@
 ---
 title: Conference Wildlife conservation in human landscapes
-published: false
+published: true
 image: /media/conference-invitation.jpg
 listing_thumbnail: /media/conference-invitation_274.jpg
 description: ALKA Wildlife cordially invites you to the international conference.
