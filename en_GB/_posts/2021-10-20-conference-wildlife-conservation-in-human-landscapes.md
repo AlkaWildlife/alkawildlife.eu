@@ -74,3 +74,8 @@ Conference venue: [Ekocentrum Trkmanka](https://www.ekocentrum-trkmanka.com/)
 Address: [Nádražní 1/1 Velké Pavlovice 691 06](https://www.google.com/maps/place/Ekocentrum+Trkmanka,+p%C5%99%C3%ADsp%C4%9Bvkov%C3%A1+organizace/@48.8962326,16.819128,15z/data=!4m5!3m4!1s0x0:0xb84de4b58578a885!8m2!3d48.8962326!4d16.819128?sa=X&ved=2ahUKEwitkLrhqdbzAhUosKQKHcZYA3AQ_BJ6BAhbEAU&shorturl=1)
 
 By car you can reach Pavlovice by highway D2 (E65), exit 25 or 41. Walking distance from the bus station Velké Pavlovice 300 m, from the train station Velké Pavlovice 750 m.
+
+
+
+<br/>
+_**In case of an unfavourable epidemiological situation, the conference will take place online, at the same time.**_
