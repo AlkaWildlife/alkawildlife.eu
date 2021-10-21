@@ -21,9 +21,11 @@ invites you to the international conference
 
 Attendance at the conference is free of charge.
 
-Lecturers attend the conference for free, including accommodation and meals. 
+For speakers, food and accommodation are also free.  
 
-Other participants will be paid for refreshments during breaks and a social dinner on the second day. Upon request, the organizers, can arrange lunches, dinners (180 CZK/meal) and accommodation (500 CZK/night) in the conference venue. There are also alternative options for food and accommodation in Velké Pavlovice
+Non-presenting participants can book meals using the form below (lunches and/or dinners, 180 CZK/meal) and accommodation (500 CZK/night, breakfast included) at the conference venue. There are also alternative options for food and accommodation in Velké Pavlovice. 
+
+Refreshments during breaks and the social dinner in a historical wine cellar are free for all participants.
 
 If you are planning to give a talk, [please fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSeKNJMCr4l_w52KX_KttMrG7mHYaQio54Ajytzl4JzW1IR8eQ/viewform).
 
