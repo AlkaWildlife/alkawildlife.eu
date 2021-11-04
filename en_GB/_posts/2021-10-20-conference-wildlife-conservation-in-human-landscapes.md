@@ -59,7 +59,7 @@ Lunch break
 
 19:00 social dinner in historical wine cellar
 
-**Thursday 2. 12. 2021**
+**Friday 3. 12. 2021**
 
 9:00 - 11:30 block of lectures
 
@@ -75,7 +75,5 @@ Address: [Nádražní 1/1 Velké Pavlovice 691 06](https://www.google.com/maps/p
 
 By car you can reach Pavlovice by highway D2 (E65), exit 25 or 41. Walking distance from the bus station Velké Pavlovice 300 m, from the train station Velké Pavlovice 750 m.
 
-
-
 <br/>
-_**In case of an unfavourable epidemiological situation, the conference will take place online, at the same time.**_
+\_\*\*In case of an unfavourable epidemiological situation, the conference will take place online, at the same time.\*\*\_
