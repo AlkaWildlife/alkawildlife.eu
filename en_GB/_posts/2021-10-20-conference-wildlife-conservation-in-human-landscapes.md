@@ -27,6 +27,8 @@ Non-presenting participants can book meals using the form below (lunches and/or 
 
 Refreshments during breaks and the social dinner in a historical wine cellar are free for all participants.
 
+**DEADLINE FOR REGISTRATION: 15.11.2021**
+
 If you are planning to give a talk, [please fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSeKNJMCr4l_w52KX_KttMrG7mHYaQio54Ajytzl4JzW1IR8eQ/viewform).
 
 If you would like to attend without presenting, [please fill in the Non-presenter form](https://docs.google.com/forms/d/e/1FAIpQLScGqNV0PMyQpLXwPYc5AulPq8Z_sJ3BSnwUrr8OUG6I7w5SyA/viewform).
@@ -76,4 +78,4 @@ Address: [Nádražní 1/1 Velké Pavlovice 691 06](https://www.google.com/maps/p
 By car you can reach Pavlovice by highway D2 (E65), exit 25 or 41. Walking distance from the bus station Velké Pavlovice 300 m, from the train station Velké Pavlovice 750 m.
 
 <br/>
-\_\*\*In case of an unfavourable epidemiological situation, the conference will take place online, at the same time.\*\*\_
+_In case of an unfavourable epidemiological situation, the conference will take place online, at the same time._
