@@ -25,6 +25,8 @@ For speakers, food and accommodation are also free.
 Non-presenting participants can book meals using the form below (lunches and/or dinners, 180 CZK/meal) and accommodation (500 CZK/night, breakfast included) at the conference venue. There are also alternative options for food and accommodation in Velké Pavlovice. 
 Refreshments during breaks and the social dinner in a historical wine cellar are free for all participants.
 
+**DEADLINE FOR REGISTRATION: 15.11.2021**
+
 If you are planning to give a talk, [please fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSeKNJMCr4l_w52KX_KttMrG7mHYaQio54Ajytzl4JzW1IR8eQ/viewform).
 
 If you would like to attend without presenting, [please fill in the Non-presenter form](https://docs.google.com/forms/d/e/1FAIpQLScGqNV0PMyQpLXwPYc5AulPq8Z_sJ3BSnwUrr8OUG6I7w5SyA/viewform).
@@ -51,7 +53,7 @@ Lunch break
 
 Lunch break
 
-12:30 - 14:30 field excursion
+12:30 - 14:30 field excursion to European ground squirrel habitat
 
 14:45 - 18:00 block of lectures
 
@@ -74,4 +76,4 @@ Address: [Nádražní 1/1 Velké Pavlovice 691 06](https://www.google.com/maps/p
 By car you can reach Pavlovice by highway D2 (E65), exit 25 or 41. Walking distance from the bus station Velké Pavlovice 300 m, from the train station Velké Pavlovice 750 m.
 
 <br/>
-\_\*\*In case of an unfavourable epidemiological situation, the conference will take place online, at the same time.\*\*\_
+_In case of an unfavourable epidemiological situation, the conference will take place online, at the same time._
