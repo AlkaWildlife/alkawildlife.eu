@@ -8,7 +8,7 @@ date: '2021-10-19'
 logoset: TACR
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /news/conference-wildlife-conservation-in-human-landscapes
     title: Conference Wildlife conservation in human landscapes
 category: news
 layout: news
