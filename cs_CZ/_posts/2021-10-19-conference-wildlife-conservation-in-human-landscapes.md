@@ -41,29 +41,37 @@ You can also contact organisers directly to email katerina.polednikova@alkawildl
 
 9:00 - 10:00 registration
 
-11:00 - 12:30 block of lectures
+10:00 Welcome in Pavlovice
+
+10:15 Welcome for online audience
+
+10:30 - 12:10 block of lectures
 
 Lunch break
 
-13.30 - 17.30 block of lectures
+13.10 - 16:50 block of lectures
+
+16:50 - 17:50 plenary discussion
 
 **Thursday 2. 12. 2021**
 
-9:00 - 11:30 block of lectures
+9:00 - 11:50 block of lectures
 
 Lunch break
 
-12:30 - 14:30 field excursion to European ground squirrel habitat
+Field excursion to European ground squirrel habitat
 
-14:45 - 18:00 block of lectures
+16:00 - 17:20 block of lectures
 
-19:00 social dinner in historical wine cellar
+17:20 - 18:20 pleanry discussion
+
+Social dinner in historical wine cellar
 
 **Friday 3. 12. 2021**
 
-9:00 - 11:30 block of lectures
+9:00 - 11:00 block of lectures
 
-11:50 - 12:50 discussion
+11:00 - 12:00 discussion
 
 <br/>
 
@@ -76,4 +84,4 @@ Address: [Nádražní 1/1 Velké Pavlovice 691 06](https://www.google.com/maps/p
 By car you can reach Pavlovice by highway D2 (E65), exit 25 or 41. Walking distance from the bus station Velké Pavlovice 300 m, from the train station Velké Pavlovice 750 m.
 
 <br/>
-_In case of an unfavourable epidemiological situation, the conference will take place online, at the same time._
+\_In case of an unfavourable epidemiological situation, the conference will take place online, at the same time.\_
