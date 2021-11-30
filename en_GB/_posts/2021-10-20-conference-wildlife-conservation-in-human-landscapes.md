@@ -21,7 +21,13 @@ invites you to the international conference
 
 - - -
 
-# **You can watch us live on Youtube link: https://youtu.be/aG4YRha-y8A**
+# **You can watch us live on Youtube link:**
+
+
+
+#  **https://youtu.be/aG4YRha-y8A**
+
+
 
 ## Programme
 
@@ -50,8 +56,6 @@ Field excursion to European ground squirrel habitat
 11:10 - 12:10 discussion
 
 <br/>
-
-## 
 
 ![](/media/conference_program_day_620.jpg)
 
