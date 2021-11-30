@@ -13,17 +13,19 @@ lang_alternatives:
 category: news
 layout: news
 ---
-
-
 ALKA Wildlife Cordially
 
 invites you to the international conference
 
 **WILDLIFE CONSERVATION IN HUMAN LANDSCAPES**
 
-****
+- - -
 
-# **You can watch us live on Youtube link: https://youtu.be/aG4YRha-y8A**
+# **You can watch us live on Youtube link:**
+
+
+
+#  **https://youtu.be/aG4YRha-y8A**
 
 
 
@@ -54,8 +56,6 @@ Field excursion to European ground squirrel habitat
 11:10 - 12:10 discussion
 
 <br/>
-
-## 
 
 ![](/media/conference_program_day_620.jpg)
 
