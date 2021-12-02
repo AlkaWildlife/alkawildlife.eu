@@ -3,7 +3,7 @@ title: Conference Wildlife conservation in human landscapes
 published: true
 image: /media/conference-invitation.jpg
 listing_thumbnail: /media/conference-invitation_274.jpg
-description: ALKA Wildlife cordially invites you to the international conference.
+description: Watch us live on www.youtube.com/user/alkawildlife !
 date: '2021-10-20'
 logoset: TACR
 lang_alternatives:
@@ -21,15 +21,11 @@ invites you to the international conference
 
 - - -
 
-# **You can watch us live on Youtube link:**
+# **You can watch us live on: www.youtube.com/user/alkawildlife** 
 
 
 
-# **ttps://youtu.be/I6ld60raRK0**
-
-
-
-## Programme
+# Programme
 
 **Wednesday 1. 12. 2021**
 
