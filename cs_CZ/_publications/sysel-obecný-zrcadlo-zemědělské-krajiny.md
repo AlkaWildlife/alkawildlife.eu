@@ -8,7 +8,7 @@ authors:
   - name: Jan Matějů
 type: Článek v periodiku
 journal: Myslivost 2021/12
-year: 2018
+year: 2021
 lang:
   - cs
 link: /media/2021_12_Myslivost_sysel.pdf
