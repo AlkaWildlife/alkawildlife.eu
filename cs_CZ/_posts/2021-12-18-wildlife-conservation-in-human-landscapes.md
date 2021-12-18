@@ -46,3 +46,23 @@ Denisa Lobbová talk about the regime in the localities with occurrence of Europ
 <br/>
 
 <br/>
+
+# Eco-friendly livelihoods in exchange for safe wildlife in Sumatra
+
+Kateřina Holubová talk about The Kukang Rescue Program fighting the illegal trade in slow lorises on the Indonesian island of Sumatra started engaging local communities in wildlife conservation while at the same time supporting their sustainable livelihoods 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p65BEO5rhII" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Principles of species conservation planning
+
+Jamie Copsey from IUCN SSC Conservation Planning Specialist Group will introduce CPSG’s ‘Principles of species conservation planning’.  These principles summarise what CPSG has learnt over the last forty years of its development.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWNEvVk9KZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
