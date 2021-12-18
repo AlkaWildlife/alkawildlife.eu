@@ -27,11 +27,21 @@ Iñaki Abella Gutiérrez notes from his personal experience in 20 years of conse
 
 <br/>
 
-# What works in conservation ... and what doesn't
+# Decrease of birds in agricultural landscapes
 
-Iñaki Abella Gutiérrez notes from his personal experience in 20 years of conservation projects in different countries of Africa and south America
+Vaclav Zamecnik talk about common birds in agriculutural landscapes - their monitoring, their major threats and possibilities of their protection
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mcGy-Qp8jOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lY0v_VWKI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# European ground squirrel conservation in Slovakia
+
+Denisa Lobbová talk about the regime in the localities with occurrence of European ground squirrel, which the public visits and where the public helps with its protection
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tdd7xMyYFtk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
