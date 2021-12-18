@@ -1,6 +1,6 @@
 ---
 title: Conference Wildlife conservation in human landscapes
-published: true
+published: false
 image: /media/conference-invitation.jpg
 listing_thumbnail: /media/conference-invitation_274.jpg
 description: Watch us live on www.youtube.com/user/alkawildlife !
@@ -21,9 +21,7 @@ invites you to the international conference
 
 - - -
 
-# **You can watch us live on: www.youtube.com/user/alkawildlife** 
-
-
+# **You can watch us live on: www.youtube.com/user/alkawildlife**
 
 # Programme
 
