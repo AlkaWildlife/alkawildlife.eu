@@ -8,7 +8,7 @@ date: '2021-12-18'
 logoset: TACR
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /news/wildlife-conservation-in-human-landscapes
     title: Wildlife conservation in human landscapes
 category: news
 layout: news
