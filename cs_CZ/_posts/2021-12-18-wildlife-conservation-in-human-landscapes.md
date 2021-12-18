@@ -106,3 +106,83 @@ Prokop Svoboda talk about private Fund to create a portfolio of environmentally 
 <br/>
 
 <br/>
+
+# Pollinators, Man and the Biosphere: connecting people and landscapes
+
+Alberto Parada-Siles talk about a project  to improve biodiversity in a highly humanized environment. The project focus on the group of pollinators and the work area is a Biosphere Reserve in La Rioja, a region in northern Spain.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYHe7mygZjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Action Plan for the Aesculapian Snake (Zamenis longissimus)
+
+Radka Musilova talk about protection of Aesculapian snake isolated population in the north edge of its distribution range. Research, environmental education and direct measures such as building new egg-lying sites, restoration of old stone walls are essential parts of the Action Plan.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zhF_8UuRifM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Mitigation of Andean bear conflicts with humans in northern Ecuador
+
+David Anthony Jackson talk about in situ research on wild Andean bear populations over the past 20 years, gaining vital information on bear movement patterns and habitat use in order to better manage conflict situations. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7dZn-EN8_Qw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Conservation through ecotourism
+
+Kristi Foster talk about Ecotourism with Terra Incognita, a social enterprise dedicated to promoting ethical ecotourism.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddSN2KPoJv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Involving society in a bat conservation project
+
+Sara Pinto talk about promising results from a novel coordinated effort between several sectors of society: wine makers, research institutions and the general public to protect bats. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i6RWv3WaUB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Anglers as ambassadors of freshwater biodiversity
+
+Fernando Mateos González talk about citizen science, freshwater biodiversity, recreational anglers and Trojan horse. 
+
+"https://www.youtube.com/embed/WitvKXaVmbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Importance of fish body size information in citizen science data collection tools
+
+Asta Audzijonyte talk following Fernando Mateos Gonzalez about recreational fishing and its role in freshwater ecosystems.
+
+"https://www.youtube.com/embed/lSBc6pGlw0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Closing Remarks
+
+Mostly making time until Iñaki had his cocido madrileño. Alberto's special glasses made the wait totally worth it. :-)
+
+"https://www.youtube.com/embed/TOE9HUK-olw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
