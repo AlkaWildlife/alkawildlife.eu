@@ -1,6 +1,6 @@
 ---
 title: Wildlife conservation in human landscapes
-published: false
+published: true
 image: /media/front_page_web.jpg
 listing_thumbnail: /media/front_page_web_274.jpg
 description: Lectures of the conference online!
