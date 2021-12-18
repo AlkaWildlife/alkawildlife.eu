@@ -66,3 +66,33 @@ Jamie Copsey from IUCN SSC Conservation Planning Specialist Group will introduce
 <br/>
 
 <br/>
+
+# Breeding of Peregrine falcons in industrial areas
+
+Vaclav Beran talk about the growth trend of peregrine falcon population in the Czech republic boosted by a new skill - nesting on industrial buildings. Thanks to cooperation with site operators the population on construction sites is steadily increasing.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMM8o22EHOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Critically endangered European ground squirrel in agricultural lands
+
+Lukas Polednik talk about cooperation with farmers and two trademards "Souslik friendly wine" and "Souslik friendly orchards" to help populations of European ground squirrel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vb8tt1ih2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
+
+# Mitigation of human-wildlife conflict in Central Africa
+
+Arthur F. Sniegon talk about cooperation with farmers and two trademards "Souslik friendly wine" and "Souslik friendly orchards" to help populations of European ground squirrel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNnED1E-2rQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
