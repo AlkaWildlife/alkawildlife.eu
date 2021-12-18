@@ -96,3 +96,13 @@ Arthur F. Sniegon talk about cooperation with farmers and two trademards "Sousli
 <br/>
 
 <br/>
+
+# Refuge - environmental land Fund
+
+Prokop Svoboda talk about private Fund to create a portfolio of environmentally valuable lands in the Czech Republic in order to protect and restore them according to ESG principles – green, responsible, and sustainable investment strategies.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J3WrL7kyrjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<br/>
