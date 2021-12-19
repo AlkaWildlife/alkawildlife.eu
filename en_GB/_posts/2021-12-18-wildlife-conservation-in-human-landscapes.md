@@ -15,6 +15,8 @@ layout: news
 ---
 Conference Wildlife conservation in human landscapes took place on 1-3 December 2021 in Velké Pavlovice, the Czech Republic and is already behind us. If you missed it, you can watch all the lectures online. You can still ask any questions to the presenters in the comments of Youtube videos.
 
+
+[Abstract book](/media/AbstractBook_Wildlife_Conservation_human_landscapes_2021.pdf)
 <br/>
 
 # What works in conservation ... and what doesn't
