@@ -188,3 +188,4 @@ Mostly making time until Iñaki had his cocido madrileño. Alberto's special gla
 <br/>
 
 <br/>
+Conference was organized within the project Sustainable conservation of the European ground squirrel: Identifying best practices to minimise damage to agriculture while supporting an endangered species financed by the programme “Environment for Life”, from the Technological Agency of the Czech Republic. 
