@@ -15,7 +15,7 @@ tags:
   - vydra říční
   - publikace pro odbornou veřejnost
 journal: bulletin Vydra
-year: 2018
+year: 2021
 lang: de
 link: media/bulletin_VYDRA_Deutsche_Nahrung.pdf
 ---
