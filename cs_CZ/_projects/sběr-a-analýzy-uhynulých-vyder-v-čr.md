@@ -22,9 +22,9 @@ funding: >-
   republice](/projects/realizace-opatření-pro-vydru-říční-v-čr)
 
 
-  05/2017, 2018      AOPK ČR a vlastní prostředky
+  05/2017 - 2022      AOPK ČR a vlastní prostředky
 from: 2008-01
-to: 2020-12
+to: 2027-12
 partners: >-
   Na sběru a analýzách uhynulých vyder spolupracujeme s: 
 
