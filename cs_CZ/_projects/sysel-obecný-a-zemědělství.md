@@ -53,7 +53,7 @@ organizace konference, která proběhla ve Velkých Pavlovicích a živě online
 
 [Mapa potenciálního rizika škod způsobených syslem  - Miroslav (pdf)](/media/Mapa_rizika_skod_sysel_Miroslav.pdf)
 
-[Mapa potenciálního rizika škod způsobených syslem  - Miroslav (GIS)](media/mapa_sysel_riziko_skod_Miroslav.zip)
+[Mapa potenciálního rizika škod způsobených syslem  - Miroslav (GIS)](/media/mapa_sysel_riziko_skod_Miroslav.zip)
 
 [Mapa potenciálního rizika škod způsobených syslem  - Hrušovany u Brna (pdf)](/media/Mapa_rizika_skod_sysel_Hrusovany.pdf)
 
@@ -61,4 +61,4 @@ organizace konference, která proběhla ve Velkých Pavlovicích a živě online
 
 [Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (pdf)](/media/Mapa_rizika_skod_sysel_Hrusovany.pdf)
 
-[Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (GIS)](</media/mapa_sysel_riziko_skod_Velke Pavlovice>)
+[Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (GIS)](/media/mapa_sysel_riziko_skod_VelkePavlovice.zip)
