@@ -12,6 +12,7 @@ authors:
 type: 'Odborná zpráva '
 tags:
   - sysel obecný
+  - průzkum
 publisher: ALKA Wildlife
 year: 2020
 lang:
