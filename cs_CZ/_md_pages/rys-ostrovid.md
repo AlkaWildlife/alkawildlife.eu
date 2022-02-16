@@ -33,7 +33,7 @@ Základní znaky **stopy rysa**:
 
 ![](/media/lynx_0068_620.jpg)
 
-Trus rysa:
+**Trus rysa**:
 
 * obvykle skládá ze několika širokých oválných částí, na jednom konci zaoblených, na druhém s tenkou špičkou
 * čerstvý mívá tmavě hnědou až černou barvu a leskne se
