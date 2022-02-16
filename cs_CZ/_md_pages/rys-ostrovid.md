@@ -26,12 +26,15 @@ Základní znaky **stopy rysa**:
 
 * Čtyři prsty
 * Drápy se obvykle neobtiskují, jsou zatažené v pouzdrech. Když se objeví vypadají jako velmi malé kulaté dírky 
-* Rozložení prstových polštářků je v podélné ose asymetrické 
+* 
+
+Rozložení prstových polštářků je v podélné ose asymetrické 
+
 * Stopa je kulatá, otevřená 
 * dlaňový polštářek má lichoběžníkový tvar s malým sedlem
 * velikost 6 - 9 cm
 
-![](/media/lynx_0068_620.jpg)
+![](/media/lynx_0028_620.jpg)
 
 **Trus rysa**:
 
@@ -40,9 +43,7 @@ Základní znaky **stopy rysa**:
 * obsahuje především chlupy kořisti, někdy i drobné úlomky kostí
 * charakteristický výrazný zápach „kočičiny“
 
-
-
-![](/media/lynx_0028_620.jpg)
+![](/media/lynx_0068_620.jpg)
 
 # Prostředí
 
