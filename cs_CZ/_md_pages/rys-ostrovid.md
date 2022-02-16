@@ -20,6 +20,30 @@ Rys ostrovid je největší evropská kočkovitá šelma. Je to vrcholový pred�
 
 Rys ostrovid je středně velká kočkovitá šelma. Průměrná hmotnost se pohybuje okolo 20 kg. Charakteristickým znakem jsou trojúhelníkovité uši s černými chomáčky chlupů na konci a černý konec ocasu, mnoho jedinců má lícní chlupy prodloužené a utvářející licousy. Zbarvení je velmi variabilní, základní barva jeho srsti je šedá s žlutavým až rezavým zabarvením a s hnědými až červenohnědými skvrnami. Velikost, počet a umístění skvrn se u každého jedince liší, a může být tedy použito k identifikaci zvířat. Zbarvení rysů má genetické pozadí, sourozenci nebo matka a koťata jsou si často podobní.
 
+# Pobytové znaky
+
+Základní znaky **stopy rysa**:
+
+* Čtyři prsty
+* Drápy se obvykle neobtiskují, jsou zatažené v pouzdrech. Když se objeví vypadají jako velmi malé kulaté dírky 
+* Rozložení prstových polštářků je v podélné ose asymetrické 
+* Stopa je kulatá, otevřená 
+* dlaňový polštářek má lichoběžníkový tvar s malým sedlem
+* velikost 6 - 9 cm
+
+![](/media/lynx_0068_620.jpg)
+
+Trus rysa:
+
+* obvykle skládá ze několika širokých oválných částí, na jednom konci zaoblených, na druhém s tenkou špičkou
+* čerstvý mívá tmavě hnědou až černou barvu a leskne se
+* obsahuje především chlupy kořisti, někdy i drobné úlomky kostí
+* charakteristický výrazný zápach „kočičiny“
+
+
+
+![](/media/lynx_0028_620.jpg)
+
 # Prostředí
 
 Rys je vázán na rozsáhlejší lesní celky. K odpočinku si vyhledává klidná odlehlá místa s velkým množstvím členitého terénu, především skalnatých a balvanitých polí s množstvím přirozených úkrytů. 
@@ -28,7 +52,7 @@ Rys je vázán na rozsáhlejší lesní celky. K odpočinku si vyhledává klidn
 
 Samec i samice žijí po většinu roku odděleně a potkávají se jen v krátkém období říje, která probíhá od ledna do března. V tuto dobu probíhají mezi samci souboje o samice. Mimo dobu páření si obě pohlaví brání striktně své teritorium vůči stejnému pohlaví, i když k nepatrnému překryvu dochází zejména u samců. Teritorium samce může zahrnovat i několik okrsků samic. Mezi samicemi k překryvu teritorií většinou nedochází. Samice v květnu až červnu rodí na dobře ukrytém místě 2–3 mláďata, která kojí 2–3 měsíce. Mladí rysové se osamostatňují ve věku 8–10 měsíců až jeden rok. Do té doby se pohybují pouze se samicí, která je učí lovit. 
 
-# Potrava 
+# Potrava
 
 Rys se živí převážně kopytníky. Jeho hlavní kořistí je srnec obecný, v menší míře jelen lesní, dále zajíc polní a prase divoké. Občas loví i drobné obratlovce. 
 
