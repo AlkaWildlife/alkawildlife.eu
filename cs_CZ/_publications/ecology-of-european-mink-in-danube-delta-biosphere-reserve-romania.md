@@ -8,7 +8,7 @@ authors:
   - name: Mihai E. Marinov
   - name: Botond J. Kiss
   - name: Aleš Toman
-type: Sborník
+type: Článek ve sborníku
 tags:
   - norek evropský
   - publikace pro odbornou veřejnost
