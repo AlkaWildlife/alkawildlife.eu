@@ -4,7 +4,7 @@ published: true
 public: true
 authors:
   - name: ALKA Wildlife
-type: Brochure
+type: Abstract book
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2021
 lang: en
