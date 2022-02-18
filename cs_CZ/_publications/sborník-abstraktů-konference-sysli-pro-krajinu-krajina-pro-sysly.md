@@ -5,7 +5,7 @@ public: true
 authors:
   - name: Kateřina Poledníková
   - name: Monika Chrenková
-type: Sborník
+type: Kniha abstraktů
 tags:
   - sysel obecný
   - publikace pro odbornou veřejnost
