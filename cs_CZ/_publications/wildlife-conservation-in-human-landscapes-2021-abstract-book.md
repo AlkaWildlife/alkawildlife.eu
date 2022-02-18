@@ -4,7 +4,7 @@ published: true
 public: true
 authors:
   - name: 'ALKA Wildlife, o.p.s.'
-type: Sborník
+type: Kniha abstraktů
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2021
 lang:
