@@ -9,7 +9,7 @@ authors:
   - name: Václav Beran
   - name: Štěpán Zápotočný
   - name: Kateřina Poledníková
-type: Brochure
+type: Scientific publication
 tags:
   - Eurasian otter
 journal: Bulletin Vydra 18
