@@ -16,4 +16,4 @@ Nové číslo Bulletinu Vydra bylo uzavřeno a publikováno. Jedná se již o č
 
 Bulletin Vydra vychází s několika málo přestávkami ročně od roku 1990. Cílem časopisu je mapovat aktuální dění kolem kunovitých šelem, publikovat původní vědecké práce a informovat o ochraně těchto druhů v České a Slovenské republice. Aktuálně publikování zajišťuje ALKA Wildlife. Jednotlivá čísla vychází pouze elektronicky, pdf články jsou ale otevřené všem.
 
-[Celé číslo i jednotlivé příspěvky jsou ke stažení zde.](www.vydryonline.cz/ke-stazeni/bulletin-vydra/bulletin-vydra-18)
+[Celé číslo i jednotlivé příspěvky jsou ke stažení zde.](https://www.vydryonline.cz/ke-stazeni/bulletin-vydra/bulletin-vydra-18)
