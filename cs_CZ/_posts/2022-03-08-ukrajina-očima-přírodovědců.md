@@ -1,6 +1,6 @@
 ---
 title: Ukrajina očima přírodovědců
-published: false
+published: true
 image: /media/dsc_0164_620.jpg
 listing_thumbnail: /media/dsc_0164-274.jpg
 description: Ukrajina je krásná a obrovská země. Podívejte se na její přírodu a krajinu.
