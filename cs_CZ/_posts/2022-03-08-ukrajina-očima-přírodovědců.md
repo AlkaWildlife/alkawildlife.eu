@@ -14,11 +14,11 @@ layout: news
 ---
 Ukrajina je krásná a obrovská země. Z karpatských hor s nadmořskou výškou až 2 000 m.n.m. přes pahorkatiny a rozsáhlé stepi se podél řek Dnister, Dněpr a mnoha dalších rozkládá až k mořskému pobřeží Černého a Azovského moře. Pojďme se podívat na její přírodu a krajinu očima přírodovědců, kteří zde byli ještě před ruskou invazí. Kdo jste na Ukrajině byli, přidejte se a podělte se s námi o své fotografie a zážitky. Děkujeme autorům za sdílení fotek. Děkujeme ukrajinskému lidu za jejich úsilí o demokratickou a občanskou společnost. Sláva Ukrajině!
 
-_Pop Ivan Černohorský - jedna z nejvyšších hor Ukrajiny v Zakarpatské oblasti (2028 m.n.m.) (autor Libor Prauz)_
+_Pop Ivan Černohorský - jedna z nejvyšších hor Ukrajiny v Zakarpatské oblasti (2028 m.n.m.) (autor Libor Praus)_
 
 ![Pop Ivan Černohorský / Ukrajina / Libor Prauz ](/media/pop_ivan_praus_620.jpg "Pop Ivan Černohorský / Ukrajina / Libor Prauz ")
 
-_Bryndza od pastevců pod Černou horou (autor Libor Prauz)_
+_Bryndza od pastevců pod Černou horou (autor Libor Praus)_
 
 ![Bryndza / Ukrajina / Libor Prauz](/media/bryndza_praus_620.jpg "Bryndza / Ukrajina / Libor Prauz")
 
