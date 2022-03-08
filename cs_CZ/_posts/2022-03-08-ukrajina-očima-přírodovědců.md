@@ -16,7 +16,7 @@ Ukrajina je krásná a obrovská země. Z karpatských hor s nadmořskou výško
 
 _Pop Ivan Černohorský - jedna z nejvyšších hor Ukrajiny v Zakarpatské oblasti (2028 m.n.m.) (autor Libor Praus)_
 
-![Pop Ivan Černohorský / Ukrajina / Libor Prauz ](/media/pop_ivan_praus_620.jpg "Pop Ivan Černohorský / Ukrajina / Libor Prauz ")
+![Pop Ivan Černohorský / Ukrajina / Libor Prauz ](/media/pop_ivan_liborpraus_620.jpg "Pop Ivan Černohorský / Ukrajina / Libor Prauz ")
 
 _Bryndza od pastevců pod Černou horou (autor Libor Praus)_
 
