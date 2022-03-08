@@ -20,7 +20,7 @@ _Pop Ivan Černohorský - jedna z nejvyšších hor Ukrajiny v Zakarpatské obla
 
 _Bryndza od pastevců pod Černou horou (autor Libor Praus)_
 
-![Bryndza / Ukrajina / Libor Prauz](/media/bryndza_praus_620.jpg "Bryndza / Ukrajina / Libor Prauz")
+![Bryndza / Ukrajina / Libor Praus](/media/bryndza_liborpraus_620.jpg "Bryndza / Ukrajina / Libor Praus")
 
 _Polonina Svidovec (autor Filip Laštovic)_
 
