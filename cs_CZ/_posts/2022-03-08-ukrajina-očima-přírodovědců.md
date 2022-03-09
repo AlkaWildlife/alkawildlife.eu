@@ -32,7 +32,9 @@ _Zvonek vousatý / Campanula barbata / Polonina Svidovec (autor Filip Laštovic)
 
 "_Posílám pár obrázků z ostrůvku, který vznikl naplavením písku a lastur mlžů při velké bouři v 90.tých letech a půlí jej hranice Ukrajina/Rumunsko. Ukrajinci jej považují za nejmladší pevninu Evropy a říkají ostrůvku Nova zemlja. Protože se na něj zatím nedostali predátoři tak je nově hnízdištěm koloniových ptačích druhů. Při návštěvě v roce 2011 jsme tam zjistili první hnízdění racka velkého v Rumunsku. Tento druh má areál od střední Asie po jih Ruska a Ukrajiny, kde hnízdí na písečných ostrovech kolem Azovského a Kaspického moře, na Krymu a březích velkých řek Volhy a Dněpru. Zjistili jsme kolonii několika set párů, které již měli mláďata, drželi se stranou od racků bělohlavých a mláďata hlídali v jakýchsi školkách. Na rozdíl od racků bělohlavých kteří jsou agresivní a napadají si navzájem mláďata, rackové velcí jsou klidní a neagresivní, jen hlídají svoji školku proti rackům bělohlavým. Na ostrově byly mimo kolonie racků početné kolonie rybáků severních, obecných a tenkozobců opačných. Znovu jsem tam byl s rakouskými filmaři 2014 a kolonie všech druhů byly menší. Jak vypadá situace v současnosti bohužel nevím._"    Aleš Toman
 
+_Nova zemlja / Ukrajina_
 
+![](/media/mapy_novazemlja.png)
 
 _Racek velký / Larus ichthyaethus / delta Dunaje / Ukrajina  (foto Aleš Toman)_
 
