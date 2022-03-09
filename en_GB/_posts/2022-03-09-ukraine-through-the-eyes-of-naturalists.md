@@ -36,15 +36,15 @@ _Campanula barbata / Polonina Svidovec (author Filip Laštovic)_
 
 "_I am sending a few pictures from the island, which was created by the flooding of sand and bivalve molluscs during a big storm in the 90s and is bisected by the Ukraine / Romania border. Ukrainians consider it the youngest mainland in Europe and call it the Island of Nova zemlja. Because predators have not yet reached it, it is now a nesting ground for colony bird species. During a visit in 2011, we discovered the first nesting of a great black-headed gull in Romania. This species has an area from Central Asia to the south of Russia and Ukraine, where it nests on the sandy islands around the Azov and Caspian Seas, in the Crimea and on the banks of the great rivers Volga and Dnieper. We found a colony of several hundred pairs that already had cubs, kept away from bald gulls, and guarded the cubs in kindergartens. Unlike Caspian gulls, which are aggressive and attack each other, great black-headed gulls are calm and non-aggressive, they just guard their youngs against Caspian gulls. In addition to seagull colonies, there were numerous colonies of northern terns, common terns and pied avocet on the island. I was there again with Austrian filmmakers in 2014 and colonies of all species were smaller. Unfortunately, I do not know what the situation looks like at the moment._"    Aleš Toman
 
-_Nova zemlja / Ukrajina_
+_Nova zemlja / Ukraine_
 
 ![](/media/mapy_novazemlja.png)
 
-_Larus ichthyaethus / delta Dunaje / Ukrajina  (foto Aleš Toman)_
+_Larus ichthyaethus / Donau delta / Ukraine (author Aleš Toman)_
 
 ![racek velký / Ukrajina / Aleš Toman](/media/racek-velký-larus-ichthyaetus_620.jpg "racek velký / Ukrajina / Aleš Toman")
 
-_Sterna sandvicensis / delta Dunaje / Ukrajina  (foto Aleš Toman)_
+_Sterna sandvicensis / Donau delta / Ukraine (author Aleš Toman)_
 
 ![rybák severní / Ukrajina / Aleš Toman](/media/rybák-severní-sterna-sandvicensis_1_620.jpg "rybák severní / Ukrajina / Aleš Toman")
 
