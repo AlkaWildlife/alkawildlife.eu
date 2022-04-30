@@ -1,6 +1,7 @@
 ---
 title: Rys ostrovid - perla česko-rakouského pohraničí
 published: true
+subtitle: RysLuchs
 registration_no: KPF-01-273
 funding: |-
   ![](/media/fmp_300.jpg)
