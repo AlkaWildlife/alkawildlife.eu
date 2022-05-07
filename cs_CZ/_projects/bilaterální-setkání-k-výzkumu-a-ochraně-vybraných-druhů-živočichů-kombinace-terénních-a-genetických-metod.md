@@ -7,8 +7,6 @@ registration_no: '0356722020'
 funding: |-
   Norské fondy 2014 - 2021
 
-
-
   ![](/media/nf-sfzp-cr-heslo-rgb_a4.jpg)
 from: 2020-11
 to: 2022-08
