@@ -15,8 +15,6 @@ lang_alternatives:
 category: news
 layout: news
 ---
-
-
 From the Bilateral Fund of the Programme "Environment, Ecosystems and Climate Change" from Norway grants we held the first meeting with Norwegian colleagues. Jeroen van der Kooij and Arild Husby visited the Czech Republic and together we toured the current and historical localities of birche mouse. During the field trip we discussed research methods, environment of birche mouse and possible future cooperation.
 
 ![](/media/myšivka_6_620_u.jpg)
@@ -24,8 +22,6 @@ From the Bilateral Fund of the Programme "Environment, Ecosystems and Climate Ch
 _birche mouse (Sicista betulina) - tiny mouse with the black stripe and very long tail_
 
 Birch mouse (Sicista betulina) is a rare small jumping rodent. In the Czech Republic and Norway it occurs only in isolated areas. In the Czech republic it occupy mountain environment and only some. These are three areas: 1) in northern Moravia Jeseníky and Rychlebské hory, 2) along the border with Slovakia Beskydy and Javorníky and 3) in the border mountain of southern Bohemia - Novohradske hory and Šumava. During the meeting we visited all three areas.
-
-
 
 _The mountain spruce forest and area above the forest border in Hrubý Jeseník still provide habitat for birch mouse._ 
 
