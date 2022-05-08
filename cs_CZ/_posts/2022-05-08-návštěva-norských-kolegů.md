@@ -21,9 +21,9 @@ Z Bilaterálního fondu Programu "Životní prostředí, ekosystémy a změna kl
 
 _myšivka horská (Sicista betulina) - drobounký hlodavec s tmavým pruhem na zádech a velmi dlouhým ocasem_
 
-Myšivka horská (_Sicista betulina_) je vzácný drobný hlodavec z čeledi tarbíkovitých a v České republice i v Norsku se vyskytuje jen v izolovaných oblastech. V České republice se vyskytuje v horských oblastech, a to jen některých. Jedná se o tři oblasti: 1) na severní Moravě v oblasti Jeseníků a Rychlebských hor, 2) při hranici se Slovenskem v oblasti Moravskoslezských Beskyd a Javorníků a 3) v pohraničních horách jižních Čech - Novohradské hory a Šumava. V rámci setkání jsme navštívili všechny tři oblasti.
+Myšivka horská (_Sicista betulina_) je vzácný drobný hlodavec z čeledi tarbíkovitých a v České republice i v Norsku se vyskytuje jen v izolovaných oblastech. V České republice se vyskytuje v horském prostředí, a to jen někde. Jedná se o tři oblasti: 1) na severní Moravě Jeseníky a Rychlebské hory, 2) při hranici se Slovenskem Moravskoslezské Beskydy a Javorníky a 3) v pohraničních horách jižních Čech - Novohradské hory a Šumava. V rámci setkání jsme navštívili všechny tři oblasti.
 
-__
+
 
 _Horské smrčiny a oblast nad hranicí lesa v Hrubém Jeseníku stále poskytuje domov pro myšivku horskou._
 
