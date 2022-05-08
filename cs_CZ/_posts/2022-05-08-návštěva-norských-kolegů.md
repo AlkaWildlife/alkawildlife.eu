@@ -7,7 +7,7 @@ description: >-
   Navštívili nás kolegové z Norska, hledali jsme s nimi lokality pro myšivku
   horskou.
 date: '2022-05-08'
-logoset: ''
+logoset: Norské fondy
 lang_alternatives:
   en_GB:
     permalink: 'http://en.alkawildlife.eu'
