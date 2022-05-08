@@ -28,3 +28,7 @@ Dvě setkání odborníků z partnerských organizací s cílem se navzájem poz
 První aktivitou je návštěva odborníků z Norska do České republiky. Plánováno je terénní setkání s cílem se podívat na aktuální i historické lokality myšivky horské. 
 
 Druhou aktivitou je reciproční návštěva odborníků z ALKA Wildlife do Norska. V rámci výletu bude uspořádán workshop s představením našich aktivit.
+
+
+
+****[**NÁVŠTĚVA NORSKÝCH KOLEGŮ**](/news/návštěva-norských-kolegů)****
