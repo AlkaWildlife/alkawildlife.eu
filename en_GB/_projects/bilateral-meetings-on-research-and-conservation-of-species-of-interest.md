@@ -13,7 +13,7 @@ from: 2020-11
 to: 2022-08
 partners: "NTNU (Norwegian University of Science and Technology)\r\n\n\r\n\nNaturformidling van der Kooij"
 species: Northern birche mouse (Sicista betulina)
-area: 'the Czech Republic, Norway'
+area: ''
 countries:
   - CZ
   - 'false'
