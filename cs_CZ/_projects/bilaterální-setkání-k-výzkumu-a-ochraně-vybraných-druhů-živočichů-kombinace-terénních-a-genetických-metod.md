@@ -15,7 +15,7 @@ partners: |-
 
   Naturformidling van der Kooij
 species: myšivka horská
-area: Česká republika a Norsko
+area: ''
 countries:
   - CZ
   - 'false'
