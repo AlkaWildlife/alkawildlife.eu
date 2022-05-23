@@ -88,19 +88,13 @@ Za účelem snížení konfliktu mezi ochranou vydry a hospodářskými škodami
 
 [Začínáme výzkum vyder v Krušných horách a podkrušnohoří](/news/začínáme-výzkum-vyder-v-krušných-horách)
 
+
+
 # Výstupy a výsledky projektu
 
-## Leták
+## Výstava
 
-[Informační leták o projektu](/media/Lutralutra_flayer_cz.pdf)
-
-## Akce
-
-Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena.  
-
-30.8.2020 [Info stánek v Děčíně](https://www.vydryonline.cz/news/vyd%C5%99%C3%AD-info-st%C3%A1nek)
-
-11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
+[Putovní výstava "Ich bin ein vydra"](https://www.vydryonline.cz/news/v%C3%BDstava-lutra-lutra)  
 
 ## Články a reportáže v médiích
 
@@ -112,7 +106,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 [Vydry v Krušných horách](https://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/221411000100307/obsah/825000-vydry-v-krusnych-horach) (Česká televize, Události 7.3.2021)
 
-[Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
+[Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (Ekolist.cz, 29.3.2019)
 
 [Rozhovor s Václavem Beranem v Českém rozhlase](https://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
 
@@ -144,8 +138,19 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 [Informační brožura o vydře říční, výsledcích projektu a s katalogem opatření ](/media/informationsbroschuere_fischotter.pdf)
 
-
 <br/>
 Příloha [Gewässerschau - Einzelbetrachtung Fließgewässer - Ergebnisse und Bewertung](/media/fliessgewaesserschau_lutra_lutra_web.pdf)
 
 Příloha [Seznam opatření pro ochranu vydry říční](/media/massnahmenpool_lutra_lutra_web.pdf)
+
+## Leták
+
+[Informační leták o projektu](/media/Lutralutra_flayer_cz.pdf)
+
+## Akce
+
+Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena.  
+
+30.8.2020 [Info stánek v Děčíně](https://www.vydryonline.cz/news/vyd%C5%99%C3%AD-info-st%C3%A1nek)
+
+11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
