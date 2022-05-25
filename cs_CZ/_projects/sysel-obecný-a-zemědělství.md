@@ -59,6 +59,6 @@ organizace konference, která proběhla ve Velkých Pavlovicích a živě online
 
 [Mapa potenciálního rizika škod způsobených syslem  - Hrušovany u Brna (GIS)](/media/mapa_sysel_riziko_skod_Hrusovany.zip)
 
-[Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (pdf)](/media/Mapa_rizika_skod_sysel_Hrusovany.pdf)
+[Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (pdf)](/media/Mapa_rizika_skod_sysel_VelkePavlovice.pdf)
 
 [Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (GIS)](/media/mapa_sysel_riziko_skod_VelkePavlovice.zip)
