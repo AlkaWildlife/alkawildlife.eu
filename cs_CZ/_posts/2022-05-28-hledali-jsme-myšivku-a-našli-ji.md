@@ -25,11 +25,9 @@ _Myšivka horská je drobounký hlodavec. Patří mezi tarbíky_
 
 ![myšivka horská](/media/p10_sb_20210813_093021_um.jpg "myšivka horská")
 
-
-
 _Staré hutě v Novohradských horách stále poskytují vhodné prostředí pro myšivku horskou, zejména mokřadní louky_
 
-__
+__
 
 ![Staré hutě](/media/dji_0063.jpg "Staré hutě")
 
@@ -37,29 +35,21 @@ _Rozsáhlé porosty tužebníku jsou prostředím, které myšivka vyhledává_
 
 ![](/media/p7090043.jpg)
 
- 
-
 Hned několik záznamů a vzorků jsme získali od místních obyvatel z další lokality v Novohradských horách / Freiwaldu z lokality Pohoří na Šumavě / Stadlberg. Myšivky si státní hranice vůbec nevšímají, žijí na české i rakouské straně. 
 
 _Pohoří na Šumavě – vesnička schovaná hluboko v Novohradských horách_
 
 ![](/media/dji_0135.jpg)
 
-
-
 _Mezi stromy schované mokřadní louky v okolí Pohoří vytváří prostředí pro mnoho vzácných druhů živočichů včetně myšivky horské_
 
 ![](/media/dji_0088.jpg)
-
- 
 
 V rámci projektu vytvořená společná česko-rakouská mapa nám navíc ukázala, kde můžeme na základě záznamů kolegů hledat na druhé straně hranice. Lokalita Pohoří na Šumavě / Stadlberg tak pravděpodobně není jedinou česko-rakouskou lokalitou se společnou populací myšivky horské. 
 
 _Česko-rakouské pohraničí skrývá i další poklady. Pokud uprostřed divočiny najdete hromady kamení, zapomenutý rybíz či angrešt a staré listnaté, ovocné stromy, vězte že jsme na místě, kde dříve stála vesnice či alespoň osamocené hospodářství, nyní tato místa zvyšují biodiversitu_
 
 ![](/media/img_9103.jpg)
-
- 
 
 Myšivka horská jak napovídá její české jméno, u nás žije v horách, a to jen některých. Zůstala u nás jako pozůstatek doby ledové, s postupným oteplováním mizela a nakonec zůstaly populace myšivky jen v některých horských oblastech. Žije na loukách, rašeliništích, v mokřinách, v otevřených smíšených lesích. Důležitým faktorem je vlhkost, žije tam, kde je dostatečně podmáčená zem či vysoké srážky a celkově vlhké prostředí. 
 
@@ -70,8 +60,6 @@ _Andělika lékařská, tužebník, rašeliník, podmáčená vegetace, kde oby�
 Pomoci s hledáním myšivky můžete i Vy! Když uvidíte drobounkou myšku s černým proužkem, dejte nám vědět. Občas je možné myšivku vidět, jak se proplétá vysokou trávou. Najít ji také můžete uhynulou po sečení luk. Donést ji může kočka, aby se vám pochlubila. 
 
 _Myšivka horská je velmi drobounká, váží zhruba 10 g, má nepřehlédnutelný černý pruh na zádech a na příbuznost s tarbíky ukazuje velmi dlouhý ocas_
-
-
 
 ![](/media/myšivka_malba_m.jpg)
 
