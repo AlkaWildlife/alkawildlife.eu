@@ -17,7 +17,7 @@ layout: news
 
 Myšivka horská není obyčejná myš. Drobounká myšivka je jediným zástupcem tarbíků žijícím ve střední Evropě. Již jen ostrůvkovitě zůstala v některých horách jako připomínka doby ledové. Česko-rakouské pohraničí je jedním z mála míst, kde se ještě ve střední Evropě vyskytuje. Přesto je jí věnováno velmi málo pozornosti. Zároveň se zoology moc nespolupracuje, je velmi těžké ji zaznamenat klasickými metodami. 
 
-Spojili jsme proto síly a znalosti a podívali jsme se na myšivku v česko-rakouském pohraničí spolu s rakouskými kolegy. Za velmi cenné rady taky [děkujeme Jeroenovi van der Kooij](https://www.alkawildlife.eu/projects/bilater%C3%A1ln%C3%AD-setk%C3%A1n%C3%AD-k-v%C3%BDzkumu-a-ochran%C4%9B-vybran%C3%BDch-druh%C5%AF-%C5%BEivo%C4%8Dich%C5%AF-kombinace-ter%C3%A9nn%C3%ADch-a-genetick%C3%BDch-metod). 
+Spojili jsme proto síly a znalosti a podívali jsme se na myšivku v česko-rakouském pohraničí spolu s [rakouskými kolegy](https://www.gruenesherz.info/). Za velmi cenné rady taky [děkujeme Jeroenovi van der Kooij](https://www.alkawildlife.eu/projects/bilater%C3%A1ln%C3%AD-setk%C3%A1n%C3%AD-k-v%C3%BDzkumu-a-ochran%C4%9B-vybran%C3%BDch-druh%C5%AF-%C5%BEivo%C4%8Dich%C5%AF-kombinace-ter%C3%A9nn%C3%ADch-a-genetick%C3%BDch-metod). 
 
 V létě se nám podařilo chytit první myšivku a prokázat tak její výskyt ve Starých hutích v Novohradských horách. Výskyt na dané lokalitě jsme prokázali po 17 letech! 
 
@@ -57,7 +57,7 @@ _Andělika lékařská, tužebník, rašeliník, podmáčená vegetace, kde oby�
 
 ![](/media/p8030009.jpg)
 
-Pomoci s hledáním myšivky můžete i Vy! Když uvidíte drobounkou myšku s černým proužkem, dejte nám vědět. Občas je možné myšivku vidět, jak se proplétá vysokou trávou. Najít ji také můžete uhynulou po sečení luk. Donést ji může kočka, aby se vám pochlubila. 
+**Pomoci s hledáním myšivky můžete i Vy! KDYŽ UVIDÍTE DROBOUNKOU MYŠKU S ČERNÝM PROUŽKEM,** [**DEJTE NÁM VĚDĚT.**](/monitoring) **Občas je možné myšivku vidět, jak se proplétá vysokou trávou. Najít ji také můžete uhynulou po sečení luk. Donést ji může kočka, aby se vám pochlubila.** 
 
 _Myšivka horská je velmi drobounká, váží zhruba 10 g, má nepřehlédnutelný černý pruh na zádech a na příbuznost s tarbíky ukazuje velmi dlouhý ocas_
 
