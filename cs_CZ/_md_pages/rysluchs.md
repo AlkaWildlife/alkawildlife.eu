@@ -29,6 +29,6 @@ Der Luchs ist eine gefährdete Art und geschützt in Tschechien, Österreich und
 
 # Ausgänge
 
-Das RysLuchs-Projekt hat einen einzigartigen Einblick in das Leben der böhmisch-österreichischen Luchse gegeben (Gemeinsame Pressemitteilung von ALKA Wildlife und Grünes Herz Europas)
+[Das RysLuchs-Projekt hat einen einzigartigen Einblick in das Leben der böhmisch-österreichischen Luchse gegeben](/projects/rys-ostrovid-perla-česko-rakouského-pohraničí/rysluchs/Einblick_Luchse) (Gemeinsame Pressemitteilung von ALKA Wildlife und Grünes Herz Europas)
 
 [Study STATUS OF THE LYNX IN THE CZECH-AUSTRIAN BORDER REGION (pdf; in English)](/media/Lynx_Monitoring_Report_RysLuchs_2022_ENG.pdf)
