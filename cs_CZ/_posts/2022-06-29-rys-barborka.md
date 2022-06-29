@@ -2,6 +2,7 @@
 title: Rys Barborka
 published: true
 image: /media/rysluchs_lynx_baronka.jpg
+gallery: /projects/rys-ostrovid-perla-česko-rakouského-pohraničí
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
