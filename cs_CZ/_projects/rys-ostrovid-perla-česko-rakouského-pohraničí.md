@@ -32,10 +32,10 @@ Rys ostrovid je ohroženým a chráněným druhem v ČR, Rakousku i EU. V souča
 
 [Rysí den 2021](/news/rys%C3%AD-den-2021)
 
-
-
 # Výstupy projektu
 
 [Studie RYS OSTROVID (LUTRA LUTRA) V ČESKO-RAKOUSKÉM POHRANIČÍ. RYSÍ ROK 2021 (pdf; v češtině)](/media/Lynx_Monitoring_Report_RysLuchs_2022_Czech.pdf)
 
 [Study STATUS OF THE LYNX IN THE CZECH-AUSTRIAN BORDER REGION (pdf; in English)](/media/Lynx_Monitoring_Report_RysLuchs_2022_ENG.pdf)
+
+[Unikátní pohled do života česko-rakouských rysů (Ekolist.cz)](https://ekolist.cz/cz/publicistika/priroda/unikatni-pohled-do-zivota-cesko-rakouskych-rysu)
