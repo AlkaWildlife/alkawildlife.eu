@@ -16,7 +16,7 @@ partners: >-
 
 
   [**DER LUCHS - DIE PERLE DES TSCHECHISCH-ÖSTERREICHISCHEN
-  GRENZGEBIETES**](/projects/rys-ostrovid-perla-česko-rakouského-pohraničí/RYSLUCHS)****
+  GRENZGEBIETES**](/projects/rys-ostrovid-perla-česko-rakouského-pohraničí/RYSLUCHS)
 species: rys ostrovid
 area: česko-rakouské pohraničí Jihočeského kraje
 tags:
