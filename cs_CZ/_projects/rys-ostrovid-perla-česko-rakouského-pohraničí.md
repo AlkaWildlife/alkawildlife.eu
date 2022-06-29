@@ -11,12 +11,12 @@ funding: |-
   Interreg V-A Rakousko - Česká republika
 from: 2021-05
 to: 2022-07
-partners: |-
+partners: >-
   Grünes Herz Europas- Nationalparkregion Donau-Moldau
 
 
-
-  DER LUCHS - DIE PERLE DES TSCHECHISCH-ÖSTERREICHISCHEN GRENZGEBIETES
+  [**DER LUCHS - DIE PERLE DES TSCHECHISCH-ÖSTERREICHISCHEN
+  GRENZGEBIETES**](/projects/rys-ostrovid-perla-česko-rakouského-pohraničí/RYSLUCHS)****
 species: rys ostrovid
 area: česko-rakouské pohraničí Jihočeského kraje
 tags:
