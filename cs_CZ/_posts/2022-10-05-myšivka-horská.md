@@ -2,6 +2,9 @@
 title: myšivka horská
 published: true
 image: /media/myšivka_malba_m.jpg
+author: Ondřej Poledník
+tags:
+  - myšivka horská
 lang_alternatives:
   en_GB:
     permalink: 'http://en.alkawildlife.eu'
