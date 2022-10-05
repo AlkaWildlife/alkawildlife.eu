@@ -37,8 +37,6 @@ Předložený projekt umožní nastartovat spolupráci organizací, propojit če
 
 _myšivka horská (foto Jeroen van der Kooij)_
 
-
-
 # _Výstupy projektu_
 
 [Hledali jsme myšivku a našli ji](/news/hledali-jsme-my%C5%A1ivku-a-na%C5%A1li-ji)
@@ -48,3 +46,5 @@ _myšivka horská (foto Jeroen van der Kooij)_
 [informační leták Pomozte nám najít myšivku horskou](/media/Sicista_leaflet_2021_CZprint.pdf)
 
 [informační stránka o myšivce horské](/zajmove-druhy/mysivka-horska)
+
+[reportáž Na Šumavě, v Jeseníkách nebo Beskydech žijí myšivky horské. Nikdo neví, kolik jich vlastně je](https://plus.rozhlas.cz/na-sumave-v-jesenikach-nebo-beskydech-ziji-mysivky-horske-nikdo-nevi-kolik-jich-8793358?fbclid=IwAR0HRR2vWQf1QKkhABBIwhy0oY4CWYJ_tJOHmw910QE03pAalZ9zi8yU-5A)
