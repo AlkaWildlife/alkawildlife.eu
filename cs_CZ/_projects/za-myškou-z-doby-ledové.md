@@ -33,7 +33,7 @@ __
 
 # _Výstupy projektu_
 
-[Hledali jsme myšivku a našli ji](news/hledali-jsme-my%C5%A1ivku-a-na%C5%A1li-ji)
+[Hledali jsme myšivku a našli ji](/news/hledali-jsme-my%C5%A1ivku-a-na%C5%A1li-ji)
 
 [Hledá se myška z doby ledové](/news/hledá-se-myška-z-doby-ledové)
 
