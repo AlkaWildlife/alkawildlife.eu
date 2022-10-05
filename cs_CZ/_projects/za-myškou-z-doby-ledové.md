@@ -29,7 +29,7 @@ Předložený projekt umožní nastartovat spolupráci organizací, propojit če
 
 _myšivka horská (foto Jeroen van der Kooij)_
 
-__
+
 
 # _Výstupy projektu_
 
