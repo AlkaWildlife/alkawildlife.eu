@@ -31,3 +31,5 @@ Dieses Projekt wird es ermöglichen, die Zusammenarbeit zwischen Organisationen 
 # Ausgabe
 
 [Flugblatt Helfen Sie uns diet Birkenmaus zu finden](/media/Sicista_leaflet_2021_DEprint.pdf)
+
+[Wir haben die Birkenmaus gesucht und wir haben sie auch gefunden!](/projects/za-myškou-z-doby-ledové/eiszeitmaus/haben_die_Birkenmaus)
