@@ -5,6 +5,7 @@ image: /media/myšivka_malba_m.jpg
 author: Ondřej Poledník
 tags:
   - myšivka horská
+gallery: /projects/za-myškou-z-doby-ledové
 lang_alternatives:
   en_GB:
     permalink: 'http://en.alkawildlife.eu'
