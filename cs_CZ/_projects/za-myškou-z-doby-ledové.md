@@ -28,3 +28,13 @@ Předložený projekt umožní nastartovat spolupráci organizací, propojit če
 ![myšivka horská](/media/myšivka_vanderkooij_3_620.jpg "myšivka horská")
 
 _myšivka horská (foto Jeroen van der Kooij)_
+
+__
+
+# _Výstupy projektu_
+
+[Hledali jsme myšivku a našli ji](news/hledali-jsme-my%C5%A1ivku-a-na%C5%A1li-ji)
+
+[Hledá se myška z doby ledové](/news/hledá-se-myška-z-doby-ledové)
+
+informační leták Pomozte nám najít myšivku horskou
