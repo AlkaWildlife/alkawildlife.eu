@@ -12,23 +12,13 @@ lang_alternatives:
 ---
 Registrationsnummer: KPF-01-272
 
-
-
 Partner:
-
-
 
 ALKA Wildlife, o.p.s. (Tschechische Republik)
 
-
-
 Grünes Herz Europas- Nationalparkregion Donau-Moldau (Österreich)
 
-
-
 Finanzierung:
-
-
 
 Interreg V-A
 
