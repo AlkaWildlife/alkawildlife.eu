@@ -2,6 +2,7 @@
 title: setkání odborníků
 published: true
 image: /media/img_8327.jpg
+gallery: /projects/za-myškou-z-doby-ledové
 lang_alternatives:
   en_GB:
     permalink: 'http://en.alkawildlife.eu'
