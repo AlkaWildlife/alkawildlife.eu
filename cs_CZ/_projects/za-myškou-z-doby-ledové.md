@@ -37,4 +37,6 @@ __
 
 [Hledá se myška z doby ledové](/news/hledá-se-myška-z-doby-ledové)
 
-informační leták Pomozte nám najít myšivku horskou
+[informační leták Pomozte nám najít myšivku horskou](/media/Sicista_leaflet_2021_CZprint.pdf)
+
+[informační stránka o myšivce horské](/zajmove-druhy/mysivka-horska)
