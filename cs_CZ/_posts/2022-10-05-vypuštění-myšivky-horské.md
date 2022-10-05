@@ -2,6 +2,9 @@
 title: vypuštění myšivky horské
 published: true
 image: /media/sicista_2021_starehute_01270.jpg
+author: Jindřich Poledník
+tags:
+  - myšivka horská
 gallery: /projects/za-myškou-z-doby-ledové
 lang_alternatives:
   en_GB:
