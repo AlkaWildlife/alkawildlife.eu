@@ -7,6 +7,7 @@ description: >-
   V České republice žijí hlodavci, co mají černý proužek na zádech. Pomozte nám
   s jejich mapováním.
 date: '2022-10-09'
+logoset: MZP
 lang_alternatives:
   en_GB:
     permalink: 'http://en.alkawildlife.eu'
