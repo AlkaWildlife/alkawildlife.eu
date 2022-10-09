@@ -24,11 +24,7 @@ Pokud jste nějaké zvířátko s proužkem na zádech viděli, k určení také
 
 Myšivka horská se vyskytuje v oblasti Jeseníků a Beskyd a v hory jižních Čech. Myšice temnopásá se vyskytuje na Moravě, v Čechách pouze na severu. V Čechách se tedy jejich výskyt vůbec nepřekrývá, na Moravě v podhůří může být s identifikací problém.
 
-
-
 Proč o těchto dvou druzích píšeme? Pomozte nám s jejich mapováním, Pokud jste je viděli, napište nám. V obou případech se jedná o zajímavé druhy zejména z biogeografického hlediska, v případě myšivky horské jde přímo o raritu. Myšivka horská je velmi vzácná a informace o jejím výskytu mohou pomoci k její ochraně.  
-
-
 
 _Porovnání myšivky horské a myšice temnopásé_
 
