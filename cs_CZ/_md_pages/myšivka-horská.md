@@ -31,9 +31,9 @@ V některých oblastech se výskyt myšivky horské překrývá s myšicí temno
 
 Ač se areál rozšíření obou druhů překrývá, myšivka horská a myšice temnopásá se u nás nevyskytují na stejných lokalitách, prostředí tak také napoví, o který druh se jedná. Myšivka horská se ve střední Evropě vyskytuje jen ve vyšších polohách (nad 450 m.n.m.). Myšice temnopásá se vyskytuje převážně v nížinách do 300 m.n.m., ve vyšších polohách spíše výjimečně.  
 
-_Porovnání myšivky horské a myšice temnopásé_
+_Myšivka horská_
 
-![](/media/porovnani_mysivka_mysice_620.jpg)
+![](/media/sicista_betulina_sideview_620.jpg)
 
 # Prostředí
 
@@ -42,8 +42,6 @@ Myšivka horská je ve střední Evropě reliktem z doby ledové, vyskytuje se t
 _Typické prostředí myšivky horské: vlhké horské louky a mokřadní porosty vysoké bylinné vegetace_
 
 ![](/media/prostredi_pohori_600.jpg)
-
-
 
 _Typické prostředí myšivky horské: prosvětlené horské lesy s dobře vyvinutým bylinným patrem_
 
@@ -84,3 +82,9 @@ Podle zákona č. 114/1992 Sb., o ochraně přírody a krajiny, a související 
 # Projekty
 
 Realizované projekty zaměřené na myšivku horskou [zde](https://www.alkawildlife.eu/projects#category=my%C5%A1ivka-horsk%C3%A1).
+
+
+
+Stránka připravená v rámci projektu "[Za myškou z doby ledové](https://www.alkawildlife.eu/projects/za-my%C5%A1kou-z-doby-ledov%C3%A9)"
+
+![](/media/fmp_300.jpg)
