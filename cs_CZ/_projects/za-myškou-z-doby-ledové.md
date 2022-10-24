@@ -2,16 +2,18 @@
 title: Za myškou z doby ledové
 published: true
 registration_no: KPF-01-272
-funding: |-
+funding: >-
   ![](/media/fmp_300.jpg)
 
+
   Fond malých projektů
+
 
   Interreg Rakousko - Česká republika
 
 
-
-  [Der Eiszeitmaus hinterher](/projects/za-myškou-z-doby-ledové/Eiszeitmaus)
+  [Der Eiszeitmaus
+  hinterher](/projects/za-myškou-z-doby-ledové/Eiszeitmaus-hinterher)
 from: 2021-05
 to: 2022-04
 partners: Grünes Herz Europas- Nationalparkregion Donau-Moldau
