@@ -18,7 +18,13 @@ ALKA Wildlife, o.p.s. (Tschechische Republik)
 
 Grünes Herz Europas- Nationalparkregion Donau-Moldau (Österreich)
 
-Finanzierung:
+DAUER: 2021 / 2022
+
+ZIELGEBIET
+
+die tschechisch-österreichische Grenzregion der Südböhmischen Region
+
+FINANZIERUNG:
 
 Interreg V-A
 
@@ -33,3 +39,7 @@ Dieses Projekt wird es ermöglichen, die Zusammenarbeit zwischen Organisationen 
 [Flugblatt Helfen Sie uns diet Birkenmaus zu finden](/media/Sicista_leaflet_2021_DEprint.pdf)
 
 [Wir haben die Birkenmaus gesucht und wir haben sie auch gefunden!](/projects/za-myškou-z-doby-ledové/eiszeitmaus/haben_die_Birkenmaus)
+
+[Die Waldbirkenmaus](/projects/za-myškou-z-doby-ledové/eiszeitmaus/waldbirkenmaus) 
+
+[Eiszeitmaus gesucht](/projects/za-myškou-z-doby-ledové/eiszeitmaus/Eiszeitmaus-gesucht)
