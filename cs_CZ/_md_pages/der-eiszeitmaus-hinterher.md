@@ -1,7 +1,7 @@
 ---
 title: Der Eiszeitmaus hinterher
 published: true
-permalink: /projects/za-myškou-z-doby-ledové/Eiszeitmaus
+permalink: /projects/za-myškou-z-doby-ledové/Eiszeitmaus-hinterher
 position: 1
 layout: two_columns_page
 logoset: FMP
