@@ -32,13 +32,9 @@ Teilweise überschneidet sich das Vorkommen der Waldbirkenmaus mit jenem der Bra
 
 Waldbirkenmaus
 
-
-
 ## Lebensraum
 
 Die Waldbirkenmaus ist in Mitteleuropa ein Relikt aus der Eiszeit und kommt daher in kälteren Gebirgslagen vor. Sie lebt an feuchteren, vernässten Standorten, d.h. in feuchten vernässten Bergwiesen, Bachufern, in Fenchel-Feuchtgebieten, Mooren, jungen oder lichten vernässten Bergwäldern mit reicher Krautschicht. Sie halten sich oft an Waldrändern auf. Wichtig ist eine hohe Staudenvegetation, in der die kleine Maus klettert und nach Nahrung sucht. Aus dieser Sicht sind häufig oder schnell gemähte Wiesen problematisch.
-
-
 
 ![](/media/prostredi_pohori_600.jpg)
 
@@ -48,55 +44,37 @@ _Bild: Typischer Lebensraum der Waldbirkenmaus: feuchte Bergwiesen und Feuchtgeb
 
 _Bild: Typischer Lebensraum der Waldbirkenmaus: Lichtdurchflutete Bergwälder mit gut entwickelter Krautschicht_
 
-
-
 ## LEBENSWEISE
 
 Die Waldbirkenmaus ist hauptsächlich nachtaktiv, kann aber auch tagsüber gesehen werden. Sie hält sich am Boden und in hoher Vegetation auf, wo sie sehr gut klettern und sehr gut springen kann. Zum Ausruhen baut sie unter Steinen, zwischen Baumwurzeln, in Baumstümpfen oder verrottendem Holz ein Nest aus trockener Vegetation. Sie hat nur einmal im Jahr Junge. Die Pflege der Jungen findet zwischen Mai und August statt, sie werden 4 bis 5 Wochen lang gesäugt. In einem Wurf sind 2 bis 6 Junge. Von Oktober bis Mai halten sie Winterschlaf. Für diese Zeit hat sie Fettreserven angesammelt. Sie überwintert zu einer Kugel zusammengerollt an einem trockenen Ort in einem unterirdischen Nest.
-
-
 
 ![](/media/myšivka_6_620.jpg)
 
 _Bild: Die Waldbirkenmaus kann mit Hilfe ihrer fünf-zehigen Gliedmaßen und ihres Greifschwanzes sehr gut auf Kräuter klettern._
 
-
-
 ## ERNÄHRUNG
 
 Die Waldbirkenmaus ist ein Allesfresser. Von Pflanzen werden Knospen, Trieben, Grassamen und Beeren gefressen. An tierischer Kost werden kleine Insekten, Regenwürmer und Schnecken verzehrt.
-
-
 
 ![](/media/myšivka_vanderkooij_3_620.jpg)
 
 _Bild: Die Früchte von Sträuchern, zum Beispiel Himbeeren, sind Nahrung der Waldbirkenmaus_
 
-
-
 ## VERBREITUNGSGEBIET
 
 Das Verbreitungsgebiet erstreckt sich von Sibirien bis Mitteleuropa, auch in Skandinavien ist sie zu finden. In Mitteleuropa war die Waldbirkenmaus während der Eiszeit häufiger, mit zunehmender Erwärmung verlagerte sich das Verbreitungsgebiet nach Norden, und in einigen Gebirgszügen blieben isolierte Populationen zurück. Den westlichen Rand der Verbreitung bildet derzeit der Karpatenbogen, weiter westlich gibt es noch vereinzelte Populationen im Altvatergebirge, im Böhmerwald, in den Alpen und in Dänemark.
-
-
 
 ## VORKOMMEN IN DER CR
 
 In Tschechien kommt die Waldbirkenmaus nur im Gebirge ab einer Höhe von ca. 450 m.ü.M. vor. Vorkommen wurden bisher in drei Gebieten festgestellt:
 
 1. Hrubý Jeseník, Hanušovicker Bergland, Rychleb-Gebirge, Zlatohorská-Bergland
-
 2. Schlesische Beskiden, Jablunkovská vrchovina, Mährisch-Schlesische Beskiden, Vsetínské vrchy, Javorníky
-
 3. Südöstlicher Teil des Böhmerwaldes mit Ausläufern, darunter der Blansker-Wald und der das Gratzener Bergland.
-
-
 
 ## VORKOMMEN IN ÖSTERREICH
 
 In Österreich kommt die Waldbirkenmaus ebenfalls nur in höheren Lagen vor: im Mühlviertel und Waldviertel entlang der tschechisch-österreichischen Grenze vom Böhmerwald bis Freiwald und in den Zentralalpen.
-
-
 
 ## STATUS UND SCHUTZ
 
@@ -106,4 +84,4 @@ In Tschechien ist die Waldbirkenmaus gemäß dem Gesetz Nr. 114/1992 Slg. über 
 
 Umgesetzte Projekte rund um die Waldbirkenmaus:
 
-Hinter der Maus aus der Eiszeit (FMP Interreg Austria – Tschechien; 2021-2022)
+[Hinter der Maus aus der Eiszeit ](/projects/za-myškou-z-doby-ledové/Eiszeitmaus-hinterher)(FMP Interreg Austria – Tschechien; 2021-2022)
