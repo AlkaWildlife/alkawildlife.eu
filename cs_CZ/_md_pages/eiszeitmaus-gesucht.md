@@ -41,4 +41,4 @@ _Waldbirkenmaus (autor: Jeroen van der Kooij)_
 
 _Typischer Lebensraum der Waldbirkenmaus (Staré hutě im Grazener Bergland)_
 
-Die Suche nach der Waldbirkenmaus ist Teil des Projekts „Behind the Ice Age Mouse“, das aus Mitteln des Kleinprojektefonds des INTERREG V-A Österreich – Tschechien Programms finanziert wird. Die Partner des Projekts sind: auf tschechischer Seite ALKA Wildlife und auf österreichischer Seite Grünes Herz Europas- Nationalparkregion Donau-Moldau.
+Die Suche nach der Waldbirkenmaus ist Teil des Projekts „[Behind the Ice Age Mouse](/projects/za-myškou-z-doby-ledové/Eiszeitmaus-hinterher)“, das aus Mitteln des Kleinprojektefonds des INTERREG V-A Österreich – Tschechien Programms finanziert wird. Die Partner des Projekts sind: auf tschechischer Seite ALKA Wildlife und auf österreichischer Seite Grünes Herz Europas- Nationalparkregion Donau-Moldau.
