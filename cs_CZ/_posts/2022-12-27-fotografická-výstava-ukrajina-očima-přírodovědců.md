@@ -1,6 +1,6 @@
 ---
 title: Fotografická výstava Ukrajina očima přírodovědců
-published: true
+published: false
 image: /media/sotpr-mzp_web17-20221121_620.jpg
 listing_thumbnail: /media/sotpr-mzp_web17-20221121_274.jpg
 description: >-
