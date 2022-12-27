@@ -6,7 +6,7 @@ listing_thumbnail: /media/birkenmaus_rk_v620.jpg
 description: >-
   V České republice žijí hlodavci, kteří mají černý proužek na zádech. Pomozte
   nám s jejich mapováním.
-date: '2022-10-09'
+date: '2022-12-27'
 logoset: MZP
 lang_alternatives:
   en_GB:
