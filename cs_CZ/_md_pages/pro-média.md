@@ -8,7 +8,9 @@ listed: true
 position: 4
 layout: two_columns_page
 lang_alternatives:
-  en_GB: {}
+  en_GB:
+    title: For media
+    permalink: en.alkawildlife.eu
 ---
 # Kontakty pro média
 
@@ -20,6 +22,20 @@ Kateřina Poledníková / katerina.polednikova@alkawildlife.eu / 606598903
 Tereza Mináriková / tereza.minarikova@alkawildlife.eu / 724 706 806
 
 # Vydané tiskové zprávy
+
+27.12.2022 [Myšky s proužkem na zádech - co jsou vlastně zač?](/news/myši-s-proužkem-na-zádech)
+
+27.4.2022 Projekt [RysLuchs umožnil unikátní pohled do života česko-rakouských rysů](/news/česko-rakouské-rysice-laura-a-amálka)
+
+30.7.2021 [Hledá se myška z doby ledové](/news/hledá-se-myška-z-doby-ledové)
+
+5.1.2021 [Jak vydry s hlaváčem na Labi bojují](/news/jak-vydry-s-hlaváčem-na-labi-bojují)
+
+11.11.2020 [Vydří lávky pomáhají](/news/vydří-lávky-pomáhají)
+
+28.2.2020 107 [Rysů česko-bavorsko-rakouské populace](/news/107-rysů-česko-bavorsko-rakouské-populace)
+
+24.4.2019 [Česko Slovensko hledá sysly. Po zimním spánku je mapují odborníci i veřejnost](/news/česko-slovensko-hledá-sysly)
 
 07.12.2018: [Myslivci a rybáři žádají návrat ke krutým středověkým metodám](/news/myslivci-a-rybáři-žádají-návrat-ke-krutým-středověkým-metodám)
 
