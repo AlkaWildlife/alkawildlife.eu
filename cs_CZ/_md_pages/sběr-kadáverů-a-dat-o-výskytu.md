@@ -19,7 +19,7 @@ Z celé ČR pro tyto účely sbíráme kadávery či data o výskytu/pozorován�
 
 Hlásit údaje nám můžete na emaily, rádi budeme také za fotografie. V případě nálezu uhynulého jedince raději volejte, abychom rychleji zorganizovali sběr. Vděční budeme za aktuální i starší údaje. 
 
-AKTUÁLNÍ NOVINKA: **NOVĚ** SBÍRÁME ÚDAJE I _KADÁVERY_ [**MYŠIVKY HORSKÉ**](https://www.alkawildlife.eu/news/hled%C3%A1-se-my%C5%A1ka-z-doby-ledov%C3%A9)****
+
 
 # Co sbíráme:
 
@@ -32,6 +32,8 @@ tchoř stepní  / kadávery, aktuální i starší údaje o výskytu / celá ČR
 plch velký / aktuální i starší údaje o výskytu / celá ČR
 
 myšivka horská / kadávery, aktuální i starší údaje o výskytu / celá ČR
+
+myšice temnopásá/aktuální i starší údaje o výskytu / celá ČR
 
 rys ostrovid / kadávery, aktuální i starší údaje o výskytu / celá ČR
 
