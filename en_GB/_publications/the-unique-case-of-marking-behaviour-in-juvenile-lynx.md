@@ -1,6 +1,7 @@
 ---
 title: The unique case of marking behaviour in juvenile lynx
 published: true
+public: true
 authors:
   - name: Tereza Mináriková
   - name: Elisa Belotti
