@@ -14,7 +14,6 @@ type: Scientific publication
 tags:
   - European mink
   - Publications for experts
-  - American mink
 journal: 'Scientific Annals of the Danube delta Institute for research and development '
 year: 2004
 lang: en
