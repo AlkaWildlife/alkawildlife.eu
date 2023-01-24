@@ -49,7 +49,7 @@ organizace konference, která proběhla ve Velkých Pavlovicích a živě online
 
 [Wildlife conservation in human landscapes 2021 - Abstract book of international conference](/media/AbstractBook_Wildlife_conservation_human_landscapes_2021.pdf)
 
-
+[Brožura Sysel obecný - Jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) 
 
 [Mapa potenciálního rizika škod způsobených syslem  - Miroslav (pdf)](/media/Mapa_rizika_skod_sysel_Miroslav.pdf)
 
