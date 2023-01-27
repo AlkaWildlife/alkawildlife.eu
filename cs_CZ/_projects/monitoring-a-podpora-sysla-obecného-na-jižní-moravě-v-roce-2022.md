@@ -15,3 +15,9 @@ countries:
 logoset: MZP
 ---
 Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla obecného na jižní Moravě v zemědělské krajině v roce 2022. Sysel, v současnosti kriticky ohrožený druh, byl dříve běžným druhem zemědělské krajiny. Úbytek sysla ukazuje na stav naší krajiny. Pomoc syslovi má proto širší uplatnění, znamená také podporu vzácných biotopů a pomoc při vytváření funkční zemědělské krajiny. V rámci projektu bude realizován monitoring populací, spolupráce s vlastníky pozemků, osvěta široké veřejnosti. Projekt navazuje na naše dosavadní aktivity v tomto tématu.
+
+# Aktuality
+
+[Rozkvetlé Miroslavské letiště](https://www.syslinavinici.cz/news/rozkvetlé-miroslavské-letiště)
+
+[Pozvání do Miroslavi](https://www.syslinavinici.cz/news/pozvání-do-miroslavi)
