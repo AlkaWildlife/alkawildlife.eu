@@ -45,6 +45,8 @@ Sysel obecný dříve běžný, plošně se vyskytující zemědělský škůdce
 
 organizace konference, která proběhla ve Velkých Pavlovicích a živě online na Youtube 1-3.12.2021
 
+[Sysel obecný a zemědělství  - souhrnná zpráva projektu (pdf)](/media/Sysel_zemedelstvi_zprava_final_web.pdf)
+
 [mezinárodní konference Wildlife conservation in human landscapes - Youtube playlist přednášek](https://www.youtube.com/hashtag/conservationandpeople)
 
 [Wildlife conservation in human landscapes 2021 - Abstract book of international conference](/media/AbstractBook_Wildlife_conservation_human_landscapes_2021.pdf)
