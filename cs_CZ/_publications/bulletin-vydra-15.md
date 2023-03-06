@@ -12,7 +12,7 @@ publisher: 'ALKA Wildlife,o.p.s.'
 year: 2012
 lang:
   - cs
-link: /media/Bulletin Vydra 15_2012
+link: /media/Bulletin_Vydra_15_2012
 ---
 Větrovcová J.: Co se událo v rámci programu péče pro vydru říční v ČR v roce 2011? 
 
