@@ -13,7 +13,7 @@ publisher: 'ALKA Wildlife,o.p.s.'
 year: 2018
 lang:
   - cs
-link: /media/Bulletin Vydra 17.pdf
+link: /media/Bulletin_Vydra_17.pdf
 ---
 Poledník L., Poledníková K., Beran V., Čamlík G., Prauz L. a Mateos-González F.: Výskyt vydry říční v České republice v roce 2016
 
