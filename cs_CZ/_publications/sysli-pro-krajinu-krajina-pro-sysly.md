@@ -11,6 +11,7 @@ type: Brožura
 tags:
   - sysel obecný
   - publikace pro laickou veřejnost
+  - ISBN
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2019
 lang:
