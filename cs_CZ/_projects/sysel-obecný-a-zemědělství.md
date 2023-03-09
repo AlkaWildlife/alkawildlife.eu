@@ -43,15 +43,13 @@ Sysel obecný dříve běžný, plošně se vyskytující zemědělský škůdce
 
 # Výstupy projektu
 
-organizace konference, která proběhla ve Velkých Pavlovicích a živě online na Youtube 1-3.12.2021
-
 [Sysel obecný a zemědělství  - souhrnná zpráva projektu (pdf)](/media/Sysel_zemedelstvi_zprava_final_web.pdf)
 
-[mezinárodní konference Wildlife conservation in human landscapes - Youtube playlist přednášek](https://www.youtube.com/hashtag/conservationandpeople)
-
-[Wildlife conservation in human landscapes 2021 - Abstract book of international conference](/media/AbstractBook_Wildlife_conservation_human_landscapes_2021.pdf)
-
 [Brožura Sysel obecný - Jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) 
+
+[Youtube playlist přednášek uspořádané mezinárodní konference Wildlife conservation in human landscapes ](https://www.youtube.com/hashtag/conservationandpeople)
+
+[kniha abstraktů mezinárodní konference Wildlife conservation in human landscapes ](/media/AbstractBook_Wildlife_conservation_human_landscapes_2021.pdf)
 
 [Mapa potenciálního rizika škod způsobených syslem  - Miroslav (pdf)](/media/Mapa_rizika_skod_sysel_Miroslav.pdf)
 
