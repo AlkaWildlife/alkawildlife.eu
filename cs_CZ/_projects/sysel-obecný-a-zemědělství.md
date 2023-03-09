@@ -45,11 +45,11 @@ Sysel obecný dříve běžný, plošně se vyskytující zemědělský škůdce
 
 [Sysel obecný a zemědělství  - souhrnná zpráva projektu (pdf)](/media/Sysel_zemedelstvi_zprava_final_web.pdf)
 
-[Brožura Sysel obecný - Jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) 
+[Brožura Sysel obecný - Jak s ním žít? (pdf)](/media/ALKA_brozura_SYSEL_tacr.pdf) 
 
 [Youtube playlist přednášek uspořádané mezinárodní konference Wildlife conservation in human landscapes ](https://www.youtube.com/hashtag/conservationandpeople)
 
-[kniha abstraktů mezinárodní konference Wildlife conservation in human landscapes ](/media/AbstractBook_Wildlife_conservation_human_landscapes_2021.pdf)
+[kniha abstraktů mezinárodní konference Wildlife conservation in human landscapes (pdf) ](/media/AbstractBook_Wildlife_conservation_human_landscapes_2021.pdf)
 
 [Mapa potenciálního rizika škod způsobených syslem  - Miroslav (pdf)](/media/Mapa_rizika_skod_sysel_Miroslav.pdf)
 
