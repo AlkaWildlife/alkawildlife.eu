@@ -18,7 +18,7 @@ Materiály pro učitele i děti k přímému použití či inspiraci.
 
 **POZNÁVACÍ HRA** / pro děti 1. stupně ZŠ / pdf / možno stáhnout a vytisknout
 
-****[**Výukové video** SYSLÍ ROK](https://youtu.be/1XOhmTshwes) / pro děti 1.stupně ZŠ / youtube video / na vyžádání zašleme video v plném rozlišení
+[Výukové video SYSLÍ ROK](https://youtu.be/1XOhmTshwes) / pro děti 1.stupně ZŠ / youtube video / na vyžádání zašleme video v plném rozlišení
 
 Výstava **MŮJ SOUSED SYSEL** / pro každého / pdf fotografické putovní výstavy / výstavu je možné zapůjčit
 
