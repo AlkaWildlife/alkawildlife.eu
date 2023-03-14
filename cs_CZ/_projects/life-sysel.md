@@ -12,7 +12,7 @@ funding: |-
 from: 2020-09
 to: 2027-12
 partners: |-
-  [BROZ (hlavní partner)](www.broz.sk)
+  [BROZ (hlavní partner](https://www.broz.sk)
   ALKA Wildlife o.p.s
   Polskie Towarzystwo Ochrony Przyrody “Salamandra”
   Štátna ochrana prírody Slovenskej republiky
@@ -38,30 +38,11 @@ Na Slovensku na většině lokalit v alpském i panonském regionu byla kvalita 
 
 ## Hlavní cíle projektu:
 
-
-
 1. Obnova biotopů - vyčištění lokalit od náletů, zavedení pastvy
-
-
-
 2. Posílení populací - zabezpečení potravní základny (výsev vhodných rostlin, podpora hmyzu, výsadba ovocných stromů), péče o jednotlivé kolonie, odklonění predačního tlaku
-
-
-
 3. Reintrodukce sysla na vhodné lokality, na kterých v nedávné minulosti vyhynul
-
-
-
 4. Spolupráce s místními zájmovými skupinami, vlastníky či uživateli pozemků
-
-
-
 5. Replikace a přenos výsledků projektu
-
-
-
 6. Zvýšení povědomí veřejnosti o ochraně sysla obecného pasienkového
-
-
 
 V České republice se bude jednat zejména o body 5 a 6.
