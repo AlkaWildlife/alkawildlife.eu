@@ -9,7 +9,7 @@ description: >-
 date: '2021-09-15'
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /
     title: Poaching of lynx female Michelle
 category: news
 layout: news
