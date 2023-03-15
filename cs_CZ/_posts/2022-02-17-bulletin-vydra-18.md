@@ -7,7 +7,7 @@ description: 'Nové číslo Bulletinu Vydra bylo uzavřeno a publikováno. '
 date: '2022-02-17'
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /
     title: 'Bulletin VYDRRA 18 '
 category: news
 layout: news
