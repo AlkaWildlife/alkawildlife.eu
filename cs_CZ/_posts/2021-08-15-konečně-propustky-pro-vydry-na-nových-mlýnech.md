@@ -9,7 +9,7 @@ description: >
 date: '2021-08-15'
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /
     title: Culverts for otters on Nove mlyny dam
 category: news
 layout: news
