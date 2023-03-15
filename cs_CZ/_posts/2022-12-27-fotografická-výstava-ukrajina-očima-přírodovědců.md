@@ -9,7 +9,7 @@ description: >-
 date: '2022-12-21'
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: 'https://en.alkawildlife.eu/'
     title: 'Exhibition '
 category: news
 layout: news
