@@ -8,7 +8,7 @@ date: '2021-07-30'
 logoset: FMP
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /
     title: We look for birchmouse
 category: news
 layout: news
