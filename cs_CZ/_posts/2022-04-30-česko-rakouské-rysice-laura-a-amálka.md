@@ -8,7 +8,7 @@ date: '2022-04-27'
 logoset: FMP
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu'
+    permalink: /
     title: Lynxes Amalka and Laura
 category: news
 layout: news
