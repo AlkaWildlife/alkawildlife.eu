@@ -7,7 +7,7 @@ description: Ukrajina je krásná a obrovská země. Podívejte se na její př�
 date: '2022-03-08'
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /
     title: Ukraine through the eyes of naturalists
 category: news
 layout: news
