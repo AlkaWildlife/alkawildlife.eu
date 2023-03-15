@@ -7,7 +7,7 @@ description: 'V sokolích budkách je živo, právě se líhnou mládata a rodi�
 date: '2022-05-13'
 lang_alternatives:
   en_GB:
-    permalink: 'https://en.alkawildlife.eu/'
+    permalink: /
     title: Falcon 2022 news
 category: news
 layout: news
