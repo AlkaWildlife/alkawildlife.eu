@@ -8,7 +8,7 @@ date: '2022-05-28'
 logoset: FMP
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: 'https://en.alkawildlife.eu/'
     title: First year of search for birch mouse
 category: news
 layout: news
