@@ -6,7 +6,7 @@ listing_thumbnail: /media/alka_vyrocni_zprava_2021_274.jpg
 date: '2022-06-30'
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: 'https://en.alkawildlife.eu/'
     title: Annual report 2021
 category: news
 layout: news
