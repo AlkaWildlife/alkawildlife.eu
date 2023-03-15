@@ -15,3 +15,5 @@ Materiály pro učitele i děti k přímému použití či inspiraci.
 Křížovka ZVÍŘATA OD VODY / pro děti ZŠ / pdf / možno stáhnout a vytisknout
 
 Bludiště CESTA PRO VYDRÝSKA / pro děti ZŠ / pdf / možno stáhnout a vytisknout
+
+MASKA VYDRY / pro děti ZŠ / pdf / možno stáhnout a vytisknout
