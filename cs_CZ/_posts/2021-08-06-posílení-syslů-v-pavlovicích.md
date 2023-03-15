@@ -8,7 +8,7 @@ date: '2021-08-06'
 logoset: LIFE MZP
 lang_alternatives:
   en_GB:
-    permalink: en.alkawildlife.eu
+    permalink: /
     title: Support for sousliks
 category: news
 layout: news
