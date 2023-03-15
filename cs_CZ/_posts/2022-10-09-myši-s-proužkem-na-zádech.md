@@ -10,7 +10,7 @@ date: '2022-12-27'
 logoset: MZP
 lang_alternatives:
   en_GB:
-    permalink: 'http://en.alkawildlife.eu'
+    permalink: 'https://en.alkawildlife.eu/'
     title: Mice with a stripe on the back
 category: news
 layout: news
