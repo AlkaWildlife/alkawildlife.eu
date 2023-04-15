@@ -8,7 +8,7 @@ authors:
   - name: Kateřina Poledníková
   - name: Jan Šíma
   - name: Jitka Větrovcová
-type: Brožura
+type: Metodika
 tags:
   - vydra říční
   - publikace pro odbornou veřejnost
@@ -16,7 +16,7 @@ publisher: 'AOPK ČR a ALKA Wildlife, o.p.s.'
 year: 2017
 lang:
   - cs
-link: /media/vydra a doprava - web_2.pdf
+link: /media/vydra_a_doprava_web_2.pdf
 attachments: []
 ---
 Cílem
