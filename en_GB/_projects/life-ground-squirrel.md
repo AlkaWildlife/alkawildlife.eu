@@ -6,8 +6,6 @@ registration_no: LIFE19 NAT/SK/001069
 funding: |-
   LIFE+, Nature and Biodiversity
 
-
-
   ![](/media/life_natura_logo_300.jpg)
 from: 2020-09
 to: 2027-12
