@@ -12,12 +12,12 @@ funding: |-
 from: 2020-09
 to: 2027-12
 partners: |-
-  [BROZ (hlavní partner](https://www.broz.sk)
-  ALKA Wildlife o.p.s
-  Polskie Towarzystwo Ochrony Przyrody “Salamandra”
-  Štátna ochrana prírody Slovenskej republiky
-  Národná zoologická záhrada Bojnice
-  Přírodovědecká fakulta UK v Bratislavě
+  [BROZ (hlavní partner](https://www.broz.sk)) (SK)
+  ALKA Wildlife o.p.s (CZ)
+  Polskie Towarzystwo Ochrony Przyrody “Salamandra” (PL)
+  Štátna ochrana prírody Slovenskej republiky (SK)
+  Národná zoologická záhrada Bojnice (SK)
+  Přírodovědecká fakulta UK v Bratislavě (SK)
 web: 'https://broz.sk/projekty/life-sysel/'
 species: sysel obecný
 area: |-
