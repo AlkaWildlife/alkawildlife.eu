@@ -15,7 +15,7 @@ tags:
   - linduška úhorní
   - publikace pro odbornou veřejnost
 journal: Journal of Ornithology
-year: 2020
+year: 2023
 lang: en
 link: /media/2023_Tawny_pipit_Onate-Casado_etal.pdf
 ---
