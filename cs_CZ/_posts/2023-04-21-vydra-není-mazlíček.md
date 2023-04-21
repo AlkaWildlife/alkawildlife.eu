@@ -3,6 +3,9 @@ title: Vydra není mazlíček
 published: true
 image: /media/vydra_mazel_620.jpg
 listing_thumbnail: /media/vydra_mazel_274.jpg
+description: >-
+  V posledních letech je čím dál více populární pořídit si vydru jako mazlíčka.
+  Můžete si ji někde koupit?
 date: '2023-04-21'
 lang_alternatives:
   en_GB:
