@@ -18,6 +18,6 @@ Myšivka horská je jediným zástupcem čeledi tarbíkovitých v ČR. Je považ
 
 # Aktuality a výstupy
 
-[Myšky s proužkem na zádech](/news/myšky-s-proužkem-na-zádech)
+[Myšky s proužkem na zádech](/news/myši-s-proužkem-na-zádech)
 
 [Tajemství myšivky horské](https://youtu.be/cpldb-68aao)
