@@ -31,4 +31,4 @@ Druhou aktivitou je reciproční návštěva odborníků z ALKA Wildlife do Nors
 
 
 
-****[**NÁVŠTĚVA NORSKÝCH KOLEGŮ**](/news/návštěva-norských-kolegů)****
+**[**NÁVŠTĚVA NORSKÝCH KOLEGŮ**](/news/návštěva-norských-kolegů)**
