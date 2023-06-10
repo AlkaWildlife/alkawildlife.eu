@@ -23,11 +23,10 @@ description: >-
   Setkání partnerských organizací s cílem se navzájem poznat, předat si znalosti
   týkající se výzkumu a druhové ochrany a případně připravit společný projekt.
 ---
-Dvě setkání odborníků z partnerských organizací s cílem se navzájem poznat, předat si znalosti týkající se výzkumu a druhové ochrany a případně připravit společný projekt.
+V rámci projektu jsme mohli realizovat dvě setkání odborníků z partnerských organizací s cílem se navzájem poznat, předat si znalosti týkající se výzkumu a druhové ochrany a případně připravit společný projekt.
+Na začátku května norští partneři navštívili Česko republiku a v rámci jednoho týdne se nám podařilo navštívit všechny oblasti výskytu myšivky horské – Jeseníky, Beskydy, Novohradské hory a Šumavu. V jednotlivých pohořích jsme mohli vidět lokality výskytu v poměrně různém prostředí. Stihli jsme také norským kolegům ukázat lokality se syslem obecným, který v Norsku nežije a na rozdíl od schovaných myšivek, sysli kolem nás pobíhali a pískali. 
+V srpnu jsme naopak my navštívili Trondheim, kde jsme v rámci několikadenní návštěvy realizovali sérii přednášek pro pracovníky a studenty Norské University Vědy a Technologie (NTNU) a další zájemce. 
 
-První aktivitou je návštěva odborníků z Norska do České republiky. Plánováno je terénní setkání s cílem se podívat na aktuální i historické lokality myšivky horské. 
-
-Druhou aktivitou je reciproční návštěva odborníků z ALKA Wildlife do Norska. V rámci výletu bude uspořádán workshop s představením našich aktivit.
 
 
 
