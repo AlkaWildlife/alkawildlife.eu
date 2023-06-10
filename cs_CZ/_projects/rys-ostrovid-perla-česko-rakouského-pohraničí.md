@@ -49,4 +49,4 @@ Rys ostrovid je ohroženým a chráněným druhem v ČR, Rakousku i EU. V souča
 
 [Pexeso (pdf)](/media/ALKA_rysi_pexeso_2022_m.pdf)
 
-[Pohlednice (pdf)](/media/Rysi_pohlednice_m.pdf) (na vyžádání můžeme ještě určité množství poslat vytištěné, např. pro ZŠ)
+[Pohlednice (pdf)](/media/Rysi_pohlednice_m.pdf)
