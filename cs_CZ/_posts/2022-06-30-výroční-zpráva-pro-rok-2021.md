@@ -11,13 +11,13 @@ lang_alternatives:
 category: news
 layout: news
 ---
-Výroční zpráva společnosti za rok 2020 je zveřejněna.
+Výroční zpráva společnosti za rok 2021 je zveřejněna.
 
 Všem děkujeme za spolupráci. Přejeme příjemné čtení.
 
 Tým ALKA Wildlife, o.p.s.
 
-[**Výroční zpráva 2021 (pdf; 8 MB)**](/media/ALKA_vyrocni_zprava_2021.pdf)\*\*\*\*
+[**Výroční zpráva 2021 (pdf; 8 MB)**](/media/ALKA_vyrocni_zprava_2021.pdf)
 
 - - -
 
