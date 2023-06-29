@@ -18,7 +18,7 @@ Všem děkujeme za spolupráci. Přejeme příjemné čtení.
 
 Tým ALKA Wildlife, o.p.s.
 
-[Výroční zpráva ALKA Wildlife, o.p.s. 2022](/media/ALKA_vyrocnizprava_2022_final_.pdf)
+[Výroční zpráva ALKA Wildlife, o.p.s. 2022](/media/ALKA_vyrocnizprava_2022_final.pdf)
 
 ![](/media/alka_vyrocnizprava_2022_final_stránka_02.jpg)
 
