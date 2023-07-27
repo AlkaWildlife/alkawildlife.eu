@@ -43,6 +43,10 @@ Sysel obecný dříve běžný, plošně se vyskytující zemědělský škůdce
 
 # Výstupy projektu
 
+[European ground squirrels in backyard gardens: Identifying and mitigating agricultural conflicts with an endangered species](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/european-ground-squirrels-in-backyard-gardens-identifying-and-mitigating-agricultural-conflicts-with-an-endangered-species)
+
+[A spatial tool to identify potential conflict hotspots for the European ground squirrel in agricultural land](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/a-spatial-tool-to-identify-potential-conflict-hotspots-for-the-european-ground-squirrel-in-agricultural-land)
+
 [Sysel obecný a zemědělství  - souhrnná zpráva projektu (pdf)](/media/Sysel_zemedelstvi_zprava_final_web.pdf)
 
 [Brožura Sysel obecný - Jak s ním žít? (pdf)](/media/ALKA_brozura_SYSEL_tacr.pdf) 
