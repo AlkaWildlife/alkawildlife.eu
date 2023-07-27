@@ -21,7 +21,7 @@ type: Scientific publication
 tags:
   - Wildcat
 journal: 'Lynx, n.s. (Praha)'
-year: 2023
+year: 2022
 lang: en
 link: /media/Bufkaetal_2022_def.pdf
 ---
