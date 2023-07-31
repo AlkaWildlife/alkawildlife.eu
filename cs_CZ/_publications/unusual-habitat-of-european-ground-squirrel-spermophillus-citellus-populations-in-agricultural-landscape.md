@@ -3,7 +3,7 @@ title: >-
   Unusual habitat of European ground squirrel (Spermophillus citellus)
   populations in agricultural landscape
 published: true
-public: false
+public: true
 authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
@@ -18,6 +18,7 @@ tags:
 journal: Thayensia
 year: 2022
 lang: en
+link: /media/Thaya19_Polednikova_etal_fin.pdf
 ---
 Sysel obecný je druhem typickým pro otevřené, bezlesé prostředí. Jeho životní strategie je založena na vytváření kolonií, jejichž členové se vzájemně varují před predátory, které vizuálně kontrolují. Úspěch takovéto strategie ovšem vyžaduje otevřené a přehledné prostředí. V České republice však existují případy výskytu kolonií v prostředí s významným podílem stromů a keřů.
 
