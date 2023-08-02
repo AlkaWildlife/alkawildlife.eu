@@ -43,9 +43,11 @@ Sysel obecný dříve běžný, plošně se vyskytující zemědělský škůdce
 
 # Výstupy projektu
 
-[European ground squirrels in backyard gardens: Identifying and mitigating agricultural conflicts with an endangered species](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/european-ground-squirrels-in-backyard-gardens-identifying-and-mitigating-agricultural-conflicts-with-an-endangered-species)
+[European ground squirrels in backyard gardens: Identifying and mitigating agricultural conflicts with an endangered species](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/european-ground-squirrels-in-backyard-gardens-identifying-and-mitigating-agricultural-conflicts-with-an-endangered-species) (pdf)
 
-[A spatial tool to identify potential conflict hotspots for the European ground squirrel in agricultural land](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/a-spatial-tool-to-identify-potential-conflict-hotspots-for-the-european-ground-squirrel-in-agricultural-land)
+[A spatial tool to identify potential conflict hotspots for the European ground squirrel in agricultural land](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/a-spatial-tool-to-identify-potential-conflict-hotspots-for-the-european-ground-squirrel-in-agricultural-land) (pdf)
+
+[Unusual habitat of European ground squirrel (Spermophillus citellus) populations in agricultural landscape](https://www.alkawildlife.eu/media/Thaya19_Polednikova_etal_fin.pdf) (pdf)
 
 [Sysel obecný a zemědělství  - souhrnná zpráva projektu (pdf)](/media/Sysel_zemedelstvi_zprava_final_web.pdf)
 
