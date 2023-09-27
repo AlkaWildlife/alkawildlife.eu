@@ -1,5 +1,7 @@
 ---
-title: Lynx Monitoring Report for Bohemian-Bavarian-Austrian lynx population
+title: >-
+  Lynx Monitoring Report for Bohemian-Bavarian-Austrian lynx population in lynx
+  year 2017
 published: true
 public: true
 authors:
