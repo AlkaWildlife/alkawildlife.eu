@@ -118,6 +118,16 @@ _Rysí mapa - mapa vytvořená v projektu Translynx, je v rámci projektu 3Lynx 
 
 [![](/media/map_translynx_eu.jpg "Interaktivní mapa fotografií z fotopastí")](http://map.translynx.eu/cs?specie=lynx-lynx&layers=3)
 
+
+
+Roční reporty o stavu česko-bavorsko-rakouské populace rysa ostrovida:
+
+[Report stavu populace rysa ostrovida v rysím roce LY2017 (pdf)](/media/Report_monitoring_lynx_BBA_LY17.pdf)
+
+[Report stavu populace rysa ostrovida v rysím roce LY2018 (pdf)](/media/Report_monitoring_lynx_BBA_LY18.pdf)
+
+[Report stavu populace rysa ostrovida v rysím roce LY2019 (pdf)](/media/Report_monitoring_lynx_BBA_LY19.pdf)
+
 # V médiích
 
 [Na stopě rysa ostrovida (článek v časopise Venkov, pdf)](/media/Venkov_rys_2017.pdf)
