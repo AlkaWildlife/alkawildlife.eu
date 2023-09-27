@@ -119,6 +119,14 @@ This map was created in the Translynx project, but is being expanded and added t
 
 [![](/media/map_translynx_eu.jpg "Interaktivní mapa fotografií z fotopastí")](http://map.translynx.eu/cs?specie=lynx-lynx&layers=3)
 
+**Lynx monitoring reports:**
+
+[Lynx Monitoring Report for Bohemian-Bavarian-Austrian lynx population in lynx year 2017](/media/Report_monitoring_lynx_BBA_LY17.pdf)
+
+[Lynx Monitoring Report for the Bohemian-Bavarian- Austrian Lynx Population in lynx year 2018](/media/Report_monitoring_lynx_BBA_LY18.pdf)
+
+[Lynx Monitoring Report for the Bohemian-Bavarian-Austrian Lynx Population in lynx year 2019](/media/Report_monitoring_lynx_BBA_LY19.pdf)
+
 # In the media
 
 [On the Trail of the Eurasian Lynx](/media/Venkov_rys_2017.pdf) (Article in Countryside magazine)
