@@ -9,7 +9,7 @@ authors:
   - name: Štěpán Zápotočný
   - name: Václav Beran
   - name: Lukáš Poledník
-type: Expert report
+type: Scientific publication
 tags:
   - Eurasian otter
 journal: Bulletin Vydra 18
