@@ -8,6 +8,19 @@ authors:
   - name: 'Woelfl, S.'
   - name: Mináriková Tereza
   - name: Belotti E.
+  - name: Engleder T.
+  - name: Schwaiger M.
+  - name: Gahbauer M.
+  - name: Volfová J.
+  - name: Bufka L.
+  - name: Gerngross P.
+  - name: Weingarth K.
+  - name: Bednářová H.
+  - name: Strnad M.
+  - name: Heurich M.
+  - name: Poledník Lukáš
+  - name: Zápotočný Štěpán
+  - name: Zschille J.
 type: 'Odborná zpráva '
 tags:
   - rys ostrovid
