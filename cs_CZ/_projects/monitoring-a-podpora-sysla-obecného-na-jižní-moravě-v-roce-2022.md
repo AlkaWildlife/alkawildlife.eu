@@ -2,7 +2,13 @@
 title: Monitoring a podpora sysla obecného na jižní Moravě v roce 2022
 published: true
 registration_no: 72/32/22
-funding: "Projekt byl podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.\r\n\n\r\n\nProgram na podporu projektů nestátních neziskových organizací pro rok 2021 - Podprogram A"
+funding: >-
+  Projekt byl podpořen Ministerstvem životního prostředí, projekt nemusí
+  vyjadřovat stanoviska MŽP.
+
+
+  Program na podporu projektů nestátních neziskových organizací pro rok 2022 -
+  Podprogram A
 from: 2022-01
 to: 2022-12
 species: sysel obecný
