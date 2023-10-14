@@ -3,6 +3,7 @@ title: >-
   A new method for estimating visitation rates of cryptic animals via repeated
   surveys of indirect signs
 published: true
+public: true
 authors:
   - name: Bernd Gruber
   - name: Bjorn Reineking
@@ -20,8 +21,9 @@ tags:
 journal: Journal of Applied Ecology
 year: 2007
 lang: en
-attachments:
-  - {}
+link: >-
+  https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2664.2007.01406.x
+attachments: []
 ---
 1. Visitation rate is a measure of the frequency with which animals visit specific locations of interest. This information is crucial for various problems in the conservation and management of animal species, e.g. to determine the risk wildlife poses to human managed resources or the predation risks of nests. An important assessment tool, especially for cryptic animals, is to count indirect signs of presence, such as tracks or faeces.
 
