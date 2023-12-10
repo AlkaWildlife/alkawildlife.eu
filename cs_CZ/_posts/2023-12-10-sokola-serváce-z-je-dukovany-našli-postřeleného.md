@@ -1,5 +1,5 @@
 ---
-title: Sokola Serváce z JE Dukovany našli postřeleného
+title: Sokola Serváce našli postřeleného
 published: true
 image: /media/servac_pacient.jpg
 listing_thumbnail: /media/servac_pacient_374.jpg
