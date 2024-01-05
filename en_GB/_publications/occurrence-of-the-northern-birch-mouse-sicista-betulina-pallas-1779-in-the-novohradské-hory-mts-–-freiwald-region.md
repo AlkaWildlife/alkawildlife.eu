@@ -17,7 +17,7 @@ type: Scientific publication
 journal: 'Sborník Jihočeského muzea v Českých Budějovicích, Přírodní vědy 63'
 year: 2023
 lang: en
-link: /media/Polednik_2023_mirch mouse.pdf
+link: /media/Polednik_2023_mirchmouse.pdf
 ---
 Novohradské hory Mts. – Freiwald region is one of the few refuges of the northern
 
