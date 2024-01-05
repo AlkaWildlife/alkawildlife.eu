@@ -21,7 +21,7 @@ tags:
 journal: 'Sborník Jihočeského muzea v Českých Budějovicích, Přírodní vědy 63'
 year: 2023
 lang: en
-link: /media/Polednik_2023_birch mouse.pdf
+link: /media/Polednik_2023_birchmouse.pdf
 ---
 Oblast Novohradské hory – Freiwald je jedním z mála refugií výskytu myšivky horské
 
