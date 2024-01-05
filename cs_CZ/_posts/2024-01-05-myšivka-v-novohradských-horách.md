@@ -1,6 +1,6 @@
 ---
 title: Myšivka v Novohradských horách
-published: true
+published: false
 image: /media/img_8825_u_620.jpg
 description: Jak jsou na tom myšivky horské v Novohradských horách?
 date: '2024-01-05'
