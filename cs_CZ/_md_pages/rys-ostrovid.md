@@ -70,7 +70,7 @@ V návaznosti na vypuštění 5–9 jedinců v Bavorském lese na začátku 70. 
 
 _Mapa rozšíření tzv. šumavské neboli česko-bavorsko-rakouské rysí populace v rysích letech 2017-2019. Tmavě vyznačené kvadráty (10 x 10km) byly pozitivní ve všech 3 letech monitoringu, světlé kvadráty jen jeden (žlutě) nebo dva roky (oranžová) (rysí rok začíná na rozdíl od kalendářního 1.května). Zdroj:_ [_Mináriková et al. 2023_](/media/Report_monitoring_lynx_BBA_LY17.pdf)_,_ [_Woelfl et. Al. 2023_](/media/Report_monitoring_lynx_BBA_LY18.pdf)_,_ [_Belotti et al. 2023_](/media/Report_monitoring_lynx_BBA_LY19.pdf)_._
 
-![](/media/mapa_rys_jc_2019.jpg)
+![](/media/mapa_rys_jc_2019.png)
 
 Na celém tomto území žije odhadem zhruba 130 zvířat starších jednoho roku.
 
