@@ -26,7 +26,7 @@ Tchoř stepní je velikostí (0,7 – 2 kg, délka těla 29-56 cm, délka ocasu 
 
 _**Jak vypadá tchoř stepní? Podívejte se na video.**_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XsQLWr8dz-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XsQLWr8dz-4" frameborder="0" allowfullscreen=""></iframe>
 
 # Biologie a ekologie druhu
 
