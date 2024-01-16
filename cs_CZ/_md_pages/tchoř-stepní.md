@@ -2,7 +2,7 @@
 title: Tchoř stepní
 published: true
 permalink: /zajmove-druhy/tchor-stepni
-image: /media/tchor_stepni_vs.jpg
+image: /media/dscf0004_tchor-stepni.jpg
 description: >-
   Tchoř stepní, lasicovitá šelma stepní a zemědělské krajiny, je jedním z našich
   nejvzácnějších savců. 
