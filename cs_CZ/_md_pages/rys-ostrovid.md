@@ -74,6 +74,18 @@ _Mapa rozšíření tzv. šumavské neboli česko-bavorsko-rakouské rysí popul
 
 Na celém tomto území žije odhadem zhruba 130 zvířat starších jednoho roku.
 
+_V letech 2017-2019 bylo pomocí fotopastí v ČR, Bavorsku a Rakousku sledováno území o rozloze 13 000 km2. Výsledky tohoto sledování ukazuje tabulka. Zdroj: Mináriková et al. 2023, Woelfl et. Al. 2023, Belotti et al. 2023_
+
+![](/media/rys_populace_tabulka.jpg)
+
+Druhá populace rysa u nás se vyskytuje na hranici se Slovenskem v Moravskoslezských Beskydech a Javorníkách. V této oblasti žije trvale 10-12 samostatných rysů. 
+
+
+
+_Mapa výskytu rysa ostrovida v ČR z let 2012-2016 zobrazuje dvě stabilní oblasti výskytu rysa v ČR. Zdroj:_ [_Kutal et al. 2017_](/media/093-107_Kutal.pdf)__
+
+![](/media/mapa_rys_cz_2017.png)
+
 # Statut a ochrana
 
 V Červeném seznamu ohrožených druhů obratlovců ČR je uveden rys ostrovid jako druh ohrožený. Podle zákona č. 114/1992 Sb., o ochraně přírody a krajiny, a související vyhlášky č. 395/1992 Sb. je rys ostrovid zvláště chráněný živočich v kategorii silně ohrožený. Z hlediska zákona o myslivosti č. 449/2001 Sb. je rys považován za zvěř, kterou nelze lovit.
