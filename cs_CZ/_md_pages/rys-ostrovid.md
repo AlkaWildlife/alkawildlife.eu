@@ -68,21 +68,19 @@ Ve středověku obýval rys většinu oblastí s vysokým zastoupením lesů, a 
 
 V návaznosti na vypuštění 5–9 jedinců v Bavorském lese na začátku 70. let a díky následné reintrodukci 17 rysů v průběhu 80. let na české straně Šumavy došlo ke stabilizaci a postupnému nárůstu velikosti šumavské populace rysa ostrovida (Koubek a Červený 1996). V současnosti tzv. šumavská populace rysů (nazývaná také česko-bavorsko-rakouská, anglicky BBA) obývá území od Českého lesa přes Brdy po Novohradské hory v Česku, Horní a Dolní Rakousko po řeku Dunaj a Bavorsko po Regensburg a Bayreuth. Těžištěm výskytu rysa jsou přitom národní parky Šumava a Bavorský les. 
 
-_Mapa rozšíření tzv. šumavské neboli česko-bavorsko-rakouské rysí populace v rysích letech 2017-2019. Tmavě vyznačené kvadráty (10 x 10km) byly pozitivní ve všech 3 letech monitoringu, světlé kvadráty jen jeden (žlutě) nebo dva roky (oranžová) (rysí rok začíná na rozdíl od kalendářního 1.května). Zdroj:_ [_Mináriková et al. 2023_](/media/Report_monitoring_lynx_BBA_LY17.pdf)_,_ [_Woelfl et. Al. 2023_](/media/Report_monitoring_lynx_BBA_LY18.pdf)_,_ [_Belotti et al. 2023_](/media/Report_monitoring_lynx_BBA_LY19.pdf)_._
+_Mapa rozšíření tzv. šumavské neboli česko-bavorsko-rakouské rysí populace v rysích letech 2017-2019. Tmavě vyznačené kvadráty (10 x 10km) byly pozitivní ve všech 3 letech monitoringu, světlé kvadráty jen jeden (žlutě) nebo dva roky (oranžová) (rysí rok začíná na rozdíl od kalendářního 1.května). Zdroj:_ [_Mináriková a kol. 2023_](/media/Report_monitoring_lynx_BBA_LY17.pdf)_,_ [_Woelfl a kol. 2023_](/media/Report_monitoring_lynx_BBA_LY18.pdf)_,_ [_Belotti a kol. 2023_](/media/Report_monitoring_lynx_BBA_LY19.pdf)_._
 
 ![](/media/mapa_rys_jc_2019.png)
 
 Na celém tomto území žije odhadem zhruba 130 zvířat starších jednoho roku.
 
-_V letech 2017-2019 bylo pomocí fotopastí v ČR, Bavorsku a Rakousku sledováno území o rozloze 13 000 km2. Výsledky tohoto sledování ukazuje tabulka. Zdroj: Mináriková et al. 2023, Woelfl et. Al. 2023, Belotti et al. 2023_
+_V letech 2017-2019 bylo pomocí fotopastí v ČR, Bavorsku a Rakousku sledováno území o rozloze 13 000 km2. Výsledky tohoto sledování ukazuje tabulka. Zdroj:_ [_Mináriková a kol. 2023_](/media/Report_monitoring_lynx_BBA_LY17.pdf)_,_ [_Woelfl a kol. 2023_](/media/Report_monitoring_lynx_BBA_LY18.pdf)_,_ [_Belotti a kol. 2023_](/media/Report_monitoring_lynx_BBA_LY19.pdf)_._
 
-![](/media/rys_populace_tabulka.jpg)
+![](/media/tabulka_rys_populace.png)
 
 Druhá populace rysa u nás se vyskytuje na hranici se Slovenskem v Moravskoslezských Beskydech a Javorníkách. V této oblasti žije trvale 10-12 samostatných rysů. 
 
-
-
-_Mapa výskytu rysa ostrovida v ČR z let 2012-2016 zobrazuje dvě stabilní oblasti výskytu rysa v ČR. Zdroj:_ [_Kutal et al. 2017_](/media/093-107_Kutal.pdf)__
+_Mapa výskytu rysa ostrovida v ČR z let 2012-2016 zobrazuje dvě stabilní oblasti výskytu rysa v ČR. Zdroj:_ [_Kutal a kol. 2017_](/media/093-107_Kutal.pdf)
 
 ![](/media/mapa_rys_cz_2017.png)
 
@@ -94,8 +92,8 @@ Rys ostrovid je dle červeného seznamu savců IUCN zařazen mezi málo dotčen�
 
 # Literatura
 
-Více si můžete přečíst v těchto [našich publikacích](/publications#category=rys).
+Více si můžete přečíst v těchto [našich PUBLIKACÍCH](/publications#category=rys).
 
 # Projekty
 
-Realizované projekty zaměřené na rysa ostrovida [zde](/projects#category=rys).
+Realizované projekty zaměřené na rysa ostrovida [ZDE](/projects#category=rys).
