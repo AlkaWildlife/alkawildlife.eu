@@ -17,6 +17,8 @@ Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla ob
 
 # Aktuality a výstupy
 
+[Zpráva Monitoring populací sysla obecného na jižní Moravě v roce 2023](/media/2024/Sysel_monitoring_2023.pdf)
+
 [Syslí louka v Miroslavi](https://www.syslinavinici.cz/news/sysl%C3%AD-louka-v-miroslavi)
 
 [Pozvánka do ZOO Olomouc](https://www.syslinavinici.cz/news/pozv%C3%A1nka-do-zoo-olomouc)
