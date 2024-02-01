@@ -17,6 +17,8 @@ Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla ob
 
 # Aktuality a výstupy
 
+[Syslí louka v Miroslavi](https://www.syslinavinici.cz/news/sysl%C3%AD-louka-v-miroslavi)
+
 [Pozvánka do ZOO Olomouc](https://www.syslinavinici.cz/news/pozv%C3%A1nka-do-zoo-olomouc)
 
 [Jak jsou na tom sysli v Pavlovicích?](https://www.syslinavinici.cz/news/jak-jsou-na-tom-sysli-v-pavlovic%C3%ADch)
