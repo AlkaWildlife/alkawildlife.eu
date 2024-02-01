@@ -7,6 +7,8 @@ from: 2023-01
 to: 2023-12
 species: sysel obecný
 area: jižní Morava
+tags:
+  - sysel obecný
 countries:
   - CZ
 logoset: MZP
