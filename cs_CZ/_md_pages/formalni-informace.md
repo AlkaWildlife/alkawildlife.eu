@@ -36,6 +36,8 @@ tel: 606 598 903 / katerina.polednikova@alkawildlife.eu
 * projektový a finanční manažer, vědecký pracovník
 * správce webových stránek
 * specializace: ekologie savců, demografie, analýzy životaschopnosti populace
+* [Google Scholar](https://scholar.google.com/citations?user=2Wmm6m8AAAAJ&hl=cs)
+* [Orcid](https://orcid.org/0000-0002-2459-9455)
 
 # Mgr. Lukáš Poledník, Ph.D.
 
@@ -46,6 +48,8 @@ tel: 721 113 973 / lukas.polednik@alkawildlife.eu
 * posudky na škody způsobené vydrou říční
 * člen IUCN Otter Specialist Group
 * specializace: ekologie savců, potravní analýzy, zpracování gis dat
+* [Google Scholar](https://scholar.google.cz/citations?hl=en&user=MrYq0MMAAAAJ&view_op=list_works&sortby=pubdate)
+* [Orcid](https://orcid.org/0000-0001-9081-4961)
 
 # Mgr. Václav Beran
 
@@ -81,6 +85,7 @@ fernandomateos@gmail.com
 * vedení a koordinace studentů a dobrovolníků
 * specializace: chování živočichů
 * LinkedIn: [linkedin.com/in/fernandomateosgonzalez](https://www.linkedin.com/in/fernandomateosgonzalez)
+* [Orcid](https://orcid.org/0000-0001-6765-8761)
 
 # Štěpán Zápotočný
 
