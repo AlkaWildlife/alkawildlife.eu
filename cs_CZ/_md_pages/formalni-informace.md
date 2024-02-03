@@ -84,7 +84,7 @@ fernandomateos@gmail.com
 * analýzy dat
 * vedení a koordinace studentů a dobrovolníků
 * specializace: chování živočichů
-* LinkedIn: [linkedin.com/in/fernandomateosgonzalez](https://www.linkedin.com/in/fernandomateosgonzalez)
+* [LinkedIn](linkedin.com/in/fernandomateosgonzalez) 
 * [Orcid](https://orcid.org/0000-0001-6765-8761)
 
 # Štěpán Zápotočný
