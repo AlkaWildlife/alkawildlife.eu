@@ -15,9 +15,7 @@ lang_alternatives:
 
 **Sídlo**: Lidéřovice 62, 380 01  Peč 
 
-**IČO**: 280 64 933
-
-**DIČ**: CZ28064933, je plátcem DPH
+**IČO**: 280 64 933, **DIČ**: CZ28064933, je plátcem DPH
 
 **ID datové schránky**: gypmz9w
 
@@ -25,8 +23,7 @@ _[profil zadavatele](https://www.vhodne-uverejneni.cz/profil/28064933)_
 
 _Web: [www.alkawildlife.eu](https://www.alkawildlife.eu)_
 
-Facebook:
-[facebook.com/AlkaWildlife](https://www.facebook.com/AlkaWildlife)
+Facebook: [facebook.com/AlkaWildlife](https://www.facebook.com/AlkaWildlife)
 
 # Mgr. Kateřina Poledníková
 
