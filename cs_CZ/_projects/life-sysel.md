@@ -12,7 +12,7 @@ funding: |-
 from: 2020-09
 to: 2027-12
 partners: |-
-  [BROZ (hlavní partner](https://www.broz.sk)) (SK) / 
+  [BROZ - ochranárske sdruženie (hlavní partner](https://www.broz.sk)) (SK) / 
   ALKA Wildlife o.p.s (CZ) / 
   Polskie Towarzystwo Ochrony Przyrody “Salamandra” (PL) / 
   Štátna ochrana prírody Slovenskej republiky (SK) / 
