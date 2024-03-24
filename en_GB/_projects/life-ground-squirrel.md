@@ -9,18 +9,12 @@ funding: |-
   ![](/media/life_natura_logo_300.jpg)
 from: 2020-09
 to: 2027-12
-partners: >-
-  <https://broz.sk/en/projekty/conservation-of-european-ground-squirrel/>BROZ
-  (SK) 
-
+partners: |-
+  BROZ - conservation association (SK) 
   ALKA Wildlife (CZ)
-
   Polskie Towarzystwo Ochrony Przyrody “Salamandra” (PL)
-
   State Nature Conservancy of the Slovak Republic (SK)
-
   National Zoological Garden Bojnice (SK)
-
   Comenius University Bratislava (SK)
 web: 'https://broz.sk/en/projekty/conservation-of-european-ground-squirrel/'
 species: European ground squirrel (Spermophillus citellus)
