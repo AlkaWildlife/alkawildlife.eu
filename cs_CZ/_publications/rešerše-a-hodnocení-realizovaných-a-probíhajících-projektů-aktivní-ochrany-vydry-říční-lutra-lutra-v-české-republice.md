@@ -17,6 +17,6 @@ publisher: AOPK ČR
 year: 2005
 lang:
   - cs
-link: /media/Polednik_etal_2005_hodnoceni_ochrany_vydry_CR.pdf
+link: /media/Polednik_etal_2005_hodnoceni_ochrany_vydry_ČR.pdf
 ---
 Článek v knize Hodnocení projektů aktivní podpory ohrožených živočichů v České republice. Publikace stručně shrnuje aktivní opatření pro vydru říční realizované v ČR do roku 2005, jednalo se o chov vyder v zajetí, repatriační program, zbudování podchodů a osvěta.
