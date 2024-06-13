@@ -23,18 +23,4 @@ year: 2023
 lang: en
 link: /media/Polednik_2023_birchmouse.pdf
 ---
-Oblast Novohradské hory – Freiwald je jedním z mála refugií výskytu myšivky horské
-
-ve střední Evropě. Publikace popisuje 33 záznamů výskytu z této oblasti pocházejících z posledních
-
-20 let, tedy z období 2003–2022. Spolu se 17 dřívějšími již publikovanými záznamy z období
-
-1969 až 2002, bylo v tomto regionu zaznamenáno již 50 jedinců myšivky horské. Záznamy jsou
-
-nerovnoměrně rozmístěny v rámci oblasti, což je ale pravděpodobně jen výsledek různého lokálního
-
-úsilí a neukazuje celkový obraz výskytu druhu v oblasti. Myšivka byla zaznamenána v nadmořských
-
-výškách od 610 m n. m. do 955 m n. m., a to v různém prostředí: v neobhospodařovaných
-
-mokřadech, na vlhkých i sečených loukách, při okrajích lesů i v zahradách.
+Oblast Novohradské hory – Freiwald je jedním z mála refugií výskytu myšivky horské ve střední Evropě. Publikace popisuje 33 záznamů výskytu z této oblasti pocházejících z posledních 20 let, tedy z období 2003–2022. Spolu se 17 dřívějšími již publikovanými záznamy z období 1969 až 2002, bylo v tomto regionu zaznamenáno již 50 jedinců myšivky horské. Záznamy jsou nerovnoměrně rozmístěny v rámci oblasti, což je ale pravděpodobně jen výsledek různého lokálního úsilí a neukazuje celkový obraz výskytu druhu v oblasti. Myšivka byla zaznamenána v nadmořských výškách od 610 m n. m. do 955 m n. m., a to v různém prostředí: v neobhospodařovaných mokřadech, na vlhkých i sečených loukách, při okrajích lesů i v zahradách.
