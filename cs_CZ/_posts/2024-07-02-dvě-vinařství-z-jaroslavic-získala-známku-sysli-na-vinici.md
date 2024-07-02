@@ -3,9 +3,7 @@ title: Dvě vinařství z Jaroslavic získala známku Sysli na vinici
 published: true
 image: /media/img_9882_620.jpg
 listing_thumbnail: /media/img_9882_274.jpg
-description: >-
-  Dvě jihomoravská vinařství z obce Jaroslavice byla oceněna známkou Sysli na
-  vinici.
+description: Dvě jihomoravská vinařství z Jaroslavic byla oceněna známkou Sysli na vinici.
 date: '2024-07-02'
 logoset: LIFE MZP
 lang_alternatives:
