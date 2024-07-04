@@ -8,6 +8,6 @@ type: Výroční zpráva
 year: 2024
 lang:
   - cs
-link: /media/ALKA_vyrocnizprava_2023_final.pdf
+link: /media/2024/ALKA_vyrocnizprava_2023_final.pdf
 ---
 Výroční zpráva společnosti za rok 2023
