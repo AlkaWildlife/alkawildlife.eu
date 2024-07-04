@@ -10,7 +10,7 @@ tags:
   - ISBN
   - vydra říční
 publisher: 'ALKA Wildlife,o.p.s.'
-year: 2019
+year: 2021
 lang:
   - cs
 link: /media/Bulletin_Vydra_18_all.pdf
