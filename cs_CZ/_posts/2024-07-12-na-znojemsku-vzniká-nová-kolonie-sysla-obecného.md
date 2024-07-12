@@ -41,16 +41,30 @@ _Příprava lokality pro vypuštění zahrnuje instalaci dočasných ohrádek a 
 
 ![](/media/img_8762.jpg)
 
-_Dovezení sysli byli zkontrolováni a zváženi._
+_Vážení sysla před vypuštěním_ 
 
 ![](/media/dscn8577.jpg)
 
-_Vypuštění syslů z přepravní bedny do dočasné ohrádky._ 
+_Vypouštění syslů z přepravní bedny do připravených ohrádek_
 
 ![](/media/dscn8693.jpg)
 
-_Sysel v přepravní bedně._
-
- 
+_Sysel v přepravní bedně._ 
 
 ![](/media/dscn9290.jpg)
+
+_Příprava lokality pro sysly dovezené ze zoo Brno_
+
+![](/media/img_0041.jpg)
+
+_Sysel ve vypouštěcí ohrádce_
+
+![](/media/img_0076.jpg)
+
+_Sysel již zabydlený na rozkvetlé louce_
+
+![](/media/dscn9023.jpg)
+
+_Sysel obecný zachycený fotopastí na lokalitě Božice-Borotice_
+
+![](/media/l__02703.jpg)
