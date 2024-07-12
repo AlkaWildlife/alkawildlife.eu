@@ -15,8 +15,6 @@ TISKOVÁ ZPRÁVA AOPK ČR, MŽP A ALKA WILDLIFE
 
 Praha 15.7.2024
 
-
-
 **Na Znojemsku vzniká nová kolonie sysla obecného. Vzácní savci našli domov u Božic.** 
 
 **Na bývalém letišti mezi obcemi Božice a Borotice na jižní Moravě vzniká nová populace kriticky ohroženého sysla obecného. Prvních 147 syslů bylo dovezeno loni ze Slovenska, v tomto roce se kolonie rozroste o další zvířata. V minulých dnech tu bylo vypuštěno 18 zvířat ze záchranného chovu v Zoo Brno a poslední skupinka bude dovezena z blízké Miroslavi, z jihomoravské kolonie syslů, které se v současnosti daří. Cílem je vytvořit novou, stabilní a životaschopnou populaci na jižní Moravě.**
@@ -38,3 +36,21 @@ Sysel obecný je kriticky ohrožený druh. Přitom ještě v padesátých letech
 Poděkování za péči o lokalitu Božice-Borotice patří obci Božice, za organizační pomoc a podporu také Krajskému úřadu Jihomoravského kraje. Vypouštění syslů, péče o ně a následný monitoring je zajištěno díky finančním prostředkům Ministerstva životního prostředí, AOPK ČR i projektu LIFE Syseľ (LIFE Ochrana sysľa pasienkového (_Spermophillus citellus_)). 
 
 „_Záchranné programy pomáhají v naší krajině udržet vzácné druhy rostlin a živočichů. Zároveň ale nepomáhají jen těm druhům, pro které se připravují – například udržování krajiny, aby nezarůstala, neprospívá jen syslům, ale řadě dalších druhů rostlin a hmyzu. Záchranných programů nyní běží již třináct, díky nim se z naší přírody nevytratil třeba hvozdík písečný český, daří se zvyšovat počty či užovek stromových. Nyní připravujeme další, evropský projekt PROSPECTIVE LIFE nám umožní věnovat péči širšímu spektru ohrožených druhů včetně volně žijících opylovačů,_“ dodává František Pelc, ředitel Agentury ochrany přírody a krajiny ČR, která záchranné programy realizuje.
+
+_Příprava lokality pro vypuštění zahrnuje instalaci dočasných ohrádek a vyvrtání umělých úkrytových nor._
+
+![](/media/img_8762.jpg)
+
+_Dovezení sysli byli zkontrolováni a zváženi._
+
+![](/media/dscn8577.jpg)
+
+_Vypuštění syslů z přepravní bedny do dočasné ohrádky._ 
+
+![](/media/dscn8693.jpg)
+
+_Sysel v přepravní bedně._
+
+ 
+
+![](/media/dscn9290.jpg)
