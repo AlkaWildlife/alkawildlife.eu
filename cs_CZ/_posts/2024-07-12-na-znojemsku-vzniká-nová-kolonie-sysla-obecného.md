@@ -1,5 +1,5 @@
 ---
-title: 'Na Znojemsku vzniká nová kolonie sysla obecného. '
+title: Na Znojemsku vzniká nová kolonie sysla obecného
 published: true
 image: /media/dscn9023_01.jpg
 listing_thumbnail: /media/dscn9023_274.jpg
