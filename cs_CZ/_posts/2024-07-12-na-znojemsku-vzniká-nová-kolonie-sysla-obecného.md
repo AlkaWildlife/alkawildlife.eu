@@ -1,8 +1,11 @@
 ---
 title: 'Na Znojemsku vzniká nová kolonie sysla obecného. '
-published: false
+published: true
 image: /media/l__03028.jpg
 listing_thumbnail: /media/l__03028_274.jpg
+description: >-
+  Na Znojemsku vzniká nová kolonie sysla obecného. Vzácní savci našli domov u
+  Božic. 
 date: '2024-07-15'
 lang_alternatives:
   en_GB:
@@ -17,9 +20,9 @@ Praha 15.7.2024
 
 **Na Znojemsku vzniká nová kolonie sysla obecného. Vzácní savci našli domov u Božic.** 
 
-**Na bývalém letišti mezi obcemi Božice a Borotice na jižní Moravě vzniká nová populace kriticky ohroženého sysla obecného. Prvních 147 syslů bylo dovezeno loni ze Slovenska, v tomto roce se kolonie rozroste o další zvířata. V minulých dnech tu bylo vypuštěno 18 zvířat ze záchranného chovu v Zoo Brno a poslední skupinka bude dovezena z blízké Miroslavi, z jihomoravské kolonie syslů, které se v současnosti daří. Cílem je vytvořit novou, stabilní a životaschopnou populaci na jižní Moravě.**
+**Na bývalém letišti mezi obcemi Božice a Borotice na jižní Moravě vzniká nová populace kriticky ohroženého sysla obecného. Prvních 147 syslů bylo dovezeno loni ze Slovenska, v tomto roce se kolonie rozroste o další zvířata. V minulých dnech tu bylo vypuštěno 18 zvířat ze záchranného chovu v Zoo Brno a poslední skupinka 14 syslů byla dnes dovezena z blízké Miroslavi, z jihomoravské kolonie syslů, které se v současnosti daří. Cílem je vytvořit novou, stabilní a životaschopnou populaci na jižní Moravě.**
 
-„_Sysli odnepaměti byli součástí naší krajiny, kvůli změnám v jejím obhospodařování ale málem vymřeli. Ministerstvo životního prostředí jejich návrat do naší přírody podporuje a jsem moc rád, že na jižní Moravě vzniká nová kolonie. Během dvou sezón tu bylo vypuštěno více než 180 syslů. Dovezeným zvířatům se zde daří a díky monitoringu víme, že již mají i mláďata_,“ uvedl ministr životního prostředí Petr Hladík (KDU-ČSL) s tím, že doufá, že syslové budou v naší krajině opět doma. 
+„_Sysli odnepaměti byli součástí naší krajiny, kvůli lidské činnosti a změně krajiny ale málem vymřeli. Ministerstvo životního prostředí proto podporuje jejich návrat do krajiny. Jsem moc rád, že na jižní Moravě vzniká nová kolonie. K 165 syslům, kteří tu byli vloni i letos vypuštěni, dnes přibylo14 z nedaleké Miroslavi. Dovezeným zvířatům se zde zatím daří a díky monitoringu víme, že populace má již i mláďata_,“ uvedl ministr životního prostředí Petr Hladík (KDU-ČSL) s tím, že doufá, že syslové budou v naší krajině opět doma. 
 
 „_Zakládání nových syslích kolonií na předem vytipovaných územích je jednou z mnoha aktivit, které na záchranu tohoto kriticky ohroženého hlodavce provádíme jako součást záchranného programu. Ten běží od roku 2008 a zahrnuje také pravidelné sčítání zvířat, pastvu a kosení nebo odchovy zvířat v partnerských zoologických zahradách a záchranných stanicích. V loňském roce jsme vypouštěli sysly na několika místech – v Českém středohoří na Odolickém vrchu, na letišti ve Strakonicích a právě zde na Znojemsku_,“ konstatuje Lenka Čolobentičová, koordinátorka záchranného programu sysla obecného z Agentury ochrany přírody a krajiny ČR.
 
@@ -29,7 +32,7 @@ První sysli byli na lokalitu Božice-Borotice dovezeni ze Slovenska, kde byli o
 
 V letošním roce proto ke stávajícím syslům přibyli další, tentokrát ze záchranného chovu Zoo Brno. V brněnské zoologické zahradě probíhá jeden ze čtyř záchranných chovů syslů v České republice. „S_ysly odchováváme ve voliéře umístěné v klidném zázemí zoo. Na odchovu syslů se podílíme od roku 2016. Náš chov je velmi úspěšný a jsme schopni poskytovat požadované množství syslů k vypuštění do přírody každý rok. Podařilo se nám tak již navrátit více než 100 jedinců sysla_,“ vysvětluje garant projektu za Zoo Brno Petr Šrámek.
 
-Druhá skupinka v letošním roce bude dovezena z blízké Miroslavi. Jihomoravské kolonii syslů u Miroslavi se dlouhodobě velmi daří, a je tak možné část jedinců odebrat. Díky geneticky pestrému původu zakládajících jedinců se tak zvýší šance na vytvoření stabilní životaschopné populace. 
+Druhá skupinka v letošním roce byla dnes dovezena z blízké Miroslavi. Jihomoravské kolonii syslů u Miroslavi se dlouhodobě velmi daří, a je tak možné část jedinců odebrat. Díky geneticky pestrému původu zakládajících jedinců se tak zvýší šance na vytvoření stabilní životaschopné populace. 
 
 Sysel obecný je kriticky ohrožený druh. Přitom ještě v padesátých letech minulého století byl označován za „polního škůdce“. Sysli však ztratili prostředí, ve kterém by mohli žít, a to především kvůli změnám v zemědělské krajině a způsobu, jak se v ní hospodaří. Chybí pestrost, malá políčka, polní cesty, meze i pastviny. Záchrana posledních kolonií syslů stojí proto mnoho úsilí, bez aktivní ochrany a podpory mohou i poslední populace rychle vymizet. V České republice sysli přežívají na posledních asi 40 lokalitách. Počet syslů se k loňskému roku odhaduje přibližně na 6 000 jedinců.  
 
