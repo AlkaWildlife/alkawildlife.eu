@@ -76,7 +76,7 @@ _Sysel obecný zachycený fotopastí na lokalitě Božice-Borotice_
 
 ![](/media/l__02627.jpg)
 
-_Sysli z Miroslavi už se také zabydlují v Božicích._
+_Sysli z Miroslavi už se také zabydlují v Božicích_
 
 ![](/media/img_0162.jpg)
 
