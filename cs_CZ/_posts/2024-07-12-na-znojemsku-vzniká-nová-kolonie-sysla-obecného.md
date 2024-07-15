@@ -1,8 +1,8 @@
 ---
 title: 'Na Znojemsku vzniká nová kolonie sysla obecného. '
 published: true
-image: /media/l__03028.jpg
-listing_thumbnail: /media/l__03028_274.jpg
+image: /media/dscn9023_01.jpg
+listing_thumbnail: /media/dscn9023_274.jpg
 description: >-
   Na Znojemsku vzniká nová kolonie sysla obecného. Vzácní savci našli domov u
   Božic. 
@@ -64,10 +64,20 @@ _Sysel ve vypouštěcí ohrádce_
 
 ![](/media/img_0076.jpg)
 
-_Sysel již zabydlený na rozkvetlé louce_
+_Sysel obecný zachycený fotopastí na lokalitě Božice-Borotice_
 
-![](/media/dscn9023.jpg)
+![](/media/l__03028.jpg)
 
 _Sysel obecný zachycený fotopastí na lokalitě Božice-Borotice_
 
 ![](/media/l__02703.jpg)
+
+_Sysel obecný zachycený fotopastí na lokalitě Božice-Borotice_
+
+![](/media/l__02627.jpg)
+
+_Sysli z Miroslavi už se také zabydlují v Božicích._
+
+![](/media/img_0162.jpg)
+
+__
