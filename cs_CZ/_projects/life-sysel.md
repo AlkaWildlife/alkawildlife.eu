@@ -26,7 +26,7 @@ area: |-
   Česká republika
 tags:
   - sysel obecný
-  - management
+  - podpora a péče
 countries:
   - CZ
 ---
