@@ -8,8 +8,6 @@ registration_no: SS01010510
 funding: >-
 
 
-  [![](/media/logo_tacr_zakl_inv_300.png)](https://www.tacr.cz/)
-
 
   [![](/media/prostredi_pz_300.png)](https://www.tacr.cz/program/program-prostredi-pro-zivot/)
 
