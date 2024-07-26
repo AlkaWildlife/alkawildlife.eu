@@ -1,5 +1,5 @@
 ---
-title: MONITORING A PODPORA SYSLA OBECNÉHO NA JIŽNÍ MORAVĚ V ROCE 2024
+title: Monitoring a podpora sysla obecného na jižní Moravě v roce 2024
 published: true
 registration_no: 009/32/24
 funding: "Projekt byl podpořen Ministerstvem životního prostředí, projekt nemusí vyjadřovat stanoviska MŽP.\r\n\n\r\n\nProgram na podporu projektů nestátních neziskových organizací pro rok 2024 - Podprogram A"
