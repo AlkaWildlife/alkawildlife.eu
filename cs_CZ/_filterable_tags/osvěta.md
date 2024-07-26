@@ -1,5 +1,5 @@
 ---
 title: osvěta
-position: 24
+position: 5
 ---
 
