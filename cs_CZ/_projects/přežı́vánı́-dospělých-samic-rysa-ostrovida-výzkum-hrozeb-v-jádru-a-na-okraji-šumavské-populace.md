@@ -7,6 +7,8 @@ registration_no: SS05010140
 funding: |-
   Technologická agentura České republiky
   Program Prostředí pro život
+
+  ![](/media/prostredi_pz_300.png)
 from: 2022-01
 to: 2024-12
 partners: '[Národní park Šumava](https://www.npsumava.cz/)'
