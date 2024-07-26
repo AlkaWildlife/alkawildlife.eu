@@ -26,6 +26,7 @@ tags:
   - výzkum
 countries:
   - CZ
+logoset: TACR
 description: >-
   Myšlenka projektu je získat základní poznatky o vzájemných vztazích sysla
   obecného v zemědělské krajině, které budou využity pro ochranu tohoto druhu,
