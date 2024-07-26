@@ -9,6 +9,7 @@ species: sysel obecný
 area: jižní Morava
 countries:
   - CZ
+logoset: MZP
 ---
 
 
