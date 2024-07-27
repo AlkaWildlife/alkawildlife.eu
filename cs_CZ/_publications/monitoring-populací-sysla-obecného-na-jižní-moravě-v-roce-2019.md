@@ -8,11 +8,9 @@ authors:
   - name: Fernando Mateos-González
   - name: Hannah Findlay
   - name: Štěpán Zápotočný
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - sysel obecný
-  - publikace pro laickou veřejnost
-  - publikace pro odbornou veřejnost
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2019
 lang:
