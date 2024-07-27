@@ -4,10 +4,9 @@ published: true
 public: true
 authors:
   - name: Peter Adamík
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - plch velký
-  - publikace pro laickou veřejnost
 journal: Ptačí svět
 year: 2016
 lang:
