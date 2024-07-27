@@ -28,8 +28,9 @@ contacts:
 species: '[sysel obecný](/zajmove-druhy/sysel-obecny)'
 tags:
   - sysel obecný
-  - management
   - výzkum
+  - podpora a péče
+  - osvěta
 countries:
   - CZ
   - SK
