@@ -7,6 +7,11 @@ from: 2024-01
 to: 2024-12
 species: sysel obecný
 area: jižní Morava
+tags:
+  - sysel obecný
+  - podpora a péče
+  - výzkum
+  - osvěta
 countries:
   - CZ
 logoset: MZP
