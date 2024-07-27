@@ -16,6 +16,9 @@ partners: |-
   Naturformidling van der Kooij
 species: myšivka horská
 area: ''
+tags:
+  - myšivka horská
+  - výzkum
 countries:
   - CZ
   - 'false'
