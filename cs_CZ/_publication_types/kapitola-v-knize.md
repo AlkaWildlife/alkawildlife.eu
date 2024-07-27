@@ -1,5 +1,5 @@
 ---
 title: Kapitola v knize
-position: 2
+position: 3
 ---
 
