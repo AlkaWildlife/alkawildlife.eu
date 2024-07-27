@@ -8,10 +8,9 @@ authors:
   - name: Aleš Jelínek
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - sysel obecný
-  - publikace pro odbornou veřejnost
 journal: Ochrana přírody
 year: 2021
 lang: en
