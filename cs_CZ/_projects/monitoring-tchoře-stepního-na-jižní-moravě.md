@@ -10,6 +10,7 @@ area: jižní Morava
 tags:
   - tchoř stepní
   - výzkum
+  - osvěta
 countries:
   - CZ
 logoset: MZP
