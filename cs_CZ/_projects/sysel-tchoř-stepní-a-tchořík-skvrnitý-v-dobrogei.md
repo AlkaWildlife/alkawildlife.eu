@@ -12,7 +12,7 @@ tags:
   - sysel obecný
   - tchoř stepní
   - tchořík skvrnitý
-  - průzkum
+  - výzkum
 countries:
   - RO
 description: >-
