@@ -10,10 +10,9 @@ authors:
   - name: Václav Beran
   - name: Adam Petrusek
   - name: Tereza Petrusková
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - linduška úhorní
-  - publikace pro odbornou veřejnost
 journal: Journal of Ornithology
 year: 2023
 lang: en
