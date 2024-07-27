@@ -17,8 +17,8 @@ area: |-
 
   EVL Vranovický a Plačkův les
 tags:
-  - průzkum
   - čáp černý
+  - výzkum
 countries:
   - CZ
 description: >-
