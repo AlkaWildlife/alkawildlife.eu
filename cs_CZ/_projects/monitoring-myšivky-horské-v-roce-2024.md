@@ -7,6 +7,10 @@ from: 2024-01
 to: 2024-12
 species: myšivka horská
 area: ''
+tags:
+  - myšivka horská
+  - výzkum
+  - osvěta
 countries:
   - CZ
 logoset: MZP
