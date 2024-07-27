@@ -8,10 +8,9 @@ authors:
   - name: Berit Kunzelmann
   - name: Václav Beran
   - name: ' Carsten Nowak'
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 journal: Bulletin Vydra
 year: 2021
 lang:
