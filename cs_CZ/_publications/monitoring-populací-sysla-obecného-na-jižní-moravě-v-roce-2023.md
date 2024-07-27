@@ -7,7 +7,7 @@ authors:
   - name: Ondřej Poledník
   - name: Jindřich Poledník
   - name: Kateřina Poledníková
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - sysel obecný
 publisher: ALKA Wildlife
