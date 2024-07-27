@@ -16,7 +16,7 @@ area: >-
   Průzkumy invazních druhů)
 tags:
   - norek americký
-  - průzkum
+  - výzkum
 countries:
   - CZ
 description: >-
