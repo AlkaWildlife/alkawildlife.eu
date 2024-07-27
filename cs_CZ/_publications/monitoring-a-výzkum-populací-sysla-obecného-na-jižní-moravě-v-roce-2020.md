@@ -9,10 +9,9 @@ authors:
   - name: Hannah Findlay
   - name: Štěpán Zápotočný
   - name: Jindřich Poledník
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - sysel obecný
-  - průzkum
 publisher: ALKA Wildlife
 year: 2020
 lang:
