@@ -7,13 +7,12 @@ funding: "Operační program životní prostředí\r\n\n(Evropská Unie a Minist
 from: 2014-08
 to: 2015-12
 partners: ČSOP Kněžice (subdodavatel)
-contacts:
-  - {}
+contacts: []
 area: >-
   Suché stráně v údolí Vápovky, u obcí Jersice, Bílkov a Červený Hrádek (kraj
   Vysočina)
 tags:
-  - management
+  - podpora a péče
 countries:
   - CZ
 description: >-
