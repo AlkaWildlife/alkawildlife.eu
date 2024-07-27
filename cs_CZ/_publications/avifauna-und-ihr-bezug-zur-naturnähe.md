@@ -10,10 +10,9 @@ authors:
   - name: Aleš Toman
   - name: Martin Valášek
   - name: Jitka Kranz
-type: Článek v periodiku
+type: Vědecký článek
 tags:
-  - ptáci
-  - publikace pro odbornou veřejnost
+  - ptáci obecně
 journal: Naturkundliche Mitteilungen aus den Landessammlungen Niederösterreich
 year: 2021
 lang: de
