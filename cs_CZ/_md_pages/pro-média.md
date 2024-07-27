@@ -23,6 +23,10 @@ Tereza Mináriková / tereza.minarikova@alkawildlife.eu / 724 706 806
 
 # Vydané tiskové zprávy
 
+15.7.2024 [Na Znojemsku vzniká nová kolonie sysla obecného. Vzácní savci našli domov u Božic.](https://www.alkawildlife.eu/news/na-znojemsku-vznik%C3%A1-nov%C3%A1-kolonie-sysla-obecn%C3%A9ho)
+
+2.7.2024 [Dvě vinařství z Jaroslavic získala známku Sysli na vinici](https://www.alkawildlife.eu/news/dv%C4%9B-vina%C5%99stv%C3%AD-z-jaroslavic-z%C3%ADskala-zn%C3%A1mku-sysli-na-vinici)
+
 27.12.2022 [Myšky s proužkem na zádech - co jsou vlastně zač?](/news/myši-s-proužkem-na-zádech)
 
 27.4.2022 Projekt [RysLuchs umožnil unikátní pohled do života česko-rakouských rysů](/news/česko-rakouské-rysice-laura-a-amálka)
