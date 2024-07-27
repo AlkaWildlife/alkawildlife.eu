@@ -23,6 +23,8 @@ tags:
   - norek americký
   - psík mývalovitý
   - mýval severní
+  - výzkum
+  - management
 countries:
   - CZ
 description: >-
