@@ -18,6 +18,7 @@ area: Krušné hory
 tags:
   - vydra říční
   - výzkum
+  - podpora a péče
 countries:
   - CZ
 logoset: SN_CZ
