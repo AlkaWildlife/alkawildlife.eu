@@ -1,5 +1,5 @@
 ---
-title: Článek v periodiku
+title: Vědecký článek
 position: 1
 ---
 
