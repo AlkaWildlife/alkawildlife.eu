@@ -8,10 +8,9 @@ authors:
   - name: Mihai E. Marinov
   - name: Botond J. Kiss
   - name: Aleš Toman
-type: Článek ve sborníku
+type: Vědecký článek
 tags:
   - norek evropský
-  - publikace pro odbornou veřejnost
 publisher: Park Narodowy Ujscie Warty
 year: 2014
 lang: en
