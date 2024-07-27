@@ -11,9 +11,8 @@ authors:
   - name: Christian Skov
   - name: Robertas Urbanavičius
   - name: Asta Audzijonyte
-type: Článek v periodiku
-tags:
-  - publikace pro odbornou veřejnost
+type: Vědecký článek
+tags: []
 journal: Fisheries Research 254
 year: 2022
 lang: en
