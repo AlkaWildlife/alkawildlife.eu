@@ -1,5 +1,5 @@
 ---
 title: Metodika
-position: 5
+position: 7
 ---
 
