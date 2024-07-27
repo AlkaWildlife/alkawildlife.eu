@@ -21,10 +21,9 @@ authors:
   - name: Josef Bryja
   - name: Petr Koubek
   - name: Jarmila Krojerová-Prokešová
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - rys ostrovid
-  - publikace pro odbornou veřejnost
 journal: Global Ecology and Conservation
 year: 2023
 lang: en
