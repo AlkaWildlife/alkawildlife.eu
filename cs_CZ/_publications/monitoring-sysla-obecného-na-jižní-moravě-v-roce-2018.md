@@ -9,7 +9,7 @@ authors:
   - name: Stanislav Němec
   - name: Fernando Mateos-González
   - name: Jaroslava Musilová
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - sysel obecný
 publisher: 'ALKA Wildlife,o.p.s.'
