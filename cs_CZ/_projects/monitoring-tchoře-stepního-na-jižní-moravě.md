@@ -7,6 +7,9 @@ from: 2024-01
 to: 2024-12
 species: tchoř stepní (_Mustela eversmanii_)
 area: jižní Morava
+tags:
+  - tchoř stepní
+  - výzkum
 countries:
   - CZ
 logoset: MZP
