@@ -15,6 +15,9 @@ tags:
 countries:
   - CZ
 logoset: MZP
+description: >-
+  Cílem projektu je podpora ohrožených populací sysla obecného na jižní Moravě v
+  zemědělské krajině v roce 2024.
 ---
 
 
