@@ -16,6 +16,7 @@ species: rys ostrovid
 area: ''
 tags:
   - rys ostrovid
+  - výzkum
 countries:
   - CZ
 logoset: TACR
