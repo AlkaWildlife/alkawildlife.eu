@@ -1,5 +1,5 @@
 ---
-title: ptáci
+title: ptáci obecně
 position: 28
 ---
 
