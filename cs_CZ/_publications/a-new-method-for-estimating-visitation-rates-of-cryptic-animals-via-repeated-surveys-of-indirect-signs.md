@@ -14,10 +14,9 @@ authors:
   - name: Reinhard Klenke
   - name: Anett Valentin
   - name: Klaus Henle
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 journal: Journal of Applied Ecology
 year: 2007
 lang: en
