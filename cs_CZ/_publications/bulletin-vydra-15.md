@@ -7,6 +7,7 @@ authors:
 type: Bulletin Vydra
 tags:
   - vydra říční
+  - norek americký
 publisher: 'ALKA Wildlife,o.p.s.'
 year: 2012
 lang:
