@@ -8,7 +8,7 @@ authors:
   - name: Jan Matějů
   - name: Jitka Větrovcová
   - name: Tereza Mináriková
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - sysel obecný
 journal: Fórum ochrany přírody
