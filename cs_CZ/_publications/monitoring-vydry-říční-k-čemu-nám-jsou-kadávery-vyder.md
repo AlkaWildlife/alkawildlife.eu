@@ -6,16 +6,14 @@ authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
   - name: Václav Beran
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - vydra říční
-  - publikace pro laickou veřejnost
 journal: 'Myslivost '
 year: 2015
 lang:
   - cs
 link: /media/Myslivost_Vydra_2015_FINAL.pdf
-attachments:
-  - {}
+attachments: []
 ---
 Příspěvek o sběru uhynulých vyder v České republice - jak a kdo jej provádí a k čemu to je. Prezentovány jsou dosavadní výsledky.
