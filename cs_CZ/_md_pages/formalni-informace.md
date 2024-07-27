@@ -53,15 +53,9 @@ tel: 721 113 973 / lukas.polednik@alkawildlife.eu
 tel: 731 407 839 / lutra@email.cz 
 
 * vedoucí vědecký pracovní; vedoucí týmu ekologie ptáků
+* člen České společnosti ornitologické
 * specializace: ornitologie, inventarizační průzkumy 
 * více na [Linkedin](https://www.linkedin.com/in/václav-beran-5709705a)
-
-# Ing. Jan Horáček
-
-tel: 724 299 225 / jan.horacek@d1net.cz
-
-* finanční manažer
-* ekonomie, administrativa
 
 # Mgr. Tereza Mináriková
 
@@ -72,6 +66,13 @@ tel: 724 706 806 / tereza.minarikova@alkawildlife.eu
 * publicita, práce s veřejností a médii
 * specializace: ekologie velkých šelem (rys ostrovid)
 * [Linkedin](https://cz.linkedin.com/in/tereza-mináriková-a6382753)
+
+# Ing. Jan Horáček
+
+tel: 724 299 225 / jan.horacek@d1net.cz
+
+* finanční manažer
+* ekonomie, administrativa
 
 # Fernando Mateos-González, Ph.D.
 
@@ -86,6 +87,9 @@ fernandomateos@gmail.com
 
 # Štěpán Zápotočný
 
-stepan.zapotocny@alkawildlife.eu
+* vědecký asistent
 
-* pomocný vědecký pracovník
+# Jindřich Poledník
+
+* vědecký asistent
+* letec dronu
