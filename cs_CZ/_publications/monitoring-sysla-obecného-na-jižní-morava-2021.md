@@ -7,10 +7,9 @@ authors:
   - name: Fernando Mateos González
   - name: Štěpán Zápotočný
   - name: Kateřina Poledníková
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - sysel obecný
-  - průzkum
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2021
 lang:
