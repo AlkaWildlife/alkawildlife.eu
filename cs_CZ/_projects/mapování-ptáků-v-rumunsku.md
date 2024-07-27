@@ -12,7 +12,7 @@ species: 'ptáci, dravci'
 area: Rumunsko
 tags:
   - ptáci obecně
-  - průzkum
+  - výzkum
 countries:
   - RO
 description: >-
