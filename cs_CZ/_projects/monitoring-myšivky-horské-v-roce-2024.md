@@ -14,5 +14,8 @@ tags:
 countries:
   - CZ
 logoset: MZP
+description: >-
+  Cílem projektu je sběr dat od veřejnosti spojený s osvětou a terénní
+  monitoring myšivky horské s pomocí fotopastí.
 ---
 Myšivka horská je jediným zástupcem čeledi tarbíkovitých v ČR. Jde o vzácného savce, zvláště chráněný druh i evropsky významný druh. Přes svůj status chráněného zvířete je informací o tomto druhu minimum. Z pohledu zhodnocení stavu populací, rizik a možnostech podpory tohoto druhu jsou informace naprosto nedostatečné. Cílem projektu je sběr dat od veřejnosti spojený s osvětou a terénní monitoring druhu s pomocí fotopastí v oblastech mimo ZCHÚ.
