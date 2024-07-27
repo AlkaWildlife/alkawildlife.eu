@@ -14,9 +14,8 @@ authors:
   - name: Paul Venturelli
   - name: 'Vincentas Vienožinskis '
   - name: Carl Smith
-type: Článek v periodiku
-tags:
-  - publikace pro odbornou veřejnost
+type: Vědecký článek
+tags: []
 journal: Royal society open science
 year: 2023
 lang: en
