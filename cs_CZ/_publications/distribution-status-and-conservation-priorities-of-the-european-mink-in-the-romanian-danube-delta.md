@@ -10,10 +10,9 @@ authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
   - name: Botond J. Kiss
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - norek evropský
-  - publikace pro odbornou veřejnost
 journal: 'Scientific Annals of the Danube delta Institute for research and development '
 year: 2004
 lang: en
