@@ -9,8 +9,8 @@ contacts:
 species: savci
 area: přírodní rezervace Věstonická nádrž (Jihomoravský kraj)
 tags:
-  - invazní savci
-  - průzkum
+  - savci obecně
+  - výzkum
 countries:
   - CZ
 description: >-
