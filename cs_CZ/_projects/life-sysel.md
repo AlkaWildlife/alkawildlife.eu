@@ -29,6 +29,9 @@ tags:
   - podpora a péče
 countries:
   - CZ
+description: >-
+  Projekt má přispět k aktivní ochraně biotopů ohroženého sysla obecného na
+  vybraných lokalitách na Slovensku, v České republice a Polsku.
 ---
 ## Zaměření projektu:
 
