@@ -9,16 +9,14 @@ authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
   - name: Romina Fusillo
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 journal: Diversity and Distributions
 year: 2012
 lang: en
 link: /media/Marcelli_et_al_inferring_colonization_dinamycs_otters_Czechia.pdf
-attachments:
-  - {}
+attachments: []
 ---
 Land use intensity has been recognized as one of the major determinants of native species declines. The re-expansion of species previously constrained by habitat degradation has been rarely investigated. Here, we use site occupancy models incorporating imperfect detection to identify the land use drivers of the re-expansion of the Eurasian otter (Lutra lutra). We applied multi-season occupancy models to otter presence–nondetection data collected in three national surveys (1992, 2000, 2006) at 552 sites (11.2 · 12 km grid cells). Model parameters included site occupancy, colonization and extinction probabilities, and detection probability at a sub-site level. We modelled changes in occupancy over time as a function of agricultural, urban and industrial land use and change in the extent of agricultural land use.
 
