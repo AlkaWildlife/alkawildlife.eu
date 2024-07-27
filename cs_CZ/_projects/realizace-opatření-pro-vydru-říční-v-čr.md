@@ -24,7 +24,7 @@ area: Česká republika
 tags:
   - vydra říční
   - výzkum
-  - management
+  - podpora a péče
   - osvěta
 countries:
   - CZ
