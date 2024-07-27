@@ -8,6 +8,9 @@ to: 2022-12
 contacts: []
 species: myšivka horská
 area: celá ČR
+tags:
+  - myšivka horská
+  - výzkum
 countries:
   - CZ
 logoset: MZP
