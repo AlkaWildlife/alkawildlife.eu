@@ -9,7 +9,7 @@ authors:
   - name: Štěpán Zápotočný
   - name: 'Václav Beran '
   - name: Lukáš Poledník
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
 journal: Bulletin VYDRA 18
