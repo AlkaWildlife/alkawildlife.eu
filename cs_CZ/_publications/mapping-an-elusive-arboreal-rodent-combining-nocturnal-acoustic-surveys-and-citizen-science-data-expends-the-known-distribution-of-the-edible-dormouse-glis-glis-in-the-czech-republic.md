@@ -9,10 +9,9 @@ authors:
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
   - name: Dušan Romportl
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - plch velký
-  - publikace pro odbornou veřejnost
 journal: Mammalian Biology 99
 year: 2019
 lang: en
