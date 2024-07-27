@@ -1,5 +1,5 @@
 ---
 title: publikace pro laickou veřejnost
-position: 26
+position: 30
 ---
 
