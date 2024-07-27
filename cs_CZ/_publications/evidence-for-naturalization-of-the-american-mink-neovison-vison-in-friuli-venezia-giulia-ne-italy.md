@@ -10,10 +10,9 @@ authors:
   - name: Marco Pavanello
   - name: Lukáš Poledník
   - name: Cristina Rieppi
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - norek americký
-  - publikace pro odbornou veřejnost
 journal: Mammalia
 year: 2016
 lang: en
