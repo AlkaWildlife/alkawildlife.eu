@@ -11,6 +11,7 @@ contacts:
 species: 'ptáci, dravci'
 area: Rumunsko
 tags:
+  - ptáci obecně
   - průzkum
 countries:
   - RO
