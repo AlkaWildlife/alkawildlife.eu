@@ -1,5 +1,5 @@
 ---
 title: čáp černý
-position: 20
+position: 26
 ---
 
