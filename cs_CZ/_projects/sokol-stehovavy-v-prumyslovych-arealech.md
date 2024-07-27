@@ -22,15 +22,11 @@ funding: >-
   ## **Instalace hnízdních budek**
 
 
-  Nákup a instalace je zpravidla financováno vlastníkem objektu:
-
-
-  ČEZ a.s. / Nadace ČEZ / Unipetrol RPA s.r.o. / Lafarge Cement a.s. / United
-  Energy a.s.  / Škoda Energo a.s.  / AGC processing Teplice a.s. / Thermo Děčín
-  a.s. / Spolana a.s. / MVV Energie CZ / Pražská Teplárenská  / Zevo Malešice
-  Praha
+  Nákup a instalace je zpravidla financováno vlastníkem objektu.
 from: 2010-01
-to: 2020-12
+to: 2027-12
+partners: '[www.sokolinakominech.cz](www.sokolinakominech.cz)'
+web: www.sokolinakominech.cz
 contacts:
   - email: vaclav.beran@alkawildlife.eu
     name: Václav Beran
@@ -39,7 +35,7 @@ species: sokol stěhovavý
 area: celá ČR
 tags:
   - sokol stěhovavý
-  - management
+  - podpora a péče
   - výzkum
 countries:
   - CZ
@@ -69,26 +65,6 @@ První budka byla vyvěšena v roce 2010 v elektrárně Tušimice a od té do
 
 [2011: časopis Ochrana Přírody 1/2011: Návrat sokola stěhovavého](/media/OP_8-11.pdf)
 
-# Lokality
 
-[Objekty ČEZ](/projects/sokol-stehovavy-v-prumyslovych-arealech/objekty-CEZ)
 
-[Chempark Záluží](/projects/sokol-stehovavy-v-prumyslovych-arealech/chempark-zaluzi)
-
-[Cementárna Čížkovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/cementarna-cizkovice)
-
-[Teplárna Komořany](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-komorany)
-
-[Teplárna v Mladé Boleslavi](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-boleslav)
-
-[Sklárna Teplice](/projects/sokol-stehovavy-v-prumyslovych-arealech/sklarna-teplice)
-
-[Teplárna v Děčíně](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-decin)
-
-[Spolana Neratovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/spolana-neratovice)
-
-[Teplárna v Liberci](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-liberec)
-
-[Teplárna České Budějovice](/projects/sokol-stehovavy-v-prumyslovych-arealech/teplarna-budejovice)
-
-[Praha](/projects/sokol-stehovavy-v-prumyslovych-arealech/praha)
+DETAILNÍ INFORMACE A AKTUALITY VIZ SPECIALIZOVANÝ WEB [WWW.SOKOLINAKOMINECH.CZ](WWW.SOKOLINAKOMINECH.CZ)
