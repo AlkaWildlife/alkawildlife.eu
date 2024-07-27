@@ -37,12 +37,14 @@ _myšivka horská (foto Jeroen van der Kooij)_
 
 # _Výstupy projektu_
 
-[Hledali jsme myšivku a našli ji](/news/hledali-jsme-my%C5%A1ivku-a-na%C5%A1li-ji)
+odborná publikace [Výskyt myšivky horské (Sicista betulina Pallas, 1779) v oblasti Novohradské hory – Freiwald](https://www.alkawildlife.eu/media/Polednik_2023_birchmouse.pdf)
 
-[Hledá se myška z doby ledové](/news/hledá-se-myška-z-doby-ledové)
+článek pro veřejnost [Hledali jsme myšivku a našli ji](/news/hledali-jsme-my%C5%A1ivku-a-na%C5%A1li-ji)
 
-[informační leták Pomozte nám najít myšivku horskou](/media/Sicista_leaflet_2021_CZprint.pdf)
+článek pro veřejnost [Hledá se myška z doby ledové](/news/hledá-se-myška-z-doby-ledové)
+
+informační leták [Pomozte nám najít myšivku horskou](/media/Sicista_leaflet_2021_CZprint.pdf)
 
 [informační stránka o myšivce horské](/zajmove-druhy/mysivka-horska)
 
-[reportáž Na Šumavě, v Jeseníkách nebo Beskydech žijí myšivky horské. Nikdo neví, kolik jich vlastně je](https://plus.rozhlas.cz/na-sumave-v-jesenikach-nebo-beskydech-ziji-mysivky-horske-nikdo-nevi-kolik-jich-8793358?fbclid=IwAR0HRR2vWQf1QKkhABBIwhy0oY4CWYJ_tJOHmw910QE03pAalZ9zi8yU-5A)
+reportáž v rádiu [Na Šumavě, v Jeseníkách nebo Beskydech žijí myšivky horské. Nikdo neví, kolik jich vlastně je](https://plus.rozhlas.cz/na-sumave-v-jesenikach-nebo-beskydech-ziji-mysivky-horske-nikdo-nevi-kolik-jich-8793358?fbclid=IwAR0HRR2vWQf1QKkhABBIwhy0oY4CWYJ_tJOHmw910QE03pAalZ9zi8yU-5A)
