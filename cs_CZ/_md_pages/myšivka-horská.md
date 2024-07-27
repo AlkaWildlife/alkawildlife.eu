@@ -83,10 +83,12 @@ V Rakousku se myšivka horská vyskytuje pouze ve vyšších polohách v izolova
 
 Podle zákona č. 114/1992 Sb., o ochraně přírody a krajiny, a související vyhlášky č. 395/1992 Sb. je myšivka horská zvláště chráněný živočich v kategorii silně ohrožený. V Evropské unii je chráněna směrnicí č. 92/43/EEC o ochraně přírodních stanovišť, volně žijících živočichů a planě rostoucích rostlin, je uveden v příloze IV. 
 
+# Literatura
+
+Více si můžete přečíst v těchto našich [PUBLIKACÍCH](https://www.alkawildlife.eu/publications#category=my%C5%A1ivka-horsk%C3%A1).
+
+
+
 # Projekty
 
-Realizované projekty zaměřené na myšivku horskou [zde](https://www.alkawildlife.eu/projects#category=my%C5%A1ivka-horsk%C3%A1).
-
-Stránka připravená v rámci projektu "[Za myškou z doby ledové](https://www.alkawildlife.eu/projects/za-my%C5%A1kou-z-doby-ledov%C3%A9)"
-
-![](/media/fmp_300.jpg)
+Myšivky horské se týkají tyto [REALIZOVANÉ PROJEKTY](https://www.alkawildlife.eu/projects#category=my%C5%A1ivka-horsk%C3%A1).
