@@ -9,7 +9,8 @@ species: sysel obecný
 area: jižní Morava
 tags:
   - sysel obecný
-  - průzkum
+  - výzkum
+  - podpora a péče
   - osvěta
 countries:
   - CZ
