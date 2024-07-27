@@ -25,6 +25,7 @@ area: jižní Morava
 tags:
   - sysel obecný
   - výzkum
+  - podpora a péče
   - osvěta
 countries:
   - CZ
