@@ -5,10 +5,8 @@ public: true
 authors:
   - name: Muzeum města Ústí nad Labem
   - name: ALKA Wildlife.o.p.s.
-type: ISBN publikace
+type: Bulletin Vydra
 tags:
-  - publikace pro odbornou veřejnost
-  - ISBN
   - vydra říční
 year: 2021
 lang:
