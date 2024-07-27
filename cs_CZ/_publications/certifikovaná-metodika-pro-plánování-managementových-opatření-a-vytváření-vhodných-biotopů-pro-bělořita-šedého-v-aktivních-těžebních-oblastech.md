@@ -13,8 +13,6 @@ authors:
 type: Metodika
 tags:
   - bělořit šedý
-  - publikace pro odbornou veřejnost
-  - ISBN
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2018
 lang:
