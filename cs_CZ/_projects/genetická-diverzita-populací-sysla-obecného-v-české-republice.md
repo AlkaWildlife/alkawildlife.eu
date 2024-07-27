@@ -32,7 +32,7 @@ description: >-
   dlouhodobě izolované. Hrozí tak nízká genetická variabilita jednotlivých
   populací a s tím spojená rizika jako např. příbuzenské křížení. Cílem projektu
   je vyhodnotit stav jednotlivých kolonií i záchranných chovů z pohledu
-  genetické diversity a navrhnout řešení.
+  genetické diversity a navrhnout řešení pro zlepšení stavu.
 ---
 # Cíle projektu
 
