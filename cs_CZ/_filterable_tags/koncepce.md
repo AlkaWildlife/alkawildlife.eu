@@ -1,5 +1,5 @@
 ---
 title: koncepce
-position: 25
+position: 6
 ---
 
