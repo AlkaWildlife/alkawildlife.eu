@@ -10,7 +10,7 @@ species: vydra říční
 area: Makedonie
 tags:
   - vydra říční
-  - průzkum
+  - výzkum
 countries:
   - MK
 description: >-
