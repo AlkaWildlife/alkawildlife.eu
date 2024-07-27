@@ -1,5 +1,5 @@
 ---
 title: tchoř stepní
-position: 10
+position: 8
 ---
 
