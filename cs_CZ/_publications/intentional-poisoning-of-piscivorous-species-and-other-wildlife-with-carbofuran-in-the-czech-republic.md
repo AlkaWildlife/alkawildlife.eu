@@ -11,12 +11,10 @@ authors:
 type: Kapitola v knize
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 publisher: Wiley-Blackwell
 journal: Carbofuran and Wildlife Poisoning. Global Perspectives and Forensic Approaches
 year: 2012
 lang: en
-attachments:
-  - {}
+attachments: []
 ---
 Several substances have recently been recorded in connection with wildlife poisoning in the Czech Republic: carbofuran, strychnine, methomyl and the anticoagulant agent warfarin. Carbofuran is the most used in the last years, however since it is restricted, methomyl, which is not restricted, has also been used. They are supplemented with different baits: fish, eggs, meat and remains of small game species. Depending on the bait used and its position different species are affected including bird of prey species (most commonly Buteo buteo, Milvus sp. Circus sp., Haliaeetus albicilla), carnivores (Vulpes vulpes, Lutra lutra, Martes foina) and some occasional scavengers (family Corvidae).
