@@ -19,7 +19,7 @@ species: norek americký
 area: Národní park České Švýcarsko a jeho okolí
 tags:
   - norek americký
-  - podpora a péče
+  - management
 countries:
   - CZ
 description: >-
