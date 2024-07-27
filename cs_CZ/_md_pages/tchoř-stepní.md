@@ -24,11 +24,9 @@ Tchoř stepní (_Mustela eversmannii_), neboli tchoř světlý, tchoř plavý č
 
 Tchoř stepní je velikostí (0,7 – 2 kg, délka těla 29-56 cm, délka ocasu 7-18 cm) srovnatelný s tchořem tmavým, liší se od něj nicméně výrazně světlejším zbarvením. Většinu těla kryje srst světlé žluté, žlutohnědé nebo šedé barvy, nohy, hruď a konec ocasu jsou tmavé. Obličejová kresba je méně výrazná než u tchoře tmavého, u starších jedinců pak může zcela zmizet a být nahrazena bílostříbrnou srstí. Samice jsou výrazně menší než samci.
 
-**_Jak vypadá tchoř stepní? Podívejte se na video._**
+_**Jak vypadá tchoř stepní? Podívejte se na video.**_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsQLWr8dz-4" frameborder="0" allowfullscreen=""></iframe>
-
-
 
 # Biologie a ekologie druhu
 
@@ -46,8 +44,10 @@ Areál tchoře stepního se rozkládá od střední Evropy (Česká republika je
 
 V České republice je výskyt tchoře stepního znám pouze z nejteplejších oblastí nížin Čech a Moravy. V letech 1960 - 2003 byl druh zaznamenán v 55 mapovacích čtvercích (Červený et al. 2006). Vzhledem k možné záměně druhu s tchořem tmavým nebo fretkou, je však třeba řadu údajů o výskytu druhu považovat pouze za velmi pravděpodobná, nicméně neověřená pozorování. V současnosti je výskyt velmi nejasný, ročně jsou získány 1 až 2 doložené záznamy z jižní či střední Moravy, většinou se jedná o zvířata uhynulá na silnicích. 
 
-# Více ke čtení
+# Literatura
 
-Více si můžete přečíst v těchto [našich publikacích](/publications#category=tcho%C5%99-stepn%C3%AD).
+Více si můžete přečíst v těchto našich [PUBLIKACÍCH](https://www.alkawildlife.eu/publications#category=tcho%C5%99-stepn%C3%AD).
 
-[Identifikace tchoře stepního (pdf)](</media/Identifikace tchoře stepního.pdf>)
+# Projekty
+
+Tchoře stepního se týkají tyto [REALIZOVANÉ PROJEKTY](https://www.alkawildlife.eu/projects#category=tcho%C5%99-stepn%C3%AD).
