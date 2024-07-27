@@ -27,9 +27,17 @@ tags:
 countries:
   - CZ
 logoset: TACR
+description: >-
+  Současné populace sysla obecného v České republice jsou velmi malé a navzájem
+  dlouhodobě izolované. Hrozí tak nízká genetická variabilita jednotlivých
+  populací a s tím spojená rizika jako např. příbuzenské křížení. Cílem projektu
+  je vyhodnotit stav jednotlivých kolonií i záchranných chovů z pohledu
+  genetické diversity a navrhnout řešení.
 ---
-1) Zjistit současnou genetickou diverzitu volně žijı́cı́ch populacı́ sysla obecného v ČR a porovnat ji s historickými daty
+# Cíle projektu
 
-2) Zjistit současnou genetickou variabilitu ex-situ chovů
+1. Zjistit současnou genetickou diverzitu volně žijı́cı́ch populacı́ sysla obecného v ČR a porovnat ji s historickými daty
 
-3) Sestavit certifikovanou metodiku transferů sysla obecného vedoucı́ ke zvýšenı́ genetické variabilitě a životaschopnosti jeho populací
+2. Zjistit současnou genetickou variabilitu ex-situ chovů
+
+3. Sestavit certifikovanou metodiku transferů sysla obecného vedoucı́ ke zvýšenı́ genetické variabilitě a životaschopnosti jeho populací
