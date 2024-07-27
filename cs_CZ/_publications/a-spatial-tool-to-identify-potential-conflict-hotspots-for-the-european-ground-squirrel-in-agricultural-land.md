@@ -8,10 +8,9 @@ authors:
   - name: Lukáš Poledník
   - name: Fernando Mateos-González
   - name: Kateřina Poledníková
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - sysel obecný
-  - publikace pro odbornou veřejnost
 journal: Animal Biodiversity and Conservation 46.2
 year: 2023
 lang: en
