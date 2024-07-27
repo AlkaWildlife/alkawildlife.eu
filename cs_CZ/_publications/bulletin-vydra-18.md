@@ -4,10 +4,8 @@ published: true
 public: true
 authors:
   - name: 'ALKA Wildlife,o.p.s.'
-type: ISBN publikace
+type: Bulletin Vydra
 tags:
-  - publikace pro odbornou veřejnost
-  - ISBN
   - vydra říční
 publisher: 'ALKA Wildlife,o.p.s.'
 year: 2021
