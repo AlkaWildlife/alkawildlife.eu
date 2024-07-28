@@ -5,10 +5,9 @@ public: true
 authors:
   - name: Andreas Kranz
   - name: Lukáš Poledník
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 journal: Journal of Mountain Ecology
 year: 2020
 lang:
