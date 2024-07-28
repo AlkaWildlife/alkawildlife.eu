@@ -11,7 +11,6 @@ authors:
 type: Metodika
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 publisher: 'AOPK ČR a ALKA Wildlife, o.p.s.'
 year: 2017
 lang:
