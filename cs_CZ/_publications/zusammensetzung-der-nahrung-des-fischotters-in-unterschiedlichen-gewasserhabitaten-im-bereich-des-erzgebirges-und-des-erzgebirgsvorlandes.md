@@ -10,10 +10,9 @@ authors:
   - name: Fernando Mateos-González
   - name: Václav Beran
   - name: Štěpán Zápotočný
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 journal: bulletin Vydra
 year: 2021
 lang: de
