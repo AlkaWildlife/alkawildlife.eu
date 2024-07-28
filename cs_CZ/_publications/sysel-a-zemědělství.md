@@ -6,10 +6,9 @@ authors:
   - name: Lukáš Poledník
   - name: Fernando Mateos-González
   - name: Kateřina Poledníková
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - sysel obecný
-  - publikace pro odbornou veřejnost
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2023
 lang:
