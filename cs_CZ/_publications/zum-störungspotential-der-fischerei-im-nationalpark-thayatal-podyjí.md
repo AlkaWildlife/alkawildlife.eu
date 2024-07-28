@@ -8,9 +8,8 @@ authors:
   - name: Fernando Mateos-González
   - name: Aleš Toman
   - name: Martin Valášek
-type: Článek v periodiku
-tags:
-  - publikace pro odbornou veřejnost
+type: Vědecký článek
+tags: []
 journal: Naturkundliche Mitteilungen aus den Landessammlungen Niederösterreich
 year: 2021
 lang: de
