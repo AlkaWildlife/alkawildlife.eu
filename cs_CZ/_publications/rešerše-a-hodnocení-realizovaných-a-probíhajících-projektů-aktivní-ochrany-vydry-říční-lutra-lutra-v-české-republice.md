@@ -9,7 +9,7 @@ authors:
   - name: Kateřina Poledníková
   - name: Petra Hájková
   - name: Markéta Culková
-type: Kapitola v knize
+type: Vědecký článek
 tags:
   - vydra říční
 publisher: AOPK ČR
