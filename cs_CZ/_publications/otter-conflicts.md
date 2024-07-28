@@ -7,7 +7,7 @@ authors:
   - name: Kranz A.
   - name: Poledník L.
   - name: Myšiak J.
-type: Kapitola v knize
+type: Vědecký článek
 tags:
   - vydra říční
 publisher: Springer-Verlag Berlin Heidelberg
