@@ -17,7 +17,7 @@ authors:
   - name: Vladimír Čech
   - name: Tereza Mináriková
   - name: Jarmila Krojerová
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - kočka divoká
 journal: 'Lynx, n.s. (Praha)'
