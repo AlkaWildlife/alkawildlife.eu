@@ -16,16 +16,14 @@ authors:
   - name: Pavel Štěpánek
   - name: Zdeněk Tunka
   - name: Josef Vrána
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - raroh velký
-  - publikace pro odbornou veřejnost
 journal: Zpravodaj SOVDS
 year: 2016
 lang:
   - cs
 link: /media/Raroh_SOVDS_2016.pdf
-attachments:
-  - {}
+attachments: []
 ---
 Monitoring raroha velkého (Falco cherrug) v roce 2015 probíhal v celém známém areálu jeho rozšíření v ČR, tedy v Jihomoravském, Olomouckém, Moravskoslezském, Pardubickém a Středočeském kraji. Prokázáno bylo devět obsazených teritorií, celkem bylo evidováno šest hnízdících párů, pět hnízdění bylo úspěšných.
