@@ -7,10 +7,9 @@ public: true
 authors:
   - name: Václav Beran
   - name: Kateřina Poledníková
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 journal: Bulletin Vydra
 year: 2021
 lang: de
