@@ -13,11 +13,9 @@ authors:
   - name: Christine Resch
   - name: 'Thomas Engleder '
   - name: Miloš Anděra
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - myšivka horská
-  - publikace pro odbornou veřejnost
-  - průzkum
 journal: 'Sborník Jihočeského muzea v Českých Budějovicích, Přírodní vědy 63'
 year: 2023
 lang: en
