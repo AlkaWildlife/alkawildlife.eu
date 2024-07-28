@@ -10,7 +10,7 @@ authors:
   - name: Tereza Mináriková
   - name: Gašpar Čamlík
   - name: Václav Beran
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - tchoř stepní
 journal: Příroda 39
