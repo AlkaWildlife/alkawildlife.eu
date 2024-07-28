@@ -6,7 +6,7 @@ authors:
   - name: Václav Beran
   - name: Lukáš Poledník
   - name: Kateřina Poledníková
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
 journal: Sborník bruntálského muzea
