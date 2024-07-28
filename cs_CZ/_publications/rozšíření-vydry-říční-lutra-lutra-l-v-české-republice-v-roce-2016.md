@@ -9,10 +9,9 @@ authors:
   - name: Gašpar Čamlík
   - name: 'Libor Praus '
   - name: Fernando Mateos-Gonzalez
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 publisher: 'ALKA Wildlife, o.p.s.'
 journal: Bulletin Vydra 17
 year: 2018
