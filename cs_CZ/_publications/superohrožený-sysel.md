@@ -5,10 +5,9 @@ public: true
 authors:
   - name: Tereza Mináriková
   - name: Kateřina Poledníková
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - sysel obecný
-  - publikace pro laickou veřejnost
 journal: Koktejl
 year: 2021
 lang:
