@@ -11,10 +11,9 @@ authors:
   - name: Libor Ekrt
   - name: Fernando Mateos-González
   - name: Jan Matějů
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - sysel obecný
-  - publikace pro odbornou veřejnost
 journal: Thayensia
 year: 2022
 lang: en
