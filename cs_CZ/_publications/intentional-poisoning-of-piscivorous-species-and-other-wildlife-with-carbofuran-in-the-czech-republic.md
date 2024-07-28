@@ -8,7 +8,7 @@ authors:
   - name: Kateřina Poledníková
   - name: Jitka Větrovcová
   - name: Václav Hlaváč
-type: Kapitola v knize
+type: Vědecký článek
 tags:
   - vydra říční
 publisher: Wiley-Blackwell
