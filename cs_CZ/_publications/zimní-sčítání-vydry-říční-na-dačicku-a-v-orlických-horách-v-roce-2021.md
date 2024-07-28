@@ -7,7 +7,7 @@ authors:
   - name: Kateřina Poledníková
   - name: Václav Pavel
   - name: Václav Beran
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
 journal: Bulletin VYDRA 18
