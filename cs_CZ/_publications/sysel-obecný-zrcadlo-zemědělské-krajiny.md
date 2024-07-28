@@ -6,7 +6,9 @@ authors:
   - name: Tereza Brzobohatá
   - name: Kateřina Poledníková
   - name: Jan Matějů
-type: Článek v periodiku
+type: Populárně naučný článek
+tags:
+  - sysel obecný
 journal: Myslivost 2021/12
 year: 2021
 lang:
