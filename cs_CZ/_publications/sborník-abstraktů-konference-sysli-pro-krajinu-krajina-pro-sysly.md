@@ -8,8 +8,6 @@ authors:
 type: Kniha abstraktů
 tags:
   - sysel obecný
-  - publikace pro odbornou veřejnost
-  - ISBN
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2019
 lang:
