@@ -10,7 +10,6 @@ authors:
 type: Kapitola v knize
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 publisher: Springer-Verlag Berlin Heidelberg
 journal: Human-Wildlife Conflicts in Europe Environmental Science and Engineering
 year: 2013
