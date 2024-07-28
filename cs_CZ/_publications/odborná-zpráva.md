@@ -22,7 +22,7 @@ authors:
   - name: Heurich M.
   - name: Poláková S.
   - name: Zschille J.
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - rys ostrovid
 publisher: 3LYNX
