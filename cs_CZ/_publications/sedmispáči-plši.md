@@ -4,17 +4,15 @@ published: true
 public: true
 authors:
   - name: Peter Adamík
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - plch velký
-  - publikace pro laickou veřejnost
 journal: Zahrádkář
 year: 2015
 lang:
   - cs
 link: /media/Zahradkar_11_15.pdf
-attachments:
-  - {}
+attachments: []
 ---
 Možná, že jste se s těmito roztomilými savci již setkali u vás na zahradě nebo na chatě, anebo je tam
 
