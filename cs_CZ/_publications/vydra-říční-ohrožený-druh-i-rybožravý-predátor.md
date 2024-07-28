@@ -7,10 +7,9 @@ authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
   - name: Jan Šíma
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - vydra říční
-  - publikace pro laickou veřejnost
 journal: Rybářství
 year: 2021
 lang:
