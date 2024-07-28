@@ -5,7 +5,7 @@ public: true
 authors:
   - name: Anders Pape Møller
   - name: Fernando Mateos-González
-type: Článek v periodiku
+type: Vědecký článek
 journal: Current Zoology
 year: 2019
 lang: en
