@@ -18,11 +18,10 @@ authors:
   - name: Lukáš Poledník
   - name: Petr Heneberg
   - name: Elizabeth A. Chadwick
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
   - norek americký
-  - publikace pro odbornou veřejnost
 journal: 'Parasitology International '
 year: 2015
 lang: en
