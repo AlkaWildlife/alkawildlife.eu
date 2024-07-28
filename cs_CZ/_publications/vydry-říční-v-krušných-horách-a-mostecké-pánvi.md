@@ -4,10 +4,9 @@ published: true
 public: true
 authors:
   - name: Kateřina Poledníková
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - vydra říční
-  - publikace pro laickou veřejnost
 journal: Myslivost 2021/06
 year: 2021
 lang:
