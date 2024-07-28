@@ -21,7 +21,7 @@ authors:
   - name: Poledník Lukáš
   - name: Zápotočný Štěpán
   - name: Zschille J.
-type: 'Odborná zpráva '
+type: Projektová zpráva
 tags:
   - rys ostrovid
 publisher: 3Lynx
