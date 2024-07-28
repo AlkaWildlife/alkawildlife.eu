@@ -16,8 +16,6 @@ authors:
 type: Brožura
 tags:
   - vydra říční
-  - publikace pro laickou veřejnost
-  - publikace pro odbornou veřejnost
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2017
 lang: cs
