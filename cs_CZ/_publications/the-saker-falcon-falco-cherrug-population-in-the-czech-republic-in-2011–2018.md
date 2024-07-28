@@ -7,10 +7,9 @@ authors:
   - name: David Horal
   - name: Václav Beran
   - name: Gašpar Čamlík
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - raroh velký
-  - publikace pro odbornou veřejnost
 journal: Ornis Hungarica
 year: 2018
 lang: en
