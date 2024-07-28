@@ -10,7 +10,6 @@ authors:
 type: Brožura
 tags:
   - rys ostrovid
-  - publikace pro laickou veřejnost
 publisher: 'ALKA Wildlife, o.p.s.'
 year: 2015
 lang:
