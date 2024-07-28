@@ -6,11 +6,10 @@ authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
   - name: Václav Beran
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - vydra říční
   - norek americký
-  - publikace pro laickou veřejnost
 journal: Myslivost
 year: 2009
 lang: cs
