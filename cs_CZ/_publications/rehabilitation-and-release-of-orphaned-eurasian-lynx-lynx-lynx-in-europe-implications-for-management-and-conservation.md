@@ -26,7 +26,7 @@ authors:
   - name: Tomma Lilii Middelhoff
   - name: Tereza Mináriková
   - name: Kristina Vogt
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - rys ostrovid
 journal: Plos One
