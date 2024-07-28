@@ -12,7 +12,6 @@ authors:
 type: Kapitola v knize
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 publisher: AOPK ČR
 year: 2005
 lang:
