@@ -6,9 +6,7 @@ authors:
   - name: Lukáš Poledník
 type: Kniha
 tags:
-  - invazní savci
-  - publikace pro laickou veřejnost
-  - publikace pro odbornou veřejnost
+  - savci obecně
 publisher: ALKA Wildlife
 year: 2019
 lang:
