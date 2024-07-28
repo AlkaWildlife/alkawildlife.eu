@@ -9,7 +9,6 @@ authors:
 type: Metodika
 tags:
   - vydra říční
-  - publikace pro odbornou veřejnost
 publisher: AOPK ČR
 year: 2023
 lang:
