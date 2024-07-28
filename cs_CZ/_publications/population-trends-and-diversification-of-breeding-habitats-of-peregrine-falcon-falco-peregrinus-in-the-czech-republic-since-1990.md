@@ -8,10 +8,9 @@ authors:
   - name: Václav Beran
   - name: Josef Vrána
   - name: David Horal
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - sokol stěhovavý
-  - publikace pro odbornou veřejnost
 journal: Ornis Hungarica
 year: 2018
 lang: en
