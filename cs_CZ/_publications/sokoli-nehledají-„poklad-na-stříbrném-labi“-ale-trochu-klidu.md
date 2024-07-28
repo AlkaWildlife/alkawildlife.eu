@@ -4,7 +4,9 @@ published: true
 public: true
 authors:
   - name: Václav Beran
-type: Článek v periodiku
+type: Populárně naučný článek
+tags:
+  - sokol stěhovavý
 journal: Ptačí svět
 year: 2022
 lang:
