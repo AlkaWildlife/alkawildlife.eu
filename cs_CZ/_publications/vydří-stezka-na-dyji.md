@@ -7,7 +7,7 @@ authors:
   - name: Poledník Lukáš
   - name: 'Mináriková Tereza '
   - name: Ochman Vladimír
-type: Článek v periodiku
+type: Populárně naučný článek
 tags:
   - vydra říční
 journal: Bulletin Vydra 16
