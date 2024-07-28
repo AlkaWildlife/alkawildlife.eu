@@ -7,7 +7,7 @@ authors:
   - name: Václav Beran
   - name: Štěpán Zápotočný
   - name: Kateřina Poledníková
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
 journal: Bulletin VYDRA 18
