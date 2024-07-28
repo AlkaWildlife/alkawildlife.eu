@@ -8,18 +8,15 @@ authors:
   - name: Andreas Kranz
   - name: Václav Beran
   - name: Gašpar Čamlík
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - vydra říční
-  - publikace pro laickou veřejnost
-  - publikace pro odbornou veřejnost
 journal: Dačický vlastivědný sborník
 year: 2013
 lang:
   - cs
 link: /media/Dačicko_11_polednikova_vydra.pdf
-attachments:
-  - {}
+attachments: []
 ---
 Cílem příspěvku je shrnout dosavadní výsledky dlouhodobého výzkumu vydry říční na
 
