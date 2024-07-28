@@ -10,7 +10,7 @@ authors:
   - name: Hana Bednářová
   - name: Štěpán Zápotočný
   - name: Lukáš Poledník
-type: Článek v periodiku
+type: Vědecký článek
 tags:
   - rys ostrovid
 journal: Acta Ethologica
