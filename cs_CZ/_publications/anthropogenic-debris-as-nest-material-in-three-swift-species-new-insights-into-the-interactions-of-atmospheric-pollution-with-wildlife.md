@@ -28,7 +28,7 @@ authors:
   - name: Armand Rausell-Moreno
 type: Vědecký článek
 journal: Science of the Total Environment
-year: 2022
+year: 2024
 lang: en
 link: 'https://www.sciencedirect.com/science/article/pii/S004896972405321X?via%3Dihub'
 ---
