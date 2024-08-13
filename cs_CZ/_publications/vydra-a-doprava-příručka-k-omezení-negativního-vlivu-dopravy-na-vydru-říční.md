@@ -18,8 +18,7 @@ lang:
 link: /media/2024/vydra_a_doprava_web_2.pdf
 attachments: []
 ---
-Cílem
- předkládané příručky je upozornit na problém hynutí vyder na silnicích -  v jakých situacích k problému dochází, podat doporučení optimálních postupů a s využitím praktických ukázek poskytnout příklady vhodných
+Cílem  předkládané příručky je upozornit na problém hynutí vyder na silnicích -  v jakých situacích k problému dochází, podat doporučení optimálních postupů a s využitím praktických ukázek poskytnout příklady vhodných
  a nevhodných řešení. Součástí příručky je i popis správních postupů doporučených k prosazení požadavků
  na ochranu vydry říční při plánování dopravních stavbách.
 
