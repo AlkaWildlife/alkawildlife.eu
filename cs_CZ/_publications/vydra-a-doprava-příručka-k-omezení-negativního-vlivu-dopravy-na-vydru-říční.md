@@ -15,7 +15,7 @@ publisher: 'AOPK ČR a ALKA Wildlife, o.p.s.'
 year: 2017
 lang:
   - cs
-link: /media/vydra_a_doprava_web_2.pdf
+link: /media/2024/vydra_a_doprava_web_2.pdf
 attachments: []
 ---
 Cílem
