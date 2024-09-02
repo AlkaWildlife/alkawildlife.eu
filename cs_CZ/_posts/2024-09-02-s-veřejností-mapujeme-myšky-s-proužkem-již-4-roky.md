@@ -37,8 +37,6 @@ _Lokace záznamů myšivky horské od veřejnosti_
 
 ![](/media/sicista_betulina_cr_600.jpg)
 
-
-
 _Dospělá myšice temnopásá, u Hlučína (autor Renata Krajíčková)_
 
 ![](/media/apodemus_agrarius_krajickova_600.jpg)
