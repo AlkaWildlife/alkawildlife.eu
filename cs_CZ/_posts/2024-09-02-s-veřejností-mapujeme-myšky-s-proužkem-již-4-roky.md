@@ -1,5 +1,5 @@
 ---
-title: S veřejností mapujeme myšky s proužkem již 4 roky
+title: S veřejností mapujeme myšky s proužkem 4 roky
 published: true
 image: /media/sicista_betulina_muller_00_600.jpg
 listing_thumbnail: /media/sicista_betulina_muller_00_274.jpg
@@ -31,15 +31,11 @@ _Výskyt myšice temnopásé na základě záznamů od veřejnosti (záznamy z l
 
 ![](/media/apodemus_agrarius_cr_600.jpg)
 
-
-
 Myšivka horská je „supervzácná“, tajemná a velmi špatně detekovatelná. Každý její záznam má proto velký význam. Dosud jsme získali 6 záznamů, přičemž v pěti případech se jednalo o nově zjištěné konkrétní lokality výskytu a v jednom případě o zajímavé pozorování z pohledu chování tohoto hlodavce. 
 
 _Lokace záznamů myšivky horské od veřejnosti_ 
 
 ![](/media/sicista_betulina_cr_600.jpg)
-
-__
 
 
 
@@ -47,48 +43,30 @@ _Dospělá myšice temnopásá, u Hlučína (autor Renata Krajíčková)_
 
 ![](/media/apodemus_agrarius_krajickova_600.jpg)
 
-
-
 _Dospělá myšice temnopásá, u Lanškrouna (autor Slávek Jansa)_
 
 ![](/media/apodemus_agrarius_jansa_600.jpg)
-
-
 
 _Myšice temnopásá, u Napajedel (autor Ludvík Šebestů)_
 
 ![](/media/apodemus_agrarius_sebestu_600.jpg)
 
-
-
 _Mládě myšice temnopásé, Haná (anonym)_
 
 ![](/media/apodemus_agrarius_anonym_600.jpg)
-
-
 
 _Myšivka horská v údolí řeky Volyňky (autor Pavel Harant)_
 
 ![](/media/sicista_betulina_harant_02_600.jpg)
 
-
-
 _Myšivka horská pojídá mrtvou vosu, u Volar (autor Jan Müller)_
 
 ![](/media/sicista_betulina_muller_600.jpg)
-
-
 
 _Pro porovnání mládě myšice temnopásé (nahoře, autor Peter Longi) a myšivka horská (dole, autor Pavel Harant). Nejdůležitější znak, tedy délka ocasu na obou snímcích vidět není (myšivka ho má delší než tělo). Přesto  lze oba druhy odlišit: myšice má protáhlejší tvar hlavy, na spodní čelisti myšice je trochu vidět jasně kontrastní světlá srst na spodní části těla. Myšivka na snímku krásně ukazuje roztažení dlouhých prstů na nohou, které používá k uchopování stonků při šplhání ve vegetaci._ 
 
 ![](/media/apodemus_sicista_porovnani.jpg)
 
-
-
-
-
 **Všem nálezcům velice děkujeme za dosavadní záznamy! Pište dál, posílejte nám svá pozorování. Myšky s proužkem můžete potkat při procházce v přírodě, i na své zahradě.** 
-
-
 
 Pozorování, fotky, dotazy je možné zasílat na tento kontakt:katerina.polednikova@alkawildlife.eu
