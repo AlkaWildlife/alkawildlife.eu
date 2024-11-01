@@ -1,5 +1,5 @@
 ---
-title: A camera trap captured the mating of a steppe polecat
+title: A cameratrap captured mating of a steppe polecat
 published: true
 image: /media/sequence-0305-2.jpg
 description: >-
