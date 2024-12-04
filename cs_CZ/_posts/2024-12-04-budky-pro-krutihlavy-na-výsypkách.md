@@ -4,8 +4,8 @@ published: true
 image: /media/dsc_0657_620.jpg
 listing_thumbnail: /media/dsc_0657_274.jpg
 description: >-
-  Pro vzácné krutihlavy byly v hnědouhelných výsypkách na Mostecku instalovány
-  hnízdní budky.
+  Pro vzácné krutihlavy byly ve výsypkách hnědouhelných lomů na Mostecku
+  instalovány hnízdní budky.
 date: '2024-12-04'
 logoset: Seven
 lang_alternatives:
