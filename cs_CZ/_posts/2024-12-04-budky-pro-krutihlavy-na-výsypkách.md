@@ -7,6 +7,7 @@ description: >-
   Pro vzácné krutihlavy byly v hnědouhelných výsypkách na Mostecku instalovány
   hnízdní budky.
 date: '2024-12-04'
+logoset: Seven
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
