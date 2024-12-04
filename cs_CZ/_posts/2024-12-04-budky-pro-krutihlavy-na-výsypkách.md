@@ -43,4 +43,4 @@ V současné době žije v celé republice žije maximálně 4000 jedinců, jedn
 
 ![](/media/20241114_113331_620.jpg)
 
-_budka pro krutihlavy_
+_budka pro krutihlavy vyrobená dětmi z Litvínova_
