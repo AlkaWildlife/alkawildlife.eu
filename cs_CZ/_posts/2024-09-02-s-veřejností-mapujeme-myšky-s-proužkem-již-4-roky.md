@@ -70,3 +70,7 @@ _Pro porovnání mládě myšice temnopásé (nahoře, autor Peter Longi) a myš
 Pozorování, fotky, dotazy je možné zasílat na tento kontakt:katerina.polednikova@alkawildlife.eu
 
 ![](/media/mzp_logo_text_300.jpg)
+
+
+
+Projekt byl podpořen Ministerstvem životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP. Projekt je také součástí sledování stavu biotopů a druhů organizovaného AOPK ČR.
