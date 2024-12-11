@@ -20,8 +20,6 @@ Tchoři stepní žijí samotářsky, samci i samice. Samice se do říje dostáv
 
 Tchoři stepní odpočívají v norách v zemi. U sledované nory byli v průběhu dvouměsíčního sledování několikrát samostatně zaznamenáni samec i samice. Rozpoznat samce a samici tchoře stepního není jednoduché. Obě pohlaví jsou stejně vybarvená, liší se velikostí, samice jsou menší, což na videích z fotopastí lze rozpoznat velmi těžko. Oba sledovaní jedinci mají ale jinou obličejovou masku, podle které je možné je rozpoznat. V prvním videu představujeme samici, jako sedí ve vchodu do sledované nory a sleduje okolí. 
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/86i8Z7LOo50" frameborder="0" allowfullscreen=""></iframe>
 
 _Ranní pohoda – samice tchoře stepního 30. 3. 2024 ráno_ 
@@ -55,3 +53,7 @@ V poslední fázi samec hlídá u vchodu do nory, aby samice neodešla jinam a n
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSGOdQFylFA" frameborder="0" allowfullscreen=""></iframe>
 
 _Hlídání samice samcem, 20. 4. 2024_
+
+Projekt byl podpořen Ministerstvem životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP. Projekt je také součástí sledování stavu biotopů a druhů organizovaného AOPK ČR. 
+
+__
