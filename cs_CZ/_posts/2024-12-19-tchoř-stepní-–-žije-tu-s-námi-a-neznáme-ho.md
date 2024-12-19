@@ -1,6 +1,6 @@
 ---
 title: Tchoř stepní – žije tu s námi a neznáme ho
-published: false
+published: true
 image: /media/sequence-0317_v620.jpg
 listing_thumbnail: /media/sequence-0317_v274.jpg
 description: 'I ve střední Evropě může v dnešní době žít šelma, o které se nic neví. '
@@ -37,7 +37,7 @@ Co loví tchoř stepní? Je specialistou na středně velké hlodavce. Výrazný
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PoWlAw09crs?si=oTar22EARtuwsbBj" frameborder="0" allowfullscreen=""></iframe>
 
-Tchoři stepní žijí samotářsky, samci i samice. Dle výzkumů v zajetí se samice do říje dostávají na konci března a říje trvá až do úspěšného páření. Ve volné přírodě mají tchoři stepní mláďata jen jednou do roka. S pomocí fotopasti na jižní Moravě se podařilo natočit světově unikátní záběry páření těchto šelem ve volné přírodě. Vzhledem k tomu, že se jedná o naprosto jedinečné záběry reprodukčního chování, psali jsme o nich detailněji zde. 
+Tchoři stepní žijí samotářsky, samci i samice. Dle výzkumů v zajetí se samice do říje dostávají na konci března a říje trvá až do úspěšného páření. Ve volné přírodě mají tchoři stepní mláďata jen jednou do roka. S pomocí fotopasti na jižní Moravě se podařilo natočit světově unikátní záběry páření těchto šelem ve volné přírodě. Vzhledem k tomu, že se jedná o naprosto jedinečné záběry reprodukčního chování, psali jsme o nich detailněji [zde](/fotopast-zachytila-páření-tchoře-stepního). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YYbvk74Wt3s?si=MdC8KqN9bobjQHuo" frameborder="0" allowfullscreen=""></iframe>
 
