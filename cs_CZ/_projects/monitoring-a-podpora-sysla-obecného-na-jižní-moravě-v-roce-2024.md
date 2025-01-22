@@ -19,10 +19,6 @@ description: >-
   Cílem projektu je podpora ohrožených populací sysla obecného na jižní Moravě v
   zemědělské krajině v roce 2024.
 ---
-
-
-
-
 Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla obecného na jižní Moravě v zemědělské krajině v roce 2024. Sysel, v současnosti kriticky ohrožený druh, byl dříve běžným druhem zemědělské krajiny. Úbytek sysla ukazuje na stav naší krajiny. Pomoc syslovi má proto širší uplatnění, znamená také podporu vzácných biotopů a pomoc při vytváření funkční zemědělské krajiny. V roce 2024 bude realizováno: monitoring vybraných populací sysla, spolupráce s místními obyvateli, management lokalit, péče o nově založenou kolonii v Božicích a osvěta veřejnosti. Projekt navazuje na naše dosavadní aktivity v tomto tématu.
 
 ## Aktuality
@@ -32,3 +28,7 @@ Hlavním dlouhodobým cílem projektu je podpora ohrožených populací sysla ob
 [Na Znojemsku vzniká nová kolonie sysla obecného](https://www.alkawildlife.eu/news/na-znojemsku-vznik%C3%A1-nov%C3%A1-kolonie-sysla-obecn%C3%A9ho)
 
 [Dvě vinařství z Jaroslavic získala známku Sysli na vinici](https://www.alkawildlife.eu/news/dv%C4%9B-vina%C5%99stv%C3%AD-z-jaroslavic-z%C3%ADskala-zn%C3%A1mku-sysli-na-vinici)
+
+## Výstupy
+
+[Sysel obecný - včera soused, dneska rarita (brožura, 3,6 MB)](/media/2024/ALKA_brozura_sysel_2024_web.pdf/)
