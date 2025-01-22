@@ -7,6 +7,7 @@ description: >-
   Na Znojemsku vzniká nová kolonie sysla obecného. Vzácní savci našli domov u
   Božic. 
 date: '2024-07-15'
+logoset: LIFE MZP
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
