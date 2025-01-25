@@ -4,7 +4,7 @@ published: true
 image: /media/tchori_uvod_620.jpg
 listing_thumbnail: /media/tchori_uvod_274.jpg
 description: 'V České republice žijí dva druhy tchořů. Jak je poznáte? '
-date: '2025-01-25'
+date: '2024-07-30'
 logoset: MZP
 lang_alternatives:
   en_GB:
