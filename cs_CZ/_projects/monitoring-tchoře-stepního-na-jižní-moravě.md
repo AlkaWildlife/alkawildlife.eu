@@ -30,4 +30,4 @@ Tchoř stepní je jedním z našich nejvzácnějších savců. Jde o kriticky oh
 
 # Videa z fotopastí
 
-Všechna videa tchoře stepního, kriticky ohroženého savce České republiky, můžete zhlédnout v YouTube playlistu [„Neznámý tchoř stepní“](https://www.youtube.com/playlist?list=PLLQHIEu6FtULW8zTKX5app6NcSzhhh1W1).
+Videa tchoře stepního, kriticky ohroženého savce České republiky, můžete zhlédnout v YouTube playlistu [„Neznámý tchoř stepní“](https://www.youtube.com/playlist?list=PLLQHIEu6FtULW8zTKX5app6NcSzhhh1W1).
