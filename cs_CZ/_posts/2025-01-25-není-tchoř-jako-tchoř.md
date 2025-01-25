@@ -13,8 +13,6 @@ lang_alternatives:
 category: news
 layout: news
 ---
-
-
 Česká republika spadá do areálu výskytu dvou druhů tchořů, kteří se zde potkávají: tchoř tmavý (_Mustela putorius_ Linnaeus, 1758) a tchoř stepní (_Mustela eversmanii_ Lesson, 1827). Druhová identifikace může být náročná, protože oba druhy jsou si velmi podobné, v některých oblastech České republiky mohou žít v podstatě vedle sebe, a komplikaci také přináší možnost výskytu hybridů. Tchoř stepní a tchoř tmavý jsou si blízce příbuzné druhy, v rámci podčeledi kun (Mustelinae) k jejich odlišení došlo nejpozději (jen zhruba před 500 tisíci lety). 
 
 Tchoř světlý je také znám jako tchoř plavý či tchoř světlý a v dřívějších dobách byl lidově nazýván mlynář. Tchoř tmavý byl nazýván žabák. Všechna tato česká jména tak trochu napovídají, jak se tyto dva druhy liší vzhledem a také prostředím, ve kterém žijí. 
@@ -37,13 +35,9 @@ Tchoř stepní má světlejší zbarvení srsti, žlutá podsada více prosvít�
 
 V případě nejasných případů, je vhodné druh určit genetickou metodou, případně ještě přichází v úvahu podívat se na lebku, kde se nachází několik poměrně dobře rozlišitelných znaků. 
 
-
-
 _Kožní preparáty tchořů v Kunst historisches museum ve Vídni. Vlevo tchoři stepní vpravo tchoři tmaví._ 
 
 ![](/media/msam_0304.jpg)
-
-
 
 __
 
@@ -51,28 +45,30 @@ _Kožní preparáty tchořů v Kunst historisches museum ve Vídni. Zleva: tcho�
 
 ![](/media/tchori_2_620.jpg)
 
+__
+
 _Detail zbarvení kořene ocasu u tchoře tmavého (horní část obrázku) a u tchoře stepního (spodní část obrázku) (Kunst historisches museum ve Vídni)._
 
 ![](/media/mp7170088.jpg)
 
-  
+__
 
 _Typicky zbarvený tchoř stepní a tchoř tmavý ze záznamů z fotopastí z jižní Moravy._
 
-
-
-
-
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaDMuan1xmU?si=rx2j69b7zn0eO2Ul" frameborder="0" allowfullscreen=""></iframe>
+
+__
 
 _Typické fenotypické znaky tchoře stepního na černobílém záznamu z fotopasti z jižní Moravy._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsQLWr8dz-4?si=tt2RS2d9UXnurXNb" frameborder="0" allowfullscreen=""></iframe>
 
+__
+
 _Samice tchoře stepního na barevném záznamu z fotopasti z jižní Moravy._ 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/86i8Z7LOo50" frameborder="0" allowfullscreen=""></iframe>
+
+__
 
 Projekt byl podpořen Ministerstvem životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP. Projekt je také součástí sledování stavu biotopů a druhů organizovaného AOPK ČR.
