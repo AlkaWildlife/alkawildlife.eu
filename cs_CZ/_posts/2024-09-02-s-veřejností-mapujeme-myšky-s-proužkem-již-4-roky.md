@@ -67,10 +67,10 @@ _Pro porovnání mládě myšice temnopásé (nahoře, autor Peter Longi) a myš
 
 **Všem nálezcům velice děkujeme za dosavadní záznamy! Pište dál, posílejte nám svá pozorování. Myšky s proužkem můžete potkat při procházce v přírodě, i na své zahradě.** 
 
+**Hlodavci mohou přenášet různé nemoci, či mohou kousnout. Výzvou k pozorování určitě nenabádáme na ně sahat a brát je do ruky!**  
+
 Pozorování, fotky, dotazy je možné zasílat na tento kontakt:katerina.polednikova@alkawildlife.eu
 
 ![](/media/mzp_logo_text_300.jpg)
-
-
 
 Projekt byl podpořen Ministerstvem životního prostředí. Materiál nemusí vyjadřovat stanoviska MŽP. Projekt je také součástí sledování stavu biotopů a druhů organizovaného AOPK ČR.
