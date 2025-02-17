@@ -7,7 +7,12 @@ subtitle: >-
   Analýza kadáverů vydry říční (Lutra lutra) jako nástroj pro monitoring
   bioakumulativních polutantů ve vodních ekosystémech
 registration_no: SQ01010345
-funding: "TAČR\r\n\n\r\n\nProgram Prostředí pro život\n\n\n\n![](/media/prostredi_pz_300.png)"
+funding: |-
+  TAČR
+
+  Program Prostředí pro život
+
+  ![](/media/prostredi_pz_300.png)
 from: 2025-01
 to: 2027-12
 partners: |-
@@ -22,18 +27,12 @@ species: vydra říční
 countries:
   - CZ
 logoset: TACR
-description: >
-  Hlavním cílem projektu je vyvinout a otestovat novou metodiku hodnocení
-  kontaminace vodních
+description: >-
+  Hlavním cílem projektu je vyvinout a otestovat metodiku hodnocení kontaminace
+  vodních
 
-  ekosystémů pomocí analýzy tkání vrcholového rybožravého predátora–vydry říční.
-  Na základě
-
-  premisy koncentrace polutantů s bioakumulačním a biomagnifikačním potenciálem
-  ve vyšších
-
-  trofických úrovních lze předpokládat, že tkáně vydry říční budou
-  reprezentativním vzorkem znečištění vodních ekosystémů dané lokality.
+  ekosystémů pomocí analýzy tkání vrcholového rybožravého predátora – vydry
+  říční.
 ---
 Hlavním cílem projektu je vyvinout a otestovat novou metodiku hodnocení kontaminace vodních
 
