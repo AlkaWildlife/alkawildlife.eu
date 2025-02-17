@@ -5,7 +5,7 @@ image: /media/obed-v-temeline_620.jpg
 description: >-
   V roce 2024 se do světa rozletělo 23 sokolů z hnízdních budek na výškových
   stavbách ČEZ. 
-date: '2025-02-17'
+date: '2025-02-18'
 logoset: Nadace ČEZ
 lang_alternatives:
   en_GB:
