@@ -29,3 +29,17 @@ pravděpodobnost, že nižšı́ přežitı́ dospělých samic v okrajo
 horšı́ho zdravotnı́ho stavu rysů, b) zvýšené úmrtnosti na silnicı́ch, c) vyššı́ mı́ry pytláctvı́.
 Vyhodnotit dopad nı́zkého přežitı́ dospělých samic v okrajových oblastech na
 životaschopnost populace.
+
+## Výsledky projektu
+
+[Metodika monitoringu rysích rodin](https://www.mzp.cz/C1257458002F0DC7/cz/migrace_zivocichu_ochrana_velkych_selem/$FILE/odoimz-metodika_monitoringu_rysich_rodin-20250205.pdf) (metodika certifikovaná Ministerstvem životního prostředí) 
+
+Přežívání dospělých samic rysa ostrovida – výzkum hrozeb v jádru a na okraji šumavské populace (souhrnná výzkumná zpráva, pdf zašleme na vyžádání)
+
+10 ročnı́ch map domovských okrsků dospělých samic a jejich přežitı́ 
+
+Závěrečný seminář (proběhl v Kašperských horách 13.11.2024)
+
+Seznamy pravděpodobně upytlačených jedinců rysa ostrovida a jejich dokumentace
+
+Nálezová data (přístupná přes databázi NDOP AOPK ČR)
