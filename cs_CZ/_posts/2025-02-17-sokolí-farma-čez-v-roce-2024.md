@@ -1,6 +1,6 @@
 ---
 title: Sokolí farma ČEZ v roce 2024
-published: false
+published: true
 image: /media/obed-v-temeline_620.jpg
 description: >-
   V roce 2024 se do světa rozletělo 23 sokolů z hnízdních budek na výškových
