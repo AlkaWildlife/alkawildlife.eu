@@ -10,9 +10,9 @@ registration_no: SQ01010345
 funding: |-
   TAČR
 
-  Program Prostředí pro život
+  Program Prostředí pro život 2
 
-  ![](/media/prostredi_pz_300.png)
+  ![](/media/1705564925_ppž2_300.jpg)
 from: 2025-01
 to: 2027-12
 partners: |-
