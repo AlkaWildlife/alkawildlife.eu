@@ -1,5 +1,5 @@
 ---
-title: Hlaste vydry! Když s výzkumem pomáhá veřejnost.
+title: Hlaste vydry! Pomůžete s výzkumem.
 published: true
 image: /media/a_igp4713_620.jpg
 listing_thumbnail: /media/a_igp4713_274.jpg
