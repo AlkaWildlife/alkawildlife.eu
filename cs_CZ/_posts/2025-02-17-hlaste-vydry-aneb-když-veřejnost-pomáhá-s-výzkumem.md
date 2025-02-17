@@ -25,6 +25,6 @@ Hlavním cílem projektu je vyvinout a otestovat novou metodiku hodnocení konta
 
 Hlavním uživatelem výstupů projektu bude Ministerstvo životního prostředí. Výsledky však mohou být využity i správci vodních toků při budoucím sledování znečištění a zhodnocení kvality povrchových vod, Českou inspekcí životního prostředí nebo krajskými hygienickými stanicemi. V průběhu řešení projektu bude také uspořádána konference a několik přednášek, během kterých se zájemci o tuto problematiku budou moci seznámit s naší prací a výsledky.
 
-![NPR Kněhyně - Čertův mlýn ](/media/vyzva-verejnost-kopie.png "NPR Kněhyně - Čertův mlýn ")
+![](/media/vyzva-verejnost-kopie.png)
 
 ![](/media/vyzva_pro_studenty_stránka_2.png)
