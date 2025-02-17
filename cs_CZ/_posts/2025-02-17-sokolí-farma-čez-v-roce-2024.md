@@ -26,11 +26,31 @@ Chladicí věž je v Elektrárně Tušimice domovem sokolího páru již od roku
 
 Celkem 16 potomků se již od roku 2011 povedlo vyvést sokolům v počeradské lokalitě. V roce 2019 se zde objevil u neoznačené samice, která přišla o svého druha, Ledvík. Což je vůbec první okroužkovaný sokolík ze Skupiny ČEZ, který se proklubal na svět v budce na ochozu komína Elektrárny Ledvice. O rok později už měl novou partnerku Rex ze 178 km vzdálené bavorské obce Nankendorf. „_Obývají budku na chladicí věži paroplynového cyklu. Jejich snažení o potomky je stejně jako v jiných případech střídavé. Z loňska mám třeba krásné fotky z jejich dubnového tokání, nakonec ale pár vůbec nezahnízdil_,“ krčí rameny ornitolog. Na druhou stranu mu již po čtvrté udělal radost pár z komínu Teplárny Trmice. „_Zde se mu dařilo hned čtyřikrát za sebou, nejdříve trojčata, pak dvakrát čtyřčata a vloni opět trojčata_.“  
 
+![](/media/trmicka-trojcata-se-rozkoukavaji-po-svete-620.jpg)
+
+_Trmická trojčata_
+
 ## Bez ztráty jediného bodu
 
 Tak by se dal označit „odchov“ sokola stěhovavého v lokalitě Elektrárny Ledvice.  Sokolí pár zde poprvé zahnízdil v nainstalované budce v roce 2016 a od té doby se mu stále daří. Celkem se zde již proklubalo na svět 23 mláďat, včetně již výše zmiňovaného Ledvíka v roce  2017, který byl jako jediný i jedináčkem. Ornitolog Beran k tomu dodává: „_Vloni to byla trojčata, jedno ale bylo mnohem menší, než jeho sourozenci. U těch vím, že to byli kluk a holka, a také se mi je podařilo okroužkovat. Třetí mládě zůstalo bez kroužků. Nicméně v půlce května vesele vyskakovalo z budky na ochoz. Na začátku června pak už společně s ostatními poletovalo kolem komína a na konci téhož měsíce už bylo poslední, koho fotopast zachytila před odletem._“
 
+![](/media/ledvicka-trojcata-tesne-po-okrouzkovani-ornitologem-beranem_620.jpg)
+
+_Ledvická trojčata_
+
 Rovněž zatím vždy úspěšný je sokolí pár z ochozu komína bývalé výtopny  ČEZ Teplárenské v Proboštově. Na rozdíl od ostatních sokolích matadorů, zde ale zahnízďuje teprve od roku 2021. Pár zde vloni a předloni vyvedl čtyřčata a oba roky předtím  trojčata. Otcem je syn Ledvíka vylíhlý v roce 2019 v Počeradech. Samice je neoznačená.
+
+![](/media/ledvikuv-syn-se-usadil-s-neoznacenou-samici-v-probostove_620.jpg)
+
+_Ledvíkův syn se usadil v Proboštově_
+
+![](/media/neoznacena-samice-z-probostova_620.jpg)
+
+_Samice z Proboštova_
+
+![](/media/probostovska-ctyrcata_620.jpg)
+
+_Proboštovská čtyřčata_
 
 ## Také jaderníci mají své sokoly
 
