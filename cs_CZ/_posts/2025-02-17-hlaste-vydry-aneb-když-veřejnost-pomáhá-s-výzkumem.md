@@ -4,8 +4,8 @@ published: true
 image: /media/a_igp4713_620.jpg
 listing_thumbnail: /media/a_igp4713_274.jpg
 description: >-
-  Je možné pomocí predátorů sledovat kontaminaci prostředí? Hlaste vydry! Na
-  tuto otázku se pokusí odpovědět projekt ApexPol.
+  Je možné pomocí predátorů sledovat kontaminaci prostředí? Na tuto otázku se
+  pokusí odpovědět projekt ApexPol.
 date: '2025-02-17'
 logoset: TACR
 lang_alternatives:
