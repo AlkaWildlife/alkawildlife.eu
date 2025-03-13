@@ -22,7 +22,12 @@ funding: >-
   republice](/projects/realizace-opatření-pro-vydru-říční-v-čr)
 
 
-  05/2017 - 2022      AOPK ČR a vlastní prostředky
+  05/2017 - 2024    AOPK ČR a vlastní prostředky
+
+
+  2025 - 2027         TAČR: [Analýza kadáverů vydry říční jako nástroj pro
+  monitoring polutantů ve vodních
+  ekosystémech](/projects/analýza-kadáverů-vydry-říční-jako-nástroj-pro-monitoring-polutantů-ve-vodních-ekosystémech)
 from: 2008-01
 to: 2027-12
 partners: >-
@@ -30,6 +35,9 @@ partners: >-
 
 
   AOPK ČR - spolupráce při sběru kadáverů
+
+
+  Muzeum města Ústí nad Labem - základní pitvy, archivace vzorků
 
 
   Český nadační fond pro vydru - spolupráce při sběru kadávarů (Třeboňsko)
@@ -42,13 +50,7 @@ partners: >-
   Policie ČR - vyšetřování nelegálního zabití vyder
 
 
-  Muzeum města Ústí nad Labem - základní pitvy, archivace vzorků
-
-
   ÚBO AV ČR  - genetické analýzy vzorků
-
-
-  ČZU Praha, VFU Brno - parazitologie
 
 
   FCHT Universita Pardubice - anorganické látky v tkáních
