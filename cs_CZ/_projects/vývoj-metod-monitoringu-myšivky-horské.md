@@ -2,7 +2,12 @@
 title: Vývoj metod monitoringu myšivky horské
 published: true
 registration_no: SQ01010177
-funding: "[TAČR](www.tacr.cz)\r\n\n\r\n\nProgram Prostředí pro život 2\n\n![](/media/1705564925_ppž2_300.jpg)"
+funding: |-
+  [TAČR](www.tacr.cz)
+
+  Program Prostředí pro život 2
+
+  ![](/media/1705564925_ppž2_300.jpg)
 from: 2025-03
 to: 2028-02
 partners: |-
