@@ -19,6 +19,11 @@ area: ''
 countries:
   - CZ
 logoset: TACR
+description: >-
+  Myšivka horská je v České republice silně ohroženým druhem, jehož výskyt je
+  vázán na několik málo izolovaných horských populací a dosud je to jeden z
+  nejobtížněji monitorovaných druhů savců. Cílem projektu je vytvoření metodiky
+  pro detekci a monitoring tohoto druhu savce.
 ---
 ## CÍLE
 
