@@ -18,6 +18,7 @@ species: myšivka horská
 area: ''
 countries:
   - CZ
+logoset: TACR
 ---
 ## CÍLE
 
