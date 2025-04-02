@@ -15,7 +15,8 @@ to: 2027-12
 partners: "Kooperační partneři:\r\n\nLead partner: Technische Universität Dresden \r\n\n\r\n\nALKA Wildlife, o.p.s.\r\n\n\r\n\nLandschaftspflegeverband Sächsische Schweiz-Osterzgebirge e.V.\r\n\n\r\n\nČeská zemědělská univerzita v Praze\r\n\n\r\n\nČeské vysoké učení technické v Praze"
 species: bobr evropský
 area: česko-saský příhraniční region
-tags: []
+tags:
+  - bobr evropský
 countries:
   - CZ
 ---
