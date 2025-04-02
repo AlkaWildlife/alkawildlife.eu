@@ -24,6 +24,9 @@ partners: |-
 
   Fakulta chemicko-technologická Univerzita Pardubice
 species: vydra říční
+tags:
+  - vydra říční
+  - výzkum
 countries:
   - CZ
 logoset: TACR
