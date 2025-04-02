@@ -11,6 +11,9 @@ from: 2025-01
 to: 2027-12
 partners: 'ALKA Wildlife, o.p.s.'
 species: tchoř stepní (Mustela eversmanii)
+tags:
+  - tchoř stepní
+  - výzkum
 countries:
   - CZ
 logoset: TACR
