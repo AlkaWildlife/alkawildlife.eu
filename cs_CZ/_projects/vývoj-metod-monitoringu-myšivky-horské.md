@@ -16,6 +16,9 @@ partners: |-
   Univerzita Palackého v Olomouci, Přírodovědecká fakulta
 species: myšivka horská
 area: ''
+tags:
+  - myšivka horská
+  - výzkum
 countries:
   - CZ
 logoset: TACR
