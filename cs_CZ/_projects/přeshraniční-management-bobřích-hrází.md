@@ -3,9 +3,9 @@ title: 'Přeshraniční management bobřích hrází '
 published: true
 subtitle: Přeshraniční management bobřích hrází v kontextu změny klimatu
 funding: |-
-  Interreg Česko - Sasko
-
   ![](/media/interreg_300.jpg)
+
+  Interreg Česko - Sasko
 budget: |-
   Finanční podpora EU (EFRR): 871.764,90 €
 
