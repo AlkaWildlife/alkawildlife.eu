@@ -4,7 +4,7 @@ published: true
 image: /media/dsc_4241_bobr_620.jpg
 listing_thumbnail: /media/dsc_4241_bobr_274.jpg
 description: Česko-saský projekt BIBOB vyhodnotí přínos bobrů s adaptací na změnu klimatu.
-date: '2025-04-22'
+date: '2025-04-24'
 logoset: SN_CZ
 lang_alternatives:
   en_GB:
