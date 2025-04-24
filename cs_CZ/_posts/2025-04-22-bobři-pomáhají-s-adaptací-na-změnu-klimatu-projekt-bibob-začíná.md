@@ -1,5 +1,5 @@
 ---
-title: 'Bobři pomáhají s adaptací na změnu klimatu. Projekt BIBOB začíná. '
+title: 'Bobři pomáhají s adaptací na změnu klimatu. '
 published: true
 image: /media/dsc_4241_bobr_620.jpg
 listing_thumbnail: /media/dsc_4241_bobr_274.jpg
