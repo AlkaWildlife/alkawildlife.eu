@@ -15,6 +15,10 @@ lang_alternatives:
 category: news
 layout: news
 ---
+_Vydra uhynulá na silnici (foto Jiří Šafář)_
+
+
+
 TISKOVÁ ZPRÁVA UNIVERZITY KARLOVY, UNIVERZITY PARDUBICE A ALKA WILDLIFE 
 
 # Uhynulé vydry odhalují znečištění řek: Vědci žádají o pomoc veřejnost!
@@ -45,12 +49,6 @@ _Vydra říční ve svém přirozeném prostředí (foto archiv ALKA Wildlife)_
 
 ![Vydra říční](/media/02_vydra-_v_prostředí_archiv_alka_620.jpg "Vydra říční ve svém přirozeném prostředí")
 
-
-
-
-
-
-
 _Pitva vydry říční, při které se izolují jednotlivé tkáně pro následné analýzy (foto archiv ALKA Wildlife)_
 
 ![](/media/04_pitva-vydry_-alka-wildlife_620.jpg)
@@ -70,7 +68,5 @@ _Rozkladné nádoby a PFA zkumavky pro anorganické analýzy (foto Lenka Husáko
 _Hmotnostní spektrometr Agilent 7900 ICP-MS s ionizací v indukčně vázaném plazmatu (ICP-MS), vybavený kvadrupólovým analyzátorem iontů a oktapólovou kolizně-reakční celou pro multiprvkové analýzy (foto Lenka Husáková)_
 
 ![](/media/08_agilent_hmotnostní_spektrometr_lenka_husáková_620.jpg)
-
-
 
 [Projekt Analýza kadáverů vydry říční (Lutra lutra) jako nástroj pro monitoring bioakumulativních polutantů ve vodních ekosystémech (SQ01010345)](/projects/analýza-kadáverů-vydry-říční-jako-nástroj-pro-monitoring-polutantů-ve-vodních-ekosystémech)
