@@ -39,5 +39,10 @@ description: >-
 ---
 # Cíle
 
-
 Hlavním cílem projektu je vyvinout a otestovat novou metodiku hodnocení kontaminace vodních ekosystémů pomocí analýzy tkání vrcholového rybožravého predátora–vydry říční. Na základě premisy koncentrace polutantů s bioakumulačním a biomagnifikačním potenciálem ve vyšších trofických úrovních lze předpokládat, že tkáň z do jisté míry teritoriálního predátora, jako je právě rybožravá vydra, bude reprezentativním vzorkem znečištění vodních ekosystémů dané lokality. Pro naplnění cíle budou analyzovány sbírané kadávery vyder z celé ČR a analyzovány na přítomnost vybraných zástupců klasických i nových typů polutantů. Optimalizované postupy budou následně použity pro zhodnocení regionální kontaminace povrchových vod per- a polyfluorovanými látkami, těžkými kovy a dalšími rizikovými prvky.
+
+# Aktuality
+
+12.5.2025 [Uhynulé vydry odhalují znečištění řek ](/news/uhynulé-vydry-odhalují-znečištění-řek-vědci-žádají-o-pomoc-veřejnost)
+
+17.2.2025 [Hlaste vydry! Pomůžete s výzkumem](www.vydryonline.cz/news/hlaste-vydry-když-s-výzkumem-pomáhá-veřejnost)
