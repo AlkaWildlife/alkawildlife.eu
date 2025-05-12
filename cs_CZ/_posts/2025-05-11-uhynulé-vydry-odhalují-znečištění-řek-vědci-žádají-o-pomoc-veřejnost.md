@@ -1,5 +1,5 @@
 ---
-title: 'Uhynulé vydry odhalují znečištění řek: Vědci žádají o pomoc veřejnost!'
+title: Uhynulé vydry odhalují znečištění řek.
 published: true
 image: /media/03_uhynulá_vydra_jiří_šafář_620.jpg
 listing_thumbnail: /media/03_uhynulá_vydra_jiří_šafář_274.jpg
