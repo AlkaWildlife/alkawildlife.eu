@@ -85,11 +85,16 @@ fernandomateos@gmail.com
 * [LinkedIn](linkedin.com/in/fernandomateosgonzalez) 
 * [Orcid](https://orcid.org/0000-0001-6765-8761)
 
-# Štěpán Zápotočný
-
-* vědecký asistent
+# 
 
 # Jindřich Poledník
 
 * vědecký asistent
-* letec dronu
+* pilot dronu
+
+
+
+# Ondřej Poledník
+
+* vědecký asistent
+* pilot dronu
