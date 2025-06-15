@@ -52,9 +52,9 @@ tel: 721 113 973 / lukas.polednik@alkawildlife.eu
 
 tel: 731 407 839 / lutra@email.cz 
 
-* vedoucí vědecký pracovní; vedoucí týmu ekologie ptáků
+* vedoucí vědecký pracovník; vedoucí týmu ekologie ptáků
 * člen České společnosti ornitologické
-* specializace: ornitologie, inventarizační průzkumy 
+* specializace: ornitologie, zoologické průzkumy a biologické hodnocení 
 * více na [Linkedin](https://www.linkedin.com/in/václav-beran-5709705a)
 
 # Mgr. Tereza Mináriková
