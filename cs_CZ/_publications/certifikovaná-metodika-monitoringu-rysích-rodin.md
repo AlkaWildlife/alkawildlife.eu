@@ -17,6 +17,6 @@ year: 2024
 lang:
   - cs
 link: >-
-  https://www.mzp.cz/C1257458002F0DC7/cz/migrace_zivocichu_ochrana_velkych_selem/$FILE/odoimz-metodika_monitoringu_rysich_rodin-20250205.pdf
+  https://mzp.gov.cz/cz/agenda/priroda-a-krajina/ochrana-druhu/odborne-podklady-a-metodiky/savci
 ---
 Cílem metodiky certifikované MŽP je poskytnout ucelený návod pro monitoring rozmnožujících se rysích samic s mláďaty neboli rysích rodin. Metodika je věnována zejména pracovníkům státní ochrany přírody a výzkumným organizacím, kteří se zabývají monitoringem velkých šelem v ČR.
