@@ -19,6 +19,12 @@ Alku velkou (_Pinguinus impennis_) popsal v roce 1758 přírodovědec Carl Linna
 
 Alka velká byla vyhubena kvůli nadměrnému lovu pro peří, maso a tuk. Vzhledem k nelétavosti se stávala lehkou obětí často zbytečného vybíjení. Vymírání ještě urychlila sběratelská touha. Čím vzácnější alky velké byly, tím větší byl zájem o vypreparované jedince či vejce. Poslední prokazatelné pozorování hnízdícího páru pochází z roku 1844 z ostrovu Eldey u Islandu, kdy byly dva dospělí jedinci utlučeni holemi a vejce byla rozšlápnuta. Poslední žijící jedinec byl spatřen v roce 1852 u Newfoundlandu. Od té doby patří alka velká k vyhubeným živočichům a nadále se s ní můžete setkat pouze v muzeích nebo na ilustracích. Po celém světě se v muzeích zachovalo pouze 75 vajec, 24 kompletních vycpanin a 81 kožek. V Národním muzeu v Praze mají dvě alky velké – jednu dospělou a jedno odrostlé mládě. 
 
+_Kostra alky velké v muzeu Johna Huntera v Londýně (Hunterian Museum in London)_
+
+![](/media/alka_muzeum_ak_u_620.jpg)
+
+![](/media/alka_muzeum_620.jpg)
+
 Na základě studií mitochondriální DNA, morfologie i biogeografie bylo potvrzeno, že alka velká byla blízce příbuzná dnes žijící alce malé a alkounovi malému. Dříve byla řazena do rodu _Alca_, což se ovšem i přes blízkou příbuznost s alkou malou ukázalo jako neopodstatněné. 
 
 Na výšku dosahovala alka velká 75-85 cm a vážila až 5 kg. Zakrnělá křídla dosahovala délky pouhých 17-20 cm a nejdelší pera dorůstala 10 cm. 
