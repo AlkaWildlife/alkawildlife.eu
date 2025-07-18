@@ -47,7 +47,7 @@ Co loví tchoř stepní? Je specialistou na středně velké hlodavce. Výrazný
 
 
 
-Tchoři stepní žijí samotářsky, samci i samice. Dle výzkumů v zajetí se samice do říje dostávají na konci března a říje trvá až do úspěšného páření. Ve volné přírodě mají tchoři stepní mláďata jen jednou do roka. S pomocí fotopasti na jižní Moravě se podařilo natočit světově unikátní záběry páření těchto šelem ve volné přírodě. Vzhledem k tomu, že se jedná o naprosto jedinečné záběry reprodukčního chování, psali jsme o nich detailněji [zde](/fotopast-zachytila-páření-tchoře-stepního). 
+Tchoři stepní žijí samotářsky, samci i samice. Dle výzkumů v zajetí se samice do říje dostávají na konci března a říje trvá až do úspěšného páření. Ve volné přírodě mají tchoři stepní mláďata jen jednou do roka. S pomocí fotopasti na jižní Moravě se podařilo natočit světově unikátní záběry páření těchto šelem ve volné přírodě. Vzhledem k tomu, že se jedná o naprosto jedinečné záběry reprodukčního chování, psali jsme o nich detailněji [zde](/news/fotopast-zachytila-páření-tchoře-stepního). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YYbvk74Wt3s?si=MdC8KqN9bobjQHuo" frameborder="0" allowfullscreen=""></iframe>
 
