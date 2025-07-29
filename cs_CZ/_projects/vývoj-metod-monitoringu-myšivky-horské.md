@@ -28,7 +28,7 @@ description: >-
   nejobtížněji monitorovaných druhů savců. Cílem projektu je vytvoření metodiky
   pro detekci a monitoring tohoto druhu savce.
 ---
-## CÍLE
+# CÍLE
 
 Myšivka horská je v České republice silně ohroženým druhem, jehož výskyt je vázán na několik
 
