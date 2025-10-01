@@ -8,6 +8,8 @@ authors:
   - name: Kateřina Poledníková
   - name: Lukáš Poledník
 type: Vědecký článek
+tags:
+  - tchoř stepní
 journal: Příroda 49
 year: 2025
 lang:
