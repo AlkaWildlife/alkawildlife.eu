@@ -3,7 +3,7 @@ title: >-
   Synthetic debris ingestion by carnivorous mammals in aquatic ecosystems:
   insights from the Eurasian otter (Lutra lutra) in Europe
 published: true
-public: true
+public: false
 authors:
   - name: Álvaro Luna
   - name: David León Muez
