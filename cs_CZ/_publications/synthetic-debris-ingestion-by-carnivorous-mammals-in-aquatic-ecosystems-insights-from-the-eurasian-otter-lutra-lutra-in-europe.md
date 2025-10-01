@@ -20,6 +20,8 @@ authors:
   - name: Kateřina Poledníková
   - name: Fernando Mateos-González
 type: Vědecký článek
+tags:
+  - vydra říční
 journal: Environmental Research 286 (2)
 year: 2025
 lang: en
