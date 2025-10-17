@@ -38,4 +38,4 @@ Klíčové také je, aby byla krajina pro zvířata prostupná. Významnou bari�
 
 \[1]  Matka rysa B913, samice Surya, pochází z oblasti mezi Kašperskými Horami a Vacovem, na Hartmanicku se trvale usadila v roce 2020. Zde měla v květnu téhož roku svoje první kotě a od té doby se dosud rozmnožovala každoročně. V roce 2024 měla celkem 3 koťata a jedním z nich byl právě mladý kocour B913. Již několik jejích potomků se po osamostatnění v minulých letech vydalo na severozápad, ale zatím žádný z nich – kromě kocoura B913 – nedošel prokazatelně až do Brd.   
 
-****
+- - -
