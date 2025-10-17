@@ -14,7 +14,7 @@ layout: news
 ---
 Společná tisková zpráva AOPK ČR, Správy NP Šumava, ALKA Wildlife a Hnutí Duha Šelmy
 
-17. října 2025
+Dne 17. října 2025
 
 # V chráněné krajinné oblasti Brdy byl po letech opět zaznamenán rys ostrovid
 
