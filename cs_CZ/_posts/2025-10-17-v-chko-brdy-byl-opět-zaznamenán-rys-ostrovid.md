@@ -1,6 +1,6 @@
 ---
 title: V CHKO Brdy byl opět zaznamenán rys ostrovid
-published: false
+published: true
 image: /media/rys_brdy_620.jpg
 listing_thumbnail: /media/rys_brdy_274.jpg
 description: Mladého rysího samce zaznamenaly na jaře a v létě fotopasti v CHKO Brdy.
@@ -38,16 +38,4 @@ Klíčové také je, aby byla krajina pro zvířata prostupná. Významnou bari�
 
 \[1]  Matka rysa B913, samice Surya, pochází z oblasti mezi Kašperskými Horami a Vacovem, na Hartmanicku se trvale usadila v roce 2020. Zde měla v květnu téhož roku svoje první kotě a od té doby se dosud rozmnožovala každoročně. V roce 2024 měla celkem 3 koťata a jedním z nich byl právě mladý kocour B913. Již několik jejích potomků se po osamostatnění v minulých letech vydalo na severozápad, ale zatím žádný z nich – kromě kocoura B913 – nedošel prokazatelně až do Brd.   
 
-**Kontakty:**
-
-Karolína Šůlová, mluvčí Agentury ochrany přírody a krajiny ČR, e-mail: karolina.sulova@aopk.gov.cz, tel.:724 102 406 
-
-Kontakty: Bohumil Fišer, Agentura ochrany přírody a krajiny ČR, vedoucí Správy CHKO Brdy, e-mail: bohumil.fiser@aopk.gov.cz, tel.:724 204 129
-
-Elisa Belotti, oddělení zoologie Správy NP Šumava, e-mail: elisa.belotti@npsumava.cz, tel: 731530277
-
-Jan Dvořák, mluvčí Správy NP Šumava, e-mail: jan.dvorak@npsumava.cz, tel: 731530509
-
-Josefa Krausová, terénní pracovnice Hnutí DUHA Šelmy, e-mail: josefa.krausova@hnutiduha.cz, tel:. 775 734 434
-
-Tereza Mináriková, ALKA Wildlife, tel: 724 706 806, e-mail: tereza.minarikova@alkawildlife.eu
+****
