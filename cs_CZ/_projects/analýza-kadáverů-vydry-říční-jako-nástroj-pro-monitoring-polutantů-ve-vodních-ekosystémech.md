@@ -15,12 +15,19 @@ funding: |-
   ![](/media/1705564925_ppž2_300.jpg)
 from: 2025-01
 to: 2027-12
-partners: |-
-  Přírodovědecká fakulta Karlova Univerzita
+partners: >-
+  [Ústav pro životní prostředí  - Přírodovědecká fakulta Univerzity
+  Karlovy](https://natur.cuni.cz/zivotni-prostredi) (vedoucí partner)
+
 
   ALKA Wildlife, o.p.s.
 
-  Fakulta chemicko-technologická Univerzita Pardubice
+
+  [Fakulta chemicko-technologická Univerzita Pardubice](https://fcht.upce.cz/)
+
+
+  [Oblastní muzeum v Ústí nad Labem](https://www.muzeumusti.cz/) (neformální
+  partner)
 species: vydra říční
 tags:
   - vydra říční
@@ -43,8 +50,8 @@ Hlavním cílem projektu je vyvinout a otestovat novou metodiku hodnocení konta
 
 # Aktuality a výsledky
 
-[Věčná chemie na talíři  - Reportáž o tématu v pořadu NEDEJ SE České televize ](https://www.ceskatelevize.cz/porady/1095913550-nedej-se/225562248410025/?fbclid=IwY2xjawNjXhtleHRuA2FlbQIxMAABHsr1ejVDXDmsPs9U2VLTR8thz6d_KEJq8NI6YB-ZI0ql5FloAYstwNOFCP1R_aem_Hlt5oHrYPB_7vfTarLpMUA)
+TV reportáž: [Věčná chemie na talíři  - Reportáž o tématu v pořadu NEDEJ SE České televize ](https://www.ceskatelevize.cz/porady/1095913550-nedej-se/225562248410025/?fbclid=IwY2xjawNjXhtleHRuA2FlbQIxMAABHsr1ejVDXDmsPs9U2VLTR8thz6d_KEJq8NI6YB-ZI0ql5FloAYstwNOFCP1R_aem_Hlt5oHrYPB_7vfTarLpMUA)
 
-12.5.2025 [Uhynulé vydry odhalují znečištění řek ](/news/uhynulé-vydry-odhalují-znečištění-řek-vědci-žádají-o-pomoc-veřejnost)
+Tisková zpráva: 12.5.2025 [Uhynulé vydry odhalují znečištění řek ](/news/uhynulé-vydry-odhalují-znečištění-řek-vědci-žádají-o-pomoc-veřejnost)
 
-17.2.2025 [Hlaste vydry! Pomůžete s výzkumem](https://www.vydryonline.cz/news/hlaste-vydry-když-s-výzkumem-pomáhá-veřejnost)
+Výzva: 17.2.2025 [Hlaste vydry! Pomůžete s výzkumem](https://www.vydryonline.cz/news/hlaste-vydry-když-s-výzkumem-pomáhá-veřejnost)
