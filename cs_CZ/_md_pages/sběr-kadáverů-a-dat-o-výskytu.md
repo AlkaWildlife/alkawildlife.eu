@@ -4,8 +4,8 @@ published: true
 permalink: /monitoring
 description: >-
   Z celé ČR pro účely výzkumu a ochrany námi sledovaných druhů sbíráme kadávery
-  či data o vybraných druzích. Pomozte nám a dejte nám vědět o svém nálezu.
-  Instrukce ke sběru a hlášení zde.
+  (uhynulé jedince) či data o vybraných druzích. Pomozte nám a dejte nám vědět o
+  svém nálezu. Instrukce ke sběru a hlášení zde.
 position: 1
 layout: single_column_page
 lang_alternatives:
