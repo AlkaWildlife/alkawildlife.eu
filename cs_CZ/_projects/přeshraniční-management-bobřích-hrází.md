@@ -39,8 +39,6 @@ Odolnost krajiny a ekosystémů vůči změně klimatu závisí do značné mír
 
 [LETÁK O PROJEKTU (PDF)](/media/2024/BIBOB_Flyer_Oct2025.pdf)
 
-
-
 # Události:
 
 **BIBOB workshop**
@@ -52,3 +50,7 @@ Kde: Centrum přírodního parku Saské Švýcarsko, Bad Schandau
 Typ akce: Workshop
 
 Save the date! Náš první společný workshop v rámci projektu BIBOB se uskuteční ve čtvrtek 26. června 2025 v NaturparkZentrum Sächsische Schweiz v Bad Schandau. Společná příprava na něj jsou již v plném proudu. Informace týkající se programu a obsahu budou brzy následovat!
+
+## Krátké video o projektu
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWbF8tamSug?si=BP5T2RBfL2ZDgLif" frameborder="0" allowfullscreen=""></iframe>
