@@ -3,7 +3,7 @@ title: 'Přeshraniční management bobřích hrází '
 published: true
 subtitle: Přeshraniční management bobřích hrází v kontextu změny klimatu
 funding: |-
-  ![](/media/interreg_300.jpg)
+  ![](/media/interreg_620.jpg)
 
   [Interreg Česko - Sasko](https://www.sn-cz2027.eu/cz/)
 budget: |-
