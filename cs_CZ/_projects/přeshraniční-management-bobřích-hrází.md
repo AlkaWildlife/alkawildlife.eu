@@ -5,23 +5,31 @@ subtitle: Přeshraniční management bobřích hrází v kontextu změny klimatu
 funding: |-
   ![](/media/interreg_300.jpg)
 
-  Interreg Česko - Sasko
+  [Interreg Česko - Sasko](https://www.sn-cz2027.eu/cz/)
 budget: |-
   Finanční podpora EU (EFRR): 871.764,90 €
 
   z toho ALKA Wildlife 37 070, 74 €
 from: 2025-01
 to: 2027-12
-partners: |-
-  Technische Universität Dresden 
+partners: >-
+  [Technische Universität
+  Dresden](https://tu-dresden.de/bu/bauingenieurwesen/iwd/wasserbau/bibob/projekt) 
+
 
   ALKA Wildlife, o.p.s.
 
-  Landschaftspflegeverband Sächsische Schweiz-Osterzgebirge e.V.
 
-  Česká zemědělská univerzita v Praze
+  [Landschaftspflegeverband Sächsische Schweiz-Osterzgebirge
+  e.V.](https://www.lpv-osterzgebirge.de/index.php/-biber.html)
 
-  České vysoké učení technické v Praze
+
+  [Česká zemědělská univerzita v
+  Praze](https://www.fzp.czu.cz/cs/r-6899-projekty-a-spoluprace/r-6923-projekty/r-21274-bibob-preshranicni-management-bobrich-hrazi-v-kontextu-zmeny-klimatu/o-projektu.html)
+
+
+  [České vysoké učení technické v
+  Praze](https://storm.fsv.cvut.cz/projekty/bibob/?lang=cz)
 web: >-
   https://www.sn-cz2027.eu/cz/projekty/priorita-2-zmeny-klimatu-a-udrzitelnost/100743023_bibob
 species: bobr evropský
