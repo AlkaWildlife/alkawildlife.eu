@@ -4,8 +4,8 @@ published: true
 image: /media/polnisavci_620.jpg
 listing_thumbnail: /media/polnisavci_374.jpg
 description: >-
-  Používání rodenticidů v polích se uvolňuje. Co na to naši savci, kteří zde
-  žijí?
+  Pravidla pro používání rodenticidů v polích se uvolňují. Co na to naši savci,
+  kteří zde žijí?
 date: '2026-04-13'
 lang_alternatives:
   en_GB:
