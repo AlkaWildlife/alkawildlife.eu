@@ -22,7 +22,7 @@ Co jsou Stutox a Ratron? **Co jsou rodenticidy?** Rodenticidy jsou přípravky n
 
 ## Co na to savci, kteří žijí v našich polích, tak jako hraboši?
 
-V polní krajině žijí zajíci, srny, ježci a drobní hmyzožravci. Kromě hrabošů žijí v polích i další hlodavci jako myšivce, norníci, křeček polní, při krajích polí také sysel obecný. **Křeček polní** z naší krajiny rapidně mizí, a protože se tak děje i v celém areálu výskytu, je celosvětově kriticky ohroženým druhem! Kriticky ohrožený **sysel obecný** se v naší republice vyskytuje na posledních čtyřiceti lokalitách. Všichni tito hlodavci jsou rodenticidy ohroženi přímo! Návnadu budou žrát stejně jako hraboši, budou ji žrát na povrchu i v norách a stejně jako hraboši po jejich konzumaci uhynou. 
+V polní krajině žijí zajíci, srny, ježci a drobní hmyzožravci. Kromě hrabošů žijí v polích i další hlodavci jako myšice, norníci, křeček polní, při krajích polí také sysel obecný. **Křeček polní** z naší krajiny rapidně mizí, a protože se tak děje i v celém areálu výskytu, je celosvětově kriticky ohroženým druhem! Kriticky ohrožený **sysel obecný** se v naší republice vyskytuje na posledních čtyřiceti lokalitách. Všichni tito hlodavci jsou rodenticidy ohroženi přímo! Návnadu budou žrát stejně jako hraboši, budou ji žrát na povrchu i v norách a stejně jako hraboši po jejich konzumaci uhynou. 
 
 V polní krajině žije celá řada šelem, a hraboši jsou jejich kořistí!  V polích se na ně specializují kuna skalní, lasice kolčava i lasice hranostaj, tchoř tmavý, tchoř stepní, lišky a nepohrdne jimi ani jezevec. Šelmy jsou ohroženy takzvaně sekundárně, nebudou jíst přímo jedovaté granule, ale otráví se konzumací otrávené kořisti. Některé šelmy jsou náchylné na otravu o to více, že loví kořist v norách (kořist vyhrabávají, či ti nejmenší jako např. lasička jdou za kořistí do nor). Následně po redukci hlodavců jsou šelmy na nich závislé ještě ohroženy tím, že jim v naší krajině nakonec kořist chybí, na otrávených polích nemají co lovit. Reprodukční potenciál šelem je menší než hrabošů, populace šelem se obnovují mnohem pomaleji.
 
@@ -33,7 +33,5 @@ V polní krajině žije celá řada šelem, a hraboši jsou jejich kořistí!  V
 Jací savci žijí v našich polích? Jak vypadají? Podívejte se na naše video  - jedná se o záběry z fotopastí z naší zemědělské krajiny. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dCED1Veg3pI" frameborder="0" allowfullscreen=""></iframe>
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r3vhNfqoBZw" frameborder="0" allowfullscreen=""></iframe>
