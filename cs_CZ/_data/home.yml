@@ -17,21 +17,9 @@ links:
   - image: /media/vydristezky.jpg
     title: Vydří stezka
     url: 'http://bit.ly/vydristezky'
-  - image: /media/map_translynx_eu.jpg
-    title: Rysí mapa
-    url: 'http://bit.ly/translynxmap'
-  - image: /media/sysli_mapa.jpg
-    title: Syslí mapa
-    url: 'http://mapa.syslinavinici.cz/cs?layers'
   - image: /media/banner_bulletin_small_165.jpg
     title: Bulletin Vydra
     url: 'https://www.vydryonline.cz/ke-stazeni/bulletin-vydra'
-  - image: /media/vydrynasilnici.jpg
-    title: Vydry na silnici
-    url: 'http://www.vydrynasilnici.cz'
-  - image: /media/mapa_sokoli.jpg
-    title: Sokolí mapa
-    url: 'http://mapa.sokolinakominech.cz'
 mission:
   body: "# Mise\n\nNašim posláním je přispět objektivním výzkumem k\_efektivní, kvalitními odbornými\nznalostmi podložené ochraně a\_péči o\_volně žijící druhy živočichů."
 gallery:
