@@ -11,7 +11,7 @@ authors:
   - name: Fernando Mateos-González
 type: Scientific publication
 journal: 'Environmental Pollution 397: 127977'
-year: 2025
+year: 2026
 lang: en
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S0269749126003477'
 ---
