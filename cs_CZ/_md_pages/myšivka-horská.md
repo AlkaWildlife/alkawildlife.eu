@@ -85,10 +85,22 @@ Podle zákona č. 114/1992 Sb., o ochraně přírody a krajiny, a související 
 
 # Literatura
 
-Více si můžete přečíst v těchto našich [PUBLIKACÍCH](https://www.alkawildlife.eu/publications#category=my%C5%A1ivka-horsk%C3%A1).
-
-
+Více si můžete přečíst v těchto našich [ODBORNÝCH PUBLIKACÍCH](https://www.alkawildlife.eu/publications#category=my%C5%A1ivka-horsk%C3%A1).
 
 # Projekty
 
 Myšivky horské se týkají tyto [REALIZOVANÉ PROJEKTY](https://www.alkawildlife.eu/projects#category=my%C5%A1ivka-horsk%C3%A1).
+
+# Další články na tomto webu
+
+[Za myšivkou jedině v holinkách](https://www.alkawildlife.eu/news/za-my%C5%A1ivkou-jedin%C4%9B-v-holink%C3%A1ch)
+
+[S veřejností mapujeme myšky s proužkem už čtyři roky](https://www.alkawildlife.eu/news/s-ve%C5%99ejnost%C3%AD-mapujeme-my%C5%A1ky-s-prou%C5%BEkem-ji%C5%BE-4-roky)
+
+[Myšivka v Novohradských horách](https://www.alkawildlife.eu/news/my%C5%A1ivka-v-novohradsk%C3%BDch-hor%C3%A1ch)
+
+[Myšky s proužkem na zádech](https://www.alkawildlife.eu/news/my%C5%A1i-s-prou%C5%BEkem-na-z%C3%A1dech)
+
+[Hledali jsme myšivku a našli ji](https://www.alkawildlife.eu/news/hledali-jsme-my%C5%A1ivku-a-na%C5%A1li-ji)
+
+[Hledá se myška z doby ledové](https://www.alkawildlife.eu/news/hled%C3%A1-se-my%C5%A1ka-z-doby-ledov%C3%A9)
