@@ -2,7 +2,7 @@
 title: Myšivka horská
 published: true
 permalink: /zajmove-druhy/mysivka-horska
-image: /media/mysivka_01_620.jpg
+image: /media/sbet_angelica_gamle_jeroenvanderkooij_620.jpg
 description: Myšivka je jediným zástupcem tarbíků v České republice.
 listed: true
 position: 13
@@ -51,7 +51,7 @@ _Typické prostředí myšivky horské: prosvětlené horské lesy s dobře vyvi
 
 Myšivka je aktivní především v noci, ale lze ji spatřit i přes den. Zdržuje se na zemi a ve vysoké vegetaci, po které dokáže velmi dobře šplhat a velmi dobře skáče. Pro odpočinek si staví hnízdo ze suché vegetace pod kameny, mezi kořeny stromů, v dutinách pařezů či ztrouchnivělého ležícího dřeva. Mláďata mívá pouze jednou ročně, péče o mláďata probíhá v období květen až srpen, kojená jsou 4 až 5 týdnů. Ve vrhu je 2 až 6 mláďat. Od října do května přečkává zimu ve stavu pravé hibernace, pro toto období má akumulované tukové zásoby. Hibernaci přečkává stočená v klubíčku na suchém místě v hnízdě pod zemí.
 
-![](/media/myšivka_6_620.jpg)
+![](/media/sbet_angelica_jeroenvanderkooij_620.jpg)
 
 _Myšivka horská velmi dobře šplhá po bylinách s pomocí pětiprstých končetin a chápavého ocasu_
 
@@ -61,7 +61,7 @@ Myšivka je všežravec, převažuje bylinná strava. Myšivka se živí pupeny,
 
 _Plody keřů, například maliníku jsou potravou myšivky horské_
 
-![](/media/myšivka_vanderkooij_3_620.jpg)
+![](/media/sbet_ridae_jeroenvanderkooij_620.jpg)
 
 # Rozšíření
 
