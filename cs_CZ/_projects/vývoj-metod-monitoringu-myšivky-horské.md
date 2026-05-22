@@ -10,11 +10,22 @@ funding: |-
   ![](/media/1705564925_ppž2_300.jpg)
 from: 2025-03
 to: 2028-02
-partners: |-
-  ALKA Wildlife, o.p.s.
+partners: >-
+  **ALKA Wildlife, o.p.s.**
 
-  Univerzita Palackého v Olomouci, Přírodovědecká fakulta
-species: myšivka horská
+
+  řešitelský tým: Lukáš Poledník, Kateřina Poledníková, Jeroen van der Kooij
+
+
+  ****[**Univerzita Palackého v Olomouci, Přírodovědecká
+  fakulta**](https://www.prf.upol.cz/)****
+
+
+  řešitelský tým: Peter Adamík
+species: |-
+  myšivka horská (_Sicista betulina_)
+
+  ![](/media/sbet_angelica_jeroenvanderkooij_620.jpg)
 area: ''
 tags:
   - myšivka horská
@@ -43,3 +54,7 @@ a porovnatelných údajů o výskytu druhu v cílové lokalitě. Dalším cílem
 data o výskytu druhu a poskytnout je formou otevřeného přístupu státní správě a odborné
 
 veřejnosti.
+
+# Výstupy
+
+[časopis Jeseníky Rychlebské hory 2025/14: Na stopě jednomu z nejvzácnějších českých savců](https://www.jesrychle.cz/cislo-14-2025/)
