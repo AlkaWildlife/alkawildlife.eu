@@ -21,6 +21,10 @@ Správa Národního parku Podyjí zahájila realizaci projektu „**Zpátky na s
 
 Projekt navazuje na celostátní Záchranný program sysla obecného a představuje další významný krok v ochraně tohoto kriticky ohroženého druhu na jižní Moravě. Jeho hlavním cílem je obnovit funkční populaci sysla obecného na Podyjí prostřednictvím obnovy vhodných stanovišť a podpory přirozené migrace mezi jednotlivými koloniemi. Taková síť vzájemně propojených populací zvyšuje jejich genetickou rozmanitost a výrazně zlepšuje dlouhodobou stabilitu druhu v krajině.
 
+![](/media/sysel_uvod_620.jpg)
+
+_Sysel obecný (Spermophillus citellus) je kriticky ohroženým druhem_
+
 Hlavní aktivity projektu budou realizovány v území, které patří k nejcennějším stepním lokalitám Národního parku Podyjí. Zdejší krajina je výsledkem dlouhodobého soužití člověka a přírody. Mozaika vinic, sadů, pastvin, mezí a stepních trávníků vytváří podmínky pro výskyt řady vzácných a ohrožených druhů rostlin i živočichů.
 
 „_Sysel obecný je symbolem zachovalé stepní krajiny. Nestačí chránit jednotlivé kolonie, důležité je jejich propojení a podpora přirozené migrace. Právě vytvoření funkční metapopulace je hlavním cílem projektu. Současně tím podpoříme řadu dalších vzácných druhů a zachování jedinečného charakteru krajiny Havranicka a Hnanicka,_“ uvedl náměstek ředitele Správy NP Podyjí, Zdeněk Mačát.
@@ -32,6 +36,10 @@ Významnou součástí projektu bude také odborný monitoring populace sysla a 
 Sysel obecný byl ještě v minulém století běžnou součástí zemědělské krajiny teplých oblastí téměř celé České republiky. V důsledku změn hospodaření a úbytku vhodných stanovišť však z většiny území vymizel. Dnes je veden jako kriticky ohrožený druh. Jeho ochrana však není důležitá pouze pro samotného sysla. Jako typický obyvatel stepní krajiny je ukazatelem jejího dobrého stavu a ochrana jeho stanovišť prospívá celé řadě dalších vzácných druhů rostlin a živočichů.
 
 „_Sysel je ekosystémový druh, tedy druh který významně utváří charakter svého prostředí. Budováním nor vytváří prostředí pro drobné bezobratlé, kteří v norách žijí, okusem ovlivňuje skladbu rostlin, tvoří významnou kořist pro savčí i ptačí stepní predátory. Z tohoto pohledu považujeme za velmi důležité, že projekt na podporu populací sysla bude probíhat na stepních lokalitách národního parku,_“ vysvětluje zoolog ALKA Wildlife Kateřina Poledníková. 
+
+![](/media/sysel_step_2_620.jpg)
+
+_Sysel obecný ve svém přirozeném stepním prostředí u Havraníků._ 
 
 Přínosem projektu proto nebude pouze posílení populace sysla, ale také obnova cenných stepních biotopů, podpora biologické rozmanitosti a zachování charakteristického rázu krajiny východního okraje Podyjí. Součástí projektu budou rovněž vzdělávací a osvětové aktivity zaměřené na veřejnost, školy a návštěvníky regionu. Vzniknou nové informační materiály, návštěvníci budou mít příležitosti poznávat stepní krajinu prostřednictvím exkurzí a dobrovolnických akcí.  
 
