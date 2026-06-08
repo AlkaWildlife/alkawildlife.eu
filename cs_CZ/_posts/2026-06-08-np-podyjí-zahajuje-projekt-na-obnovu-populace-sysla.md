@@ -7,6 +7,7 @@ description: >-
   Nový projekt propojí obnovu stepní krajiny, podporu populace sysla obecného a
   udržitelné hospodaření na Havranicku a Hnanicku.
 date: '2026-06-08'
+logoset: Švýcarské fondy
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
