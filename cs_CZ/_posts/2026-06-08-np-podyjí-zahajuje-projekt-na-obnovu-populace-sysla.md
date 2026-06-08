@@ -29,6 +29,10 @@ Hlavní aktivity projektu budou realizovány v území, které patří k nejcenn
 
 „_Sysel obecný je symbolem zachovalé stepní krajiny. Nestačí chránit jednotlivé kolonie, důležité je jejich propojení a podpora přirozené migrace. Právě vytvoření funkční metapopulace je hlavním cílem projektu. Současně tím podpoříme řadu dalších vzácných druhů a zachování jedinečného charakteru krajiny Havranicka a Hnanicka,_“ uvedl náměstek ředitele Správy NP Podyjí, Zdeněk Mačát.
 
+![](/media/sysel_step_3_620.jpg)
+
+_Sysel obecný u Havraníků, kde se zachovala jedinečná krajina._ 
+
 Projekt chce propojit ochranu přírody s principy udržitelného zemědělského hospodaření v krajině. V průběhu následujících let budou obnovována a dlouhodobě ošetřována stepní a travnatá stanoviště, realizována opatření podporující migraci syslů mezi jednotlivými lokalitami a zajištěna péče o krajinu ve spolupráci s vlastníky pozemků, zemědělci a místními partnery. Cílem není vytvářet izolované lokality, ale funkční krajinu, ve které budou přírodní hodnoty a šetrné hospodaření dlouhodobě v rovnováze.
 
 Významnou součástí projektu bude také odborný monitoring populace sysla a průběžné vyhodnocování účinnosti jednotlivých opatření. Díky získaným poznatkům bude možné dlouhodobě zlepšovat péči o jednotlivé lokality a vytvářet podmínky pro stabilní vývoj populace. Na realizaci projektu se proto bude podílet i organizace ALKA Wildlife o.p.s., která se dlouhodobě věnuje ochraně sysla obecného, realizaci záchranného programu a odbornému monitoringu populací tohoto druhu v České republice.
