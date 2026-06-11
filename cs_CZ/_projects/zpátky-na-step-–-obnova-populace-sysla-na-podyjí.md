@@ -1,6 +1,6 @@
 ---
 title: Zpátky na step – obnova populace sysla na Podyjí
-published: false
+published: true
 registration_no: ' CH-V2-58'
 funding: |-
   Program Švýcarsko-české spolupráce
