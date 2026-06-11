@@ -32,6 +32,8 @@ Vyhodnotit dopad nı́zkého přežitı́ dospělých samic v okrajových 
 
 ## Výsledky projektu
 
+[Protected areas and hunting system affect the survival and longevity of adult female Eurasian lynx in a source– sink population / Mináriková T., Belotti E., Krausová J., Gahbauer M., Engleder T., Bednářová H., Poledníková K., Poledník L., Poláková S., Romportl D., Vojar J., Heurich M., Bufka L. / Conservation Science and Practice](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.70325)
+
 [Metodika monitoringu rysích rodin](https://www.mzp.cz/C1257458002F0DC7/cz/migrace_zivocichu_ochrana_velkych_selem/$FILE/odoimz-metodika_monitoringu_rysich_rodin-20250205.pdf) (metodika certifikovaná Ministerstvem životního prostředí) 
 
 Přežívání dospělých samic rysa ostrovida – výzkum hrozeb v jádru a na okraji šumavské populace (souhrnná výzkumná zpráva, pdf zašleme na vyžádání)
