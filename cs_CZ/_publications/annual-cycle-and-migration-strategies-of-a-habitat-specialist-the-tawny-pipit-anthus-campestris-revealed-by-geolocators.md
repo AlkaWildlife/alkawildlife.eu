@@ -10,6 +10,9 @@ authors:
   - name: Steffen Hahn
   - name: Peter Adamík
 type: Vědecký článek
+tags:
+  - linduška úhorní
+  - publikace pro odbornou veřejnost
 journal: 'Journal of Ornithology 157: 619-626'
 year: 2016
 lang: en
