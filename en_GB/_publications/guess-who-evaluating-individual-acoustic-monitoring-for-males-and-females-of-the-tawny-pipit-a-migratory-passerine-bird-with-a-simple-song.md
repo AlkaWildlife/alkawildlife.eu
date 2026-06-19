@@ -11,6 +11,8 @@ authors:
   - name: Adam Petrusek
   - name: Tereza Petrusková
 type: Scientific publication
+tags:
+  - Tawny pipit
 journal: Journal of Ornithology
 year: 2023
 lang: en
