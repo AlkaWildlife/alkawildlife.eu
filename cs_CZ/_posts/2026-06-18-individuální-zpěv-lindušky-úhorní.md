@@ -4,7 +4,7 @@ published: true
 image: /media/anthus_campestris_620.jpg
 listing_thumbnail: /media/anthus_campestris_274.jpg
 description: >-
-  Mezinárodní studie porovnávala zpět lindušek úhorních, které žijí i u nás na
+  Mezinárodní studie porovnávala zpěv lindušek úhorních, které žijí i u nás na
   Mostecku.
 date: '2026-03-18'
 lang_alternatives:
