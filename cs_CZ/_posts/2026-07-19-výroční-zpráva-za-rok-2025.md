@@ -4,7 +4,7 @@ published: true
 image: /media/alka_vyrocni_zprava_2025_final_stránka_01_620.jpg
 listing_thumbnail: /media/alka_vyrocni_zprava_2025_final_stránka_01_274.jpg
 description: 'Zajímá vás co vše jsme realizovali v roce 2025? '
-date: '2026-07-19'
+date: '2026-07-01'
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
