@@ -10,6 +10,8 @@ authors:
   - name: Ignacio G. Hermosell
   - name: Fernando Mateos-González
 type: Vědecký článek
+tags:
+  - znečištění
 journal: 'Environmental Pollution 397: 127977'
 year: 2026
 lang: en
