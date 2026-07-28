@@ -22,6 +22,7 @@ authors:
 type: Scientific publication
 tags:
   - Eurasian otter
+  - Pollution
 journal: Environmental Research 286 (2)
 year: 2025
 lang: en
