@@ -26,6 +26,8 @@ authors:
   - name: Bernardo Toledo
   - name: Armand Rausell-Moreno
 type: Scientific publication
+tags:
+  - Pollution
 journal: Science of the Total Environment
 year: 2024
 lang: en
