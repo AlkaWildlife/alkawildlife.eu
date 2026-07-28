@@ -32,6 +32,7 @@ species: vydra říční
 tags:
   - vydra říční
   - výzkum
+  - znečištění
 countries:
   - CZ
 logoset: TACR
