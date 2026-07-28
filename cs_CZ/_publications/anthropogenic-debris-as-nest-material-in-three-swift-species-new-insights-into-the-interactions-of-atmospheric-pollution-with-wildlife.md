@@ -27,6 +27,8 @@ authors:
   - name: Bernardo Toledo
   - name: Armand Rausell-Moreno
 type: Vědecký článek
+tags:
+  - znečištění
 journal: Science of the Total Environment
 year: 2024
 lang: en
