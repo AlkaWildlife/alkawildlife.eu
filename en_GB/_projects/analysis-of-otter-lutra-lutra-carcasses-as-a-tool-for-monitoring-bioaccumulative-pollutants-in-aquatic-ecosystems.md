@@ -13,6 +13,9 @@ from: 2025-01
 to: 2027-12
 partners: "Faculty of Science Charles University\r\n\n\r\n\n\r\n\n\r\n\nALKA Wildlife, o.p.s.\r\n\n\r\n\nFaculty of Chemical Technology University of Pardubice"
 species: Eurasina otter (Lutra lutra)
+tags:
+  - Eurasian otter
+  - Pollution
 countries:
   - CZ
 logoset: TACR
