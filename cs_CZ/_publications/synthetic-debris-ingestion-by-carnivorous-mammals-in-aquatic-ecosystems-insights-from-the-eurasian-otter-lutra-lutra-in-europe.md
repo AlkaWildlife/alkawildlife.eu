@@ -22,6 +22,7 @@ authors:
 type: Vědecký článek
 tags:
   - vydra říční
+  - znečištění
 journal: Environmental Research 286 (2)
 year: 2025
 lang: en
