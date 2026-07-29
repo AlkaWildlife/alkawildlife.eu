@@ -35,18 +35,18 @@ Zjištění vyvolávají vážné obavy ohledně širších environmentálních 
 
 Mnoho studií a zpráv se zabývá problémem konzumace plastů mořskými živočichy, což je celosvětový problém současnosti. V případě sladkovodních živočichů je informací méně. 
 
-Vydra říční je semiakvatická šelma, která obývá různá vodní a mokřadní prostředí Evropy. Vydra ve vrcholový predátor vod, živí se vodními živočichy, převážně rybami, významné jsou také žáby a raci. V rámci mezinárodní studie byl analyzován trus vyder sesbíraný v České republice, Rakousku, Španělsku a Holandsku. Mikroplasty byly zjištěny ve 23 % analyzovaných vzorků, přičemž nejčastější se jednalo o plastová vlákna. Podíl různých typů mikroplastů i množství se výrazně lišilo mezi státy. Autoři předpokládají, že hlavní zdroj mikroplastů v zažívací soustavě vyder je z potravy, tedy z vodních živočichů na nižší trofické úrovni. Jedná se o jednu z pilotních studií, která ukazuje potřebnost dalšího detailního výzkumu, který by měl být zaměřen na geografické rozdíly, faktory ovlivňující množství mikroplastů ve vodním prostředí, a na kvantifikaci bioakumulace v potravním řetězci. 
+Vydra říční je semiakvatická šelma, která obývá různá vodní a mokřadní prostředí Evropy. Vydra je vrcholový predátor vod, živí se vodními živočichy, převážně rybami, významné jsou také žáby a raci. V rámci mezinárodní studie byl analyzován trus vyder sesbíraný v České republice, Rakousku, Španělsku a Holandsku. Mikroplasty byly zjištěny ve 23 % analyzovaných vzorků, přičemž nejčastější se jednalo o plastová vlákna. Podíl různých typů mikroplastů i množství se výrazně lišilo mezi státy. Autoři předpokládají, že hlavní zdroj mikroplastů v zažívací soustavě vyder je z potravy, tedy z vodních živočichů na nižší trofické úrovni. Jedná se o jednu z pilotních studií, která ukazuje potřebnost dalšího detailního výzkumu, který by měl být zaměřen na geografické rozdíly, faktory ovlivňující množství mikroplastů ve vodním prostředí, a na kvantifikaci bioakumulace v potravním řetězci. 
 
 [Álvaro Luna a kolektiv (2025):  Synthetic debris ingestion by carnivorous mammals in aquatic ecosystems: insights from the Eurasian otter (Lutra lutra) in Europe ](https://www.sciencedirect.com/science/article/abs/pii/S0013935125020705)
 
 ![](/media/vydra_sber_trusu_620.jpg)
 
-
-
 Druhá studie se zaměřila na velmi vzácného drobného savce vychuchola pyrenejského. Vychuchol žije v drobných horských tocích pyrenejského ostrova, nikde jinde na světě nežije. Podobně jako u vyder, i v této studii byl analyzován trus těchto živočichů. 52 trusů bylo sesbíráno z pěti různých povodí. Antropogenní materiály byly identifikování v 32,7 % vzorků, přičemž nejběžnější byly textilní vlákna jako hedvábí, syntetické vlákna z přírodnin, i umělé vlákna. Podobně lze také předpokládat, že do zažívacího traktu vychucholů se tento materiál dostává převážně z potravy, což jsou v tomto případě vodní bezobratlí. Studie potvrzuje předpoklad, že i na pohled nedotčené horské toky jsou vystaveny riziku kontaminace. 
 
-[Álvaro Luna a kolektiv (2026): No refuge from pollution: ingestion of synthetic debris by the endangered Iberian desman (Galemys pyrenaicus) in freshwater ecosystems of Spain](https://www.sciencedirect.com/science/article/abs/pii/S0269749126003477)
+[Álvaro Luna a kolektiv (2026): No refuge from pollution: ingestion of synthetic debris by the endangered Iberian desman (Galemys pyrenaicus) in freshwater ecosystems of Spain
+](https://www.sciencedirect.com/science/article/abs/pii/S0269749126003477)
 
 ![](/media/plast_desman_620.jpg)
 
-[](https://www.sciencedirect.com/science/article/abs/pii/S0269749126003477)
+[
+](https://www.sciencedirect.com/science/article/abs/pii/S0269749126003477)
