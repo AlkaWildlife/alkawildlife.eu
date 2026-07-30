@@ -1,6 +1,6 @@
 ---
-title: Skalní sysli v národním parku Podyjí
-published: false
+title: Skalní sysli v Národním parku Podyjí
+published: true
 image: /media/1sequence-013_v_620.jpg
 listing_thumbnail: /media/1sequence-013_274.jpg
 description: V národním parku Podyjí žijí vzácní sysli v unikátním prostředí skal.
@@ -13,7 +13,7 @@ lang_alternatives:
 category: news
 layout: news
 ---
-V národním parku Podyjí žijí vzácní sysli v unikátním prostředí skal. V pastevní rezervaci exmorských koní, kde se usídlili v roce 2022, žijí sysli v suchých stráních protkaných skalními výchozy. 
+V Národním parku Podyjí žijí vzácní sysli v unikátním prostředí skal. V pastevní rezervaci exmorských koní, kde se usídlili v roce 2022, žijí sysli v suchých stráních protkaných skalními výchozy. 
 
 Sysel obecný je zemní veverka, aktivně si hrabe nory. V norách odpočívá, odchovává mláďata v prvních týdnech, schovává se v noře před predátory, před horkem a v období hibernace zde bezpečně v hlubokém spánku přežije pět až sedm měsíců. Nory jsou proto pro sysly domovem a jejich kvalita je pro ně životně důležitá.
 
@@ -31,7 +31,7 @@ Pozorování syslů také ukázalo, že skalnaté pahorky sysli využívají i j
 
 ![](/media/1sequence-0103_620.jpg)
 
-Takové prostředí je u nás v České republice unikátní. Kolonie syslů se u nás zachovaly především na travnatých letištích, sečených loukách, stepích Českého Středohoří či v záhumenkách vesnic jižní Moravy. Na některých lokalitách lze pozorovat sysly, kteří využili podobným způsobem antropogenní struktury jako např. vybetonované zápraží či jiné zpevněné plochy. Přirozené skalnaté prostředí, které je obýváno sysly, se ale nachází například u našich sousedů. V chráněné lokalitě Tisovský kras ve středním Slovensku se nachází kolonie syslů na pastvině krav, kde ze země vystupují drobné skalky. Zatímto v podyjské pastvině exmorských koní se jedná o žulové skalky, u Tisovce mají skály vápencový původ, tedy i jinou strukturu. Přesto sysli skalky využívají obdobně na obou lokalitách, také si pod nimi a v nich budují nory.
+Takové prostředí je u nás v České republice unikátní. Kolonie syslů se u nás zachovaly především na travnatých letištích, sečených loukách, stepích Českého středohoří či v záhumenkách vesnic jižní Moravy. Na některých lokalitách lze pozorovat sysly, kteří využili podobným způsobem antropogenní struktury jako např. vybetonované zápraží či jiné zpevněné plochy. Přirozené skalnaté prostředí, které je obýváno sysly, se ale nachází například u našich sousedů. V chráněné lokalitě Tisovský kras ve středním Slovensku se nachází kolonie syslů na pastvině krav, kde ze země vystupují drobné skalky. Zatímco v podyjské pastvině exmorských koní se jedná o žulové skalky, u Tisovce mají skály vápencový původ, tedy i jinou strukturu. Přesto sysli skalky využívají obdobně na obou lokalitách, také si pod nimi a v nich budují nory.
 
 ![](/media/1sequence-01029_620.jpg)
 
