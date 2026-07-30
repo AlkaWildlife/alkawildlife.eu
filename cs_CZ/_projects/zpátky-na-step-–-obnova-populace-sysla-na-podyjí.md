@@ -6,8 +6,6 @@ funding: |-
   Program Švýcarsko-české spolupráce
 
   Udržitelný turismus a posílení biodiverzity
-
-  ![](/media/2chb_czechrepublic_cz_pos_rgb.png)
 budget: "Celkový rozpočet projektu pro oba partnery: 5 mil. Kč\r\n\nVýše podpory: 4,5 mil. Kč"
 from: 2026-04
 to: 2028-10
