@@ -11,27 +11,15 @@ links:
   - image: /media/vydryonline.jpg
     title: Otter web
     url: 'http://bit.ly/vydryonlineEN'
-  - image: /media/vydrynasilnici.jpg
-    title: Otters on the road
-    url: 'http://bit.ly/vydrynasilnici'
   - image: /media/vydristezky.jpg
     title: Otter trail
     url: 'http://bit.ly/vydristezky'
-  - image: /media/map_translynx_eu.jpg
-    title: Lynx map
-    url: 'http://bit.ly/translynxmap'
   - image: /media/banner_bulletin_small_165.jpg
     title: Bulletin Vydra
     url: 'https://en.vydryonline.cz/library/bulletin-vydra'
   - image: /media/web_sokoli_165.jpg
     title: Falcon web
     url: 'https://sokolinakominech.cz/'
-  - image: /media/mapa_sokoli.jpg
-    title: Falcon map
-    url: 'http://mapa.sokolinakominech.cz'
-  - image: /media/sysli_mapa.jpg
-    title: Souslik map
-    url: 'http://mapa.syslinavinici.cz'
 mission:
   body: >-
     # Our Mission
@@ -55,10 +43,8 @@ other:
   body: |-
     # Follow us
 
-    [![](/media/facebook_logo.png)](http://bit.ly/alkawildlifeFB)
+    [![](/media/facebook_logo.png)](https://www.facebook.com/AlkaWildlife/)
 
-    [![](/media/instagram-icon.png)](http://bit.ly/alkawildlifeIN)
+    [![](/media/instagram-icon.png)](https://www.instagram.com/alkawildlife/)
 
-    [![](/media/youtube.png)](http://bit.ly/alkawildlifeYT)
-
-    [![](/media/twitterlogo.png)](http://bit.ly/alkawildlifeTW)
+    [![](/media/youtube.png)](https://www.youtube.com/user/alkawildlife)
