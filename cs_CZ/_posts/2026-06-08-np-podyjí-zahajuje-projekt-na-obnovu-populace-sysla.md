@@ -7,7 +7,7 @@ description: >-
   Nový projekt propojí obnovu stepní krajiny, podporu populace sysla obecného a
   udržitelné hospodaření na Havranicku a Hnanicku.
 date: '2026-06-08'
-logoset: Švýcarské fondy
+logoset: ''
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
@@ -48,3 +48,5 @@ _Sysel obecný ve svém přirozeném stepním prostředí u Havraníků._
 Přínosem projektu proto nebude pouze posílení populace sysla, ale také obnova cenných stepních biotopů, podpora biologické rozmanitosti a zachování charakteristického rázu krajiny východního okraje Podyjí. Součástí projektu budou rovněž vzdělávací a osvětové aktivity zaměřené na veřejnost, školy a návštěvníky regionu. Vzniknou nové informační materiály, návštěvníci budou mít příležitosti poznávat stepní krajinu prostřednictvím exkurzí a dobrovolnických akcí.  
 
 Projekt „Zpátky na step – obnova populace sysla na Podyjí“, CH-V2-58 je financován z Programu švýcarsko-české spolupráce v rámci programu Udržitelný turismus a posílení biodiverzity. Výše dotace je 4,5 mil. Kč, což představuje 90 % celkových způsobilých výdajů. Celkový rozpočet projektu činí 5 mil. Kč
+
+![](/media/2chb_czechrepublic_cz_pos_rgb_300.png)
