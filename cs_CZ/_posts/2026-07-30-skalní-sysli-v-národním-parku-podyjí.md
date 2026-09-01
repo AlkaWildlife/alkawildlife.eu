@@ -36,3 +36,7 @@ Takové prostředí je u nás v České republice unikátní. Kolonie syslů se 
 ![](/media/1sequence-01029_620.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzMNH26AMTE?si=1SfbB_Edo2xW9h-S" frameborder="0" allowfullscreen=""></iframe>
+
+Financováno z Programu švýcarsko - české spolupráce.
+
+![](/media/2chb_czechrepublic_cz_pos_rgb_300.png)
