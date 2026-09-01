@@ -5,7 +5,7 @@ image: /media/1sequence-013_v_620.jpg
 listing_thumbnail: /media/1sequence-013_274.jpg
 description: V Národním parku Podyjí žijí vzácní sysli v unikátním prostředí skal.
 date: '2026-07-30'
-logoset: Švýcarské fondy
+logoset: ''
 lang_alternatives:
   en_GB:
     permalink: en.alkawildlife.eu
