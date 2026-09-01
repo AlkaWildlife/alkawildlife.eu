@@ -6,6 +6,8 @@ funding: |-
   Program Švýcarsko-české spolupráce
 
   Udržitelný turismus a posílení biodiverzity
+
+  ![](/media/2chb_czechrepublic_cz_pos_rgb_300.png)
 budget: "Celkový rozpočet projektu pro oba partnery: 5 mil. Kč\r\n\nVýše podpory: 4,5 mil. Kč"
 from: 2026-04
 to: 2028-10
@@ -25,7 +27,7 @@ tags:
   - management
 countries:
   - CZ
-logoset: Švýcarské fondy
+logoset: ''
 description: >-
   Projekt je zaměřen na dlouhodobé zlepšení podmínek pro výskyt sysla obecného v
   Národním parku Podyjí a jeho ochranném pásmu.
