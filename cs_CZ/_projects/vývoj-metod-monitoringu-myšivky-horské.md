@@ -43,19 +43,7 @@ description: >-
 ---
 # CÍLE
 
-Myšivka horská je v České republice silně ohroženým druhem, jehož výskyt je vázán na několik
-
-málo izolovaných horských populací a dosud je to jeden z nejobtížněji monitorovaných druhů
-
-savců. Cílem projektu je vytvoření metodiky pro detekci a monitoring tohoto druhu savce. Za
-
-použití moderní techniky plánujeme definovat postupy k získání standardizovaných, objektivních
-
-a porovnatelných údajů o výskytu druhu v cílové lokalitě. Dalším cílem je získat aktualizovaná
-
-data o výskytu druhu a poskytnout je formou otevřeného přístupu státní správě a odborné
-
-veřejnosti.
+Myšivka horská je v České republice silně ohroženým druhem, jehož výskyt je vázán na několik málo izolovaných horských populací a dosud je to jeden z nejobtížněji monitorovaných druhů savců. Cílem projektu je vytvoření metodiky pro detekci a monitoring tohoto druhu savce. Za použití moderní techniky plánujeme definovat postupy k získání standardizovaných, objektivních a porovnatelných údajů o výskytu druhu v cílové lokalitě. Dalším cílem je získat aktualizovaná data o výskytu druhu a poskytnout je formou otevřeného přístupu státní správě a odborné veřejnosti.
 
 # Výstupy
 
