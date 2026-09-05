@@ -17,8 +17,10 @@ partners: >-
   řešitelský tým: Lukáš Poledník, Kateřina Poledníková, Jeroen van der Kooij
 
 
-  ****[**Univerzita Palackého v Olomouci, Přírodovědecká
-  fakulta**](https://www.prf.upol.cz/)****
+
+
+  [Univerzita Palackého v Olomouci, Přírodovědecká
+  fakulta](https://www.prf.upol.cz)
 
 
   řešitelský tým: Peter Adamík
@@ -26,7 +28,7 @@ species: |-
   myšivka horská (_Sicista betulina_)
 
   ![](/media/sbet_angelica_jeroenvanderkooij_620.jpg)
-area: ''
+area: areál druhu
 tags:
   - myšivka horská
   - výzkum
@@ -57,4 +59,6 @@ veřejnosti.
 
 # Výstupy
 
-[časopis Jeseníky Rychlebské hory 2025/14: Na stopě jednomu z nejvzácnějších českých savců](https://www.jesrychle.cz/cislo-14-2025/)
+[článek v časopise Jeseníky Rychlebské hory 2025/14: Na stopě jednomu z nejvzácnějších českých savců](https://www.jesrychle.cz/cislo-14-2025/)
+
+[článek v časopise Naše příroda 2026 / 4: Myšivka horská - tarbík z doby ledové žije v našich horách](https://www.nasepriroda.cz/)
